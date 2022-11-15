@@ -1,0 +1,717 @@
+instansi,reference,status
+"Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",Kemenko Polhukam,yes
+"Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",Polhukam,yes
+"Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",Koordinator Politik,no
+"Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",Koordinator Hukum,no
+Kementerian Koperasi dan Usaha Kecil dan Menengah,Kementrian Koperasi dan UKM,yes
+Kementerian Koperasi dan Usaha Kecil dan Menengah,KemenkopUKM,yes
+Kementerian Koperasi dan Usaha Kecil dan Menengah,UKM,no
+Kementerian Koperasi dan Usaha Kecil dan Menengah,Usaha Kecil dan Menengah,no
+Kementerian Luar Negeri,Kemlu,yes
+Kementerian Luar Negeri,Kemlu RI,yes
+Kementerian Luar Negeri,Luar Negeri,no
+Kementerian Luar Negeri,Kementrian Dalam Negeri,no
+Kementerian Badan Usaha Milik Negara,Kementrian BUMN,yes
+Kementerian Badan Usaha Milik Negara,Kemen BUMN,yes
+Kementerian Badan Usaha Milik Negara,BUMN,no
+Kementerian Badan Usaha Milik Negara,Badan Usaha Milik Negara,no
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),PANRB,yes
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),Kemen PANRB,yes
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),Aparatur Negara,no
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),Aparatur Sipil Negara,no
+Kementerian Pariwisata dan Ekonomi Kreatif,Kemenparekraf,yes
+Kementerian Pariwisata dan Ekonomi Kreatif,Kemenparekraf RI,yes
+Kementerian Pariwisata dan Ekonomi Kreatif,Dinas Pariwisata dan Kebudayaan Kota Bogor,no
+Kementerian Pariwisata dan Ekonomi Kreatif,Dinas Kebudayaan dan Pariwisata Kota Bandung,no
+Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR),Kemen PUPR,yes
+Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR),Kemen PUPR RI,yes
+Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR),Dinas Pekerjaan Umum dan Perumahan Rakyat Pemerintah Kota Pontiakan,no
+Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR),Dinas Perumahan Rakyat Dan Kawasan Permukiman Provinsi Jawa Tengah,no
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Kemen PPPA,yes
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Kementrian PP & PA,yes
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Pemberdayaan Perempuan,no
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Komisi Perlindungan Anak Indonesia,no
+Kementerian Pemuda dan Olahraga,Kemenpora,yes
+Kementerian Pemuda dan Olahraga,Kemenpora RI,yes
+Kementerian Pemuda dan Olahraga,Dinas Pemuda dan Olahraga Kalimantan Selatan,no
+Kementerian Pemuda dan Olahraga,Dinas Pemuda dan Olahraga Pemerintah Kota Padang,no
+"Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",Kemendikbudristek,yes
+"Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",Kemdikbud,yes
+"Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",Jasa Pendidikan,no
+"Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",Badan Riset dan Inovasi Nasional,no
+Kementerian Perdagangan,Kemendag,yes
+Kementerian Perdagangan,Kemendag RI,yes
+Kementerian Perdagangan,Perdangangan,no
+Kementerian Perdagangan,Dinas Perindustrian dan Perdagangan Provinsi Sumatera Barat,no
+Kementerian Perencanaan Pembangunan Nasional (PPN)/Badan Perencanaan Pembangunan Nasional (Bappenas),Kementrian PPN/Bappenas,yes
+Kementerian Perencanaan Pembangunan Nasional (PPN)/Badan Perencanaan Pembangunan Nasional (Bappenas),Bappenas,yes
+Kementerian Perencanaan Pembangunan Nasional (PPN)/Badan Perencanaan Pembangunan Nasional (Bappenas),"PT Bank Pembangunan Daerah Jawa Barat dan Banten, Tbk.",no
+Kementerian Perencanaan Pembangunan Nasional (PPN)/Badan Perencanaan Pembangunan Nasional (Bappenas),Politeknik Pembangunan Pertanian Malang,no
+Kementerian Perhubungan,Kemenhub,yes
+Kementerian Perhubungan,Kemenhub RI,yes
+Kementerian Perhubungan,Perhubungan,no
+Kementerian Perhubungan,Dinas Perhubungan Kota Semarang,no
+Kementerian Perindustrian,Kemenperin,yes
+Kementerian Perindustrian,Kemenperin RI,yes
+Kementerian Perindustrian,Industri,no
+Kementerian Perindustrian,PT Perindustrian Bapak Djenggot,no
+Kementerian Pertahanan,Kemhan,yes
+Kementerian Pertahanan,Departemen Pertahanan,yes
+Kementerian Pertahanan,Badan Pertahanan Nasional,no
+Kementerian Pertahanan,Universitas Pertahanan,no
+Kementerian Pertanian,Kementan,yes
+Kementerian Pertanian,Kementan RI,yes
+Kementerian Pertanian,Pertanian,no
+Kementerian Pertanian,Institut Pertanian Bogor,no
+Kementerian Sekretariat Negara,Kemensetneg,yes
+Kementerian Sekretariat Negara,Setneg RI,yes
+Kementerian Sekretariat Negara,Sekretariat Daerah,no
+Kementerian Sekretariat Negara,Divisi Sekretarian Perusahaan,no
+Kementerian Sosial,Kemensos,yes
+Kementerian Sosial,Kemensos RI,yes
+Kementerian Sosial,Badan Penyelenggara Jaminan Sosial Ketenagakerjaan,no
+Kementerian Sosial,Badan Penyelenggara Jaminan Sosial Kesehatan (BPJS Kesehatan),no
+Badan Pemeriksa Keuangan (BPK),BPK,yes
+Badan Pemeriksa Keuangan (BPK),Badan Pemeriksa Keuangan,yes
+Badan Pemeriksa Keuangan (BPK),BPKP,no
+Badan Pemeriksa Keuangan (BPK),Kementerian Keuangan,no
+Dewan Perwakilan Daerah (DPD),DPD,yes
+Dewan Perwakilan Daerah (DPD),Anggota Dewan Perwakilan Daerah,yes
+Dewan Perwakilan Daerah (DPD),Dewan Perwakilan Rakyat,no
+Dewan Perwakilan Daerah (DPD),Dewan Perwakilan Rakyat Daerah,no
+Dewan Perwakilan Rakyat (DPR),Anggota DPR,yes
+Dewan Perwakilan Rakyat (DPR),Anggota Dewan Perwakilan Rakyat,yes
+Dewan Perwakilan Rakyat (DPR),SKK Migas Perwakilan Jawa Timur,no
+Dewan Perwakilan Rakyat (DPR),Dewan Perwakilan Daerah (DPD),no
+Komisi Yudisial,KY,yes
+Komisi Yudisial,Komisi Yudisial (KY),yes
+Komisi Yudisial,Anggota DPR RI Komisi IX,no
+Komisi Yudisial,Komisi Penyiaran Indonesia,no
+Mahkamah Agung (MA),Mahkamah Agung,yes
+Mahkamah Agung (MA),MA,yes
+Mahkamah Agung (MA),Universitas Sultan Agung Tirtayasa,no
+Mahkamah Agung (MA),Mahkamah Konstitusi,no
+Mahkamah Konstitusi (MK),Mahkamah Konstitusi,yes
+Mahkamah Konstitusi (MK),MK,yes
+Mahkamah Konstitusi (MK),Mahkamah Agung,no
+Mahkamah Konstitusi (MK),Mahkamah Internasional,no
+Majelis Permusyawaratan Rakyat (MPR),MPR,yes
+Majelis Permusyawaratan Rakyat (MPR),Majelis Permusyawaratan Rakyat,yes
+Majelis Permusyawaratan Rakyat (MPR),Koordinator PMPR,no
+Majelis Permusyawaratan Rakyat (MPR),Majelis Ulama Indonesia,no
+Badan Informasi Geospasial (BIG),Badan Informasi Geospasial,yes
+Badan Informasi Geospasial (BIG),BIG,yes
+Badan Informasi Geospasial (BIG),Badan Riset and Inovasi Nasional,no
+Badan Informasi Geospasial (BIG),Badan Tenaga Nuklir Nasional,no
+Badan Kepegawaian Negara (BKN),Kanreg VI BKN Medan,yes
+Badan Kepegawaian Negara (BKN),Kantor Regional XIV BKN Manokwari,yes
+Badan Kepegawaian Negara (BKN),Badan Kepegawaian Daerah,no
+Badan Kepegawaian Negara (BKN),Direktorat Kepegawaian,no
+Badan Intelijen Negara (BIN),BIN,yes
+Badan Intelijen Negara (BIN),Badan Intelijen Negara,yes
+Badan Intelijen Negara (BIN),"PT Perusahaan Gas Negara (Persero), Tbk",no
+Badan Intelijen Negara (BIN),Sekolah Tinggi Intelijen Negara,no
+Badan Keamanan Laut (Bakamla),Badan Keamanan Laut,yes
+Badan Keamanan Laut (Bakamla),Bakamla,yes
+Badan Keamanan Laut (Bakamla),Kementrian Kelautan dan Perikanan,no
+Badan Keamanan Laut (Bakamla),Badan Keamanan Rakyat,no
+Badan Kependudukan Dan Keluarga Berencana Nasional (BKKBN),BKKBN,yes
+Badan Kependudukan Dan Keluarga Berencana Nasional (BKKBN),BKKBN Provinsi Sulawesi Utara,yes
+Badan Kependudukan Dan Keluarga Berencana Nasional (BKKBN),Bank BRI Kantor Cabang BKKBN,no
+Badan Kependudukan Dan Keluarga Berencana Nasional (BKKBN),Keluarga Berencana,no
+Badan Koordinasi Penanaman Modal (BKPM),Kementrian Investasi/BKPM,yes
+Badan Koordinasi Penanaman Modal (BKPM),Kementrian Investasi,yes
+Badan Koordinasi Penanaman Modal (BKPM),BBKPM Surakarta,no
+Badan Koordinasi Penanaman Modal (BKPM),Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu,no
+Badan Meteorologi Klimatologi Dan Geofisika (BMKG),Badan Meteorologi Klimatologi Dan Geofisika,yes
+Badan Meteorologi Klimatologi Dan Geofisika (BMKG),BMKG Papua,yes
+Badan Meteorologi Klimatologi Dan Geofisika (BMKG),Departemen Teknik Geofisika,no
+Badan Meteorologi Klimatologi Dan Geofisika (BMKG),Departemen Geofisika & Meteorologi,no
+Badan Narkotika Nasional (BNN),BNN Kota Bengkulu,yes
+Badan Narkotika Nasional (BNN),Badan Narkotika Nasional Provinsi Jawa Barat,yes
+Badan Narkotika Nasional (BNN),Badan Search And Rescue Nasional,no
+Badan Narkotika Nasional (BNN),Badan Nasional Sertifikasi Profesi,no
+Badan Nasional Penanggulangan Bencana (BNPB),BNPB Provinsi Jawa Barat,yes
+Badan Nasional Penanggulangan Bencana (BNPB),Badan Nasional Penanggulangan Bencana Provinsi Jawa Barat,yes
+Badan Nasional Penanggulangan Bencana (BNPB),Badan Penanggulangan Bencana Daerah,no
+Badan Nasional Penanggulangan Bencana (BNPB),Badan Penanggulangan Bencana Daerah Kabupaten Pacitan,no
+Badan Nasional Penanggulangan Terorisme (BNPT),Badan Nasional Penanggulangan Terorisme Kabupaten Bekasi ,yes
+Badan Nasional Penanggulangan Terorisme (BNPT),BNPT Kota Bogor,yes
+Badan Nasional Penanggulangan Terorisme (BNPT),Badan Nasional Penanggulangan Bencana,no
+Badan Nasional Penanggulangan Terorisme (BNPT),Badan Nasional Pengelola Perbatasan,no
+Badan Pelindungan Pekerja Migran Indonesia,BP2MI,yes
+Badan Pelindungan Pekerja Migran Indonesia,BP2MI Jawa Barat,yes
+Badan Pelindungan Pekerja Migran Indonesia,Purna Pekerja Migran Indonesia,no
+Badan Pelindungan Pekerja Migran Indonesia,Pekerja Migran Indonesia,no
+Badan Pengawas Obat Dan Makanan (BPOM),BPOM Kabupaten Bogor,yes
+Badan Pengawas Obat Dan Makanan (BPOM),Badan POM,yes
+Badan Pengawas Obat Dan Makanan (BPOM),Toko Obat Inafut 1,no
+Badan Pengawas Obat Dan Makanan (BPOM),Badan Pengawasan Keuangan dan Pembangunan,no
+Badan Pengawas Pemilihan Umum (Bawaslu),Badan Pengawas Pemilu,yes
+Badan Pengawas Pemilihan Umum (Bawaslu),Inspektur Utama Badan Pengawas Pemilihan Umum,yes
+Badan Pengawas Pemilihan Umum (Bawaslu),Komisi Pemilihan Umum,no
+Badan Pengawas Pemilihan Umum (Bawaslu),Panitia Pemilihan Umum,no
+Badan Pengawas Tenaga Nuklir (Bapeten),Bapeten,yes
+Badan Pengawas Tenaga Nuklir (Bapeten),Badan Pengawas Tenaga Nuklir,yes
+Badan Pengawas Tenaga Nuklir (Bapeten),Badan Tenaga Nuklir Nasional,no
+Badan Pengawas Tenaga Nuklir (Bapeten),Badan Tenaga Atom Internasional,no
+Badan Pengawasan Keuangan Dan Pembangunan (BPKP),BPKP,yes
+Badan Pengawasan Keuangan Dan Pembangunan (BPKP),Perwakilan BPKP Provinsi Sulawesi Barat,yes
+Badan Pengawasan Keuangan Dan Pembangunan (BPKP),Badan Pengelola Keuangan Haji (BPKH),no
+Badan Pengawasan Keuangan Dan Pembangunan (BPKP),Badan Pengawasan Mahkamah Agung,no
+Badan Pengkajian Dan Penerapan Teknologi (BPPT),BPPT,yes
+Badan Pengkajian Dan Penerapan Teknologi (BPPT),Perwakilan BPPT,yes
+Badan Pengkajian Dan Penerapan Teknologi (BPPT),"Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",no
+Badan Pengkajian Dan Penerapan Teknologi (BPPT),"Badan Pengkajian Kebijakan, Iklim, dan Mutu Industri",no
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,Badan Pengusahaan Batam (BP Batam),yes
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,BP Batam,yes
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,Pemerintah Kota Batam,no
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,Universitas Batam,no
+Badan Pusat Statistik (BPS),BPS Provinsi Sulawesi Utara,yes
+Badan Pusat Statistik (BPS),Badan Pusat Statistik Provinsi Bali,yes
+Badan Pusat Statistik (BPS),BPSDM,no
+Badan Pusat Statistik (BPS),Badan Standardisasi Nasional (BSN),no
+Badan Search And Rescue Nasional (Basarnas),Badan SAR Nasional (Basarnas),yes
+Badan Search And Rescue Nasional (Basarnas),Badan Nasional Pencarian dan Pertolongan (BNPP),yes
+Badan Search And Rescue Nasional (Basarnas),Badan Nasional Penanggulangan Bencana,no
+Badan Search And Rescue Nasional (Basarnas),Badan Standardisasi Nasional (BSN),no
+Badan Siber dan Sandi Negara (BSSN),BSSN,yes
+Badan Siber dan Sandi Negara (BSSN),Badan Siber dan Sandi Negara,yes
+Badan Siber dan Sandi Negara (BSSN),PT Beritakota Media Siber (Beritakota.id),no
+Badan Siber dan Sandi Negara (BSSN),Universitas Siber Asia,no
+Badan Standardisasi Nasional (BSN),Badan Standardisasi Nasional,yes
+Badan Standardisasi Nasional (BSN),BSN,yes
+Badan Standardisasi Nasional (BSN),Standard Chartered Indonesia,no
+Badan Standardisasi Nasional (BSN),Badan Search And Rescue Nasional (Basarnas),no
+Badan Tenaga Nuklir Nasional (BATAN),Badan Tenaga Nuklir Nasional,yes
+Badan Tenaga Nuklir Nasional (BATAN),BATAN,yes
+Badan Tenaga Nuklir Nasional (BATAN),Badan Pengawas Tenaga Nuklir,no
+Badan Tenaga Nuklir Nasional (BATAN),Badan Standardisasi Nasional (BSN),no
+Dewan Ketahanan Nasional (Wantannas),Dewan Ketahanan Nasional,yes
+Dewan Ketahanan Nasional (Wantannas),Wantannas,yes
+Dewan Ketahanan Nasional (Wantannas),Lembaga Ketahanan Nasional (Lemhannas),no
+Dewan Ketahanan Nasional (Wantannas),Dewan Nasional Perubahan Iklim,no
+Kejaksaan Republik Indonesia,Kejaksaan Negeri Kota Kediri,yes
+Kejaksaan Republik Indonesia,Kejaksaaan Tinggi Provinsi Jawa Tengah,yes
+Kejaksaan Republik Indonesia,Komisi Kejaksaan Republik Indonesia,no
+Kejaksaan Republik Indonesia,Kepolisian Negara Republik Indonesia Resor Kota Pontianak,no
+Kepolisian Negara Republik Indonesia,Kepolisian Negara Republik Indonesia Resor Kota Pontianak,yes
+Kepolisian Negara Republik Indonesia,Kepolisian Daerah Provinsi DI Yogyakarta,yes
+Kepolisian Negara Republik Indonesia,Perum Percetakan Negara Republik Indonesia (PNRI),no
+Kepolisian Negara Republik Indonesia,Ombudsman Republik Indonesia,no
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Komisi Nasional HAM,yes
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Komnas HAM,yes
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Kementerian Hukum dan Hak Asasi Manusia,no
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Direktorat Fasilitasi dan Informasi HAM,no
+Komisi Pemberantasan Korupsi (KPK),Komisi Pemberantasan Korupsi,yes
+Komisi Pemberantasan Korupsi (KPK),KPK,yes
+Komisi Pemberantasan Korupsi (KPK),KPKNL,no
+Komisi Pemberantasan Korupsi (KPK),Komisi Pemilihan Umum,no
+Komisi Pemilihan Umum (KPU),KPU Kabupaten Memberamo Raya,yes
+Komisi Pemilihan Umum (KPU),Komisi Pemilihan Umum Kabupaten Fakfak,yes
+Komisi Pemilihan Umum (KPU),KPU BC Tipe C Soekarno Hatta,no
+Komisi Pemilihan Umum (KPU),KPU BC Tipe B Batam,no
+Komisi Pengawas Persaingan Usaha (KPPU),Komisi Pengawas Persaingan Usaha RI,yes
+Komisi Pengawas Persaingan Usaha (KPPU),KPPU RI,yes
+Komisi Pengawas Persaingan Usaha (KPPU),Pelaku Usaha di Surabaya,no
+Komisi Pengawas Persaingan Usaha (KPPU),Komisi Pengawas Advokat,no
+Lembaga Administrasi Negara (LAN),Lembaga Administrasi Negara,yes
+Lembaga Administrasi Negara (LAN),LAN RI,yes
+Lembaga Administrasi Negara (LAN),Jurusan Administrasi Negara,no
+Lembaga Administrasi Negara (LAN),Sekolah Tinggi Ilmu Administrasi Lembaga Administrasi Negara,no
+Lembaga Ilmu Pengetahuan Indonesia (LIPI),Lembaga Ilmu Pengetahuan Indonesia,yes
+Lembaga Ilmu Pengetahuan Indonesia (LIPI),Perwakilan Lembaga Ilmu Pengetahuan Indonesia,yes
+Lembaga Ilmu Pengetahuan Indonesia (LIPI),Lembaga Pembiayaan Ekspor Indonesia,no
+Lembaga Ilmu Pengetahuan Indonesia (LIPI),Akademi Ilmu Pengetahuan Indonesia,no
+Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP),Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah,yes
+Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP),LKPP RI,yes
+Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP),PT Jasa Raharja (Persero),no
+Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP),Lembaga Sertifikasi Profesi Pengadaan Indonesia,no
+Lembaga Ketahanan Nasional (Lemhanas),Lembaga Ketahanan Nasional,yes
+Lembaga Ketahanan Nasional (Lemhanas),Lemhannas RI,yes
+Lembaga Ketahanan Nasional (Lemhanas),Dewan Ketahanan Nasional (Wantannas),no
+Lembaga Ketahanan Nasional (Lemhanas),Lembaga Penerbangan Dan Antariksa Nasional (Lapan),no
+Lembaga Penerbangan Dan Antariksa Nasional (Lapan),Lembaga Penerbangan dan Antariksa Nasional,yes
+Lembaga Penerbangan Dan Antariksa Nasional (Lapan),Lapan,yes
+Lembaga Penerbangan Dan Antariksa Nasional (Lapan),Perum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia (LPPNPI),no
+Lembaga Penerbangan Dan Antariksa Nasional (Lapan),Lembaga Ketahanan Nasional (Lemhanas),no
+Lembaga Penyiaran Publik TVRI,LPP TVRI,yes
+Lembaga Penyiaran Publik TVRI,Lembaga Penyiaran Publik,yes
+Lembaga Penyiaran Publik TVRI,Komisi Penyiaran Indonesia,no
+Lembaga Penyiaran Publik TVRI,Penyiaran Multimedia Vokasi,no
+Ombudsman Republik Indonesia (ORI),Ombudsman Republik Indonesia,yes
+Ombudsman Republik Indonesia (ORI),Ombudsman RI,yes
+Ombudsman Republik Indonesia (ORI),Perpustakaan Nasional Republik Indonesia,no
+Ombudsman Republik Indonesia (ORI),Ombudsman Malaysia,no
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Perpustakaan Nasional RI,yes
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Perpustakaan Nasional Republik Indonesia,yes
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Dinas Perpustakaan,no
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Perpustakaan Jakarta Cikini,no
+Pusat Pelaporan Dan Analisis Transaksi Keuangan (PPATK),Pusat Pelaporan Dan Analisis Transaksi Keuangan,yes
+Pusat Pelaporan Dan Analisis Transaksi Keuangan (PPATK),PPATK,yes
+Pusat Pelaporan Dan Analisis Transaksi Keuangan (PPATK),Pusat Analisis dan Harmonisasi Kebijakan,no
+Pusat Pelaporan Dan Analisis Transaksi Keuangan (PPATK),Pusat Pelaporan dan Pembinaan Keuangan Kemhan RI,no
+Sekretariat Kabinet,Sekretariat Kabinet Republik Indonesia,yes
+Sekretariat Kabinet,Setkab,yes
+Sekretariat Kabinet,Sekretariat Daerah Kabupaten Klaten,no
+Sekretariat Kabinet,Sekretariat Direktorat Jenderal Pajak,no
+Arsip Nasional Republik Indonesia (ANRI),ANRI,yes
+Arsip Nasional Republik Indonesia (ANRI),Arsip Nasional RI,yes
+Arsip Nasional Republik Indonesia (ANRI),Perpustakaan Nasional Republik Indonesia,no
+Arsip Nasional Republik Indonesia (ANRI),Dinas Arsip dan Perpustakaan,no
+Tentara Nasional Indonesia (TNI),TNI Angkatan Udara,yes
+Tentara Nasional Indonesia (TNI),Inspektorat Jenderal TNI,yes
+Tentara Nasional Indonesia (TNI),PT Pelayaran Nasional Indonesia (Persero) (Pelni),no
+Tentara Nasional Indonesia (TNI),Komite Olahraga Nasional Indonesia,no
+Komisi Aparatur Sipil Negara (KASN),KASN RI,yes
+Komisi Aparatur Sipil Negara (KASN),Komisi Aparatur Sipil Negara RI,yes
+Komisi Aparatur Sipil Negara (KASN),Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),no
+Komisi Aparatur Sipil Negara (KASN),Deputi Bidang Kebijakan Pengembangan Kompetensi Aparatur Sipil Negara,no
+Badan Nasional Sertifikasi Profesi (BNSP),BNSP Republik Indonesia,yes
+Badan Nasional Sertifikasi Profesi (BNSP),Badan Nasional Sertifikasi Profesi Republik Indonesia,yes
+Badan Nasional Sertifikasi Profesi (BNSP),Badan Nasional Penanggulangan Bencana (BNPB),no
+Badan Nasional Sertifikasi Profesi (BNSP),Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia (BNP2TKI),no
+Badan Pengatur Hilir Minyak Dan Gas Bumi (BPH Migas),Badan Pengatur Hilir Minyak dan Gas Bumi,yes
+Badan Pengatur Hilir Minyak Dan Gas Bumi (BPH Migas),BPH Migas,yes
+Badan Pengatur Hilir Minyak Dan Gas Bumi (BPH Migas),SKK Migas,no
+Badan Pengatur Hilir Minyak Dan Gas Bumi (BPH Migas),Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi,no
+Dewan Pertimbangan Presiden (Wantimpres),Dewan Pertimbangan Presiden Republik Indonesia,yes
+Dewan Pertimbangan Presiden (Wantimpres),Wantimpres RI,yes
+Dewan Pertimbangan Presiden (Wantimpres),Dewan Perwakilan Rakyat,no
+Dewan Pertimbangan Presiden (Wantimpres),Dewan Presiden Subang National Golf Club,no
+Komisi Kejaksaan Republik Indonesia,KKRI,yes
+Komisi Kejaksaan Republik Indonesia,Komisi Kejaksaan RI,yes
+Komisi Kejaksaan Republik Indonesia,Kejaksaan Republik Indonesia,no
+Komisi Kejaksaan Republik Indonesia,Komisi Kebenaran dan Rekonsiliasi,no
+Komisi Penyiaran Indonesia (KPI),Komisi Penyiaran Indonesia Pusat,yes
+Komisi Penyiaran Indonesia (KPI),Komisi Penyiaran Indonesia Daerah,yes
+Komisi Penyiaran Indonesia (KPI),Lembaga Penyiaran Publik,no
+Komisi Penyiaran Indonesia (KPI),Komisi Kejaksaan Republik Indonesia,no
+Lembaga Perlindungan Saksi Dan Korban (LPSK),LPSK RI,yes
+Lembaga Perlindungan Saksi Dan Korban (LPSK),Lembaga Perlindungan Saksi dan Korban RI,yes
+Lembaga Perlindungan Saksi Dan Korban (LPSK),Lembaga Perlindungan Konsumen Swadaya Masyarakat,no
+Lembaga Perlindungan Saksi Dan Korban (LPSK),Lembaga Otoritas Perlindungan Data Pribadi,no
+Pemerintah Kabupaten Kepulauan Seribu,Pemkab Kepulauan Seribu,yes
+Pemerintah Kabupaten Kepulauan Seribu,Pemerintah Kab. Kepulauan Seribu,yes
+Pemerintah Kabupaten Kepulauan Seribu,Pemerintah Kabupaten Kepulauan Yapen,no
+Pemerintah Kabupaten Kepulauan Seribu,Pemerintah Kabupaten Kepulauan Anambas,no
+Pemerintah Kota Jakarta Barat,Pemkot Jakarta Barat,yes
+Pemerintah Kota Jakarta Barat,Pemerintah Kota Adminsitrasi Jakarta Barat,yes
+Pemerintah Kota Jakarta Barat,Pemerintah Kota Jakarta Timur,no
+Pemerintah Kota Jakarta Barat,Pemerintah Kota Jakarta Pusat,no
+Pemerintah Kota Jakarta Pusat,Pemkot Jakarta Pusat,yes
+Pemerintah Kota Jakarta Pusat,Pemerintah Kota Administrasi Jakarta Pusat,yes
+Pemerintah Kota Jakarta Pusat,Pemerintah Kota Jakarta Barat,no
+Pemerintah Kota Jakarta Pusat,Pemerintah Kota Jakarta Timur,no
+Pemerintah Kota Jakarta Selatan,Pemkot Jakarta Selatan,yes
+Pemerintah Kota Jakarta Selatan,Pemerintah Kota Administrasi Jakarta Selatan,yes
+Pemerintah Kota Jakarta Selatan,Pemerintah Kota Jakarta Pusat,no
+Pemerintah Kota Jakarta Selatan,Pemerintah Kota Jakarta Barat,no
+Pemerintah Kota Jakarta Timur,Pemkot Jakarta Timur,yes
+Pemerintah Kota Jakarta Timur,Pemerintah Kota Administrasi Jakarta Timur,yes
+Pemerintah Kota Jakarta Timur,Pemerintah Kota Jakarta Selatan,no
+Pemerintah Kota Jakarta Timur,Pemerintah Kota Jakarta Pusat,no
+Pemerintah Kota Jakarta Utara,Pemkot Jakarta Utara,yes
+Pemerintah Kota Jakarta Utara,Pemerintah Kota Administrasi Jakarta Utara,yes
+Pemerintah Kota Jakarta Utara,Pemerintah Kota Jakarta Timur,no
+Pemerintah Kota Jakarta Utara,Pemerintah Kota Jakarta Pusat,no
+Pemerintah Provinsi DKI Jakarta,Pemprov DKI Jakarta,yes
+Pemerintah Provinsi DKI Jakarta,Pemerintah Provinsi Daerah Khusus Ibukota Jakarta,yes
+Pemerintah Provinsi DKI Jakarta,Pemerintah Provinsi Jawa Barat,no
+Pemerintah Provinsi DKI Jakarta,Pemerintah Provinsi Bali,no
+Perum Bulog,Perum Bulog Kanwil Kaltim & Kaltara,yes
+Perum Bulog,Perum Bulog Kabupaten Probolinggo,yes
+Perum Bulog,Perum Peruri,no
+Perum Bulog,Perum DAMRI,no
+Perum DAMRI,Perusahaan Umum DAMRI,yes
+Perum DAMRI,Perum DAMRI UABK Bandung,yes
+Perum DAMRI,Perum Bulog,no
+Perum DAMRI,Perum Peruri,no
+PT Jaminan Kredit Indonesia (Jamkrindo),PT Jamkrindo,yes
+PT Jaminan Kredit Indonesia (Jamkrindo),PT Jamkrindo Cabang Bandung,yes
+PT Jaminan Kredit Indonesia (Jamkrindo),PT Asuransi Kredit Indonesia (Persero),no
+PT Jaminan Kredit Indonesia (Jamkrindo),PT Kredit Pintar Indonesia,no
+Perum Jasa Tirta I,Jasa Tirta,yes
+Perum Jasa Tirta I,Jasa Tirta I,yes
+Perum Jasa Tirta I,Jasa Tirta II,no
+Perum Jasa Tirta I,Jasa Tirta 2,no
+Perum Jasa Tirta II,Jasa Tirta II,yes
+Perum Jasa Tirta II,Jasa Tirta 2,yes
+Perum Jasa Tirta II,Jasa Tirta I,no
+Perum Jasa Tirta II,Jasa Tirta,no
+Perum Kehutanan Negara (Perhutani),Perum Perhutani KPH Bandung Utara,yes
+Perum Kehutanan Negara (Perhutani),Perum Perhutani Divisi Regional Jawa Barat dan Banten,yes
+Perum Kehutanan Negara (Perhutani),Perum Produksi Film Negara (PFN),no
+Perum Kehutanan Negara (Perhutani),Perum Percetakan Negara ,no 
+Perum Lembaga Kantor Berita Nasional Antara (LKBN Antara),Lembaga Kantor Berita Nasional Antara Biro Jawa Barat,yes
+Perum Lembaga Kantor Berita Nasional Antara (LKBN Antara),Perum LKBN Antara,yes
+Perum Lembaga Kantor Berita Nasional Antara (LKBN Antara),Perum Pembangunan Perumahan Nasional (Perumnas),no
+Perum Lembaga Kantor Berita Nasional Antara (LKBN Antara),Kantor Perum DAMRI,no
+Perum Pembangunan Perumahan Nasional (Perumnas),Perusahaan Umum Pembangunan Perumahan Nasional,yes
+Perum Pembangunan Perumahan Nasional (Perumnas),Perum Perumnas,yes
+Perum Pembangunan Perumahan Nasional (Perumnas),Perum Lembaga Kantor Berita Nasional Antara (LKBN Antara),no
+Perum Pembangunan Perumahan Nasional (Perumnas),Konsumen Perumahan Nasional,no
+Perum Pengangkutan Penumpang Djakarta (PPD),Perum PPD,yes
+Perum Pengangkutan Penumpang Djakarta (PPD),Perusahaan Umum Pengangkutan Penumpang Djakarta,yes
+Perum Pengangkutan Penumpang Djakarta (PPD),Pengangkutan Penumpang,no
+Perum Pengangkutan Penumpang Djakarta (PPD),Dinas Perumahan Rakyat dan Permukiman Provinsi DKI Jakarta,no
+Perum Percetakan Negara Republik Indonesia (PNRI),Perum PNRI,yes
+Perum Percetakan Negara Republik Indonesia (PNRI),Perusahaan Umum Percetakan Negara Republik Indonesia,yes
+Perum Percetakan Negara Republik Indonesia (PNRI),Perum Percetakan Uang Republik Indonesia (Peruri),no
+Perum Percetakan Negara Republik Indonesia (PNRI),Perum Kehutanan Negara (Perhutani),no
+Perum Percetakan Uang Republik Indonesia (Peruri),Perum Peruri,yes
+Perum Percetakan Uang Republik Indonesia (Peruri),Peruri,yes
+Perum Percetakan Uang Republik Indonesia (Peruri),Perum Percetakan Negara Republik Indonesia (PNRI),no
+Perum Percetakan Uang Republik Indonesia (Peruri),Perum Perikanan Indonesia,no
+Perum Produksi Film Negara (PFN),Perum PFN,yes
+Perum Produksi Film Negara (PFN),Perusahaan Umum Produksi Film Negara,yes
+Perum Produksi Film Negara (PFN),Perum Kehutanan Negara (Perhutani),no
+Perum Produksi Film Negara (PFN),Perum Percetakan Negara Republik Indonesia (PNRI),no
+"PT Adhi Karya (Persero), Tbk.",PT Adhi Karya,yes
+"PT Adhi Karya (Persero), Tbk.",Adhi Karya,yes
+"PT Adhi Karya (Persero), Tbk.",PT Amarta Karya (Persero),no
+"PT Adhi Karya (Persero), Tbk.",PT Karya Solusi Prima Sejahtera,no
+PT Amarta Karya (Persero),PT AMKA,yes
+PT Amarta Karya (Persero),Amarta Karya,yes
+PT Amarta Karya (Persero),PT Adhi Karya (Persero),no
+PT Amarta Karya (Persero),PT Karya Solusi Prima Sejahtera,no
+PT Angkasa Pura I (Persero),Angkasa Pura,yes
+PT Angkasa Pura I (Persero),AP1,yes
+PT Angkasa Pura I (Persero),Angkasa Pura II,no
+PT Angkasa Pura I (Persero),Angkasa Pura 2,no
+PT Angkasa Pura II (Persero),Angkasa Pura 2,yes
+PT Angkasa Pura II (Persero),AP2,yes
+PT Angkasa Pura II (Persero),Angkasa Pura,no
+PT Angkasa Pura II (Persero),PT Angkasa Pura,no
+PT Asabri,PT Asabri (Persero),yes
+PT Asabri,Perseta Asabri Pensiunan Polri,yes
+PT Asabri,PT Amarta Karya (Persero),no
+PT Asabri,PT Asahimas Flat Glass,no
+PT Asdp Indonesia Ferry (Persero),PT ASDP Ferry Indonesia,yes
+PT Asdp Indonesia Ferry (Persero),ASDP,yes
+PT Asdp Indonesia Ferry (Persero),PT Asuransi Jasa Indonesia (Persero),no
+PT Asdp Indonesia Ferry (Persero),PT Ferry Sonneville,no
+PT Asuransi Jasa Indonesia (Persero),Asuransi Jasindo,yes
+PT Asuransi Jasa Indonesia (Persero),Asuransi Jasa Indonesia,yes
+PT Asuransi Jasa Indonesia (Persero),PT Asuransi Jasa Raharja (Persero),no
+PT Asuransi Jasa Indonesia (Persero),PT Asuransi Jiwasraya (Persero),no
+PT Asuransi Jiwasraya (Persero),Asuransi Jiwasraya,yes
+PT Asuransi Jiwasraya (Persero),Jiwasraya,yes
+PT Asuransi Jiwasraya (Persero),PT Asuransi Jasa Indonesia (Persero),no
+PT Asuransi Jiwasraya (Persero),PT Asuransi Kredit Indonesia (Persero),no
+PT Asuransi Kredit Indonesia (Persero),Askrindo,yes
+PT Asuransi Kredit Indonesia (Persero),PT Askrindo,yes
+PT Asuransi Kredit Indonesia (Persero),PT Asuransi Jasa Indonesia (Persero),no
+PT Asuransi Kredit Indonesia (Persero),PT Asuransi Jiwasraya (Persero),no
+PT Bahana Pembinaan Usaha Indonesia (Persero),Indonesia Financial Group (IFG),yes
+PT Bahana Pembinaan Usaha Indonesia (Persero),BPUI,yes
+PT Bahana Pembinaan Usaha Indonesia (Persero),PT Bahana Sekuritas,no
+PT Bahana Pembinaan Usaha Indonesia (Persero),PT Bahana Selaras,no
+"PT Bank Mandiri (Persero), Tbk.",Bank Mandiri,yes
+"PT Bank Mandiri (Persero), Tbk.",Bank Mandiri Cihampelas,yes
+"PT Bank Mandiri (Persero), Tbk.",PT Sentral Utama Teknikal Mandiri,no
+"PT Bank Mandiri (Persero), Tbk.",PT Bank Central Asia Tbk,no
+"PT Bank Negara Indonesia (Persero), Tbk. (BNI)",Bank BNI Kantor Cabang Karawang,yes
+"PT Bank Negara Indonesia (Persero), Tbk. (BNI)",BNI 46,yes
+"PT Bank Negara Indonesia (Persero), Tbk. (BNI)",Bank Rakyat Indonesia,no
+"PT Bank Negara Indonesia (Persero), Tbk. (BNI)",Bank Tabungan Negara,no
+"PT Bank Rakyat Indonesia (Persero), Tbk. (BRI)",Bank Rakyat Indonesia Cabang Sintang,yes
+"PT Bank Rakyat Indonesia (Persero), Tbk. (BRI)",Bank BRI Unit Prambanan,yes
+"PT Bank Rakyat Indonesia (Persero), Tbk. (BRI)",Bank Negara Indonesia,no
+"PT Bank Rakyat Indonesia (Persero), Tbk. (BRI)",Bank Indonesia,no
+PT Bank Tabungan Negara (Persero) (BTN),Bank BTN Jayapura,yes
+PT Bank Tabungan Negara (Persero) (BTN),BTN Pluit,yes
+PT Bank Tabungan Negara (Persero) (BTN),Bank Negara Indonesia,no
+PT Bank Tabungan Negara (Persero) (BTN),PT Bank Tabungan Pensiunan Nasional,no
+PT Barata Indonesia (Persero),Barata Indonesia,yes
+PT Barata Indonesia (Persero),PT Barata Indonesia,yes
+PT Barata Indonesia (Persero),PT Bank Rakyat Indonesia,no
+PT Barata Indonesia (Persero),PT Barata Guna Perkasa,no
+PT Berdikari (Persero),Berdikari,yes
+PT Berdikari (Persero),PT Berdikari,yes
+PT Berdikari (Persero),PT Bio Farma,no
+PT Berdikari (Persero),PT Bersama Zatta Jaya,no
+PT Bhanda Ghara Reksa (Persero),PT BGR Logistik Indonesia,yes
+PT Bhanda Ghara Reksa (Persero),BGR,yes
+PT Bhanda Ghara Reksa (Persero),PT Danareksa (Persero),no
+PT Bhanda Ghara Reksa (Persero),PT Bhakti Multi Artha Tbk,no
+PT Bina Karya (Persero),Bina Karya,yes
+PT Bina Karya (Persero),Bina Karya Persero,yes
+PT Bina Karya (Persero),SMK S SWA Bina Karya,no
+PT Bina Karya (Persero),PT Bina Karya Prima,no
+PT Bio Farma,PT Bio Farma Bandung,yes
+PT Bio Farma,Bio Farma,yes
+PT Bio Farma,PT Kimia Farma,no
+PT Bio Farma,PT Farma Sevaka Nusantara,no
+PT Biro Klasifikasi Indonesia (Persero),BKI,yes
+PT Biro Klasifikasi Indonesia (Persero),PT Biro Klasifikasi Indonesia (Persero) Cabang Cirebon,yes
+PT Biro Klasifikasi Indonesia (Persero),Biro Perencanaan DPR RI,no
+PT Biro Klasifikasi Indonesia (Persero),PT Biro Teknik Sinar Baru,no
+PT Boma Bisma Indra (Persero),BBI,yes
+PT Boma Bisma Indra (Persero),PT Boma Bisma Indra (Persero) Cabang Jakarta,yes
+PT Boma Bisma Indra (Persero),PT Boma Tirta Prima,no
+PT Boma Bisma Indra (Persero),PT Bisma Putra Persada,no
+PT Brantas Abipraya (Persero),Brantas Abipraya,yes
+PT Brantas Abipraya (Persero),Kantor Pusat PT Brantas Abipraya (Persero),yes
+PT Brantas Abipraya (Persero),Kereta api Brantas,no
+PT Brantas Abipraya (Persero),PT Abishar Technologies Indonesia,no
+PT Dahana (Persero),Dahana,yes
+PT Dahana (Persero),PT Dahana Subang,yes
+PT Dahana (Persero),Gor Dahana,no
+PT Dahana (Persero),PT Dahana Berlian Motor,no
+PT Dana Tabungan Dan Asuransi Pegawai Negeri / Taspen (Persero),PT Taspen (Persero),yes
+PT Dana Tabungan Dan Asuransi Pegawai Negeri / Taspen (Persero),PT Taspen KC Bengkulu,yes
+PT Dana Tabungan Dan Asuransi Pegawai Negeri / Taspen (Persero),Bank Mandiri Taspen,no
+PT Dana Tabungan Dan Asuransi Pegawai Negeri / Taspen (Persero),Bank Tabungan Pensiunan Nasional,no
+PT Danareksa (Persero),Danareksa,yes
+PT Danareksa (Persero),PT Danareksa,yes
+PT Danareksa (Persero),PT Bhanda Ghara Reksa (Persero),no
+PT Danareksa (Persero),Bareksa,no
+PT Dirgantara Indonesia (Persero),PTDI,yes
+PT Dirgantara Indonesia (Persero),PT Dirgantara Indonesia,yes
+PT Dirgantara Indonesia (Persero),PT Dirgantara Yudha Artha,no
+PT Dirgantara Indonesia (Persero),PT Garuda Indonesia,no
+PT Djakarta Lloyd (Persero),Djakarta Lloyd,yes
+PT Djakarta Lloyd (Persero),PT Djakarta Lloyd,yes
+PT Djakarta Lloyd (Persero),Perum Pengangkutan Penumpang Djakarta (PPD),no
+PT Djakarta Lloyd (Persero),PT Jakarta Propertindo,no
+"PT Garuda Indonesia (Persero), Tbk.",Garuda Indonesia,yes
+"PT Garuda Indonesia (Persero), Tbk.",PT Garuda Indonesia,yes
+"PT Garuda Indonesia (Persero), Tbk.",PT Garuda Metalindo,no
+"PT Garuda Indonesia (Persero), Tbk.",PT Garuda Mart Indonesia,no
+PT Dok Dan Perkapalan Kodja Bahari (Persero),PT DKB,yes
+PT Dok Dan Perkapalan Kodja Bahari (Persero),Dok dan Perkapalan Kodja Bahari,yes
+PT Dok Dan Perkapalan Kodja Bahari (Persero),PT Dok dan Perkapalan Surabaya (Persero),no
+PT Dok Dan Perkapalan Kodja Bahari (Persero),PT Bahari Eka Nusantara,no
+PT Energy Management Indonesia,Emipersero,yes
+PT Energy Management Indonesia,PT EMI,yes
+PT Energy Management Indonesia,Indonesia Energy Corporation,no
+PT Energy Management Indonesia,PT Indika Energy,no
+PT Garam,Garam,yes
+PT Garam,PT Garam (Persero),yes
+PT Garam,PT Gudang Garam Tbk,no
+PT Garam,PT Garam Nusantara Lestari,no
+PT Geodipa Energi,Geo Dipa Energi,yes
+PT Geodipa Energi,PT Geo Dipa Energi (Persero),yes
+PT Geodipa Energi,Geo Energy Group,no
+PT Geodipa Energi,PT Geotekindo,no
+PT Hotel Indonesia Natour (Persero),PT HIN,yes
+PT Hotel Indonesia Natour (Persero),Inna Hotels and Resorts,yes
+PT Hotel Indonesia Natour (Persero),Hotel Indonesia Kempinski Jakarta,no
+PT Hotel Indonesia Natour (Persero),Hotel Indonesia,no
+PT Hutama Karya (Persero),Hutama Karya,yes
+PT Hutama Karya (Persero),HK,yes
+PT Hutama Karya (Persero),PT Karya Utamaputra Mandiri,no
+PT Hutama Karya (Persero),PT Karya Putra Nusantara Perkasa,no
+PT Indah Karya (Persero),Indah Karya,yes
+PT Indah Karya (Persero),PT Indah Karya,yes
+PT Indah Karya (Persero),PT Indra Karya (Persero),no
+PT Indah Karya (Persero),PT Hutama Karya,no
+PT Indonesia Asahan Alumunium (Inalum),PT Inalum,yes
+PT Indonesia Asahan Alumunium (Inalum),PT Indonesia Asahan Aluminium (Persero),yes
+PT Indonesia Asahan Alumunium (Inalum),PT Daiki Aluminium Industry Indonesia,no
+PT Indonesia Asahan Alumunium (Inalum),PT Aluminium Karya Abadi,no
+PT Indra Karya (Persero),Indra Karya,yes
+PT Indra Karya (Persero),PT Indra Karya,yes
+PT Indra Karya (Persero),PT Indah Karya (Persero),no
+PT Indra Karya (Persero),PT Hutama Karya (Persero),no
+PT Industri Kapal Indonesia (Persero),PT IKI (Persero),yes
+PT Industri Kapal Indonesia (Persero),Industri Kapal Indonesia,yes
+PT Industri Kapal Indonesia (Persero),PT Industri Kereta Api (Persero),no
+PT Industri Kapal Indonesia (Persero),PT Industri Nuklir Indonesia (Persero),no
+PT Industri Nuklir Indonesia (Persero),PT INUKI (Persero),yes
+PT Industri Nuklir Indonesia (Persero),Industri Nuklir Indonesia,yes
+PT Industri Nuklir Indonesia (Persero),PT Industri Kapal Indonesia (Persero),no
+PT Industri Nuklir Indonesia (Persero),PT Industri Baterai Indonesia,no
+PT Industri Sandang Nusantara (Persero),PT ISN (Persero),yes
+PT Industri Sandang Nusantara (Persero),Industri Sandang Nusantara,yes
+PT Industri Sandang Nusantara (Persero),PT Bio Industri Nusantara,no
+PT Industri Sandang Nusantara (Persero),PT Industri Nusantara Sejahtera Abadi,no
+PT Industri Telekomunikasi Indonesia (Persero),PT INTI (Persero),yes
+PT Industri Telekomunikasi Indonesia (Persero),INTI,yes
+PT Industri Telekomunikasi Indonesia (Persero),PT Industri Nuklir Indonesia (Persero),no
+PT Industri Telekomunikasi Indonesia (Persero),PT Industri Kapal Indonesia (Persero),no
+PT Istaka Karya (Persero),Istaka Karya,yes
+PT Istaka Karya (Persero),PT Istaka Karya,yes
+PT Istaka Karya (Persero),PT Indra Karya (Persero),no
+PT Istaka Karya (Persero),PT Indah Karya (Persero),no
+PT Jakarta Industrial Estate Pulogadung,Jiep Ecogreen,yes
+PT Jakarta Industrial Estate Pulogadung,PT JIEP,yes
+PT Jakarta Industrial Estate Pulogadung,Balai Diklat Industri Jakarta,no
+PT Jakarta Industrial Estate Pulogadung,Hotel Orchardz Industri Jakarta,no
+"PT Jasa Marga (Persero), Tbk.",Jasa Marga,yes
+"PT Jasa Marga (Persero), Tbk.",PT Jasa Marga Cabang Purbaleunyi,yes
+"PT Jasa Marga (Persero), Tbk.",PT Jasa Raharja (Persero),no
+"PT Jasa Marga (Persero), Tbk.",PT Jasa Sarana,no
+PT Jasa Raharja (Persero),Jasa Raharja,yes
+PT Jasa Raharja (Persero),Jasa Raharja Bandung,yes
+PT Jasa Raharja (Persero),"PT Jasa Marga (Persero), Tbk.",no
+PT Jasa Raharja (Persero),PT Jasa Sarana,no
+PT Kawasan Berikat Nusantara (Persero),PT KBN,yes
+PT Kawasan Berikat Nusantara (Persero),Kawasan Berikat Nusantara,yes
+PT Kawasan Berikat Nusantara (Persero),PT Kawasan Industri Wijayakusuma (Persero),no
+PT Kawasan Berikat Nusantara (Persero),PT Nusantara Laju Bersama,no
+PT Kawasan Industri Wijayakusuma (Persero),PT KIW,yes
+PT Kawasan Industri Wijayakusuma (Persero),Kawasan Industri Wijayakusuma,yes
+PT Kawasan Industri Wijayakusuma (Persero),PT Kawasan Berikat Nusantara (Persero),no
+PT Kawasan Industri Wijayakusuma (Persero),PT Industri Telekomunikasi Indonesia,no
+PT Kimia Farma,Kimia Farma,yes
+PT Kimia Farma,PT Kimia Farma Tbk,yes
+PT Kimia Farma,PT Indofarma,no
+PT Kimia Farma,PT Bio Farma,no
+PT Kliring Berjangka Indonesia (Persero),PT KBI,yes
+PT Kliring Berjangka Indonesia (Persero),Kliring Berjangka Indonesia,yes
+PT Kliring Berjangka Indonesia (Persero),PT Solid Gold Berjangka,no
+PT Kliring Berjangka Indonesia (Persero),PT Kliring Penjaminan Efek Indonesia,no
+PT Krakatau Steel (Persero) Tbk.,Krakatau Steel,yes
+PT Krakatau Steel (Persero) Tbk.,PT Krakatau Steel,yes
+PT Krakatau Steel (Persero) Tbk.,PT Steel Pipe Industry of Indonesia Tbk,no
+PT Krakatau Steel (Persero) Tbk.,PT Steel Center Indonesia,no
+PT Len Industri (Persero),Len Industri,yes
+PT Len Industri (Persero),Len,yes
+PT Len Industri (Persero),PT Industri Kapal Indonesia (Persero),no
+PT Len Industri (Persero),PT Lentera Dana Nusantara,no
+PT PAL Indonesia (Persero),PAL Indonesia,yes
+PT PAL Indonesia (Persero),PT PAL,yes
+PT PAL Indonesia (Persero),PT Kliring Berjangka Indonesia (Persero),no
+PT PAL Indonesia (Persero),PT Palma Serasih,no
+PT PANN Pembiayaan Maritim (Persero),PT PANN,yes
+PT PANN Pembiayaan Maritim (Persero),PANN Pembiayaan Maritim,yes
+PT PANN Pembiayaan Maritim (Persero),PT Maritim Barito Perkasa,no
+PT PANN Pembiayaan Maritim (Persero),PT Pembiayaan Digital Indonesia,no
+PT Pegadaian (Persero),Pegadaian,yes
+PT Pegadaian (Persero),PT Pegadaian Area Samarinda,yes
+PT Pegadaian (Persero),PT Len Industri (Persero),no
+PT Pegadaian (Persero),PT Pegasus Honor Indonesia,no
+PT Pelabuhan Indonesia I (Persero),Pelindo I,yes
+PT Pelabuhan Indonesia I (Persero),Pelabuhan Indonesia,yes
+PT Pelabuhan Indonesia I (Persero),PT Pelabuhan Indonesia II,no
+PT Pelabuhan Indonesia I (Persero),Pelabuhan Indonesia II,no
+PT Pelabuhan Indonesia II (Persero),Pelindo II,yes
+PT Pelabuhan Indonesia II (Persero),Pelabuhan Indonesia II,yes
+PT Pelabuhan Indonesia II (Persero),Pelabuhan Indonesia,no
+PT Pelabuhan Indonesia II (Persero),Pelindo,no
+PT Pelabuhan Indonesia III (Persero),Pelabuhan Indonesia III,yes
+PT Pelabuhan Indonesia III (Persero),Pelindo III,yes
+PT Pelabuhan Indonesia III (Persero),Pelabuhan Indonesia II,no
+PT Pelabuhan Indonesia III (Persero),Pelindo,no
+PT Pelabuhan Indonesia IV (Persero),Pelabuhan Indonesia IV,yes
+PT Pelabuhan Indonesia IV (Persero),Pelindo IV,yes
+PT Pelabuhan Indonesia IV (Persero),PT Pelabuhan Indonesia I,no
+PT Pelabuhan Indonesia IV (Persero),Pelindo,no
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),Pelayaran Nasional Indonesia,yes
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),PT PELNI,yes
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),PT Pelayaran Nasional Ekalya Purnamasari Tbk,no
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),PT Pelayaran Bahtera Adhiguna,no
+PT Pembangunan Perumahan (Persero),PT PP,yes
+PT Pembangunan Perumahan (Persero),Pembangunan Perumahan,yes
+PT Pembangunan Perumahan (Persero),PT Pembangunan Jaya,no
+PT Pembangunan Perumahan (Persero),PT Pembangunan Jaya Ancol,no
+PT Penerbitan Dan Percetakan Balai Pustaka (Persero),PT Balai Pustaka,yes
+PT Penerbitan Dan Percetakan Balai Pustaka (Persero),Balai Pustaka,yes
+PT Penerbitan Dan Percetakan Balai Pustaka (Persero),Penerbit dan Percetakan Mediatama,no
+PT Penerbitan Dan Percetakan Balai Pustaka (Persero),PT Percetakan Gramedia Cikarang,no
+PT Pengembangan Pariwisata Indonesia (Persero),ITDC,yes
+PT Pengembangan Pariwisata Indonesia (Persero),Pengembangan Pariwisata Indonesia,yes
+PT Pengembangan Pariwisata Indonesia (Persero),Kementerian Pariwisata dan Ekonomi Kreatif Republik Indonesia,no
+PT Pengembangan Pariwisata Indonesia (Persero),PT Pengembangan Investasi Riau,no
+PT Pengusahaan Daerah Industri Pulau Batam (Persero),PT PDI Batam,yes
+PT Pengusahaan Daerah Industri Pulau Batam (Persero),PT Persero Batam,yes
+PT Pengusahaan Daerah Industri Pulau Batam (Persero),Pemerintah Kota Batam,no
+PT Pengusahaan Daerah Industri Pulau Batam (Persero),PT Kawasan Industri Jababeka Tbk,no
+PT Penjaminan Infrastruktur Indonesia (Persero),PT PII,yes
+PT Penjaminan Infrastruktur Indonesia (Persero),PT PII Persero,yes
+PT Penjaminan Infrastruktur Indonesia (Persero),PT Penjaminan Jamkrindo Syariah,no
+PT Penjaminan Infrastruktur Indonesia (Persero),PT Infrastruktur Bisnis Sejahtera,no
+PT Perikanan Nusantara,PT Perinus,yes
+PT Perikanan Nusantara,PT Perinus (Persero),yes
+PT Perikanan Nusantara,PT Perkebunan Nusantara III,no
+PT Perikanan Nusantara,PT Nusantara Compnet Integrator,no
+PT Perkebunan Nusantara III,PT. Perkebunan Nusantara III (Persero),yes
+PT Perkebunan Nusantara III,PTPN III,yes
+PT Perkebunan Nusantara III,PT Perkebunan Nusantara IV,no
+PT Perkebunan Nusantara III,PT Perikanan Nusantara,no
+PT Permodalan Nasional Madani (Persero),PT PNM,yes
+PT Permodalan Nasional Madani (Persero),PT PNM (Persero),yes
+PT Permodalan Nasional Madani (Persero),Pemodalan Nasional Berhad,no
+PT Permodalan Nasional Madani (Persero),PT Media Solusi Internasional,no
+PT Pertamina (Persero),Pertamina,yes
+PT Pertamina (Persero),PT Pertamina,yes
+PT Pertamina (Persero),PT Pertani,no
+PT Pertamina (Persero),Pertamini,no
+PT Pertani (Persero),Pertani,yes
+PT Pertani (Persero),PT Pertani,yes
+PT Pertani (Persero),PT Pertamina,no
+PT Pertani (Persero),PT Tani Hub Indonesia,no
+PT Perusahaan Gas Negara (Persero) Tbk,PGN,yes
+PT Perusahaan Gas Negara (Persero) Tbk,Perusahaan Gas Negara,yes
+PT Perusahaan Gas Negara (Persero) Tbk,PT Perusahaan Listrik Negara (Persero) (PLN),no
+PT Perusahaan Gas Negara (Persero) Tbk,PT Pertamina Gas Negara Tbk,no
+PT Perusahaan Listrik Negara (Persero) (PLN),PLN,yes
+PT Perusahaan Listrik Negara (Persero) (PLN),Perusahaan Listrik Negara,yes
+PT Perusahaan Listrik Negara (Persero) (PLN),PT Perusahaan Gas Negara (Persero) Tbk,no
+PT Perusahaan Listrik Negara (Persero) (PLN),PT Perusahaan Pengelola Aset (Persero),no
+PT Perusahaan Pengelola Aset (Persero),PT PPA,yes
+PT Perusahaan Pengelola Aset (Persero),Perusahaan Pengelola Aset,yes
+PT Perusahaan Pengelola Aset (Persero),Perusahaan Pengurusan Jasa Kepabeanan,no
+PT Perusahaan Pengelola Aset (Persero),PT Aset Digital Berkat,no
+PT Perusahaan Perdagangan Indonesia,PT PPI,yes
+PT Perusahaan Perdagangan Indonesia,Perusahaan Perdagangan Indonesia,yes
+PT Perusahaan Perdagangan Indonesia,Kementerian Perdagangan Republik Indonesia,no
+PT Perusahaan Perdagangan Indonesia,PT Perdagangan Mistico Indonesia,no
+PT Pindad (Persero),Pindad,yes
+PT Pindad (Persero),PT Pindad,yes
+PT Pindad (Persero),PT PAL,no
+PT Pindad (Persero),PT Pinus Merah Abadi,no
+PT Pos Indonesia (Persero),Pos Indonesia,yes
+PT Pos Indonesia (Persero),PT Pos Indonesia KC Cirebon,yes
+PT Pos Indonesia (Persero),PT Pos Properti Indonesia,no
+PT Pos Indonesia (Persero),PT Posco Indonesia,no
+PT Pupuk Indonesia Holding Company,Pupuk Indonesia,yes
+PT Pupuk Indonesia Holding Company,PT Pupuk Indonesia (Persero),yes
+PT Pupuk Indonesia Holding Company,Distributor Pupuk Bersubsidi,no
+PT Pupuk Indonesia Holding Company,Indonesia Holding Company,no
+PT Rajawali Nusantara Indonesia,PT Rajawali Nusindo,yes
+PT Rajawali Nusantara Indonesia,ID FOOD,yes
+PT Rajawali Nusantara Indonesia,PT Rajawali Citra Televisi Indonesia,no
+PT Rajawali Nusantara Indonesia,PT Nusantara Laju Bersama,no
+PT Reasuransi Indonesia Utama (Persero),Indonesia Re,yes
+PT Reasuransi Indonesia Utama (Persero),Reasuransi Indonesia Utama,yes
+PT Reasuransi Indonesia Utama (Persero),PT Indonesia Utama Abadi,no
+PT Reasuransi Indonesia Utama (Persero),PT Reasuransi Nasional Indonesia,no
+PT Sang Hyang Seri,SHS,yes
+PT Sang Hyang Seri,PT Sang Hyang Seri Cabang Sidrap,yes
+PT Sang Hyang Seri,Sanghyang Heuleut,no
+PT Sang Hyang Seri,PT Sang Byte Indonesia,no
+PT Sarana Multi Infrastruktur (Persero) (PT SMI),PT SMI,yes
+PT Sarana Multi Infrastruktur (Persero) (PT SMI),Sarana Multi Infrastruktur,yes
+PT Sarana Multi Infrastruktur (Persero) (PT SMI),PT Sarana Multigriya Finansial (Persero),no
+PT Sarana Multi Infrastruktur (Persero) (PT SMI),PT Multi Wahana Kencana,no
+PT Sarinah (Persero),Sarinah,yes
+PT Sarinah (Persero),PT Sarinah,yes
+PT Sarinah (Persero),PT Sariguna Primatirta,no
+PT Sarinah (Persero),PT Sarimelati Kencana,no
+PT Semen Baturaja (Persero),PT Semen Baturaja,yes
+PT Semen Baturaja (Persero),Semen Baturaja,yes
+PT Semen Baturaja (Persero),PT Semen Indonesia (Persero),no
+PT Semen Baturaja (Persero),PT Semen Padang,no
+"PT Semen Indonesia (Persero), Tbk.",PT Semen Indonesia,yes
+"PT Semen Indonesia (Persero), Tbk.",Semen Indonesia,yes
+"PT Semen Indonesia (Persero), Tbk.",PT Semen Baturaja (Persero),no
+"PT Semen Indonesia (Persero), Tbk.",PT Tambang Semen Sukabumi,no
+PT Sucofindo,PT Superintending Company of Indonesia,yes
+PT Sucofindo,Sucofindo,yes
+PT Sucofindo,PT Sucorinvest Asset Management,no
+PT Sucofindo,PT Sucor Sekuritas,no
+PT Surveyor Indonesia (Persero),Surveyor Indonesia,yes
+PT Surveyor Indonesia (Persero),PTSI,yes
+PT Surveyor Indonesia (Persero),PT Semen Indonesia (Persero),no
+PT Surveyor Indonesia (Persero),PT Frasta Survey Indonesia,no
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",PT TWC,yes
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",PT Taman Wisata Candi,yes
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",Taman Wisata Bougenville,no
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",Taman Wisata Alam Sevillage,no
+PT Varuna Tirta Prakasya (Persero),PT VTP,yes
+PT Varuna Tirta Prakasya (Persero),Varuna Tirta Prakasya,yes
+PT Varuna Tirta Prakasya (Persero),PT Varuna Artha Nugraha,no
+PT Varuna Tirta Prakasya (Persero),PT Tirta Investama,no
