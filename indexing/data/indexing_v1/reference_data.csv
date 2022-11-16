@@ -32,7 +32,7 @@
 30,Anggota DPR
 31,Anggota Dewan Perwakilan Rakyat
 32,KY
-33,Komisi Yudisial (KY)
+33,Komisi Yudisial KY
 34,Mahkamah Agung
 35,MA
 36,Mahkamah Konstitusi
@@ -49,7 +49,7 @@
 47,Bakamla
 48,BKKBN
 49,BKKBN Provinsi Sulawesi Utara
-50,Kementerian Investasi/BKPM
+50,Kementerian Investasi BKPM
 51,Kementerian Investasi
 52,Badan Meteorologi Klimatologi Dan Geofisika
 53,BMKG Papua
@@ -83,7 +83,7 @@
 81,KPPU RI
 82,Lembaga Ilmu Pengetahuan Indonesia
 83,Perwakilan Lembaga Ilmu Pengetahuan Indonesia
-84,Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
+84,Lembaga Kebijakan Pengadaan Barang Jasa Pemerintah
 85,LKPP RI
 86,Lembaga Ketahanan Nasional
 87,Lemhannas RI
@@ -116,7 +116,7 @@
 114,Badan Penyelenggara Jaminan Sosial Ketenagakerjaan
 115,BPJAMSOSTEK
 116,BPJS Ketenagakerjaan
-117,Bank Indonesia (BI)
+117,Bank Indonesia BI
 118,BI
 119,BNPP
 120,Badan Pembinaan Ideologi
@@ -126,7 +126,7 @@
 124,DJSN
 125,Dewan Jaminan Sosial
 126,Pemkab Kepulauan Seribu
-127,Pemerintah Kab. Kepulauan Seribu
+127,Pemerintah Kab Kepulauan Seribu
 128,Pemkot Jakarta Barat
 129,Pemerintah Kota Adminsitrasi Jakarta Barat
 130,Pemkot Jakarta Pusat
@@ -426,8 +426,8 @@
 424,Pemkab Puncak Jaya
 425,Pemkab Rote Ndao
 426,Pemkab Sabu Raijua
-427,Pemerintah Kabupaten Sabu-Raijua
-428,Pemkab Sabu-Raijua
+427,Pemerintah Kabupaten SabuRaijua
+428,Pemkab SabuRaijua
 429,Pemkab Seram Bagian Barat
 430,Pemkab Seram Barat
 431,Pemerintah Kabupaten Seram Barat
@@ -537,7 +537,7 @@
 535,AP1
 536,Angkasa Pura 2
 537,AP2
-538,PT Asabri (Persero)
+538,PT Asabri Persero
 539,Perseta Asabri Pensiunan Polri
 540,PT ASDP Ferry Indonesia
 541,ASDP
@@ -547,7 +547,7 @@
 545,Jiwasraya
 546,Askrindo
 547,PT Askrindo
-548,Indonesia Financial Group (IFG)
+548,Indonesia Financial Group IFG
 549,BPUI
 550,Bank Mandiri
 551,Bank Mandiri Cihampelas
@@ -568,9 +568,9 @@
 566,PT Bio Farma Bandung
 567,Bio Farma
 568,BKI
-569,PT Biro Klasifikasi Indonesia (Persero) Cabang Cirebon
+569,PT Biro Klasifikasi Indonesia Persero Cabang Cirebon
 570,BBI
-571,PT Boma Bisma Indra (Persero) Cabang Jakarta
+571,PT Boma Bisma Indra Persero Cabang Jakarta
 572,PTDI
 573,PT Dirgantara Indonesia
 574,Garuda Indonesia
@@ -578,22 +578,22 @@
 576,Emipersero
 577,PT EMI
 578,Garam
-579,PT Garam (Persero)
+579,PT Garam Persero
 580,Hutama Karya
 581,HK
 582,Indah Karya
 583,PT Indah Karya
 584,PT Inalum
-585,PT Indonesia Asahan Aluminium (Persero)
+585,PT Indonesia Asahan Aluminium Persero
 586,Indra Karya
 587,PT Indra Karya
-588,PT IKI (Persero)
+588,PT IKI Persero
 589,Industri Kapal Indonesia
-590,PT INUKI (Persero)
+590,PT INUKI Persero
 591,Industri Nuklir Indonesia
-592,PT ISN (Persero)
+592,PT ISN Persero
 593,Industri Sandang Nusantara
-594,PT INTI (Persero)
+594,PT INTI Persero
 595,INTI
 596,Istaka Karya
 597,PT Istaka Karya
@@ -624,11 +624,11 @@
 622,PT PII
 623,PT PII Persero
 624,PT Perinus
-625,PT Perinus (Persero)
-626,PT. Perkebunan Nusantara III (Persero)
+625,PT Perinus Persero
+626,PT Perkebunan Nusantara III Persero
 627,PTPN III
 628,PT PNM
-629,PT PNM (Persero)
+629,PT PNM Persero
 630,Pertamina
 631,PT Pertamina
 632,PGN
@@ -640,7 +640,7 @@
 638,Pos Indonesia
 639,PT Pos Indonesia KC Cirebon
 640,Pupuk Indonesia
-641,PT Pupuk Indonesia (Persero)
+641,PT Pupuk Indonesia Persero
 642,PT Rajawali Nusindo
 643,ID FOOD
 644,Indonesia Re
@@ -662,7 +662,7 @@
 660,PT Kertas Kraft Aceh
 661,PT KKA
 662,PT Sarana Multigriya Finansial
-663,SMF-Indonesia
+663,SMFIndonesia
 664,PT Primissima 
 665,Primissima Batik
 666,PT Dok Dan Perkapalan Surabaya
@@ -670,7 +670,7 @@
 668,PT Industri Kereta Api
 669,PT INKA
 670,INKA
-671,Kementerian PPN/Bappenas
+671,Kementerian PPN Bappenas
 672,Bappenas
 673,Kemensos
 674,Kemensos RI
@@ -725,7 +725,7 @@
 723,Pemkab Pringsewu
 724,Perum PNRI
 725,Perusahaan Umum Percetakan Negara Republik Indonesia
-726,PT Taspen (Persero)
+726,PT Taspen Persero
 727,PT Taspen KC Bengkulu
 728,PT HIN
 729,Inna Hotels and Resorts
@@ -749,15 +749,15 @@
 747,PANRB
 748,Kemen PANRB
 749,Kemen PPPA
-750,Kementerian PP & PA
+750,Kementerian PP  PA
 751,Badan Pengawas Pemilu
 752,Inspektur Utama Badan Pengawas Pemilihan Umum
-753,Badan Pengusahaan Batam (BP Batam)
+753,Badan Pengusahaan Batam BP Batam
 754,BP Batam
 755,BPS Provinsi Sulawesi Utara
 756,Badan Pusat Statistik Provinsi Bali
-757,Badan SAR Nasional (Basarnas)
-758,Badan Nasional Pencarian dan Pertolongan (BNPP)
+757,Badan SAR Nasional Basarnas
+758,Badan Nasional Pencarian dan Pertolongan BNPP
 759,Komisi Nasional HAM
 760,Komnas HAM
 761,Komisi Pemberantasan Korupsi
@@ -888,7 +888,7 @@
 886,Pemerintah Provinsi NAD
 887,Pemprov NAD
 888,Pemprov Nangroe Aceh Darussalam
-889,Perum Bulog Kanwil Kaltim & Kaltara
+889,Perum Bulog Kanwil Kaltim  Kaltara
 890,Perum Bulog Kabupaten Probolinggo
 891,Jasa Tirta II
 892,Jasa Tirta 2
@@ -897,7 +897,7 @@
 895,Perum PPD
 896,Perusahaan Umum Pengangkutan Penumpang Djakarta
 897,Brantas Abipraya
-898,Kantor Pusat PT Brantas Abipraya (Persero)
+898,Kantor Pusat PT Brantas Abipraya Persero
 899,Dahana
 900,PT Dahana Subang
 901,Danareksa
@@ -907,7 +907,7 @@
 905,PT DKB
 906,Dok dan Perkapalan Kodja Bahari
 907,Geo Dipa Energi
-908,PT Geo Dipa Energi (Persero)
+908,PT Geo Dipa Energi Persero
 909,Jiep Ecogreen
 910,PT JIEP
 911,Jasa Raharja
@@ -936,125 +936,125 @@
 934,PT IGM
 935,Indofarma
 936,PT Telkom Indonesia
-937,Perum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia (AIRNAV)
+937,Perum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia AIRNAV
 938,Perum Bulog
 939,Perum DAMRI
-940,PT Jaminan Kredit Indonesia (Jamkrindo)
+940,PT Jaminan Kredit Indonesia Jamkrindo
 941,Perum Jasa Tirta I
 942,Perum Jasa Tirta II
-943,Perum Kehutanan Negara (Perhutani)
+943,Perum Kehutanan Negara Perhutani
 944,PERUM LEMBAGA KANTOR BERITA NASIONAL ANTARA
-945,Perum Pembangunan Perumahan Nasional (Perumnas)
-946,Perum Pengangkutan Penumpang Djakarta (PPD)
-947,Perum Percetakan Negara Republik Indonesia (PNRI)
-948,Perum Percetakan Uang Republik Indonesia (Peruri)
-949,Perum Produksi Film Negara (PFN)
-950,"PT Adhi Karya (Persero), Tbk."
-951,PT Amarta Karya (Persero)
-952,PT Angkasa Pura I (Persero)
-953,PT Angkasa Pura II (Persero)
-954,PT ASABRI (PERSERO)
-955,PT Asdp Indonesia Ferry (Persero)
-956,PT Asuransi Jasa Indonesia (Persero)
-957,PT Asuransi Jiwasraya (Persero)
-958,PT Asuransi Kredit Indonesia (Persero)
-959,PT Bahana Pembinaan Usaha Indonesia (Persero)
-960,"PT Bank Mandiri (Persero), Tbk."
-961,"PT Bank Negara Indonesia (Persero), Tbk. (BNI)"
-962,"PT Bank Rakyat Indonesia (Persero), Tbk. (BRI)"
-963,"PT BANK TABUNGAN NEGARA (PERSERO), TBK. (BTN)"
-964,PT Barata Indonesia (Persero)
-965,PT Berdikari (Persero)
-966,PT Bhanda Ghara Reksa (Persero)
-967,PT Bina Karya (Persero)
-968,PT BIO FARMA (PERSERO)
-969,PT Biro Klasifikasi Indonesia (Persero)
-970,PT Boma Bisma Indra (Persero)
-971,PT Brantas Abipraya (Persero)
-972,PT Dahana (Persero)
-973,PT Dana Tabungan Dan Asuransi Pegawai Negeri / Taspen (Persero)
-974,PT Danareksa (Persero)
-975,PT Dirgantara Indonesia (Persero)
-976,PT Djakarta Lloyd (Persero)
-977,"PT Garuda Indonesia (Persero), Tbk."
-978,PT Dok Dan Perkapalan Kodja Bahari (Persero)
-979,PT ENERGI MANAGEMENT INDONESIA (PERSERO)
-980,PT GARAM (PERSERO)
+945,Perum Pembangunan Perumahan Nasional Perumnas
+946,Perum Pengangkutan Penumpang Djakarta PPD
+947,Perum Percetakan Negara Republik Indonesia PNRI
+948,Perum Percetakan Uang Republik Indonesia Peruri
+949,Perum Produksi Film Negara PFN
+950,PT Adhi Karya Persero Tbk
+951,PT Amarta Karya Persero
+952,PT Angkasa Pura I Persero
+953,PT Angkasa Pura II Persero
+954,PT ASABRI PERSERO
+955,PT Asdp Indonesia Ferry Persero
+956,PT Asuransi Jasa Indonesia Persero
+957,PT Asuransi Jiwasraya Persero
+958,PT Asuransi Kredit Indonesia Persero
+959,PT Bahana Pembinaan Usaha Indonesia Persero
+960,PT Bank Mandiri Persero Tbk
+961,PT Bank Negara Indonesia Persero Tbk BNI
+962,PT Bank Rakyat Indonesia Persero Tbk BRI
+963,PT BANK TABUNGAN NEGARA PERSERO TBK BTN
+964,PT Barata Indonesia Persero
+965,PT Berdikari Persero
+966,PT Bhanda Ghara Reksa Persero
+967,PT Bina Karya Persero
+968,PT BIO FARMA PERSERO
+969,PT Biro Klasifikasi Indonesia Persero
+970,PT Boma Bisma Indra Persero
+971,PT Brantas Abipraya Persero
+972,PT Dahana Persero
+973,PT Dana Tabungan Dan Asuransi Pegawai Negeri   Taspen Persero
+974,PT Danareksa Persero
+975,PT Dirgantara Indonesia Persero
+976,PT Djakarta Lloyd Persero
+977,PT Garuda Indonesia Persero Tbk
+978,PT Dok Dan Perkapalan Kodja Bahari Persero
+979,PT ENERGI MANAGEMENT INDONESIA PERSERO
+980,PT GARAM PERSERO
 981,PT Geodipa Energi
-982,PT Hotel Indonesia Natour (Persero)
-983,PT Hutama Karya (Persero)
-984,PT Indra Karya (Persero)
-985,PT INDONESIA ASAHAN ALUMUNIUM (PERSERO) (INALUM)
-986,PT Indah Karya (Persero)
-987,PT Industri Kapal Indonesia (Persero)
-988,PT Industri Nuklir Indonesia (Persero)
-989,PT Industri Sandang Nusantara (Persero)
-990,PT Industri Telekomunikasi Indonesia (Persero)
-991,PT Istaka Karya (Persero)
-992,PT. JAKARTA INDUSTRIAL ESTATE PULOGADUNG
-993,"PT Jasa Marga (Persero), Tbk."
-994,PT ASURANSI JASA RAHARJA (PERSERO)
-995,PT Kawasan Berikat Nusantara (Persero)
-996,PT Kawasan Industri Wijayakusuma (Persero)
-997,"PT KIMIA FARMA (PERSERO), TBK."
-998,PT Kliring Berjangka Indonesia (Persero)
-999,PT Krakatau Steel (Persero) Tbk.
-1000,PT Len Industri (Persero)
-1001,PT PAL Indonesia (Persero)
-1002,PT PANN Pembiayaan Maritim (Persero)
-1003,PT Pegadaian (Persero)
-1004,PT Pelabuhan Indonesia (Persero)
-1005,PT Pelayaran Nasional Indonesia (Persero) (Pelni)
-1006,PT Pembangunan Perumahan (Persero)
-1007,PT Penerbitan Dan Percetakan Balai Pustaka (Persero)
-1008,PT Pengembangan Pariwisata Indonesia (Persero)
-1009,PT Pengusahaan Daerah Industri Pulau Batam (Persero)
-1010,PT Penjaminan Infrastruktur Indonesia (Persero)
-1011,PT PERIKANAN NUSANTARA (PERSERO)
+982,PT Hotel Indonesia Natour Persero
+983,PT Hutama Karya Persero
+984,PT Indra Karya Persero
+985,PT INDONESIA ASAHAN ALUMUNIUM PERSERO INALUM
+986,PT Indah Karya Persero
+987,PT Industri Kapal Indonesia Persero
+988,PT Industri Nuklir Indonesia Persero
+989,PT Industri Sandang Nusantara Persero
+990,PT Industri Telekomunikasi Indonesia Persero
+991,PT Istaka Karya Persero
+992,PT JAKARTA INDUSTRIAL ESTATE PULOGADUNG
+993,PT Jasa Marga Persero Tbk
+994,PT ASURANSI JASA RAHARJA PERSERO
+995,PT Kawasan Berikat Nusantara Persero
+996,PT Kawasan Industri Wijayakusuma Persero
+997,PT KIMIA FARMA PERSERO TBK
+998,PT Kliring Berjangka Indonesia Persero
+999,PT Krakatau Steel Persero Tbk
+1000,PT Len Industri Persero
+1001,PT PAL Indonesia Persero
+1002,PT PANN Pembiayaan Maritim Persero
+1003,PT Pegadaian Persero
+1004,PT Pelabuhan Indonesia Persero
+1005,PT Pelayaran Nasional Indonesia Persero Pelni
+1006,PT Pembangunan Perumahan Persero
+1007,PT Penerbitan Dan Percetakan Balai Pustaka Persero
+1008,PT Pengembangan Pariwisata Indonesia Persero
+1009,PT Pengusahaan Daerah Industri Pulau Batam Persero
+1010,PT Penjaminan Infrastruktur Indonesia Persero
+1011,PT PERIKANAN NUSANTARA PERSERO
 1012,PT Perkebunan Nusantara III
-1013,PT Permodalan Nasional Madani (Persero)
-1014,PT Pertamina (Persero)
-1015,PT Pertani (Persero)
-1016,"PT PERUSAHAAN GAS NEGARA (PERSERO), TBK."
-1017,PT Perusahaan Listrik Negara (Persero) (PLN)
-1018,PT Perusahaan Pengelola Aset (Persero)
-1019,PT PERUSAHAAN PERDAGANGAN INDONESIA (PERSERO)
-1020,PT Pindad (Persero)
-1021,PT Pos Indonesia (Persero)
+1013,PT Permodalan Nasional Madani Persero
+1014,PT Pertamina Persero
+1015,PT Pertani Persero
+1016,PT PERUSAHAAN GAS NEGARA PERSERO TBK
+1017,PT Perusahaan Listrik Negara Persero PLN
+1018,PT Perusahaan Pengelola Aset Persero
+1019,PT PERUSAHAAN PERDAGANGAN INDONESIA PERSERO
+1020,PT Pindad Persero
+1021,PT Pos Indonesia Persero
 1022,PT PUPUK INDONESIA HOLDING COMPANY
-1023,PT RAJAWALI NUSANTARA INDONESIA (PERSERO)
-1024,PT Reasuransi Indonesia Utama (Persero)
-1025,PT SANG HYANG SERI (PERSERO)
-1026,PT Sarana Multi Infrastruktur (Persero) (PT SMI)
-1027,PT Sarinah (Persero)
-1028,PT Semen Baturaja (Persero)
-1029,"PT Semen Indonesia (Persero), Tbk."
+1023,PT RAJAWALI NUSANTARA INDONESIA PERSERO
+1024,PT Reasuransi Indonesia Utama Persero
+1025,PT SANG HYANG SERI PERSERO
+1026,PT Sarana Multi Infrastruktur Persero PT SMI
+1027,PT Sarinah Persero
+1028,PT Semen Baturaja Persero
+1029,PT Semen Indonesia Persero Tbk
 1030,PT Sucofindo
-1031,PT Surveyor Indonesia (Persero)
-1032,"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)"
-1033,PT Varuna Tirta Prakasya (Persero)
-1034,PT Virama Karya (Persero)
-1035,"PT Waskita Karya (Persero), Tbk."
-1036,"PT Wijaya Karya (Persero), Tbk."
-1037,PT Yodya Karya (Persero)
+1031,PT Surveyor Indonesia Persero
+1032,PT Taman Wisata Candi Borobudur Prambanan Dan Ratu Boko Persero
+1033,PT Varuna Tirta Prakasya Persero
+1034,PT Virama Karya Persero
+1035,PT Waskita Karya Persero Tbk
+1036,PT Wijaya Karya Persero Tbk
+1037,PT Yodya Karya Persero
 1038,Perum Perikanan Indonesia
-1039,PT NINDYA KARYA (PERSERO)
+1039,PT NINDYA KARYA PERSERO
 1040,PT Surabaya Industrial Estate Rungkut
-1041,PT Pengembangan Armada Niaga Nasional (Persero)
-1042,PT Survai Udara Penas (Persero)
-1043,PT Iglas (Persero)
-1044,PT Kertas Kraft Aceh (Persero)
+1041,PT Pengembangan Armada Niaga Nasional Persero
+1042,PT Survai Udara Penas Persero
+1043,PT Iglas Persero
+1044,PT Kertas Kraft Aceh Persero
 1045,Lembaga Pembiayaan Ekspor Indonesia
-1046,PT Sarana Multigriya Finansial (Persero)
-1047,"PT INDOFARMA (PERSERO), TBK."
-1048,PT Kereta Api Indonesia (Persero) (KAI)
-1049,"PT TELEKOMUNIKASI INDONESIA (PERSERO), TBK."
-1050,PT Primissima (Persero)
-1051,PT Dok Dan Perkapalan Surabaya (Persero)
-1052,PT Industri Kereta Api (Persero) (INKA)
-1053,PT Semen Kupang (Persero)
-1054,PT KAWASAN INDUSTRI MAKASAR (PERSERO)
-1055,PT Kawasan Industri Medan (Persero)
+1046,PT Sarana Multigriya Finansial Persero
+1047,PT INDOFARMA PERSERO TBK
+1048,PT Kereta Api Indonesia Persero KAI
+1049,PT TELEKOMUNIKASI INDONESIA PERSERO TBK
+1050,PT Primissima Persero
+1051,PT Dok Dan Perkapalan Surabaya Persero
+1052,PT Industri Kereta Api Persero INKA
+1053,PT Semen Kupang Persero
+1054,PT KAWASAN INDUSTRI MAKASAR PERSERO
+1055,PT Kawasan Industri Medan Persero
 1056,Pemerintah Kabupaten Badung
 1057,Pemerintah Kabupaten Bangli
 1058,Pemerintah Kabupaten Buleleng
@@ -1099,10 +1099,10 @@
 1097,Pemerintah Kota Yogyakarta
 1098,Pemerintah Provinsi DI Yogyakarta
 1099,Kementerian Agama
-1100,Kementerian Agraria dan Tata Ruang/Badan Pertahanan Nasional (BPN)
+1100,Kementerian Agraria dan Tata Ruang Badan Pertahanan Nasional BPN
 1101,Kementerian Dalam Negeri
-1102,"Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
-1103,Kementerian Energi dan Sumber Daya Mineral (ESDM)
+1102,Kementerian Desa Pembangunan Daerah Tertinggal dan Transmigrasi
+1103,Kementerian Energi dan Sumber Daya Mineral ESDM
 1104,Kementerian Hukum dan Hak Asasi Manusia
 1105,Kementerian Lingkungan Hidup dan Kehutanan
 1106,Kementerian Kelautan dan Perikanan
@@ -1113,79 +1113,79 @@
 1111,Kementerian Koordinator Bidang Kemaritiman dan Investasi
 1112,Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan
 1113,Kementerian Koordinator Bidang Perekonomian
-1114,"Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan"
+1114,Kementerian Koordinator Bidang Politik Hukum dan Keamanan
 1115,Kementerian Koperasi dan Usaha Kecil dan Menengah
 1116,Kementerian Luar Negeri
 1117,Kementerian Badan Usaha Milik Negara
-1118,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB)
+1118,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Kem PANRB
 1119,Kementerian Pariwisata dan Ekonomi Kreatif
-1120,Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR)
+1120,Kementerian Pekerjaan Umum dan Perumahan Rakyat PUPR
 1121,Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
 1122,Kementerian Pemuda dan Olahraga
-1123,"Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi"
+1123,Kementerian Pendidikan Kebudayaan Riset dan Teknologi
 1124,Kementerian Perdagangan
-1125,Kementerian Perencanaan Pembangunan Nasional (PPN)/Badan Perencanaan Pembangunan Nasional (Bappenas)
+1125,Kementerian Perencanaan Pembangunan Nasional PPN Badan Perencanaan Pembangunan Nasional Bappenas
 1126,Kementerian Perhubungan
 1127,Kementerian Perindustrian
 1128,Kementerian Pertahanan
 1129,Kementerian Pertanian
 1130,Kementerian Sekretariat Negara
 1131,Kementerian Sosial
-1132,Badan Pemeriksa Keuangan (BPK)
-1133,Dewan Perwakilan Daerah (DPD)
-1134,Dewan Perwakilan Rakyat (DPR)
+1132,Badan Pemeriksa Keuangan BPK
+1133,Dewan Perwakilan Daerah DPD
+1134,Dewan Perwakilan Rakyat DPR
 1135,Komisi Yudisial
-1136,Mahkamah Agung (MA)
-1137,Mahkamah Konstitusi (MK)
-1138,Majelis Permusyawaratan Rakyat (MPR)
-1139,Badan Informasi Geospasial (BIG)
-1140,Badan Kepegawaian Negara (BKN)
-1141,Badan Intelijen Negara (BIN)
-1142,Badan Keamanan Laut (Bakamla)
-1143,Badan Kependudukan Dan Keluarga Berencana Nasional (BKKBN)
-1144,Badan Koordinasi Penanaman Modal (BKPM)
-1145,Badan Meteorologi Klimatologi Dan Geofisika (BMKG)
-1146,Badan Narkotika Nasional (BNN)
-1147,Badan Nasional Penanggulangan Bencana (BNPB)
-1148,Badan Nasional Penanggulangan Terorisme (BNPT)
+1136,Mahkamah Agung MA
+1137,Mahkamah Konstitusi MK
+1138,Majelis Permusyawaratan Rakyat MPR
+1139,Badan Informasi Geospasial BIG
+1140,Badan Kepegawaian Negara BKN
+1141,Badan Intelijen Negara BIN
+1142,Badan Keamanan Laut Bakamla
+1143,Badan Kependudukan Dan Keluarga Berencana Nasional BKKBN
+1144,Badan Koordinasi Penanaman Modal BKPM
+1145,Badan Meteorologi Klimatologi Dan Geofisika BMKG
+1146,Badan Narkotika Nasional BNN
+1147,Badan Nasional Penanggulangan Bencana BNPB
+1148,Badan Nasional Penanggulangan Terorisme BNPT
 1149,Badan Pelindungan Pekerja Migran Indonesia
-1150,Badan Pengawas Obat Dan Makanan (BPOM)
-1151,Badan Pengawas Pemilihan Umum (Bawaslu)
-1152,Badan Pengawas Tenaga Nuklir (Bapeten)
-1153,Badan Pengawasan Keuangan Dan Pembangunan (BPKP)
-1154,Badan Pengkajian Dan Penerapan Teknologi (BPPT)
+1150,Badan Pengawas Obat Dan Makanan BPOM
+1151,Badan Pengawas Pemilihan Umum Bawaslu
+1152,Badan Pengawas Tenaga Nuklir Bapeten
+1153,Badan Pengawasan Keuangan Dan Pembangunan BPKP
+1154,Badan Pengkajian Dan Penerapan Teknologi BPPT
 1155,Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam
-1156,Badan Pusat Statistik (BPS)
-1157,Badan Search And Rescue Nasional (Basarnas)
-1158,Badan Siber dan Sandi Negara (BSSN)
-1159,Badan Standardisasi Nasional (BSN)
-1160,Badan Tenaga Nuklir Nasional (BATAN)
-1161,Dewan Ketahanan Nasional (Wantannas)
+1156,Badan Pusat Statistik BPS
+1157,Badan Search And Rescue Nasional Basarnas
+1158,Badan Siber dan Sandi Negara BSSN
+1159,Badan Standardisasi Nasional BSN
+1160,Badan Tenaga Nuklir Nasional BATAN
+1161,Dewan Ketahanan Nasional Wantannas
 1162,Kejaksaan Republik Indonesia
 1163,Kepolisian Negara Republik Indonesia
-1164,Komisi Nasional Hak Asasi Manusia (Komnas HAM)
-1165,Komisi Pemberantasan Korupsi (KPK)
-1166,Komisi Pemilihan Umum (KPU)
-1167,Komisi Pengawas Persaingan Usaha (KPPU)
-1168,Lembaga Administrasi Negara (LAN)
-1169,Lembaga Ilmu Pengetehuan Indonesia (LIPI)
-1170,Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP)
-1171,Lembaga Ketahanan Nasional (Lemhanas)
-1172,Lembaga Penerbangan Dan Antariksa Nasional (Lapan)
+1164,Komisi Nasional Hak Asasi Manusia Komnas HAM
+1165,Komisi Pemberantasan Korupsi KPK
+1166,Komisi Pemilihan Umum KPU
+1167,Komisi Pengawas Persaingan Usaha KPPU
+1168,Lembaga Administrasi Negara LAN
+1169,Lembaga Ilmu Pengetehuan Indonesia LIPI
+1170,Lembaga Kebijakan Pengadaan Barang Jasa Pemerintah LKPP
+1171,Lembaga Ketahanan Nasional Lemhanas
+1172,Lembaga Penerbangan Dan Antariksa Nasional Lapan
 1173,Lembaga Penyiaran Publik TVRI
-1174,Ombudsman Republik Indonesia (ORI)
-1175,Perpustakaan Nasional Republik Indonesia (Perpusnas)
-1176,Pusat Pelaporan Dan Analisis Transaksi Keuangan (PPATK)
+1174,Ombudsman Republik Indonesia ORI
+1175,Perpustakaan Nasional Republik Indonesia Perpusnas
+1176,Pusat Pelaporan Dan Analisis Transaksi Keuangan PPATK
 1177,Sekretariat Kabinet
-1178,Arsip Nasional Republik Indonesia (ANRI)
-1179,Tentara Nasional Indonesia (TNI)
-1180,Komisi Aparatur Sipil Negara (KASN)
-1181,Badan Nasional Sertifikasi Profesi (BNSP)
-1182,Badan Pengatur Hilir Minyak Dan Gas Bumi (BPH Migas)
-1183,Dewan Pertimbangan Presiden (Wantimpres)
+1178,Arsip Nasional Republik Indonesia ANRI
+1179,Tentara Nasional Indonesia TNI
+1180,Komisi Aparatur Sipil Negara KASN
+1181,Badan Nasional Sertifikasi Profesi BNSP
+1182,Badan Pengatur Hilir Minyak Dan Gas Bumi BPH Migas
+1183,Dewan Pertimbangan Presiden Wantimpres
 1184,Komisi Kejaksaan Republik Indonesia
-1185,Komisi Penyiaran Indonesia (KPI)
-1186,Lembaga Perlindungan Saksi Dan Korban (LPSK)
+1185,Komisi Penyiaran Indonesia KPI
+1186,Lembaga Perlindungan Saksi Dan Korban LPSK
 1187,Pemerintah Kabupaten Kepulauan Seribu
 1188,Pemerintah Kota Jakarta Barat
 1189,Pemerintah Kota Jakarta Pusat
@@ -1193,36 +1193,36 @@
 1191,Pemerintah Kota Jakarta Timur
 1192,Pemerintah Kota Jakarta Utara
 1193,Pemerintah Provinsi DKI Jakarta
-1194,Perum Lembaga Kantor Berita Nasional Antara (LKBN Antara)
+1194,Perum Lembaga Kantor Berita Nasional Antara LKBN Antara
 1195,PT Asabri
-1196,PT Bank Tabungan Negara (Persero) (BTN)
+1196,PT Bank Tabungan Negara Persero BTN
 1197,PT Bio Farma
 1198,PT Energy Management Indonesia
 1199,PT Garam
-1200,PT Indonesia Asahan Alumunium (Inalum)
+1200,PT Indonesia Asahan Alumunium Inalum
 1201,PT Jakarta Industrial Estate Pulogadung
-1202,PT Jasa Raharja (Persero)
+1202,PT Jasa Raharja Persero
 1203,PT Kimia Farma
-1204,PT Pelabuhan Indonesia I (Persero)
-1205,PT Pelabuhan Indonesia II (Persero)
-1206,PT Pelabuhan Indonesia III (Persero)
-1207,PT Pelabuhan Indonesia IV (Persero)
+1204,PT Pelabuhan Indonesia I Persero
+1205,PT Pelabuhan Indonesia II Persero
+1206,PT Pelabuhan Indonesia III Persero
+1207,PT Pelabuhan Indonesia IV Persero
 1208,PT Perikanan Nusantara
-1209,PT Perusahaan Gas Negara (Persero) Tbk
+1209,PT Perusahaan Gas Negara Persero Tbk
 1210,PT Perusahaan Perdagangan Indonesia
 1211,PT Pupuk Indonesia Holding Company
 1212,PT Rajawali Nusantara Indonesia
 1213,PT Sang Hyang Seri
-1214,Dewan Perwakilan Rakyat Daerah (DPRD)
+1214,Dewan Perwakilan Rakyat Daerah DPRD
 1215,PT Nindya Karya
-1216,Badan Pengelola Keuangan Haji (BPKH)
-1217,Badan Penyelenggara Jaminan Sosial Kesehatan (BPJS Kesehatan)
-1218,Badan Penyelenggara Jaminan Sosial Ketenagakerjaan (BPJAMSOSTEK)
-1219,Lembaga Penjamin Simpanan (LPS)
-1220,Otoritas Jasa Keuangan (OJK)
-1221,Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi (SKK Migas)
+1216,Badan Pengelola Keuangan Haji BPKH
+1217,Badan Penyelenggara Jaminan Sosial Kesehatan BPJS Kesehatan
+1218,Badan Penyelenggara Jaminan Sosial Ketenagakerjaan BPJAMSOSTEK
+1219,Lembaga Penjamin Simpanan LPS
+1220,Otoritas Jasa Keuangan OJK
+1221,Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi SKK Migas
 1222,Badan Nasional Pengelola Perbatasan
-1223,Badan Pengusahaan Kawasan Perdagangan Bebas & Pelabuhan Bebas Sabang
+1223,Badan Pengusahaan Kawasan Perdagangan Bebas  Pelabuhan Bebas Sabang
 1224,Badan Pembinaan Ideologi Pancasila
 1225,Pemerintah Kabupaten Boalemo
 1226,Lembaga Penyiaran Publik Radio Republik Indonesia
@@ -1274,7 +1274,7 @@
 1272,Pemerintah Kota Tasikmalaya
 1273,Pemerintah Provinsi Jawa Barat
 1274,PT Indofarma
-1275,"PT Telkom Indonesia (Persero), Tbk."
+1275,PT Telkom Indonesia Persero Tbk
 1276,Pemerintah Kabupaten Banjarnegara
 1277,Pemerintah Kabupaten Banyumas
 1278,Pemerintah Kabupaten Batang
@@ -1607,7 +1607,7 @@
 1605,Pemerintah Kota Palopo
 1606,Pemerintah Kota Pare Pare
 1607,Pemerintah Provinsi Sulawesi Selatan
-1608,PT Kawasan Industri Makassar (Persero)
+1608,PT Kawasan Industri Makassar Persero
 1609,Pemerintah Kabupaten Banggai
 1610,Pemerintah Kabupaten Banggai Kepulauan
 1611,Pemerintah Kabupaten Banggai Laut
