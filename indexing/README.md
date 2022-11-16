@@ -25,6 +25,6 @@ The search functionality is implemented as an API (REST).
 
 To perform the API request:
 1. Using CURL:
-Enter the following in command line: curl "localhost:5000/get-references?nama_instansi=kementerian%20bumn"
+    - Enter the following in command line: curl "localhost:5000/get-references?nama_instansi=kementerian%20bumn"
 2. Postman:
-Create new GET request, enter the base url (localhost:5000/get-references), and add the query string parameter under *Params* menu
+    - Create new GET request, enter the base url (localhost:5000/get-references), and add the query string parameter under *Params* menu
