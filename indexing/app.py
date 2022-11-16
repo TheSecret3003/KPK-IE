@@ -1,7 +1,11 @@
-from flask import Flask, render_template, request
+from flask import Flask, request
 import pandas as pd
-import numpy as np
 import search
+
+"""
+Example using Curl:
+- curl "localhost:5000/get-references?nama_instansi=kementerian%20bumn"
+"""
 
 app = Flask(__name__)
 
@@ -11,7 +15,7 @@ def get_references():
     index_table = pd.read_csv('./data/v2/index_table.csv')
     # Read reference data
     reference_data = pd.read_csv('./data/v2/reference_data.csv')
-    
+
     args = request.args
     nama_instansi = args.get('nama_instansi')
 
