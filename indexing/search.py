@@ -1,3 +1,5 @@
+import ast
+
 class Search(object):
     """
     Class Search to perform search
@@ -20,7 +22,10 @@ class Search(object):
 
         for word in words:
             try:
-                index_candidates[word] = self.index_table[self.index_table['Kata'].str.lower()==word.lower()]['Index'].iloc[0]
+                indexes = self.index_table[self.index_table['Kata'].str.lower()==word.lower()]['Index'].iloc[0]
+                if type(indexes) == str:
+                    indexes = ast.literal_eval(indexes)
+                index_candidates[word] = indexes
             except:
                 # word is not found in Index table
                 continue
@@ -28,7 +33,7 @@ class Search(object):
         for word, indexes in index_candidates.items():
             words = []
             for i in indexes:
-                words.append(self.reference_data.iloc[i].iloc[0])
+                words.append(self.reference_data.iloc[int(i)].iloc[0])
             phrase_candidates[word] =  words
 
         return phrase_candidates
