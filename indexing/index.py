@@ -51,6 +51,7 @@ class Index(object):
             phrase = row.get("reference", 0)
             words = phrase.split()
             for word in words:
+                word = word.lower()
                 if word not in unique_words:
                     unique_words.append(word)
         

@@ -53,6 +53,7 @@ class PreprocessReferenceData(object):
         combined = combined.rename(columns={0: 'reference'})
         combined = combined.reset_index()
         combined = combined.drop(['index'], axis=1)
+        combined['reference'] = combined['reference'].str.lower()
 
         cleaned = self.clean_reference_data(combined)
         return cleaned

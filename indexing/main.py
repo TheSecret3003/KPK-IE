@@ -29,7 +29,7 @@ def create_index_table(version, reference_data):
 
 if __name__ == "__main__":
     # reference_data = create_reference_data('v1')
-    # print(ref)
+    # print(reference_data)
 
     reference_data = pd.read_csv('./data/indexing_v1/reference_data.csv')
 
