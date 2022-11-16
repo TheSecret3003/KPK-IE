@@ -33,7 +33,6 @@ class Search(object):
         for word, indexes in index_candidates.items():
             words = []
             for i in indexes:
-                words.append(self.reference_data.iloc[int(i)].iloc[0])
+                words.append(self.reference_data.iloc[int(i)].iloc[1])
             phrase_candidates[word] =  words
-
         return phrase_candidates
