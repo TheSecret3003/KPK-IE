@@ -1,0 +1,590 @@
+instansi,reference,status,similiarity
+Kementerian Koperasi dan Usaha Kecil dan Menengah,Kementerian Koperasi dan UKM,yes,0.8546260595321655
+Kementerian Koperasi dan Usaha Kecil dan Menengah,KemenkopUKM,yes,0.41350483894348145
+Kementerian Koperasi dan Usaha Kecil dan Menengah,UKM,no,0.37712404131889343
+Kementerian Koperasi dan Usaha Kecil dan Menengah,Usaha Kecil dan Menengah,no,0.7228413224220276
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),PANRB,yes,0.3545236587524414
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),Kemen PANRB,yes,0.605305552482605
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),Aparatur Negara,no,0.6153305768966675
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kem PANRB),Aparatur Sipil Negara,no,0.5968124866485596
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Kemen PPPA,yes,0.3444423973560333
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Kementerian PP & PA,yes,0.3659816384315491
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Pemberdayaan Perempuan,no,0.6860275268554688
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Komisi Perlindungan Anak Indonesia,no,0.6857602596282959
+Badan Pengawas Pemilihan Umum (Bawaslu),Badan Pengawas Pemilu,yes,0.764690101146698
+Badan Pengawas Pemilihan Umum (Bawaslu),Inspektur Utama Badan Pengawas Pemilihan Umum,yes,0.7199642658233643
+Badan Pengawas Pemilihan Umum (Bawaslu),Komisi Pemilihan Umum,no,0.5340577960014343
+Badan Pengawas Pemilihan Umum (Bawaslu),Panitia Pemilihan Umum,no,0.5179132223129272
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,Badan Pengusahaan Batam (BP Batam),yes,0.6870374083518982
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,BP Batam,yes,0.4290753901004791
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,Pemerintah Kota Batam,no,0.5181909799575806
+Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Batam,Universitas Batam,no,0.40684667229652405
+Badan Pusat Statistik (BPS),BPS Provinsi Sulawesi Utara,yes,0.49359655380249023
+Badan Pusat Statistik (BPS),Badan Pusat Statistik Provinsi Bali,yes,0.7451357841491699
+Badan Pusat Statistik (BPS),BPSDM,no,0.5974756479263306
+Badan Pusat Statistik (BPS),Badan Standardisasi Nasional (BSN),no,0.6282123923301697
+Badan Search And Rescue Nasional (Basarnas),Badan SAR Nasional (Basarnas),yes,0.7465428113937378
+Badan Search And Rescue Nasional (Basarnas),Badan Nasional Pencarian dan Pertolongan (BNPP),yes,0.6064313054084778
+Badan Search And Rescue Nasional (Basarnas),Badan Nasional Penanggulangan Bencana,no,0.3783203363418579
+Badan Search And Rescue Nasional (Basarnas),Badan Standardisasi Nasional (BSN),no,0.5811597108840942
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Komisi Nasional HAM,yes,0.7700012922286987
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Komnas HAM,yes,0.6207830309867859
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Kementerian Hukum dan Hak Asasi Manusia,no,0.6321194171905518
+Komisi Nasional Hak Asasi Manusia (Komnas HAM),Direktorat Fasilitasi dan Informasi HAM,no,0.5180850028991699
+Komisi Pemberantasan Korupsi (KPK),Komisi Pemberantasan Korupsi,yes,0.7959449291229248
+Komisi Pemberantasan Korupsi (KPK),KPK,yes,0.5505568981170654
+Komisi Pemberantasan Korupsi (KPK),KPKNL,no,0.3290466070175171
+Komisi Pemberantasan Korupsi (KPK),Komisi Pemilihan Umum,no,0.41849201917648315
+Lembaga Administrasi Negara (LAN),Lembaga Administrasi Negara,yes,0.7000161409378052
+Lembaga Administrasi Negara (LAN),LAN RI,yes,0.4760049879550934
+Lembaga Administrasi Negara (LAN),Jurusan Administrasi Negara,no,0.5326659679412842
+Lembaga Administrasi Negara (LAN),Sekolah Tinggi Ilmu Administrasi Lembaga Administrasi Negara,no,0.5884588360786438
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Perpustakaan Nasional RI,yes,0.6762349009513855
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Perpustakaan Nasional Republik Indonesia,yes,0.7101677060127258
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Dinas Perpustakaan,no,0.37950384616851807
+Perpustakaan Nasional Republik Indonesia (Perpusnas),Perpustakaan Jakarta Cikini,no,0.34252622723579407
+Komisi Kejaksaan Republik Indonesia,KKRI,yes,0.2505344748497009
+Komisi Kejaksaan Republik Indonesia,Komisi Kejaksaan RI,yes,0.8166719079017639
+Komisi Kejaksaan Republik Indonesia,Kejaksaan Republik Indonesia,no,0.8623210191726685
+Komisi Kejaksaan Republik Indonesia,Komisi Kebenaran dan Rekonsiliasi,no,0.495915949344635
+Komisi Penyiaran Indonesia (KPI),Komisi Penyiaran Indonesia Pusat,yes,0.7447954416275024
+Komisi Penyiaran Indonesia (KPI),Komisi Penyiaran Indonesia Daerah,yes,0.7136173248291016
+Komisi Penyiaran Indonesia (KPI),Lembaga Penyiaran Publik,no,0.5781033635139465
+Komisi Penyiaran Indonesia (KPI),Komisi Kejaksaan Republik Indonesia,no,0.496047705411911
+Dewan Perwakilan Rakyat Daerah (DPRD),DPRD,yes ,0.5128684043884277
+Dewan Perwakilan Rakyat Daerah (DPRD),Dewan Perwakilan Rakyat Daerah,yes ,0.8422727584838867
+Dewan Perwakilan Rakyat Daerah (DPRD),DPR,no,0.5025399923324585
+Dewan Perwakilan Rakyat Daerah (DPRD),DPD,no,0.4990521967411041
+Dewan Perwakilan Rakyat Daerah (DPRD),Dewan Perwakilan Rakyat,no,0.794698178768158
+Dewan Perwakilan Rakyat Daerah (DPRD),Dewan Perwakilan Daerah,no,0.7651997804641724
+Dewan Perwakilan Rakyat Daerah (DPRD),Dewan,no,0.543912947177887
+Badan Pengelola Keuangan Haji (BPKH),Badan Pengelola Keuangan Haji,yes,0.7309930324554443
+Badan Pengelola Keuangan Haji (BPKH),BPKH,yes,0.428230881690979
+Badan Pengelola Keuangan Haji (BPKH),Badan Pengelola Keuangan,no,0.6394174695014954
+Badan Pengelola Keuangan Haji (BPKH),BPK,no,0.4254617393016815
+Badan Pengelola Keuangan Haji (BPKH),Badan Pengelola Haji,no,0.6512895822525024
+Lembaga Penjamin Simpanan (LPS),Lembaga Penjamin Simpanan,yes,0.7699031829833984
+Lembaga Penjamin Simpanan (LPS),LPS,yes,0.3529868721961975
+Lembaga Penjamin Simpanan (LPS),Lembaga Penjamin,no,0.6921113133430481
+Lembaga Penjamin Simpanan (LPS),Lembaga Simpanan,no,0.5093051195144653
+Otoritas Jasa Keuangan (OJK),Otoritas Jasa Keuangan,yes,0.6910487413406372
+Otoritas Jasa Keuangan (OJK),OJK,yes,0.6624492406845093
+Otoritas Jasa Keuangan (OJK),Otoritas Keuangan,no,0.6590923070907593
+Otoritas Jasa Keuangan (OJK),Otoritas Jasa,no,0.6048392057418823
+Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi (SKK Migas),Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi,yes,0.8997512459754944
+Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi (SKK Migas),SKK Migas,yes,0.5739951729774475
+Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi (SKK Migas),Satuan Kerja Khusus,no,0.5573094487190247
+Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Bumi (SKK Migas),Satuan Kerja Khusus Pelaksana Kegiatan Usaha,no,0.7205199599266052
+Pemerintah Kota Jakarta Selatan,Pemkot Jakarta Selatan,yes,0.8038535118103027
+Pemerintah Kota Jakarta Selatan,Pemerintah Kota Administrasi Jakarta Selatan,yes,0.9347040057182312
+Pemerintah Kota Jakarta Selatan,Pemerintah Kota Jakarta Pusat,no,0.8682641386985779
+Pemerintah Kota Jakarta Selatan,Pemerintah Kota Jakarta Barat,no,0.9586880207061768
+Pemerintah Kabupaten Pohuwato,Pemkab Pohuwato,yes,0.8529602885246277
+Pemerintah Kabupaten Pohuwato,Pohuwato,no,0.7008900046348572
+Pemerintah Kabupaten Pohuwato,Pemerintah Pohuwato,yes,0.8490688800811768
+Pemerintah Kabupaten Muaro Jambi,Pemkab Muaro Jambi,yes,0.8959216475486755
+Pemerintah Kabupaten Muaro Jambi,Muaro Jambi,no,0.7375362515449524
+Pemerintah Kabupaten Muaro Jambi,Pemerintah Muaro Jambi,yes,0.9137744903564453
+Pemerintah Kabupaten Tanjung Jabung Barat,Pemkab Tanjung Jabung Barat,yes,0.90240079164505
+Pemerintah Kabupaten Tanjung Jabung Barat,Tanjung Jabung Barat,no,0.7270479798316956
+Pemerintah Kabupaten Tanjung Jabung Barat,Pemerintah Tanjung Jabung Barat,yes,0.9341043829917908
+Pemerintah Provinsi Jambi,Pemprov Jambi,yes,0.7107124924659729
+Pemerintah Provinsi Jambi,Jambi,no,0.5761269330978394
+Pemerintah Kabupaten Bandung,Pemkab Bandung,yes,0.7498618960380554
+Pemerintah Kabupaten Bandung,Bandung,no,0.4239168167114258
+Pemerintah Kabupaten Bandung,Pemerintah Bandung,yes,0.8259784579277039
+Pemerintah Kabupaten Bogor,Pemkab Bogor,yes,0.7656201720237732
+Pemerintah Kabupaten Bogor,Bogor,no,0.46622851490974426
+Pemerintah Kabupaten Bogor,Pemerintah Bogor,yes,0.8594720959663391
+Pemerintah Kabupaten Cianjur,Pemkab Cianjur,yes,0.8023633360862732
+Pemerintah Kabupaten Cianjur,Cianjur,no,0.5618595480918884
+Pemerintah Kabupaten Cianjur,Pemerintah Cianjur,yes,0.9069632887840271
+Pemerintah Kabupaten Garut,Pemkab Garut,yes,0.8125735521316528
+Pemerintah Kabupaten Garut,Garut,no,0.5438692569732666
+Pemerintah Kabupaten Garut,Pemerintah Garut,yes,0.9162102937698364
+Pemerintah Kabupaten Majalengka,Pemkab Majalengka,yes,0.8302454948425293
+Pemerintah Kabupaten Majalengka,Majalengka,no,0.5611531734466553
+Pemerintah Kabupaten Majalengka,Pemerintah Majalengka,yes,0.9121977686882019
+Pemerintah Kabupaten Purwakarta,Pemkab Purwakarta,yes,0.8112452030181885
+Pemerintah Kabupaten Purwakarta,Purwakarta,no,0.5135416388511658
+Pemerintah Kabupaten Purwakarta,Pemerintah Purwakarta,yes,0.9094796776771545
+Pemerintah Kota Bogor,Pemkot Bogor,yes,0.7290675044059753
+Pemerintah Kota Bogor,Bogor,no,0.49002838134765625
+Pemerintah Kabupaten Magelang,Pemkab Magelang,yes,0.7856466174125671
+Pemerintah Kabupaten Magelang,Magelang,no,0.5185441970825195
+Pemerintah Kabupaten Magelang,Pemerintah Magelang,yes,0.8829190731048584
+Pemerintah Kabupaten Sragen,Pemkab Sragen,yes,0.8039791584014893
+Pemerintah Kabupaten Sragen,Sragen,no,0.5543683171272278
+Pemerintah Kabupaten Sragen,Pemerintah Sragen,yes,0.9056999087333679
+Pemerintah Kota Pekalongan,Pemkot Pekalongan,yes,0.7242991924285889
+Pemerintah Kota Pekalongan,Pekalongan,no,0.5113834142684937
+Pemerintah Kota Semarang,Pemkot Semarang,yes,0.7468510270118713
+Pemerintah Kota Semarang,Semarang,no,0.5141009092330933
+Pemerintah Kabupaten Banyuwangi,Pemkab Banyuwangi,yes,0.8296945691108704
+Pemerintah Kabupaten Banyuwangi,Banyuwangi,no,0.6034879684448242
+Pemerintah Kabupaten Banyuwangi,Pemerintah Banyuwangi,yes,0.9198397397994995
+Pemerintah Kabupaten Gresik,Pemkab Gresik,yes,0.7544119358062744
+Pemerintah Kabupaten Gresik,Gresik,no,0.5584443211555481
+Pemerintah Kabupaten Gresik,Pemerintah Gresik,yes,0.8563100099563599
+Pemerintah Kabupaten Malang,Pemkab Malang,yes,0.7450024485588074
+Pemerintah Kabupaten Malang,Malang,no,0.43184220790863037
+Pemerintah Kabupaten Malang,Pemerintah Malang,yes,0.8470725417137146
+Pemerintah Kabupaten Madiun,Pemkab Madiun,yes,0.7732517123222351
+Pemerintah Kabupaten Madiun,Madiun,no,0.5230677127838135
+Pemerintah Kabupaten Madiun,Pemerintah Madiun,yes,0.8801127672195435
+Pemerintah Kabupaten Sampang,Pemkab Sampang,yes,0.8108832240104675
+Pemerintah Kabupaten Sampang,Sampang,no,0.5625671148300171
+Pemerintah Kabupaten Sampang,Pemerintah Sampang,yes,0.875842273235321
+Pemerintah Kabupaten Situbondo,Pemkab Situbondo,yes,0.8138582110404968
+Pemerintah Kabupaten Situbondo,Situbondo,no,0.5714915990829468
+Pemerintah Kabupaten Situbondo,Pemerintah Situbondo,yes,0.9060645699501038
+Pemerintah Kota Mojokerto,Pemkot Mojokerto,yes,0.7791003584861755
+Pemerintah Kota Mojokerto,Mojokerto,no,0.5129764676094055
+Pemerintah Kabupaten Melawi,Pemkab Melawi,yes,0.7770640254020691
+Pemerintah Kabupaten Melawi,Melawi,no,0.5312712788581848
+Pemerintah Kabupaten Melawi,Pemerintah Melawi,yes,0.8034956455230713
+Pemerintah Kabupaten Banjar,Pemkab Banjar,yes,0.7926740050315857
+Pemerintah Kabupaten Banjar,Banjar,no,0.5047997236251831
+Pemerintah Kabupaten Banjar,Pemerintah Banjar,yes,0.8746472001075745
+Pemerintah Kabupaten Barito Kuala,Pemkab Barito Kuala,yes,0.8412483334541321
+Pemerintah Kabupaten Barito Kuala,Barito Kuala,no,0.7437735795974731
+Pemerintah Kabupaten Barito Kuala,Pemerintah Barito Kuala,yes,0.8897716403007507
+Pemerintah Kabupaten Kotabaru,Pemkab Kotabaru,yes,0.8372957110404968
+Pemerintah Kabupaten Kotabaru,Kotabaru,no,0.699290931224823
+Pemerintah Kabupaten Kotabaru,Pemerintah Kotabaru,yes,0.8960643410682678
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Utara,no,0.7273013591766357
+Pemerintah Kabupaten Aceh Besar,Pemprov Nanggroe Aceh Darusalam,no,0.5830183029174805
+Pemerintah Kabupaten Aceh Besar,Pemerintah Provinsi Nanggroe Aceh Darusalam,no,0.665951669216156
+Pemerintah Kabupaten Aceh Besar,Pemkot Banda Aceh,no,0.5341743230819702
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Utara,no,0.9013904333114624
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Barat Daya,no,0.7139602303504944
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Barat Daya,no,0.8503758311271667
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Tengah,no,0.732290506362915
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Tengah,no,0.9097819924354553
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kota Banda Aceh,no,0.7371156811714172
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Tenggara,no,0.8945298790931702
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Besar,yes,0.8269078135490417
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Tamiang,no,0.8682370185852051
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Timur,no,0.9138423800468445
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Barat,no,0.9083699584007263
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Singkil,no,0.8768715262413025
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Tenggara,no,0.7546154856681824
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Timur,no,0.758790910243988
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Selatan,no,0.7577970623970032
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Singkil,no,0.7232733368873596
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Jaya,no,0.8953242897987366
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Tamiang,no,0.7592689990997314
+Pemerintah Kabupaten Aceh Besar,Pemerintah Kabupaten Aceh Selatan,no,0.9080585837364197
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Barat,no,0.7782071828842163
+Pemerintah Kabupaten Aceh Besar,Pemkab Aceh Jaya,no,0.7205241918563843
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Jaya,no,0.847602128982544
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Tengah,no,0.8867048621177673
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Tengah,no,0.7665698528289795
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Jaya,no,0.7232049107551575
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Singkil,yes,0.8849093914031982
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Utara,no,0.7543289065361023
+Pemerintah Kabupaten Aceh Singkil,Pemkot Banda Aceh,no,0.5305774807929993
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kota Banda Aceh,no,0.7020888924598694
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Besar,no,0.767548680305481
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Besar,no,0.8768715262413025
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Timur,no,0.7751012444496155
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Timur,no,0.8651010990142822
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Tamiang,no,0.7749561667442322
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Tamiang,no,0.8382521271705627
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Provinsi Nanggroe Aceh Darusalam,no,0.6838120222091675
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Utara,no,0.8595027327537537
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Barat Daya,no,0.7307798266410828
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Barat Daya,no,0.8216911554336548
+Pemerintah Kabupaten Aceh Singkil,Pemprov Nanggroe Aceh Darusalam,no,0.6168169975280762
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Barat,no,0.8446877598762512
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Selatan,no,0.7682958841323853
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Selatan,no,0.8555896878242493
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Barat,no,0.7774742841720581
+Pemerintah Kabupaten Aceh Singkil,Pemerintah Kabupaten Aceh Tenggara,no,0.8728066682815552
+Pemerintah Kabupaten Aceh Singkil,Pemkab Aceh Tenggara,no,0.7821584343910217
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Singkil,no,0.6858548521995544
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Utara,no,0.6957000494003296
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Singkil,no,0.8382521271705627
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Utara,no,0.8634650707244873
+Pemerintah Kabupaten Aceh Tamiang,Pemprov Nanggroe Aceh Darusalam,no,0.5662520527839661
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Provinsi Nanggroe Aceh Darusalam,no,0.6605314612388611
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Besar,no,0.8682370185852051
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Besar,no,0.7039204835891724
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Tengah,no,0.6963783502578735
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Tengah,no,0.8544725775718689
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Tenggara,no,0.8480453491210938
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Barat,no,0.8563700318336487
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Barat,no,0.7295835614204407
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Timur,no,0.7112297415733337
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Timur,no,0.8529831767082214
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Barat Daya,no,0.6814488768577576
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Barat Daya,no,0.8044520616531372
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kota Banda Aceh,no,0.6916813850402832
+Pemerintah Kabupaten Aceh Tamiang,Pemkot Banda Aceh,no,0.5179358124732971
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Selatan,no,0.733554482460022
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Selatan,no,0.8787833452224731
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Jaya,no,0.6704888939857483
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Tamiang,yes,0.9057126641273499
+Pemerintah Kabupaten Aceh Tamiang,Pemkab Aceh Tenggara,no,0.7228515148162842
+Pemerintah Kabupaten Aceh Tamiang,Pemerintah Kabupaten Aceh Jaya,no,0.8397910594940186
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kota Banda Aceh,no,0.7282270789146423
+Pemerintah Kabupaten Aceh Utara,Pemkot Banda Aceh,no,0.5297502279281616
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Tamiang,no,0.7671761512756348
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Singkil,no,0.7141169905662537
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Selatan,no,0.9714677929878235
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Tamiang,no,0.8634650707244873
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Tengah,no,0.7669982314109802
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Tengah,no,0.9314213395118713
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Besar,no,0.7467231154441833
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Barat Daya,no,0.7508382201194763
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Besar,no,0.9013904333114624
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Timur,no,0.9584536552429199
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Selatan,no,0.8329451084136963
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Singkil,no,0.8595027327537537
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Barat Daya,no,0.8817989826202393
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Timur,no,0.810800313949585
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Jaya,no,0.7434583902359009
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Jaya,no,0.9116777181625366
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Tenggara,no,0.7890256643295288
+Pemerintah Kabupaten Aceh Utara,Pemprov Nanggroe Aceh Darusalam,no,0.5368907451629639
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Barat,no,0.8285508155822754
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Barat,no,0.9494888186454773
+Pemerintah Kabupaten Aceh Utara,Pemerintah Kabupaten Aceh Tenggara,no,0.9230245351791382
+Pemerintah Kabupaten Aceh Utara,Pemkab Aceh Utara,yes,0.8305838704109192
+Pemerintah Kabupaten Aceh Utara,Pemerintah Provinsi Nanggroe Aceh Darusalam,no,0.632645308971405
+Pemerintah Kabupaten Barito Timur,Pemerintah Kabupaten Barito Selatan,no,0.9618697762489319
+Pemerintah Kabupaten Barito Timur,Pemkab Barito Utara,no,0.8110820651054382
+Pemerintah Kabupaten Barito Timur,Pemerintah Kabupaten Barito Utara,no,0.9604647755622864
+Pemerintah Kabupaten Barito Timur,Pemkab Barito Timur,yes,0.8467507362365723
+Pemerintah Kabupaten Barito Timur,Pemkab Barito Selatan,no,0.8243401646614075
+Pemerintah Kabupaten Bener Meriah,Pemkab Bener Meriah,yes,0.834460437297821
+Pemerintah Kabupaten Bener Meriah,Komisi Independen Kabupaten Bener Meriah,no,0.7819885015487671
+Pemerintah Kabupaten Bener Meriah,KIP Kabupaten Bener Meriah,no,0.8837200999259949
+Pemerintah Kabupaten Flores Timur,Pemkab Flores Timur,yes,0.8213301301002502
+Pemerintah Kabupaten Flores Timur,Pemerintah Kabupaten Flores,yes,0.9304596185684204
+Pemerintah Kabupaten Flores Timur,Pemkab Flores,yes,0.7121215462684631
+Pemerintah Kabupaten Halmahera Barat,Pemerintah Kabupaten Halmahera Utara,no,0.9620082974433899
+Pemerintah Kabupaten Halmahera Barat,Pemkab Halmahera Selatan,no,0.8169771432876587
+Pemerintah Kabupaten Halmahera Barat,Pemerintah Kabupaten Halmahera Selatan,no,0.9666939973831177
+Pemerintah Kabupaten Halmahera Barat,Pemerintah Kabupaten Halmahera Tengah,no,0.9426256418228149
+Pemerintah Kabupaten Halmahera Barat,Pemkab Halmahera Barat,yes,0.8725022077560425
+Pemerintah Kabupaten Halmahera Barat,Pemkab Halmahera Utara,no,0.796109139919281
+Pemerintah Kabupaten Halmahera Barat,Pemkab Halmahera Tengah,no,0.7945562601089478
+Pemerintah Kabupaten Halmahera Barat,Pemerintah Kabupaten Halmahera Timur,no,0.9680428504943848
+Pemerintah Kabupaten Halmahera Barat,Pemkab Halmahera Timur,no,0.8187740445137024
+Pemerintah Kabupaten Halmahera Timur,Pemkab Halmahera Timur,yes,0.8720414042472839
+Pemerintah Kabupaten Halmahera Timur,Pemerintah Kabupaten Halmahera Selatan,no,0.9680058360099792
+Pemerintah Kabupaten Halmahera Timur,Pemerintah Kabupaten Halmahera Utara,no,0.9676535129547119
+Pemerintah Kabupaten Halmahera Timur,Pemerintah Kabupaten Halmahera Barat,no,0.9680428504943848
+Pemerintah Kabupaten Halmahera Timur,Pemkab Halmahera Barat,no,0.8592420220375061
+Pemerintah Kabupaten Halmahera Timur,Pemerintah Kabupaten Halmahera Tengah,no,0.9394236207008362
+Pemerintah Kabupaten Halmahera Timur,Pemkab Halmahera Tengah,no,0.8035696744918823
+Pemerintah Kabupaten Halmahera Timur,Pemkab Halmahera Selatan,no,0.8381565809249878
+Pemerintah Kabupaten Halmahera Timur,Pemkab Halmahera Utara,no,0.8249108791351318
+Pemerintah Kabupaten Jayapura,Pemerintah Kabupaten Jayawijaya,no,0.7367717027664185
+Pemerintah Kabupaten Jayapura,Pemkab Jayawijaya,no,0.5840191841125488
+Pemerintah Kabupaten Jayapura,Pemkab Jayapura,yes,0.8208314776420593
+Pemerintah Kabupaten Karimun,Pemkab Karimun,yes,0.8001930713653564
+Pemerintah Kabupaten Karimun,Karimun Jawa,no,0.5691993832588196
+Pemerintah Kabupaten Katingan,BPS Kabupaten Katingan,no,0.906014084815979
+Pemerintah Kabupaten Katingan,Badan Pusat Statistik Kabupaten Katingan,no,0.6918433904647827
+Pemerintah Kabupaten Katingan,Pemkab Katingan,yes,0.7613826990127563
+Pemerintah Kabupaten Katingan,Kuningan,no,0.284294992685318
+Pemerintah Kabupaten Kepulauan Anambas,Pemerintah Kabupaten Kepulauan Aru,no,0.7600523233413696
+Pemerintah Kabupaten Kepulauan Anambas,Pemkab Anambas,yes,0.7382538914680481
+Pemerintah Kabupaten Kepulauan Anambas,Pemkab Kepulauan Aru,no,0.6454867720603943
+Pemerintah Kabupaten Kepulauan Anambas,Pemerintah Kabupaten Kepulauan Sula,no,0.780974268913269
+Pemerintah Kabupaten Kepulauan Anambas,Pemkab Kepulauan Sula,no,0.6306184530258179
+Pemerintah Kabupaten Kepulauan Anambas,Pemerintah Kabupaten Anambas,yes,0.954823911190033
+Pemerintah Kabupaten Kepulauan Anambas,Pemerintah Kabupaten Kepulauan Yapen,no,0.7338679432868958
+Pemerintah Kabupaten Kepulauan Anambas,Pemkab Kepulauan Yapen,no,0.6739700436592102
+Pemerintah Kabupaten Kepulauan Anambas,Pemkab Kepulauan Anambas,yes,0.8714998960494995
+Pemerintah Kabupaten Lampung Timur,Pemerintah Kabupaten Lampung Selatan,no,0.9605879187583923
+Pemerintah Kabupaten Lampung Timur,Pemkab Lampung Selatan,no,0.8067314028739929
+Pemerintah Kabupaten Lampung Timur,Pemerintah Kota Bandar Lampung,no,0.8229196667671204
+Pemerintah Kabupaten Lampung Timur,Pemkot Bandar Lampung,no,0.6425928473472595
+Pemerintah Kabupaten Lampung Timur,Pemerintah Provinsi Lampung,no,0.8624731302261353
+Pemerintah Kabupaten Lampung Timur,Pemprov Lampung,no,0.6094315052032471
+Pemerintah Kabupaten Lampung Timur,Pemkab Lampung Timur,yes,0.8329957127571106
+Pemerintah Kabupaten Lampung Timur,Pemkab Lampung Utara,no,0.7881991863250732
+Pemerintah Kabupaten Lampung Timur,Pemkab Lampung Barat,no,0.8148640990257263
+Pemerintah Kabupaten Lampung Timur,Pemerintah Kabupaten Lampung Barat,no,0.9586462378501892
+Pemerintah Kabupaten Lampung Timur,Pemerintah Kabupaten Lampung Utara,no,0.9618558287620544
+Pemerintah Kabupaten Lampung Timur,Pemerintah Kabupaten Lampung Tengah,no,0.9383298754692078
+Pemerintah Kabupaten Lampung Timur,Pemkab Lampung Tengah,no,0.7705935835838318
+Pemerintah Kabupaten Lembata,Lembang,no,0.2816382944583893
+Pemerintah Kabupaten Lembata,Pemkab Lembata,yes,0.8396143317222595
+Pemerintah Kabupaten Lombok Barat,Pemerintah Kabupaten Lombok Tengah,no,0.9327198266983032
+Pemerintah Kabupaten Lombok Barat,Pemkab Lombok Tengah,no,0.7561460733413696
+Pemerintah Kabupaten Lombok Barat,Pemkab Lombok Barat,yes,0.8438937067985535
+Pemerintah Kabupaten Lombok Barat,Pemerintah Kabupaten Lombok Utara,no,0.9565747380256653
+Pemerintah Kabupaten Lombok Barat,Pemkab Lombok Utara,no,0.7770208120346069
+Pemerintah Kabupaten Lombok Barat,Pemkab Lombok Timur,no,0.7888179421424866
+Pemerintah Kabupaten Lombok Barat,Pemerintah Kabupaten Lombok Timur,no,0.9623063206672668
+Pemerintah Kabupaten Lombok Utara,Pemkab Lombok Tengah,no,0.7916036248207092
+Pemerintah Kabupaten Lombok Utara,Pemerintah Kabupaten Lombok Barat,no,0.9565747380256653
+Pemerintah Kabupaten Lombok Utara,Pemkab Lombok Barat,no,0.8349800705909729
+Pemerintah Kabupaten Lombok Utara,Pemerintah Kabupaten Lombok Tengah,no,0.9374176859855652
+Pemerintah Kabupaten Lombok Utara,Pemkab Lombok Utara,yes,0.8484439849853516
+Pemerintah Kabupaten Lombok Utara,Pemerintah Kabupaten Lombok Timur,no,0.9614100456237793
+Pemerintah Kabupaten Lombok Utara,Pemkab Lombok Timur,no,0.8189240097999573
+Pemerintah Kabupaten Malaka,Pemkab Maluku Tenggara Barat,no,0.5186291933059692
+Pemerintah Kabupaten Malaka,Pemkab Maluku Barat Daya,no,0.49965447187423706
+Pemerintah Kabupaten Malaka,Pemerintah Kabupaten Maluku Tenggara,no,0.6933788061141968
+Pemerintah Kabupaten Malaka,Pemkab Maluku Tenggara,no,0.5615448355674744
+Pemerintah Kabupaten Malaka,Pemerintah Kabupaten Maluku Tengah,no,0.7004861235618591
+Pemerintah Kabupaten Malaka,Pemkab Maluku Tengah,no,0.5444738268852234
+Pemerintah Kabupaten Malaka,Pemerintah Kabupaten Maluku Tenggara Barat,no,0.6403639316558838
+Pemerintah Kabupaten Malaka,Pemkab Malaka,yes,0.7207964062690735
+Pemerintah Kabupaten Malaka,Pemerintah Kabupaten Maluku Barat Daya,no,0.6389074921607971
+Pemerintah Kabupaten Malaka,Pemprov Maluku,no,0.46781980991363525
+Pemerintah Kabupaten Malaka,Pemerintah Provinsi Maluku,no,0.6385757327079773
+Pemerintah Kabupaten Maluku Tenggara,Pemprov Maluku,no,0.5779883861541748
+Pemerintah Kabupaten Maluku Tenggara,Pemerintah Kabupaten Maluku Barat Daya,no,0.8955821394920349
+Pemerintah Kabupaten Maluku Tenggara,Pemerintah Provinsi Maluku,no,0.8315317630767822
+Pemerintah Kabupaten Maluku Tenggara,Pemkab Maluku Barat Daya,no,0.738762378692627
+Pemerintah Kabupaten Maluku Tenggara,Pemkab Maluku Tengah,no,0.7220585346221924
+Pemerintah Kabupaten Maluku Tenggara,Pemkab Maluku Tenggara,yes,0.8164130449295044
+Pemerintah Kabupaten Maluku Tenggara,Pemkab Malaka,no,0.3748970925807953
+Pemerintah Kabupaten Maluku Tenggara,Pemerintah Kabupaten Maluku Tenggara Barat,no,0.9487194418907166
+Pemerintah Kabupaten Maluku Tenggara,Pemerintah Kabupaten Malaka,no,0.6933788061141968
+Pemerintah Kabupaten Maluku Tenggara,Pemkab Maluku Tenggara Barat,no,0.8055837750434875
+Pemerintah Kabupaten Maluku Tenggara,Pemerintah Kabupaten Maluku Tengah,no,0.932762861251831
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemkab Malaka,no,0.3358939290046692
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemerintah Kabupaten Malaka,no,0.6403639316558838
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemkab Maluku Tengah,no,0.7138949632644653
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemerintah Kabupaten Maluku Tengah,no,0.9031004905700684
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemerintah Provinsi Maluku,no,0.7773992419242859
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemprov Maluku,no,0.5492289066314697
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemerintah Kabupaten Maluku Tenggara,no,0.9487194418907166
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemkab Maluku Tenggara,no,0.7805169224739075
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemkab Maluku Tenggara Barat,yes,0.8703638911247253
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemerintah Kabupaten Maluku Barat Daya,no,0.9293257594108582
+Pemerintah Kabupaten Maluku Tenggara Barat,Pemkab Maluku Barat Daya,no,0.7744077444076538
+Pemerintah Kabupaten Merauke,Pemkab Merauke,yes,0.7817850112915039
+Pemerintah Kabupaten Merauke,Merapi,no,0.2887928783893585
+Pemerintah Kabupaten Nagan Raya,Jakarta Raya,no,0.4440458118915558
+Pemerintah Kabupaten Nagan Raya,Pemkab Nagan Raya,yes,0.8508518934249878
+Pemerintah Kabupaten Ngada,Pemerintah Kabupaten Nduga,no,0.6597573161125183
+Pemerintah Kabupaten Ngada,Pemkab Nduga,no,0.38102656602859497
+Pemerintah Kabupaten Ngada,Pemkab Ngada,yes,0.7443565726280212
+Pemerintah Kabupaten Pidie Jaya,Pemkab Puncak Jaya,no,0.5683261752128601
+Pemerintah Kabupaten Pidie Jaya,Pemerintah Kabupaten Puncak Jaya,no,0.7588918805122375
+Pemerintah Kabupaten Pidie Jaya,Pemkab Pidie Jaya,yes,0.8814386129379272
+Pemerintah Kabupaten Pidie Jaya,Pemerintah Kabupaten Pidie,no,0.9458978772163391
+Pemerintah Kabupaten Pidie Jaya,Pemkab Pidie,no,0.8347819447517395
+Pemerintah Kabupaten Pidie Jaya,Pemerintah Kabupaten Intan Jaya,no,0.8051470518112183
+Pemerintah Kabupaten Pidie Jaya,Pemkab Intan Jaya,no,0.6482071280479431
+Pemerintah Kabupaten Pidie Jaya,Pemerintah Kabupaten Lanny Jaya,no,0.7460335493087769
+Pemerintah Kabupaten Pidie Jaya,Pemkab Lanny Jaya,no,0.4609472155570984
+Pemerintah Kabupaten Pulau Taliabu,Pemkab Taliabu,yes,0.7938244342803955
+Pemerintah Kabupaten Pulau Taliabu,Pemerintah Kabupaten Pulau Morotai,no,0.6961909532546997
+Pemerintah Kabupaten Pulau Taliabu,Pemkab Pulau Morotai,no,0.5747798085212708
+Pemerintah Kabupaten Pulau Taliabu,Pemerintah Kabupaten Taliabu,yes,0.918830931186676
+Pemerintah Kabupaten Pulau Taliabu,Pemkab Pulau Taliabu,yes,0.8727812170982361
+Pemerintah Kabupaten Sarmi,Pemkab Sarmi,yes,0.749603807926178
+Pemerintah Kabupaten Sarmi,Pemerintah Kabupaten Seram,no,0.642227053642273
+Pemerintah Kabupaten Sarmi,Pemkab Seram,no,0.44380617141723633
+Pemerintah Kabupaten Sikka,KPU Kabupaten Sikka,no,0.8600448369979858
+Pemerintah Kabupaten Sikka,Pemkab Sikka,yes,0.7802317142486572
+Pemerintah Kabupaten Sikka,BPS Kabupaten Sikka,no,0.8937081098556519
+Pemerintah Kabupaten Sikka,Komisi Pemilihan Umum Kabupaten Sikka,no,0.7076220512390137
+Pemerintah Kabupaten Sikka,Badan Pusat Statistuk Kabupaten Sikka,no,0.6814867854118347
+Pemerintah Kabupaten Sumba Barat,Pemkab Sumba Barat Daya,no,0.8021888136863708
+Pemerintah Kabupaten Sumba Barat,Pemerintah Kabupaten Sumba Barat Daya,no,0.9509586691856384
+Pemerintah Kabupaten Sumba Barat,Pemprov Sumbar,no,0.44850218296051025
+Pemerintah Kabupaten Sumba Barat,Pemerintah Provinsi Sumbar,no,0.6641877889633179
+Pemerintah Kabupaten Sumba Barat,Pemerintah Kabupaten Sumbawa Barat,no,0.841012716293335
+Pemerintah Kabupaten Sumba Barat,Pemkab Sumbawa Barat,no,0.7330949902534485
+Pemerintah Kabupaten Sumba Barat,Pemerintah Kabupaten Sumbawa,no,0.7843272686004639
+Pemerintah Kabupaten Sumba Barat,Pemkab Sumbawa,no,0.6534793972969055
+Pemerintah Kabupaten Sumba Barat,Pemkab Sumba Barat,yes,0.8309171199798584
+Pemerintah Kabupaten Sumba Barat,Pemkab Sumba Timur,no,0.7764022946357727
+Pemerintah Kabupaten Sumba Barat,Pemerintah Kabupaten Sumba Timur,no,0.9642497897148132
+Pemerintah Kabupaten Sumba Barat,Pemkab Sumba Tengah,no,0.7538326382637024
+Pemerintah Kabupaten Sumba Barat,Pemerintah Kabupaten Sumba Tengah,no,0.9321714639663696
+Pemerintah Kabupaten Sumba Barat Daya,Pemkab Sumba Timur,no,0.7590180039405823
+Pemerintah Kabupaten Sumba Barat Daya,Pemerintah Kabupaten Sumbawa Barat,no,0.8127092123031616
+Pemerintah Kabupaten Sumba Barat Daya,Pemkab Sumbawa Barat,no,0.7283617258071899
+Pemerintah Kabupaten Sumba Barat Daya,Pemerintah Kabupaten Sumba Timur,no,0.9258635640144348
+Pemerintah Kabupaten Sumba Barat Daya,Pemerintah Kabupaten Sumba Barat,no,0.9509586691856384
+Pemerintah Kabupaten Sumba Barat Daya,Pemerintah Kabupaten Sumbawa,no,0.7509850263595581
+Pemerintah Kabupaten Sumba Barat Daya,Pemkab Sumbawa,no,0.6386078000068665
+Pemerintah Kabupaten Sumba Barat Daya,Pemkab Sumba Barat,no,0.8096610307693481
+Pemerintah Kabupaten Sumba Barat Daya,Pemkab Sumba Barat Daya,yes,0.8679243326187134
+Pemerintah Kabupaten Sumba Barat Daya,Pemprov Sumbar,no,0.446441113948822
+Pemerintah Kabupaten Sumba Barat Daya,Pemerintah Provinsi Sumbar,no,0.6429288983345032
+Pemerintah Kabupaten Sumba Barat Daya,Pemerintah Kabupaten Sumba Tengah,no,0.9052149653434753
+Pemerintah Kabupaten Sumba Barat Daya,Pemkab Sumba Tengah,no,0.7435525059700012
+Pemerintah Kabupaten Tanah Laut,Pemerintah Kabupaten Tanah Bumbu,no,0.859668493270874
+Pemerintah Kabupaten Tanah Laut,Pemerintah Kabupaten Tana Tidung,no,0.6660822033882141
+Pemerintah Kabupaten Tanah Laut,Pemkab Tana Tidung,no,0.4673202931880951
+Pemerintah Kabupaten Tanah Laut,Pemkab Tanah Bumbu,no,0.6958737373352051
+Pemerintah Kabupaten Tanah Laut,Pemkab Tanah Laut,yes,0.7239658832550049
+Pemerintah Kabupaten Timor Tengah Selatan,Pemkab TTS,yes,0.4151005148887634
+Pemerintah Kabupaten Timor Tengah Selatan,Pemkab Timteng Selatan,yes,0.569019079208374
+Pemerintah Kabupaten Timor Tengah Selatan,Pemerintah Kabupaten Timteng Selatan,yes,0.7700103521347046
+Pemerintah Kabupaten Timor Tengah Selatan,Pemkab Timor Tengah Selatan,yes,0.8446491360664368
+Pemerintah Kabupaten Timor Tengah Selatan,Pemkab Timor Tengah Utara,no,0.7997625470161438
+Pemerintah Kabupaten Timor Tengah Selatan,Pemerintah Kabupaten Timor Tengah Utara,no,0.980705976486206
+Pemerintah Kabupaten Timor Tengah Selatan,Pemerintah Kabupaten TTS,yes,0.6768205165863037
+Pemerintah Kabupaten Tulang Bawang,Pemkab Tulang Bawang,yes,0.7529978156089783
+Pemerintah Kabupaten Tulang Bawang,Pemkab Tulang Bawang Barat,no,0.7666964530944824
+Pemerintah Kabupaten Tulang Bawang,Pemerintah Kabupaten Tulang Bawang Barat,no,0.923003077507019
+Pemerintah Kota Banda Aceh,Pemkab Aceh Besar,no,0.7055484056472778
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Tengah,no,0.7372691035270691
+Pemerintah Kota Banda Aceh,Pemkot Banda Aceh,yes,0.8075516223907471
+Pemerintah Kota Banda Aceh,Pemerintah Provinsi Nanggroe Aceh Darusalam,no,0.6670708656311035
+Pemerintah Kota Banda Aceh,Pemkab Aceh Tengah,no,0.6805096864700317
+Pemerintah Kota Banda Aceh,Pemerintah Kota Bandar Lampung,no,0.7474110722541809
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Jaya,no,0.745291531085968
+Pemerintah Kota Banda Aceh,Pemkab Aceh Barat,no,0.6956486701965332
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Barat,no,0.7037079930305481
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Timur,no,0.7357208132743835
+Pemerintah Kota Banda Aceh,Pemkab Aceh Jaya,no,0.672002375125885
+Pemerintah Kota Banda Aceh,Pemkot Bandar Lampung,no,0.6006357669830322
+Pemerintah Kota Banda Aceh,Pemkab Aceh Timur,no,0.6894968748092651
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Selatan,no,0.720535397529602
+Pemerintah Kota Banda Aceh,Pemkab Aceh Tamiang,no,0.6448202133178711
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Tamiang,no,0.6916813850402832
+Pemerintah Kota Banda Aceh,Pemkab Aceh Barat Daya,no,0.6503636837005615
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Barat Daya,no,0.682965099811554
+Pemerintah Kota Banda Aceh,Pemkab Aceh Singkil,no,0.6218628883361816
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Singkil,no,0.7020888924598694
+Pemerintah Kota Banda Aceh,Pemkab Aceh Selatan,no,0.6734557151794434
+Pemerintah Kota Banda Aceh,Pemkab Aceh Tenggara,no,0.6964477300643921
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Tenggara,no,0.7518875002861023
+Pemerintah Kota Banda Aceh,Pemkab Aceh Utara,no,0.6766940951347351
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Utara,no,0.7282270789146423
+Pemerintah Kota Banda Aceh,Pemerintah Kabupaten Aceh Besar,no,0.7371156811714172
+Pemerintah Kota Banda Aceh,Pemprov Nanggroe Aceh Darusalam,no,0.6001173257827759
+Pemerintah Kota Lhokseumawe,Pemko Lhokseumawe,yes,0.8786114454269409
+Pemerintah Kota Lhokseumawe,Pemkot Lhokseumawe,yes,0.8678221106529236
+Pemerintah Kota Sabang,Pemkot Sabang,yes,0.7399008870124817
+Pemerintah Kota Sabang,Cabang,no,0.13349497318267822
+Pemerintah Kota Tidore Kepulauan,Pemkot Tidore,yes,0.7737348079681396
+Pemerintah Kota Tidore Kepulauan,Pemerintah Kota Tidore,yes,0.9416163563728333
+Pemerintah Kota Tidore Kepulauan,Pemkot Tidore Kepulauan,yes,0.8469792008399963
+Pemerintah Provinsi Kalimantan Selatan,Pemprov Kalimantan Selatan,yes,0.7568103671073914
+Pemerintah Provinsi Kalimantan Selatan,Pemerintah Provinsi Kalsel,yes,0.8411036133766174
+Pemerintah Provinsi Kalimantan Selatan,Pemprov Kalsel,yes,0.5681003928184509
+Pemerintah Provinsi Kalimantan Selatan,Pemerintah Provinsi Kalimantan Tengah,no,0.9326162934303284
+Pemerintah Provinsi Kalimantan Selatan,Pemprov Kalimantan Utara,no,0.7217816710472107
+Pemerintah Provinsi Kalimantan Selatan,Pemerintah Provinsi Kalimantan Timur,no,0.9490787982940674
+Pemerintah Provinsi Kalimantan Selatan,Pemprov Kalimantan Timur,no,0.727266788482666
+Pemerintah Provinsi Kalimantan Selatan,Pemprov Kalimantan Tengah,no,0.6934576630592346
+Pemerintah Provinsi Kalimantan Selatan,Pemerintah Provinsi Kalimantan Utara,no,0.9663770794868469
+Pemerintah Provinsi Kalimantan Timur,Pemprov Kaltim,yes,0.55577152967453
+Pemerintah Provinsi Kalimantan Timur,Pemerintah Provinsi Kaltim,yes,0.8466289043426514
+Pemerintah Provinsi Kalimantan Timur,Pemerintah Provinsi Kalimantan Selatan,no,0.9490787982940674
+Pemerintah Provinsi Kalimantan Timur,Pemprov Kalimantan Selatan,no,0.7333282232284546
+Pemerintah Provinsi Kalimantan Timur,Pemprov Kalimantan Timur,yes,0.7965653538703918
+Pemerintah Provinsi Kalimantan Timur,Pemerintah Provinsi Kalimantan Utara,no,0.9539076685905457
+Pemerintah Provinsi Kalimantan Timur,Pemprov Kalimantan Utara,no,0.7285608053207397
+Pemerintah Provinsi Kalimantan Timur,Pemerintah Provinsi Kalimantan Tengah,no,0.9292057752609253
+Pemerintah Provinsi Kalimantan Timur,Pemprov Kalimantan Tengah,no,0.707121729850769
+Pemerintah Provinsi Maluku Utara,Pemerintah Provinsi Maluku,no,0.9294805526733398
+Pemerintah Provinsi Maluku Utara,Pemprov Malut,yes,0.29414260387420654
+Pemerintah Provinsi Maluku Utara,Pemprov Maluku Utara,yes,0.772161602973938
+Pemerintah Provinsi Maluku Utara,Pemerintah Provinsi Malut,yes,0.6344528198242188
+Pemerintah Provinsi Maluku Utara,Pemprov Maluku,no,0.6495225429534912
+Pemerintah Provinsi Nangroe Aceh Darussalam,Pemerintah Provinsi NAD,yes,0.6766682267189026
+Pemerintah Provinsi Nangroe Aceh Darussalam,Pemprov NAD,yes,0.34994107484817505
+Pemerintah Provinsi Nangroe Aceh Darussalam,Pemprov Nangroe Aceh Darussalam,yes,0.9299806952476501
+Perum Bulog,Perum Bulog Kanwil Kaltim & Kaltara,yes,0.6186438798904419
+Perum Bulog,Perum Bulog Kabupaten Probolinggo,yes,0.739365816116333
+Perum Bulog,Perum Peruri,no,0.5035750865936279
+Perum Bulog,Perum DAMRI,no,0.5688124895095825
+Perum Jasa Tirta II,Jasa Tirta II,yes,0.8672381639480591
+Perum Jasa Tirta II,Jasa Tirta 2,yes,0.7520779967308044
+Perum Jasa Tirta II,Jasa Tirta I,no,0.8378282785415649
+Perum Jasa Tirta II,Jasa Tirta,no,0.7272406816482544
+Perum Kehutanan Negara (Perhutani),Perum Perhutani KPH Bandung Utara,yes,0.541275680065155
+Perum Kehutanan Negara (Perhutani),Perum Perhutani Divisi Regional Jawa Barat dan Banten,yes,0.52385014295578
+Perum Kehutanan Negara (Perhutani),Perum Produksi Film Negara (PFN),no,0.5962886810302734
+Perum Kehutanan Negara (Perhutani),Perum Percetakan Negara ,no ,0.511285662651062
+Perum Pengangkutan Penumpang Djakarta (PPD),Perum PPD,yes,0.5213062763214111
+Perum Pengangkutan Penumpang Djakarta (PPD),Perusahaan Umum Pengangkutan Penumpang Djakarta,yes,0.7131503224372864
+Perum Pengangkutan Penumpang Djakarta (PPD),Pengangkutan Penumpang,no,0.45069020986557007
+Perum Pengangkutan Penumpang Djakarta (PPD),Dinas Perumahan Rakyat dan Permukiman Provinsi DKI Jakarta,no,0.36093926429748535
+PT Brantas Abipraya (Persero),Brantas Abipraya,yes,0.7149164080619812
+PT Brantas Abipraya (Persero),Kantor Pusat PT Brantas Abipraya (Persero),yes,0.8694794774055481
+PT Brantas Abipraya (Persero),Kereta api Brantas,no,0.4976738691329956
+PT Brantas Abipraya (Persero),PT Abishar Technologies Indonesia,no,0.36324089765548706
+PT Dahana (Persero),Dahana,yes,0.4254331588745117
+PT Dahana (Persero),PT Dahana Subang,yes,0.6397882103919983
+PT Dahana (Persero),Gor Dahana,no,0.5421069860458374
+PT Dahana (Persero),PT Dahana Berlian Motor,no,0.7076212167739868
+PT Danareksa (Persero),Danareksa,yes,0.6416447758674622
+PT Danareksa (Persero),PT Danareksa,yes,0.7960105538368225
+PT Danareksa (Persero),PT Bhanda Ghara Reksa (Persero),no,0.7333145141601562
+PT Danareksa (Persero),Bareksa,no,0.21643367409706116
+PT Djakarta Lloyd (Persero),Djakarta Lloyd,yes,0.7318041324615479
+PT Djakarta Lloyd (Persero),PT Djakarta Lloyd,yes,0.8410878777503967
+PT Djakarta Lloyd (Persero),Perum Pengangkutan Penumpang Djakarta (PPD),no,0.6945553421974182
+PT Djakarta Lloyd (Persero),PT Jakarta Propertindo,no,0.4054265022277832
+PT Dok Dan Perkapalan Kodja Bahari (Persero),PT DKB,yes,0.38996621966362
+PT Dok Dan Perkapalan Kodja Bahari (Persero),Dok dan Perkapalan Kodja Bahari,yes,0.805880606174469
+PT Dok Dan Perkapalan Kodja Bahari (Persero),PT Dok dan Perkapalan Surabaya (Persero),no,0.8965793251991272
+PT Dok Dan Perkapalan Kodja Bahari (Persero),PT Bahari Eka Nusantara,no,0.5226216912269592
+PT Geodipa Energi,Geo Dipa Energi,yes,0.5760165452957153
+PT Geodipa Energi,PT Geo Dipa Energi (Persero),yes,0.6246063709259033
+PT Geodipa Energi,Geo Energy Group,no,0.5950503945350647
+PT Geodipa Energi,PT Geotekindo,no,0.6506311893463135
+PT Jakarta Industrial Estate Pulogadung,Jiep Ecogreen,yes,0.31889504194259644
+PT Jakarta Industrial Estate Pulogadung,PT JIEP,yes,0.34649449586868286
+PT Jakarta Industrial Estate Pulogadung,Balai Diklat Industri Jakarta,no,0.49492737650871277
+PT Jakarta Industrial Estate Pulogadung,Hotel Orchardz Industri Jakarta,no,0.5151742696762085
+PT Jasa Raharja (Persero),Jasa Raharja,yes,0.6919956803321838
+PT Jasa Raharja (Persero),Jasa Raharja Bandung,yes,0.64958256483078
+PT Jasa Raharja (Persero),"PT Jasa Marga (Persero), Tbk.",no,0.8299196362495422
+PT Jasa Raharja (Persero),PT Jasa Sarana,no,0.6386313438415527
+PT Kawasan Berikat Nusantara (Persero),PT KBN,yes,0.2696325182914734
+PT Kawasan Berikat Nusantara (Persero),Kawasan Berikat Nusantara,yes,0.7193162441253662
+PT Kawasan Berikat Nusantara (Persero),PT Kawasan Industri Wijayakusuma (Persero),no,0.7924821376800537
+PT Kawasan Berikat Nusantara (Persero),PT Nusantara Laju Bersama,no,0.4888750910758972
+PT Kimia Farma,Kimia Farma,yes,0.8157463669776917
+PT Kimia Farma,PT Kimia Farma Tbk,yes,0.8791501522064209
+PT Kimia Farma,PT Indofarma,no,0.49589258432388306
+PT Kimia Farma,PT Bio Farma,no,0.8643932342529297
+PT Pelabuhan Indonesia I (Persero),Pelindo I,yes,0.6001586318016052
+PT Pelabuhan Indonesia I (Persero),Pelabuhan Indonesia,yes,0.5979318618774414
+PT Pelabuhan Indonesia I (Persero),PT Pelabuhan Indonesia II,no,0.8110765218734741
+PT Pelabuhan Indonesia I (Persero),Pelabuhan Indonesia II,no,0.683685839176178
+PT Pelabuhan Indonesia III (Persero),Pelabuhan Indonesia III,yes,0.6893340349197388
+PT Pelabuhan Indonesia III (Persero),Pelindo III,yes,0.563694179058075
+PT Pelabuhan Indonesia III (Persero),Pelabuhan Indonesia II,no,0.6660047769546509
+PT Pelabuhan Indonesia III (Persero),Pelindo,no,0.3905220329761505
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),Pelayaran Nasional Indonesia,yes,0.5062205195426941
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),PT PELNI,yes,0.5544783473014832
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),PT Pelayaran Nasional Ekalya Purnamasari Tbk,no,0.6133072376251221
+PT Pelayaran Nasional Indonesia (Persero) (Pelni),PT Pelayaran Bahtera Adhiguna,no,0.5358753204345703
+PT Pembangunan Perumahan (Persero),PT PP,yes,0.4611884653568268
+PT Pembangunan Perumahan (Persero),Pembangunan Perumahan,yes,0.5565541386604309
+PT Pembangunan Perumahan (Persero),PT Pembangunan Jaya,no,0.6082885265350342
+PT Pembangunan Perumahan (Persero),PT Pembangunan Jaya Ancol,no,0.5871425271034241
+"PT Semen Indonesia (Persero), Tbk.",PT Semen Indonesia,yes,0.679813802242279
+"PT Semen Indonesia (Persero), Tbk.",Semen Indonesia,yes,0.558141827583313
+"PT Semen Indonesia (Persero), Tbk.",PT Semen Baturaja (Persero),no,0.8391115665435791
+"PT Semen Indonesia (Persero), Tbk.",PT Tambang Semen Sukabumi,no,0.49705806374549866
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",PT TWC,yes,0.2460346519947052
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",PT Taman Wisata Candi,yes,0.6484476923942566
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",Taman Wisata Bougenville,no,0.2762611210346222
+"PT Taman Wisata Candi Borobudur, Prambanan, Dan Ratu Boko (Persero)",Taman Wisata Alam Sevillage,no,0.40727856755256653
+PT Varuna Tirta Prakasya (Persero),PT VTP,yes,0.3502994477748871
+PT Varuna Tirta Prakasya (Persero),Varuna Tirta Prakasya,yes,0.6904077529907227
+PT Varuna Tirta Prakasya (Persero),PT Varuna Artha Nugraha,no,0.6676429510116577
+PT Varuna Tirta Prakasya (Persero),PT Tirta Investama,no,0.6228156089782715
+PT Indofarma,Indofarma TBK,yes,0.8343201875686646
+PT Indofarma,Indofarma Global Medika,yes,0.7232200503349304
+PT Indofarma,Indofarma Global Medika Cabang,yes,0.6567957997322083
+PT Indofarma,PT IGM,yes,0.3015917241573334
+PT Indofarma,Indofarma,yes,0.8042482137680054
+PT Indofarma,IGM,no,0.09301402419805527
+"PT Telkom Indonesia (Persero), Tbk.",PT Telkom Indonesia,yes,0.6834132075309753
+"PT Telkom Indonesia (Persero), Tbk.",PT Telkomsel,no,0.5482484698295593
+"PT Telkom Indonesia (Persero), Tbk.",Telkom University,no,0.4324157238006592
+"PT Telkom Indonesia (Persero), Tbk.",Telkom,no,0.48457571864128113
+PT Semen Kupang,Kupang,no,0.5403735637664795
+PT Semen Kupang,Pemkot Kupang,no,0.546291172504425
+PT Semen Kupang,Pemerintah Kota Kupang,no,0.5562988519668579
