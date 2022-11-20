@@ -9,7 +9,7 @@ def get_candidates(nama_instansi):
     Args:
     - nama_instansi: str -> name of the instansi to be looked up
     Returns:
-    - min_dist_phrases: dict -> dictionary of phrases and its edit distance (minimum)
+    - sorted_by_edit_dist: dict -> dictionary of resulted phrases and its edit distance
     """
     phrase_candidates = search(nama_instansi)
     similar_phrases_dict = {}
@@ -28,6 +28,5 @@ def get_candidates(nama_instansi):
                 similar_phrases_dict[cand] = edit_dist
 
     sorted_by_edit_dist = dict(sorted(similar_phrases_dict.items(), key=lambda item: item[1]))
-    min_dist_phrases = dict(itertools.islice(sorted_by_edit_dist.items(), 5))
     
-    return min_dist_phrases
+    return sorted_by_edit_dist
