@@ -1,4 +1,4 @@
-,reference,candidates with edit dist,candidates,true candidates,checks,accuracy pcts
+,reference,candidates with edit dist,candidates,true candidates,checks,accuracy pct
 0,kemenko polhukam,"{'kemenko polhukam': 0, 'polhukam': 8}","['kemenko polhukam', 'polhukam']","['kemenko polhukam', 'polhukam', 'kementerian koordinator bidang politik hukum dan keamanan']","[1, 1]",1.0
 1,polhukam,"{'polhukam': 0, 'kemenko polhukam': 8}","['polhukam', 'kemenko polhukam']","['kemenko polhukam', 'polhukam', 'kementerian koordinator bidang politik hukum dan keamanan']","[1, 1]",1.0
 2,kemlu,"{'kemlu': 0, 'kemlu ri': 3}","['kemlu', 'kemlu ri']","['kemlu', 'kemlu ri', 'kementerian luar negeri']","[1, 1]",1.0
