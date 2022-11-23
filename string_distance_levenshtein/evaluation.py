@@ -15,6 +15,7 @@ def get_similar_entities_lev_v2(test_df, reference_version):
     candidates = []
     for index, row in labeled_test_df.iterrows():
         nama_inst = row[['nama_instansi']].values[0]
+        print(f'processing index {index}: {nama_inst}')
         candidate = get_similar_entity(nama_inst, reference_version=reference_version)
         candidates.append(candidate)
     
