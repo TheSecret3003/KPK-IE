@@ -1,7 +1,7 @@
 from levenshtein import levenshtein
 from search_utils import search
 
-def get_candidates(nama_instansi):
+def get_similar_entity(nama_instansi, reference_version):
     """
     Function to get similar phrase candidates that have the lowest edit distance with
     respect to nama_instansi
@@ -10,7 +10,7 @@ def get_candidates(nama_instansi):
     Returns:
     - candidate with lowest edit distance
     """
-    phrase_candidates = search(nama_instansi)
+    phrase_candidates = search(nama_instansi, reference_version)
     similar_phrases_dict = {}
 
     for word, candidates in phrase_candidates.items():
