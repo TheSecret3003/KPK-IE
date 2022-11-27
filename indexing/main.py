@@ -15,28 +15,28 @@ def create_reference_data(version):
     klpd_df = pd.read_csv('./data/from_kpk/Daftar KLPD PPG AI.csv')
 
     reference_data = prd.combine_reference_data(labeled_df, bumn_df, klpd_df)
-    reference_data.to_csv(f'./data/indexing_{version}/reference_data.csv')
+    reference_data.to_csv(f'./data/indexing/{version}/reference_data.csv')
     return reference_data
 
 def create_index_table(version, reference_data):
     idx = index.Index(reference_data)
 
     index_table = idx.get_index_table()
-    index_table.to_csv(f'./data/indexing_{version}/index_table.csv')
+    index_table.to_csv(f'./data/indexing/{version}/index_table.csv')
 
     return index_table
 
 
 if __name__ == "__main__":
-    # reference_data = create_reference_data('v1')
+    # reference_data = create_reference_data('v2')
     # print(reference_data)
 
-    reference_data = pd.read_csv('./data/indexing_v1/reference_data.csv')
+    reference_data = pd.read_csv('./data/indexing/v2/reference_data.csv')
 
-    # index_table = create_index_table('v1', reference_data)
+    # index_table = create_index_table('v2', reference_data)
     # print(index_table)
 
-    index_table = pd.read_csv('./data/indexing_v1/index_table.csv')
+    index_table = pd.read_csv('./data/indexing/v2/index_table.csv')
 
     # Test search
     s = search.Search(reference_data, index_table)

@@ -9,12 +9,12 @@ Example using Curl:
 
 app = Flask(__name__)
 
-@app.route('/get-references', methods=['GET'])
-def get_references():
+@app.route('/get-references/<version>', methods=['GET'])
+def get_references(version):
     # Read indexing table
-    index_table = pd.read_csv('./data/indexing_v1/index_table.csv')
+    index_table = pd.read_csv(f'./data/indexing/{version}/index_table.csv')
     # Read reference data
-    reference_data = pd.read_csv('./data/indexing_v1/reference_data.csv')
+    reference_data = pd.read_csv(f'./data/indexing/{version}/reference_data.csv')
 
     args = request.args
     nama_instansi = args.get('nama_instansi')

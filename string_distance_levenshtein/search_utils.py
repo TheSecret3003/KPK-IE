@@ -3,9 +3,9 @@ import sys
 sys.path.append('../')
 import indexing.search
 
-def search (nama_instansi):
-    reference_data = pd.read_csv('../indexing/data/indexing_v1/reference_data.csv')
-    index_table = pd.read_csv('../indexing/data/indexing_v1/index_table.csv')
+def search (nama_instansi, reference_version):
+    reference_data = pd.read_csv(f'../indexing/data/indexing/{reference_version}/reference_data.csv')
+    index_table = pd.read_csv(f'../indexing/data/indexing/{reference_version}/index_table.csv')
 
     s = indexing.search.Search(reference_data, index_table)
 
