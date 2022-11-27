@@ -69,6 +69,7 @@ class PreprocessReferenceData(object):
         df2 = df.copy()
         df2['cleaned'] = df2['reference'].str.replace('/', ' ')
         df2['cleaned'] = df2['cleaned'].str.replace('[^\w\s]','',regex=True)
+        df2['cleaned'] = df2['cleaned'].str.lower()
         df2 = pd.DataFrame(df2['cleaned'].unique())
         df2 = df2.rename(columns={0: 'reference'})
         df2 = df2.reset_index()

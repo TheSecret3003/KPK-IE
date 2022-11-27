@@ -1,0 +1,938 @@
+,reference
+0,kemenko polhukam
+1,polhukam
+2,kemlu
+3,kemlu ri
+4,kementerian bumn
+5,kemen bumn
+6,kemenparekraf
+7,kemenparekraf ri
+8,kemen pupr
+9,kemen pupr ri
+10,kemenpora
+11,kemenpora ri
+12,kemendikbudristek
+13,kemdikbud
+14,kemendag
+15,kemendag ri
+16,kemenhub
+17,kemenhub ri
+18,kemenperin
+19,kemenperin ri
+20,kemhan
+21,departemen pertahanan
+22,kementan
+23,kementan ri
+24,kemensetneg
+25,setneg ri
+26,bpk
+27,badan pemeriksa keuangan
+28,dpd
+29,anggota dewan perwakilan daerah
+30,anggota dpr
+31,anggota dewan perwakilan rakyat
+32,ky
+33,komisi yudisial ky
+34,mahkamah agung
+35,ma
+36,mahkamah konstitusi
+37,mk
+38,mpr
+39,majelis permusyawaratan rakyat
+40,badan informasi geospasial
+41,big
+42,kanreg vi bkn medan
+43,kantor regional xiv bkn manokwari
+44,bin
+45,badan intelijen negara
+46,badan keamanan laut
+47,bakamla
+48,bkkbn
+49,bkkbn provinsi sulawesi utara
+50,kementerian investasi bkpm
+51,kementerian investasi
+52,badan meteorologi klimatologi dan geofisika
+53,bmkg papua
+54,bnn kota bengkulu
+55,badan narkotika nasional provinsi jawa barat
+56,bnpb provinsi jawa barat
+57,badan nasional penanggulangan bencana provinsi jawa barat
+58,bp2mi
+59,bp2mi jawa barat
+60,bpom kabupaten bogor
+61,badan pom
+62,bpkp
+63,perwakilan bpkp provinsi sulawesi barat
+64,bppt
+65,perwakilan bppt
+66,bssn
+67,badan siber dan sandi negara
+68,badan standardisasi nasional
+69,bsn
+70,badan tenaga nuklir nasional
+71,batan
+72,dewan ketahanan nasional
+73,wantannas
+74,kejaksaan negeri kota kediri
+75,kejaksaaan tinggi provinsi jawa tengah
+76,kepolisian negara republik indonesia resor kota pontianak
+77,kepolisian daerah provinsi di yogyakarta
+78,kpu kabupaten memberamo raya
+79,komisi pemilihan umum kabupaten fakfak
+80,komisi pengawas persaingan usaha ri
+81,kppu ri
+82,lembaga ilmu pengetahuan indonesia
+83,perwakilan lembaga ilmu pengetahuan indonesia
+84,lembaga kebijakan pengadaan barang jasa pemerintah
+85,lkpp ri
+86,lembaga ketahanan nasional
+87,lemhannas ri
+88,lembaga penerbangan dan antariksa nasional
+89,lapan
+90,ombudsman republik indonesia
+91,ombudsman ri
+92,pusat pelaporan dan analisis transaksi keuangan
+93,ppatk
+94,sekretariat kabinet republik indonesia
+95,setkab
+96,anri
+97,arsip nasional ri
+98,tni angkatan udara
+99,inspektorat jenderal tni
+100,kasn ri
+101,komisi aparatur sipil negara ri
+102,bnsp republik indonesia
+103,badan nasional sertifikasi profesi republik indonesia
+104,badan pengatur hilir minyak dan gas bumi
+105,bph migas
+106,dewan pertimbangan presiden republik indonesia
+107,wantimpres ri
+108,lembaga pembiayaan ekspor
+109,lpei
+110,indonesia eximbank
+111,kantor staf presiden
+112,badan penyelenggara jaminan sosial kesehatan
+113,bpjs kesehatan
+114,badan penyelenggara jaminan sosial ketenagakerjaan
+115,bpjamsostek
+116,bpjs ketenagakerjaan
+117,bank indonesia bi
+118,bi
+119,bnpp
+120,badan pembinaan ideologi
+121,bpip
+122,radio republik indonesia
+123,rri
+124,djsn
+125,dewan jaminan sosial
+126,pemkab kepulauan seribu
+127,pemerintah kab kepulauan seribu
+128,pemkot jakarta barat
+129,pemerintah kota adminsitrasi jakarta barat
+130,pemkot jakarta pusat
+131,pemerintah kota administrasi jakarta pusat
+132,pemkot jakarta timur
+133,pemerintah kota administrasi jakarta timur
+134,pemkot jakarta utara
+135,pemerintah kota administrasi jakarta utara
+136,pemprov dki jakarta
+137,pemerintah provinsi daerah khusus ibukota jakarta
+138,pemkab boalemo
+139,pemerintah boalemo
+140,pemkab bone bolango
+141,pemerintah bone bolango
+142,pemkab gorontalo utara
+143,pemerintah gorontalo utara
+144,pemkot kota gorontalo
+145,pemprov gorontalo
+146,pemkab bungo
+147,pemerintah bungo
+148,pemkab kerinci
+149,pemerintah kerinci
+150,pemkab tanjung jabung timur
+151,pemerintah tanjung jabung timur
+152,pemkab tebo
+153,pemerintah tebo
+154,pemkab bandung barat
+155,pemerintah bandung barat
+156,pemkab bekasi
+157,pemerintah bekasi
+158,pemkab ciamis
+159,pemerintah ciamis
+160,pemkab cirebon
+161,pemerintah cirebon
+162,pemkab indramayu
+163,pemerintah indramayu
+164,pemkab karawang
+165,pemerintah karawang
+166,pemkab kuningan
+167,pemerintah kuningan
+168,pemkab pangandaran
+169,pemerintah pangandaran
+170,pemkab subang
+171,pemerintah subang
+172,pemkab sukabumi
+173,pemerintah sukabumi
+174,pemkab sumedang
+175,pemerintah sumedang
+176,pemkot bandung
+177,pemkot banjar
+178,pemkot bekasi
+179,pemkot cimahi
+180,pemerintah cimahi
+181,pemkot depok
+182,pemerintah depok
+183,pemkot sukabumi
+184,pemkot tasikmalaya
+185,pemprov jawa barat
+186,pemerintah jawa barat
+187,pemprov jabar
+188,pemkab banjarnegara
+189,pemerintah banjarnegara
+190,pemkab banyumas
+191,pemerintah banyumas
+192,pemkab batang
+193,pemerintah batang
+194,pemkab blora
+195,pemerintah blora
+196,pemkab boyolali
+197,pemerintah boyolali
+198,pemkab brebes
+199,pemerintah brebes
+200,pemkab cilacap
+201,pemerintah cilacap
+202,pemkab demak
+203,pemerintah demak
+204,pemkab grobogan
+205,pemerintah grobogan
+206,pemkab jepara
+207,pemerintah jepara
+208,pemkab karanganyar
+209,pemerintah karanganyar
+210,pemkab kebumen
+211,pemerintah kebumen
+212,pemkab kendal
+213,pemerintah kendal
+214,pemkab klaten
+215,pemerintah klaten
+216,pemkab pekalongan
+217,pemerintah pekalongan
+218,pemkab pemalang
+219,pemerintah pemalang
+220,pemkab purbalingga
+221,pemerintah purbalingga
+222,pemkab purworejo
+223,pemerintah purworejo
+224,pemkab rembang
+225,pemerintah rembang
+226,pemkab semarang
+227,pemerintah semarang
+228,pemkab sukoharjo
+229,pemerintah sukoharjo
+230,pemkab tegal
+231,pemerintah tegal
+232,pemkab wonogiri
+233,pemerintah wonogiri
+234,pemkab wonosobo
+235,pemerintah wonosobo
+236,pemkot salatiga
+237,pemerintah salatiga
+238,pemprov jawa tengah
+239,pemerintah jawa tengah
+240,pemprov jateng
+241,pemkab bangkalan
+242,pemerintah bangkalan
+243,pemkab blitar
+244,pemerintah blitar
+245,pemkab bojonegoro
+246,pemerintah bojonegoro
+247,pemkab bondowoso
+248,pemerintah bondowoso
+249,pemkab jember
+250,pemerintah jember
+251,pemkab jombang
+252,pemerintah jombang
+253,pemkab kediri
+254,pemerintah kediri
+255,pemkab lamongan
+256,pemerintah lamongan
+257,pemkab lumajang
+258,pemerintah lumajang
+259,pemkab magetan
+260,pemerintah magetan
+261,pemkab mojokerto
+262,pemerintah mojokerto
+263,pemkab ngawi
+264,pemerintah ngawi
+265,pemkab pacitan
+266,pemerintah pacitan
+267,pemkab pamekasan
+268,pemerintah pamekasan
+269,pemkab pasuruan
+270,pemerintah pasuruan
+271,pemkab ponorogo
+272,pemerintah ponorogo
+273,pemkab probolinggo
+274,pemerintah probolinggo
+275,pemkab sidoarjo
+276,pemerintah sidoarjo
+277,pemkab sumenep
+278,pemerintah sumenep
+279,pemkab trenggalek
+280,pemerintah trenggalek
+281,pemkab tuban
+282,pemerintah tuban
+283,pemkab tulungagung
+284,pemerintah tulungagung
+285,pemkot batu
+286,pemerintah batu
+287,pemkot blitar
+288,pemkot kediri
+289,pemkot madiun
+290,pemkot malang
+291,pemkot pasuruan
+292,pemprov jawa timur
+293,pemerintah jawa timur
+294,pemprov jatim
+295,pemkab bengkayang
+296,pemerintah bengkayang
+297,pemkab kapuas hulu
+298,pemerintah kapuas hulu
+299,pemkab kayong utara
+300,pemerintah kayong utara
+301,pemkab ketapang
+302,pemerintah ketapang
+303,pemkab kubu raya
+304,pemerintah kubu raya
+305,pemkab landak
+306,pemerintah landak
+307,pemkab mempawah
+308,pemerintah mempawah
+309,pemkab sambas
+310,pemerintah sambas
+311,pemkab sanggau
+312,pemerintah sanggau
+313,pemkab sekadau
+314,pemerintah sekadau
+315,pemkot pontianak
+316,pemerintah pontianak
+317,pemkot singkawang
+318,pemerintah singkawang
+319,pemprov kalimantan barat
+320,pemerintah kalimantan barat
+321,pemprov kalbar
+322,pemkab balangan
+323,pemerintah balangan
+324,pemkab hulu sungai selatan
+325,pemerintah hulu sungai selatan
+326,pemkab hulu sungai tengah
+327,pemerintah hulu sungai tengah
+328,pemkab hulu sungai utara
+329,pemerintah hulu sungai utara
+330,pemkab tabalong
+331,pemerintah tabalong
+332,pemkab aceh barat
+333,pemkab aceh barat daya
+334,pemkab aceh jaya
+335,pemkab aceh selatan
+336,pemkab aceh tengah
+337,pemkab alor
+338,pemkab asmat
+339,pemkab barito selatan
+340,pemkab barito utara
+341,pemkab belu
+342,pemkab biak numfor
+343,pemkab bima
+344,pemkab bintan
+345,pemkab bireuen
+346,pemkab boven digul
+347,pemerintah kabupaten boven digul
+348,pemkab boven digoel
+349,pemkab bulungan
+350,pemkab buru
+351,pemkab buru selatan
+352,pemkab deiyai
+353,pemkab dogiyai
+354,pemkab dompu
+355,pemkab ende
+356,pemkab fak fak
+357,pemerintah kabupaten fakfak
+358,pemkab fakfak
+359,pemkab gayo lues
+360,pemkab gunung mas
+361,pemkab halmahera selatan
+362,pemkab halmahera tengah
+363,pemkab halmahera utara
+364,pemkab intan jaya
+365,pemkab kapuas
+366,pemkab keerom
+367,pemkab kepulauan aru
+368,pemkab aru
+369,pemerintah kabupaten aru
+370,pemerintah kabupaten sula
+371,pemkab kepulauan sula
+372,pemkab sula
+373,pemkab yapen
+374,pemerintah kabupaten yapen
+375,pemkab kepulauan yapen
+376,pemkab kotawaringin barat
+377,pemkab kotawaringin timur
+378,pemkab kupang
+379,pemkab kutai barat
+380,pemkab kutai kartanegara
+381,pemkab kutai timur
+382,pemkab lamandau
+383,pemkab lampung barat
+384,pemkab lampung selatan
+385,pemkab lampung utara
+386,pemkab lanny jaya
+387,pemkab lombok tengah
+388,pemkab lombok timur
+389,pemkab mahakam ulu
+390,pemkab malinau
+391,pemkab maluku barat daya
+392,pemkab maluku tengah
+393,pemkab mamberamo raya
+394,pemkab mamberamo tengah
+395,pemkab manggarai
+396,pemkab manggarai barat
+397,pemkab manggarai timur
+398,pemkab manokwari
+399,pemkab manokwari selatan
+400,pemkab mappi
+401,pemkab mesuji
+402,pemkab mimika
+403,pemkab murung raya
+404,pemkab nabire
+405,pemkab nagekeo
+406,pemkab natuna
+407,pemkab nduga
+408,pemkab nunukan
+409,pemkab paniai
+410,pemkab pegunungan bintang
+411,pemkab penajam paser utara
+412,pemerintah kabupaten penajam paser
+413,pemkab penajam paser
+414,pemkab ppu
+415,pemerintah kabupaten ppu
+416,pemkab pesawaran
+417,pemkab pesisir barat
+418,pemkab pidie
+419,pemkab pulang pisau
+420,pemkab pulau morotai
+421,pemkab morotai
+422,pemerintah kabupaten morotai
+423,pemkab puncak
+424,pemkab puncak jaya
+425,pemkab rote ndao
+426,pemkab sabu raijua
+427,pemerintah kabupaten saburaijua
+428,pemkab saburaijua
+429,pemkab seram bagian barat
+430,pemkab seram barat
+431,pemerintah kabupaten seram barat
+432,pemkab seram bagian timur
+433,pemkab seram timur
+434,pemerintah kabupaten seram timur
+435,pemkab seruyan
+436,pemkab simeulue
+437,pemkab sukamara
+438,pemkab sumba tengah
+439,pemkab sumba timur
+440,pemkab sumbawa
+441,pemkab sumbawa barat
+442,pemkab supiori
+443,pemkab tana tidung
+444,pemerintah ktt
+445,pemkab tanah bumbu
+446,pemkab tanggamus
+447,pemkab tapin
+448,pemerintah kabupaten timteng utara
+449,pemkab timor tengah utara
+450,pemkab ttu
+451,pemerintah kabupaten ttu
+452,pemkab timteng utara
+453,pemkab tolikara
+454,pemerintah kabupaten tubaba
+455,pemkab tubaba
+456,pemkab tulang bawang barat
+457,pemkab waropen
+458,pemkab way kanan
+459,pemkab yahukimo
+460,pemkab yalimo
+461,pemkot ambong
+462,pemerintah kota ambong
+463,pemkot ambon
+464,pemkot balikpapan
+465,pemkot bandarlampung
+466,pemerintah kota bandarlampung
+467,pemkot bandar lampung
+468,pemkot banjarbaru
+469,pemkot banjarmasin
+470,pemerintah kota banjarmasih
+471,pemkot banjarmasih
+472,pemkot batam
+473,pemkot bima
+474,pemkot bontang
+475,pemkot jayapura
+476,pemkot kupang
+477,pemkot langsa
+478,pemkot mataram
+479,pemkot metro
+480,pemkot palangkaraya
+481,pemkot palangka raya
+482,pemerintah kota palangkaraya
+483,pemkot samarinda
+484,pemkot subulussalam
+485,pemkot tanjungpinang
+486,pemerintah kota tanjungpinang
+487,pemkot tanjung pinang
+488,pemkot tarakan
+489,pemkot ternate
+490,pemkot tual
+491,pemprov kalteng
+492,pemerintah provinsi kalteng
+493,pemprov kalimantan tengah
+494,pemerintah provinsi kaltara
+495,pemprov kaltara
+496,pemprov kalimantan utara
+497,pemprov kepulauan babel
+498,pemerintah provinsi kepulauan babel
+499,pemerintah provinsi babel
+500,pemprov babel
+501,pemprov bangka belitung
+502,pemerintah provinsi bangka belitung
+503,pemprov kepulauan bangka belitung
+504,pemprov kepulauan riau
+505,pemprov kepri
+506,pemerintah provinsi kepri
+507,pemprov lampung
+508,pemprov maluku
+509,pemprov ntb
+510,pemerintah provinsi ntb
+511,pemprov nusa tenggara barat
+512,pemerintah provinsi ntt
+513,pemprov ntt
+514,pemprov nusa tenggara timur
+515,pemprov papua
+516,perusahaan umum damri
+517,perum damri uabk bandung
+518,pt jamkrindo
+519,pt jamkrindo cabang bandung
+520,jasa tirta
+521,jasa tirta i
+522,lembaga kantor berita nasional antara biro jawa barat
+523,perum lkbn antara
+524,perusahaan umum pembangunan perumahan nasional
+525,perum perumnas
+526,perum peruri
+527,peruri
+528,perum pfn
+529,perusahaan umum produksi film negara
+530,pt adhi karya
+531,adhi karya
+532,pt amka
+533,amarta karya
+534,angkasa pura
+535,ap1
+536,angkasa pura 2
+537,ap2
+538,pt asabri persero
+539,perseta asabri pensiunan polri
+540,pt asdp ferry indonesia
+541,asdp
+542,asuransi jasindo
+543,asuransi jasa indonesia
+544,asuransi jiwasraya
+545,jiwasraya
+546,askrindo
+547,pt askrindo
+548,indonesia financial group ifg
+549,bpui
+550,bank mandiri
+551,bank mandiri cihampelas
+552,bank bni kantor cabang karawang
+553,bni 46
+554,bank rakyat indonesia cabang sintang
+555,bank bri unit prambanan
+556,bank btn jayapura
+557,btn pluit
+558,barata indonesia
+559,pt barata indonesia
+560,berdikari
+561,pt berdikari
+562,pt bgr logistik indonesia
+563,bgr
+564,bina karya
+565,bina karya persero
+566,pt bio farma bandung
+567,bio farma
+568,bki
+569,pt biro klasifikasi indonesia persero cabang cirebon
+570,bbi
+571,pt boma bisma indra persero cabang jakarta
+572,ptdi
+573,pt dirgantara indonesia
+574,garuda indonesia
+575,pt garuda indonesia
+576,emipersero
+577,pt emi
+578,garam
+579,pt garam persero
+580,hutama karya
+581,hk
+582,indah karya
+583,pt indah karya
+584,pt inalum
+585,pt indonesia asahan aluminium persero
+586,indra karya
+587,pt indra karya
+588,pt iki persero
+589,industri kapal indonesia
+590,pt inuki persero
+591,industri nuklir indonesia
+592,pt isn persero
+593,industri sandang nusantara
+594,pt inti persero
+595,inti
+596,istaka karya
+597,pt istaka karya
+598,jasa marga
+599,pt jasa marga cabang purbaleunyi
+600,pt kiw
+601,kawasan industri wijayakusuma
+602,pt kbi
+603,kliring berjangka indonesia
+604,krakatau steel
+605,pt krakatau steel
+606,len industri
+607,len
+608,pal indonesia
+609,pt pal
+610,pt pann
+611,pann pembiayaan maritim
+612,pelindo ii
+613,pelabuhan indonesia ii
+614,pelabuhan indonesia iv
+615,pelindo iv
+616,pt balai pustaka
+617,balai pustaka
+618,itdc
+619,pengembangan pariwisata indonesia
+620,pt pdi batam
+621,pt persero batam
+622,pt pii
+623,pt pii persero
+624,pt perinus
+625,pt perinus persero
+626,pt perkebunan nusantara iii persero
+627,ptpn iii
+628,pt pnm
+629,pt pnm persero
+630,pertamina
+631,pt pertamina
+632,pgn
+633,perusahaan gas negara
+634,pln
+635,perusahaan listrik negara
+636,pindad
+637,pt pindad
+638,pos indonesia
+639,pt pos indonesia kc cirebon
+640,pupuk indonesia
+641,pt pupuk indonesia persero
+642,pt rajawali nusindo
+643,id food
+644,indonesia re
+645,reasuransi indonesia utama
+646,shs
+647,pt sang hyang seri cabang sidrap
+648,pt smi
+649,sarana multi infrastruktur
+650,sarinah
+651,pt sarinah
+652,pt superintending company of indonesia
+653,sucofindo
+654,surveyor indonesia
+655,ptsi
+656,pt kawasan industri lampung
+657,pt pengembangan armada niaga nasional
+658,pt survai udara penas
+659,pt aviasi pariwisata indonesia
+660,pt kertas kraft aceh
+661,pt kka
+662,pt sarana multigriya finansial
+663,smfindonesia
+664,pt primissima 
+665,primissima batik
+666,pt dok dan perkapalan surabaya
+667,pt dps
+668,pt industri kereta api
+669,pt inka
+670,inka
+671,kementerian ppn bappenas
+672,bappenas
+673,kemensos
+674,kemensos ri
+675,badan nasional penanggulangan terorisme kabupaten bekasi 
+676,bnpt kota bogor
+677,bapeten
+678,badan pengawas tenaga nuklir
+679,lpp tvri
+680,lembaga penyiaran publik
+681,lpsk ri
+682,lembaga perlindungan saksi dan korban ri
+683,bpks
+684,pemkab gorontalo
+685,pemerintah gorontalo
+686,pemkab batanghari
+687,pemerintah batanghari
+688,pemkab merangin
+689,pemerintah merangin
+690,pemkab sarolangun
+691,pemerintah sarolangun
+692,pemkaot jambi
+693,pemkab sungai penuh
+694,pemerintah sungai penuh
+695,pemkab tasikmalaya
+696,pemerintah tasikmalaya
+697,pemkot cirebon
+698,pemkab kudus
+699,pemerintah kudus
+700,pemkab pati
+701,pemerintah pati
+702,pemkab temanggung
+703,pemerintah temanggung
+704,pemkot magelang
+705,pemkot surakarta
+706,pemerintah surakarta
+707,pemkot tegal
+708,pemkab nganjuk
+709,pemerintah nganjuk
+710,pemkot probolinggo
+711,pemkot surabaya
+712,pemerintah surabaya
+713,pemkab sintang
+714,pemerintah sintang
+715,pemkab aceh tenggara
+716,pemkab aceh timur
+717,pemkab berau
+718,pemkab jayawijaya
+719,pemkab kaimana
+720,pemkab lampung tengah
+721,pemkab lingga
+722,pemkab paser
+723,pemkab pringsewu
+724,perum pnri
+725,perusahaan umum percetakan negara republik indonesia
+726,pt taspen persero
+727,pt taspen kc bengkulu
+728,pt hin
+729,inna hotels and resorts
+730,pegadaian
+731,pt pegadaian area samarinda
+732,pertani
+733,pt pertani
+734,pt ppa
+735,perusahaan pengelola aset
+736,pt ppi
+737,perusahaan perdagangan indonesia
+738,pt semen baturaja
+739,semen baturaja
+740,pt iglas indonesia
+741,pt iglas
+742,pt industri gelas
+743,pt kereta api indonesia 
+744,pt kai
+745,kementerian koperasi dan ukm
+746,kemenkopukm
+747,panrb
+748,kemen panrb
+749,kemen pppa
+750,kementerian pp  pa
+751,badan pengawas pemilu
+752,inspektur utama badan pengawas pemilihan umum
+753,badan pengusahaan batam bp batam
+754,bp batam
+755,bps provinsi sulawesi utara
+756,badan pusat statistik provinsi bali
+757,badan sar nasional basarnas
+758,badan nasional pencarian dan pertolongan bnpp
+759,komisi nasional ham
+760,komnas ham
+761,komisi pemberantasan korupsi
+762,kpk
+763,lembaga administrasi negara
+764,lan ri
+765,perpustakaan nasional ri
+766,perpustakaan nasional republik indonesia
+767,kkri
+768,komisi kejaksaan ri
+769,komisi penyiaran indonesia pusat
+770,komisi penyiaran indonesia daerah
+771,badan pengelola keuangan haji
+772,bpkh
+773,lembaga penjamin simpanan
+774,lps
+775,otoritas jasa keuangan
+776,ojk
+777,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi
+778,skk migas
+779,pemkot jakarta selatan
+780,pemerintah kota administrasi jakarta selatan
+781,pemkab pohuwato
+782,pemerintah pohuwato
+783,pemkab muaro jambi
+784,pemerintah muaro jambi
+785,pemkab tanjung jabung barat
+786,pemerintah tanjung jabung barat
+787,pemprov jambi
+788,pemkab bandung
+789,pemerintah bandung
+790,pemkab bogor
+791,pemerintah bogor
+792,pemkab cianjur
+793,pemerintah cianjur
+794,pemkab garut
+795,pemerintah garut
+796,pemkab majalengka
+797,pemerintah majalengka
+798,pemkab purwakarta
+799,pemerintah purwakarta
+800,pemkot bogor
+801,pemkab magelang
+802,pemerintah magelang
+803,pemkab sragen
+804,pemerintah sragen
+805,pemkot pekalongan
+806,pemkot semarang
+807,pemkab banyuwangi
+808,pemerintah banyuwangi
+809,pemkab gresik
+810,pemerintah gresik
+811,pemkab malang
+812,pemerintah malang
+813,pemkab madiun
+814,pemerintah madiun
+815,pemkab sampang
+816,pemerintah sampang
+817,pemkab situbondo
+818,pemerintah situbondo
+819,pemkot mojokerto
+820,pemkab melawi
+821,pemerintah melawi
+822,pemkab banjar
+823,pemerintah banjar
+824,pemkab barito kuala
+825,pemerintah barito kuala
+826,pemkab kotabaru
+827,pemerintah kotabaru
+828,pemkab aceh besar
+829,pemkab aceh singkil
+830,pemkab aceh tamiang
+831,pemkab aceh utara
+832,pemkab barito timur
+833,pemkab bener meriah
+834,pemkab flores timur
+835,pemerintah kabupaten flores
+836,pemkab flores
+837,pemkab halmahera barat
+838,pemkab halmahera timur
+839,pemkab jayapura
+840,pemkab karimun
+841,pemkab katingan
+842,pemkab anambas
+843,pemerintah kabupaten anambas
+844,pemkab kepulauan anambas
+845,pemkab lampung timur
+846,pemkab lembata
+847,pemkab lombok barat
+848,pemkab lombok utara
+849,pemkab malaka
+850,pemkab maluku tenggara
+851,pemkab maluku tenggara barat
+852,pemkab merauke
+853,pemkab nagan raya
+854,pemkab ngada
+855,pemkab pidie jaya
+856,pemkab taliabu
+857,pemerintah kabupaten taliabu
+858,pemkab pulau taliabu
+859,pemkab sarmi
+860,pemkab sikka
+861,pemkab sumba barat
+862,pemkab sumba barat daya
+863,pemkab tanah laut
+864,pemkab tts
+865,pemkab timteng selatan
+866,pemerintah kabupaten timteng selatan
+867,pemkab timor tengah selatan
+868,pemerintah kabupaten tts
+869,pemkab tulang bawang
+870,pemkot banda aceh
+871,pemko lhokseumawe
+872,pemkot lhokseumawe
+873,pemkot sabang
+874,pemkot tidore
+875,pemerintah kota tidore
+876,pemkot tidore kepulauan
+877,pemprov kalimantan selatan
+878,pemerintah provinsi kalsel
+879,pemprov kalsel
+880,pemprov kaltim
+881,pemerintah provinsi kaltim
+882,pemprov kalimantan timur
+883,pemprov malut
+884,pemprov maluku utara
+885,pemerintah provinsi malut
+886,pemerintah provinsi nad
+887,pemprov nad
+888,pemprov nangroe aceh darussalam
+889,perum bulog kanwil kaltim  kaltara
+890,perum bulog kabupaten probolinggo
+891,jasa tirta ii
+892,jasa tirta 2
+893,perum perhutani kph bandung utara
+894,perum perhutani divisi regional jawa barat dan banten
+895,perum ppd
+896,perusahaan umum pengangkutan penumpang djakarta
+897,brantas abipraya
+898,kantor pusat pt brantas abipraya persero
+899,dahana
+900,pt dahana subang
+901,danareksa
+902,pt danareksa
+903,djakarta lloyd
+904,pt djakarta lloyd
+905,pt dkb
+906,dok dan perkapalan kodja bahari
+907,geo dipa energi
+908,pt geo dipa energi persero
+909,jiep ecogreen
+910,pt jiep
+911,jasa raharja
+912,jasa raharja bandung
+913,pt kbn
+914,kawasan berikat nusantara
+915,kimia farma
+916,pt kimia farma tbk
+917,pelindo i
+918,pelabuhan indonesia
+919,pelabuhan indonesia iii
+920,pelindo iii
+921,pelayaran nasional indonesia
+922,pt pelni
+923,pt pp
+924,pembangunan perumahan
+925,pt semen indonesia
+926,semen indonesia
+927,pt twc
+928,pt taman wisata candi
+929,pt vtp
+930,varuna tirta prakasya
+931,indofarma tbk
+932,indofarma global medika
+933,indofarma global medika cabang
+934,pt igm
+935,indofarma
+936,pt telkom indonesia
