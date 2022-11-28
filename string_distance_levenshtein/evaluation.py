@@ -3,11 +3,11 @@ Module to evaluate String Distance (Levenshtein Distance) model
 """
 
 import pandas as pd
-from get_similar_entity import get_similar_entity, get_similar_entity_norm
+from get_similar_entity import get_similar_entity, get_similar_entity_norm, get_similar_entity_th
 import ast
 
 
-def get_similar_entities_lev_v2(test_df, reference_version):
+def get_similar_entity_1a(test_df, reference_version):
     """
     Function to automatically label test_df (distinct instansi from KPK's postgre table)
     """
@@ -22,7 +22,7 @@ def get_similar_entities_lev_v2(test_df, reference_version):
     labeled_test_df['candidates'] = candidates
     return labeled_test_df
 
-def get_similar_entities_lev_v3(test_df, reference_version):
+def get_similar_entity_1b(test_df, reference_version):
     """
     Function to automatically label test_df (distinct instansi from KPK's postgre table)
     """
@@ -32,6 +32,21 @@ def get_similar_entities_lev_v3(test_df, reference_version):
         nama_inst = row[['nama_instansi']].values[0]
         print(f'processing index {index}: {nama_inst}')
         candidate = get_similar_entity_norm(nama_inst, reference_version=reference_version)
+        candidates.append(candidate)
+    
+    labeled_test_df['candidates'] = candidates
+    return labeled_test_df
+
+def get_similar_entity_1c(test_df, reference_version):
+    """
+    Function to automatically label test_df (distinct instansi from KPK's postgre table)
+    """
+    labeled_test_df = test_df.copy()
+    candidates = []
+    for index, row in labeled_test_df.iterrows():
+        nama_inst = row[['nama_instansi']].values[0]
+        print(f'processing index {index}: {nama_inst}')
+        candidate = get_similar_entity_th(nama_inst, reference_version=reference_version)
         candidates.append(candidate)
     
     labeled_test_df['candidates'] = candidates

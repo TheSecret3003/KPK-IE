@@ -1,7 +1,8 @@
 from levenshtein import levenshtein
 from search_utils import search
 
-def get_similar_entity(nama_instansi, reference_version):
+# Algorithm 1a
+def get_similar_entity(nama_instansi, reference_version='v2'):
     """
     Function to get similar phrase candidates that have the lowest edit distance with
     respect to nama_instansi
@@ -33,8 +34,8 @@ def get_similar_entity(nama_instansi, reference_version):
     else:
         return 'Bukan instansi BUMN, Kementerian, Pemerintah'
     
-
-def get_similar_entity_norm(nama_instansi, reference_version):
+# Algorithm 1b
+def get_similar_entity_norm(nama_instansi, reference_version='v2'):
     """
     Function to get similar phrase candidates that have the lowest normalized edit distance with
     respect to nama_instansi
@@ -65,8 +66,9 @@ def get_similar_entity_norm(nama_instansi, reference_version):
         return min(sorted_, key=sorted_.get)
     else:
         return 'Bukan instansi BUMN, Kementerian, Pemerintah'
-
-def get_similar_entity_norm_dep(nama_instansi, reference_version):
+    
+# Algorithm 1c
+def get_similar_entity_th(nama_instansi, reference_version='v2'):
     """
     Function to get similar phrase candidates that have the lowest normalized edit distance with
     respect to nama_instansi
@@ -82,35 +84,17 @@ def get_similar_entity_norm_dep(nama_instansi, reference_version):
         for cand in candidates:
             # Define threshold
             threshold = 0.5
-            
+            max_len = max(len(nama_instansi), len(cand))
             edit_dist = levenshtein(nama_instansi, cand)
-            normalized_edit_dist = edit_dist/max(len(nama_instansi), len(cand))
-            if normalized_edit_dist == 0:
+
+            if edit_dist == 0:
                 return cand
-            elif normalized_edit_dist <= threshold:
-                similar_phrases_dict[cand] = normalized_edit_dist
+            elif edit_dist <= max_len*threshold:
+                similar_phrases_dict[cand] = edit_dist, max_len*threshold
 
     sorted_ = dict(sorted(similar_phrases_dict.items(), key=lambda item: item[1], reverse=False))
-
-    # Calc score
-    score_threshold = 0.5
-    scores = {}
-    for key, val in sorted_.items():
-        score = 0
-        for word in key.split(' '):
-            if word in nama_instansi:
-                score += 1
-        score_pct = score/len(nama_instansi.split(' '))
-        if score_pct >= score_threshold:
-            scores[key] = score_pct
-    
-    # return sorted_
         
-    if len(scores) != 0:
-        return scores
+    if len(sorted_) != 0:
+        return min(sorted_, key=sorted_.get)
     else:
         return 'Bukan instansi BUMN, Kementerian, Pemerintah'
-
-# print(get_similar_entity_norm('dinas pariwisata kabupaten gianyar', 'v2'))
-# print(get_similar_entity_norm('dinas pariwisata provinsi riau', 'v2'))
-# print(get_similar_entity_norm('pejabat bank negara indonesia', 'v2'))
