@@ -1,0 +1,396 @@
+instansi,status,reference
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",yes,kementerian desa
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",yes,kementerian desa pdtt
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",yes,pdtt
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",yes,kementerian pembangunan daerah tertinggal
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",yes,kementerian transmigrasi
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",no,desa
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",no,pembangunan daerah tertinggal
+"kementerian desa, pembangunan daerah tertinggal dan transmigrasi",no,transmigrasi
+kementerian ketenagakerjaan,yes,kementerian tenaga kerja
+kementerian ketenagakerjaan,no,ketenagakerjaan
+kementerian ketenagakerjaan,yes,kemnaker
+kementerian koordinator bidang kemaritiman dan investasi,yes,kemenko kemaritiman dan investasi
+kementerian koordinator bidang kemaritiman dan investasi,yes,kementerian koordinator kemaritiman
+kementerian koordinator bidang kemaritiman dan investasi,yes,kementerian koordinator investasi
+kementerian koordinator bidang kemaritiman dan investasi,yes,kemenko kemaritiman
+kementerian koordinator bidang kemaritiman dan investasi,yes,kemenko investasi
+kementerian koordinator bidang kemaritiman dan investasi,no,kemaritiman
+kementerian koordinator bidang kemaritiman dan investasi,no,investasi
+kementerian koordinator bidang kemaritiman dan investasi,no,kemaritiman dan investasi
+kementerian koordinator bidang kemaritiman dan investasi,yes,kementerian koordinator kemaritiman dan investasi
+kementerian koordinator bidang kemaritiman dan investasi,yes,kemenko bidang kemaritiman dan investasi
+kementerian sekretariat negara,yes,kemensetneg
+kementerian sekretariat negara,yes,setneg ri
+kementerian sekretariat negara,no,sekretariat daerah
+kementerian sekretariat negara,no,divisi sekretariat perusahaan
+badan pengawasan keuangan dan pembangunan (bpkp),yes,bpkp
+badan pengawasan keuangan dan pembangunan (bpkp),yes,perwakilan bpkp provinsi sulawesi barat
+badan pengawasan keuangan dan pembangunan (bpkp),no,badan pengelola keuangan haji (bpkh)
+badan pengawasan keuangan dan pembangunan (bpkp),no,badan pengawasan mahkamah agung
+lembaga kebijakan pengadaan barang/jasa pemerintah (lkpp),yes,lembaga kebijakan pengadaan barang/jasa pemerintah
+lembaga kebijakan pengadaan barang/jasa pemerintah (lkpp),yes,lkpp ri
+lembaga kebijakan pengadaan barang/jasa pemerintah (lkpp),no,pt jasa raharja (persero)
+lembaga kebijakan pengadaan barang/jasa pemerintah (lkpp),no,lembaga sertifikasi profesi pengadaan indonesia
+badan nasional sertifikasi profesi (bnsp),yes,bnsp republik indonesia
+badan nasional sertifikasi profesi (bnsp),yes,badan nasional sertifikasi profesi republik indonesia
+badan nasional sertifikasi profesi (bnsp),no,badan nasional penanggulangan bencana (bnpb)
+badan nasional sertifikasi profesi (bnsp),no,badan nasional penempatan dan perlindungan tenaga kerja indonesia (bnp2tki)
+otoritas jasa keuangan (ojk),yes,otoritas jasa keuangan
+otoritas jasa keuangan (ojk),yes,ojk
+otoritas jasa keuangan (ojk),no,otoritas keuangan
+otoritas jasa keuangan (ojk),no,otoritas jasa
+satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi (skk migas),yes,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi
+satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi (skk migas),yes,skk migas
+satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi (skk migas),no,satuan kerja khusus
+satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi (skk migas),no,satuan kerja khusus pelaksana kegiatan usaha
+pemerintah kabupaten bangka,yes,pemerintahan bangka
+pemerintah kabupaten bangka,no,pemerintah kabupaten
+pemerintah kabupaten bangka,no,bangka
+pemerintah kabupaten bangka,yes,pemkab bangka
+pemerintah kabupaten bangka,no,pemkab
+pemerintah kabupaten bangka,no,pemerintah bangka barat
+pemerintah kabupaten bangka,no,pemerintah bangka selatan
+pemerintah kabupaten bangka,no,pemerintah bangka tengah
+pemerintah kabupaten bangka,no,pemkab bangka barat
+pemerintah kabupaten bangka,no,pemkab bangka selatan
+pemerintah kabupaten bangka,no,pemkab bangka tengah
+pemerintah kabupaten bangka tengah,no,pemerintahan bangka
+pemerintah kabupaten bangka tengah,no,pemkab bangka
+pemerintah kabupaten bangka tengah,no,pemkab
+pemerintah kabupaten bangka tengah,no,pemerintah bangka barat
+pemerintah kabupaten bangka tengah,no,pemerintah bangka selatan
+pemerintah kabupaten bangka tengah,yes,pemerintah bangka tengah
+pemerintah kabupaten bangka tengah,no,pemkab bangka barat
+pemerintah kabupaten bangka tengah,no,pemkab bangka selatan
+pemerintah kabupaten bangka tengah,yes,pemkab bangka tengah
+pemerintah kota pangkalpinang,yes,pemerintahan pangkalpinang
+pemerintah kota pangkalpinang,no,pemerintah kota
+pemerintah kota pangkalpinang,no,pangkalpinang
+pemerintah kota pangkalpinang,yes,pemkot pangkalpinang
+pemerintah kota pangkalpinang,no,pemkot
+pemerintah kabupaten tangerang,yes,pemkabtangerang
+pemerintah kabupaten tangerang,no,tangerang
+pemerintah kabupaten tangerang,yes,pemerintah tangerang
+pemerintah provinsi banten,yes,pemprov banten
+pemerintah provinsi banten,no,banten
+pemerintah provinsi banten,yes,pemerintah banten
+pemerintah kabupaten gorontalo,yes,pemkab gorontalo
+pemerintah kabupaten gorontalo,no,gorontalo
+pemerintah kabupaten gorontalo,yes,pemerintah gorontalo
+pemerintah kota gorontalo,yes,pemkot kota gorontalo
+pemerintah kota gorontalo,no,kota gorontalo
+pemerintah kabupaten muaro jambi,yes,pemkab muaro jambi
+pemerintah kabupaten muaro jambi,no,muaro jambi
+pemerintah kabupaten muaro jambi,yes,pemerintah muaro jambi
+pemerintah provinsi jambi,yes,pemprov jambi
+pemerintah provinsi jambi,no,jambi
+pemerintah kabupaten kendal,yes,pemkab kendal
+pemerintah kabupaten kendal,no,kendal
+pemerintah kabupaten kendal,yes,pemerintah kendal
+pemerintah kabupaten purworejo,yes,pemkab purworejo
+pemerintah kabupaten purworejo,no,purworejo
+pemerintah kabupaten purworejo,yes,pemerintah purworejo
+pemerintah provinsi jawa tengah,yes,pemprov jawa tengah
+pemerintah provinsi jawa tengah,no,jawa tengah
+pemerintah provinsi jawa tengah,yes,pemerintah jawa tengah
+pemerintah provinsi jawa tengah,yes,pemprov jateng
+pemerintah kabupaten sidoarjo,yes,pemkab sidoarjo
+pemerintah kabupaten sidoarjo,no,sidoarjo
+pemerintah kabupaten sidoarjo,yes,pemerintah sidoarjo
+pemerintah kabupaten aceh tengah,no,pemkab aceh singkil
+pemerintah kabupaten aceh tengah,no,pemerintah provinsi nanggroe aceh darusalam
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh barat
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh singkil
+pemerintah kabupaten aceh tengah,no,pemprov nanggroe aceh darusalam
+pemerintah kabupaten aceh tengah,no,pemkab aceh barat
+pemerintah kabupaten aceh tengah,no,pemkab aceh tenggara
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh tamiang
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh selatan
+pemerintah kabupaten aceh tengah,no,pemkab aceh selatan
+pemerintah kabupaten aceh tengah,no,pemkab aceh tamiang
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh barat daya
+pemerintah kabupaten aceh tengah,no,pemkab aceh barat daya
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh utara
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh tenggara
+pemerintah kabupaten aceh tengah,no,pemkot banda aceh
+pemerintah kabupaten aceh tengah,no,pemkab aceh utara
+pemerintah kabupaten aceh tengah,yes,pemkab aceh tengah
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh timur
+pemerintah kabupaten aceh tengah,no,pemkab aceh timur
+pemerintah kabupaten aceh tengah,no,pemerintah kota banda aceh
+pemerintah kabupaten aceh tengah,no,pemkab aceh besar
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh besar
+pemerintah kabupaten aceh tengah,no,pemkab aceh jaya
+pemerintah kabupaten aceh tengah,no,pemerintah kabupaten aceh jaya
+pemerintah kabupaten gunung mas,no,gunung mas puncak
+pemerintah kabupaten gunung mas,yes,pemkab gunung mas
+pemerintah kabupaten mahakam ulu,no,pemerintah kota mataram
+pemerintah kabupaten mahakam ulu,yes,pemkab mahakam ulu
+pemerintah kabupaten mahakam ulu,no,pemkot mataram
+pemerintah kabupaten maluku tenggara barat,no,pemkab malaka
+pemerintah kabupaten maluku tenggara barat,no,pemerintah kabupaten malaka
+pemerintah kabupaten maluku tenggara barat,no,pemkab maluku tengah
+pemerintah kabupaten maluku tenggara barat,no,pemerintah kabupaten maluku tengah
+pemerintah kabupaten maluku tenggara barat,no,pemerintah provinsi maluku
+pemerintah kabupaten maluku tenggara barat,no,pemprov maluku
+pemerintah kabupaten maluku tenggara barat,no,pemerintah kabupaten maluku tenggara
+pemerintah kabupaten maluku tenggara barat,no,pemkab maluku tenggara
+pemerintah kabupaten maluku tenggara barat,yes,pemkab maluku tenggara barat
+pemerintah kabupaten maluku tenggara barat,no,pemerintah kabupaten maluku barat daya
+pemerintah kabupaten maluku tenggara barat,no,pemkab maluku barat daya
+pemerintah kabupaten merauke,yes,pemkab merauke
+pemerintah kabupaten merauke,no,merapi
+pemerintah kabupaten pegunungan bintang,no,pemkab bintan
+pemerintah kabupaten pegunungan bintang,no,pemerintah kabupaten bintan
+pemerintah kabupaten pegunungan bintang,no,bukit bintang
+pemerintah kabupaten pegunungan bintang,yes,pemkab pegunungan bintang
+pemerintah kabupaten pidie jaya,no,pemkab puncak jaya
+pemerintah kabupaten pidie jaya,no,pemerintah kabupaten puncak jaya
+pemerintah kabupaten pidie jaya,yes,pemkab pidie jaya
+pemerintah kabupaten pidie jaya,no,pemerintah kabupaten pidie
+pemerintah kabupaten pidie jaya,no,pemkab pidie
+pemerintah kabupaten pidie jaya,no,pemerintah kabupaten intan jaya
+pemerintah kabupaten pidie jaya,no,pemkab intan jaya
+pemerintah kabupaten pidie jaya,no,pemerintah kabupaten lanny jaya
+pemerintah kabupaten pidie jaya,no,pemkab lanny jaya
+pemerintah kabupaten puncak,yes,pemkab puncak
+pemerintah kabupaten puncak,no,pemkab puncak jaya
+pemerintah kabupaten puncak,no,pemerintah kabupaten puncak jaya
+pemerintah kabupaten puncak,no,puncak
+pemerintah kabupaten sabu raijua,no,kecamatan sabu
+pemerintah kabupaten sabu raijua,yes,pemkab sabu raijua
+pemerintah kabupaten sabu raijua,yes,pemerintah kabupaten sabu-raijua
+pemerintah kabupaten sabu raijua,yes,pemkab sabu-raijua
+pemerintah kabupaten sukamara,no,pengadilan agama sukamara
+pemerintah kabupaten sukamara,yes,pemkab sukamara
+pemerintah kabupaten sukamara,no,pa sukamara
+pemerintah kabupaten sumba barat,no,pemkab sumba barat daya
+pemerintah kabupaten sumba barat,no,pemerintah kabupaten sumba barat daya
+pemerintah kabupaten sumba barat,no,pemprov sumbar
+pemerintah kabupaten sumba barat,no,pemerintah provinsi sumbar
+pemerintah kabupaten sumba barat,no,pemerintah kabupaten sumbawa barat
+pemerintah kabupaten sumba barat,no,pemkab sumbawa barat
+pemerintah kabupaten sumba barat,no,pemerintah kabupaten sumbawa
+pemerintah kabupaten sumba barat,no,pemkab sumbawa
+pemerintah kabupaten sumba barat,yes,pemkab sumba barat
+pemerintah kabupaten sumba barat,no,pemkab sumba timur
+pemerintah kabupaten sumba barat,no,pemerintah kabupaten sumba timur
+pemerintah kabupaten sumba barat,no,pemkab sumba tengah
+pemerintah kabupaten sumba barat,no,pemerintah kabupaten sumba tengah
+pemerintah kabupaten tanah bumbu,yes,pemkab tanah bumbu
+pemerintah kabupaten tanah bumbu,no,pemkab tanah laut
+pemerintah kabupaten tanah bumbu,no,pemerintah kabupaten tanah laut
+pemerintah kabupaten tanah bumbu,no,pemerintah kabupaten tana tidung
+pemerintah kabupaten tanah bumbu,no,pemkab tana tidung
+pemerintah kota samarinda,yes,pemkot samarinda
+pemerintah kota samarinda,no,pengadilan agama samarnda
+pemerintah kota samarinda,no,pa samarinda
+pemerintah provinsi lampung,no,pemerintah kabupaten lampung tengah
+pemerintah provinsi lampung,no,pemerintah kabupaten lampung selatan
+pemerintah provinsi lampung,no,pemerintah kabupaten lampung utara
+pemerintah provinsi lampung,no,pemkab lampung utara
+pemerintah provinsi lampung,no,pemerintah kota bandar lampung
+pemerintah provinsi lampung,yes,pemprov lampung
+pemerintah provinsi lampung,no,pemerintah kabupaten lampung timur
+pemerintah provinsi lampung,no,pemkab lampung selatan
+pemerintah provinsi lampung,no,pemerintah kabupaten lampung barat
+pemerintah provinsi lampung,no,pemkab lampung tengah
+pemerintah provinsi lampung,no,pemkot bandar lampung
+pemerintah provinsi lampung,no,pemkab lampung timur
+pemerintah provinsi lampung,no,pemkab lampung barat
+pemerintah kabupaten jeneponto,no,pemkab majene
+pemerintah kabupaten jeneponto,no,pemerintah kabupaten majene
+pemerintah kabupaten jeneponto,yes,pemkab jeneponto
+pemerintah kabupaten kolaka utara,no,pemerintah kabupaten kolaka timur
+pemerintah kabupaten kolaka utara,no,pemkab kolaka timur
+pemerintah kabupaten kolaka utara,yes,pemkab kolaka utara
+pemerintah kabupaten kolaka utara,no,pemerintah kabupaten kolaka
+pemerintah kabupaten kolaka utara,no,pemkab kolaka
+pemerintah kabupaten labuhanbatu utara,no,pemerintah kabupaten labuhanbatu selatan
+pemerintah kabupaten labuhanbatu utara,no,pemkab labuhanbatu selatan
+pemerintah kabupaten labuhanbatu utara,yes,pemkab labuhanbatu utara
+pemerintah kabupaten labuhanbatu utara,no,pemkab labuhanbatu
+pemerintah kabupaten labuhanbatu utara,no,pemerintah kabupaten labuhanbatu
+pemerintah kabupaten lahat,yes,pemkab lahat
+pemerintah kabupaten lahat,no,pemerintah kabupaten asahan
+pemerintah kabupaten lahat,no,pemkab asahan
+pemerintah kabupaten lima puluh kota,no,pemerintah kabupaten kotabaru
+pemerintah kabupaten lima puluh kota,yes,pemkab lima puluh kota
+pemerintah kabupaten padang lawas,yes,pemkab padang lawas
+pemerintah kabupaten padang lawas,no,pemkab padang lawas utara
+pemerintah kabupaten padang lawas,no,pemerintah kabupaten padang lawas utara
+pemerintah kabupaten padang lawas,no,pemkab padang pariaman
+pemerintah kabupaten padang lawas,no,pemerintah kabupaten padang pariaman
+pemerintah kabupaten pasangkayu,no,pemkab pasaman barat
+pemerintah kabupaten pasangkayu,no,pemerintah kabupaten pasaman barat
+pemerintah kabupaten pasangkayu,yes,pemkab pasangkayu
+pemerintah kabupaten pasangkayu,no,pemerintah kabupaten pasaman
+pemerintah kabupaten pasangkayu,no,pemkab pasaman
+pemerintah kabupaten penukal abab lematang ilir,yes,pemkab penukal abab lematang ilir
+pemerintah kabupaten penukal abab lematang ilir,no,pemerintah kota pematang siantar
+pemerintah kabupaten penukal abab lematang ilir,no,pemkot pematang siantar
+pemerintah kabupaten serdang bedagai,no,pemkab serang
+pemerintah kabupaten serdang bedagai,no,pemerintah kabupaten serang
+pemerintah kabupaten serdang bedagai,yes,pemkab serdang bedagai
+pemerintah kabupaten simalungun,no,pemerintah kabupaten sijunjung
+pemerintah kabupaten simalungun,no,pemerintah kabupaten simeulue
+pemerintah kabupaten simalungun,yes,pemkab simalungun
+pemerintah kabupaten sinjai,no,pemkot binjai
+pemerintah kabupaten sinjai,no,pemerintah kota binjai
+pemerintah kabupaten sinjai,yes,pemkab sinjai
+pemerintah kabupaten sinjai,no,pemerintah kabupaten binjai
+pemerintah kabupaten sorong,no,pemerintah kabupaten solok
+pemerintah kabupaten sorong,no,pemkab solok
+pemerintah kabupaten sorong,yes,pemkab sorong
+pemerintah kabupaten sorong,no,pemerintah kabupaten solok selatan
+pemerintah kabupaten sorong,no,pemkab sorong selatan
+pemerintah kabupaten sorong,no,pemkab solok selatan
+pemerintah kabupaten sorong,no,pemerintah kabupaten sorong selatan
+pemerintah kota dumai,no,pemerintah kota binjai
+pemerintah kota dumai,yes,pemkot dumai
+pemerintah kota solok,no,pemerintah kota sorong
+pemerintah kota solok,yes,pemkot solok
+pemerintah kota tebing tinggi,yes,pemkot tebing tinggi
+pemerintah kota tebing tinggi,no,pemerintah kota bukittinggi
+pemerintah kota tebing tinggi,no,pemkot bukittinggi
+pemerintah kota tomohon,no,pemkab tolikara
+pemerintah kota tomohon,yes,pemkot tomohon
+pemerintah kota tomohon,no,pemerintah kabupaten tolikara
+pemerintah provinsi sulawesi utara,no,pemprov sumut
+pemerintah provinsi sulawesi utara,no,pemerintah provinsi sumut
+pemerintah provinsi sulawesi utara,yes,pemerintah provinsi sulut
+pemerintah provinsi sulawesi utara,yes,pemprov sulawesi utara
+pemerintah provinsi sulawesi utara,no,pemerintah provinsi sulawesi barat
+pemerintah provinsi sulawesi utara,no,pemerintah provinsi sulawesi tengah
+pemerintah provinsi sulawesi utara,no,pemerintah provinsi sulawesi tenggara
+pemerintah provinsi sulawesi utara,no,pemprov sulawesi tenggara
+pemerintah provinsi sulawesi utara,no,pemprov sulawesi selatan
+pemerintah provinsi sulawesi utara,no,pemerintah provinsi sulawesi selatan
+pemerintah provinsi sulawesi utara,no,pemprov sulawesi barat
+pemerintah provinsi sulawesi utara,no,pemprov sulawesi tengah
+pt jaminan kredit indonesia (jamkrindo),yes,jamkrindo
+pt jaminan kredit indonesia (jamkrindo),yes,jaminan kredit indonesia
+pt jaminan kredit indonesia (jamkrindo),yes,pt jaminan kredit indonesia
+pt jaminan kredit indonesia (jamkrindo),no,kredit indonesia
+pt jaminan kredit indonesia (jamkrindo),no,kredit
+pt jaminan kredit indonesia (jamkrindo),no,pt jaminan kredit
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,pt bank rakyat indonesia
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank rakyat indonesia
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,pt bri
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,pt bank rakyat indonesia (bri)
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank rakyat indonesia (bri)
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri unit prambanan
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,pt. bank bri (persero) cabang ujung batu
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri kanwil jakarta 2
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri insurance
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri masamba
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri pematang siantar
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri kantor pusat
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri cabang blitar
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,kacab bri samarinda 1
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri cabang luwuk
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri cabang brebes
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri cabang purwodadi
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri kc dmpu
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri kc pandeglang
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri kacap banjarnegara
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri cabang palopo
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri kramat
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri cabang maros
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri custody
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri samarinda 2
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri cabang dago
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri cab fak-fak
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri cabang temanggung
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank bri kantor cabang bkkbn
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,pt bri cabang bojonegoro dan pt bri cabang nganjuk
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bri kcp bkkbn
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,kck bri
+"pt bank rakyat indonesia (persero), tbk. (bri)",no,bank rakyat
+"pt bank rakyat indonesia (persero), tbk. (bri)",no,pt bank rakyat
+"pt bank rakyat indonesia (persero), tbk. (bri)",no,rakyat indonesia
+"pt bank rakyat indonesia (persero), tbk. (bri)",no,bank indonesia
+pt bio farma (persero),yes,bio farma
+pt bio farma (persero),yes,bio farma indonesia
+pt bio farma (persero),yes,pt bio farma
+pt bio farma (persero),yes,pt bio farma indonesia
+pt bio farma (persero),no,pt farma
+pt bio farma (persero),no,farma indonesia
+pt bio farma (persero),no,bio
+pt bio farma (persero),no,farma
+pt bio farma (persero),no,pt bio
+pt bio farma (persero),yes,biofarma
+pt boma bisma indra (persero),yes,pt boma bisma indra
+pt boma bisma indra (persero),yes,boma bisma indra
+pt boma bisma indra (persero),yes,bbi
+pt boma bisma indra (persero),no,boma
+pt boma bisma indra (persero),yes,boma indra
+pt boma bisma indra (persero),yes,boma bisma
+pt boma bisma indra (persero),yes,bisma indra
+pt boma bisma indra (persero),no,indra
+pt boma bisma indra (persero),no,bisma
+pt industri kapal indonesia (persero),yes,pt industri kapal indonesia
+pt industri kapal indonesia (persero),yes,pt iki
+pt industri kapal indonesia (persero),yes,iki
+pt industri kapal indonesia (persero),no,pt kapal indonesia
+pt industri kapal indonesia (persero),no,industri kapal
+pt krakatau steel (persero) tbk.,yes,pt krakatau steel
+pt krakatau steel (persero) tbk.,yes,krakatau steel
+pt krakatau steel (persero) tbk.,yes,kras
+pt krakatau steel (persero) tbk.,yes,pt kras
+pt krakatau steel (persero) tbk.,no,krakatau
+pt krakatau steel (persero) tbk.,no,steel
+pt len industri (persero),yes,pt len industri
+pt len industri (persero),yes,len industri
+pt len industri (persero),yes,pt len
+pt len industri (persero),yes,len indonesia
+pt len industri (persero),no,lan
+pt len industri (persero),no,industri len
+pt perusahaan pengelola aset (persero),yes,pt perusahaan pengelola aset
+pt perusahaan pengelola aset (persero),yes,perusahaan pengelola aset
+pt perusahaan pengelola aset (persero),yes,pt ppa
+pt perusahaan pengelola aset (persero),yes,ppa
+pt perusahaan pengelola aset (persero),no,pengelola aset
+pt perusahaan pengelola aset (persero),no,perusahaan pengelola
+pt survai udara penas (persero),yes,pt survai udara penas
+pt survai udara penas (persero),yes,pt survai udara
+pt survai udara penas (persero),yes,survai udara penas
+pt survai udara penas (persero),yes,penas
+pt survai udara penas (persero),no,udara penas
+pt survai udara penas (persero),no,pt survai
+pt jaminan kredit indonesia (jamkrindo),yes,pt jamkrindo
+pt jaminan kredit indonesia (jamkrindo),yes,pt jamkrindo cabang bandung
+pt jaminan kredit indonesia (jamkrindo),no,pt asuransi kredit indonesia (persero)
+pt jaminan kredit indonesia (jamkrindo),no,pt kredit pintar indonesia
+"pt bank rakyat indonesia (persero), tbk. (bri)",yes,bank rakyat indonesia cabang sintang
+"pt bank rakyat indonesia (persero), tbk. (bri)",no,bank negara indonesia
+pt boma bisma indra (persero),yes,pt boma bisma indra (persero) cabang jakarta
+pt boma bisma indra (persero),no,pt boma tirta prima
+pt boma bisma indra (persero),no,pt bisma putra persada
+pt industri kapal indonesia (persero),yes,pt iki (persero)
+pt industri kapal indonesia (persero),yes,industri kapal indonesia
+pt industri kapal indonesia (persero),no,pt industri kereta api (persero)
+pt industri kapal indonesia (persero),no,pt industri nuklir indonesia (persero)
+pt krakatau steel (persero) tbk.,no,pt steel pipe industry of indonesia tbk
+pt krakatau steel (persero) tbk.,no,pt steel center indonesia
+pt len industri (persero),yes,len
+pt len industri (persero),no,pt industri kapal indonesia (persero)
+pt len industri (persero),no,pt lentera dana nusantara
+pt pelabuhan indonesia i (persero),yes,pelindo i
+pt pelabuhan indonesia i (persero),yes,pelabuhan indonesia
+pt pelabuhan indonesia i (persero),no,pt pelabuhan indonesia ii
+pt pelabuhan indonesia i (persero),no,pelabuhan indonesia ii
+pt perusahaan pengelola aset (persero),no,perusahaan pengurusan jasa kepabeanan
+pt perusahaan pengelola aset (persero),no,pt aset digital berkat
+pt sang hyang seri,yes,shs
+pt sang hyang seri,yes,pt sang hyang seri cabang sidrap
+pt sang hyang seri,no,sanghyang heuleut
+pt sang hyang seri,no,pt sang byte indonesia
+pt survai udara penas (persero),yes,pt aviasi pariwisata indonesia
+pt survai udara penas (persero),no,survai udara
+pt semen kupang,no,kupang
+pt semen kupang,no,pemkot kupang
+pt semen kupang,no,pemerintah kota kupang
