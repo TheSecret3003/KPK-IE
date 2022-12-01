@@ -1,0 +1,913 @@
+instansi,status,reference,similiarity
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,kementerian agraria,0.659394383430481
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,kementerian tata ruang,0.5498724579811096
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,kementerian badan pertanahan nasional,0.7821142077445984
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,badan pertanahan nasional,0.7279475927352905
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,atr,0.1683870553970337
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,bpn,0.452116459608078
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),yes,atr/bpn,0.6593427062034607
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),no,agraria,0.5182639956474304
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),no,agraria dan tata ruang,0.6998291015625
+kementerian agraria dan tata ruang/badan pertanahan nasional (bpn),no,tata ruang,0.4365633428096771
+kementerian energi dan sumber daya mineral (esdm),yes,kementerian energi,0.6357835531234741
+kementerian energi dan sumber daya mineral (esdm),yes,kementerian sumber daya mineral,0.7889813184738159
+kementerian energi dan sumber daya mineral (esdm),yes,esdm,0.5345445871353149
+kementerian energi dan sumber daya mineral (esdm),no,energi,0.4331625699996948
+kementerian energi dan sumber daya mineral (esdm),no,sumber daya mineral,0.5271337628364563
+kementerian energi dan sumber daya mineral (esdm),yes,kementerian energi dan sumber daya mineral,0.8418250679969788
+kementerian hukum dan hak asasi manusia,yes,kementerian hukum,0.6324244737625122
+kementerian hukum dan hak asasi manusia,yes,kementerian hukum dan ham,0.8731591701507568
+kementerian hukum dan hak asasi manusia,yes,kementerian ham,0.6220586895942688
+kementerian hukum dan hak asasi manusia,yes,kementerian hak asasi manusia,0.8907756805419922
+kementerian hukum dan hak asasi manusia,no,hukum dan ham,0.6505685448646545
+kementerian hukum dan hak asasi manusia,no,hukum,0.45594343543052673
+kementerian hukum dan hak asasi manusia,no,ham,0.3367513120174408
+kementerian hukum dan hak asasi manusia,yes,kemenkumham,0.3782499432563782
+kementerian kesehatan,yes,kemenkes,0.6099635362625122
+kementerian kesehatan,no,kesehatan,0.5686376690864563
+kementerian kesehatan,yes,kementerian kemenkes,0.8553772568702698
+kementerian komunikasi dan informatika,yes,kementerian komunikasi,0.7889792919158936
+kementerian komunikasi dan informatika,yes,kementerian informatika,0.8490502238273621
+kementerian komunikasi dan informatika,yes,kominfo,0.5232724547386169
+kementerian komunikasi dan informatika,no,informatika,0.5087853670120239
+kementerian komunikasi dan informatika,no,komunikasi,0.5171045064926147
+kementerian komunikasi dan informatika,no,komunikasi dan informatika,0.683836817741394
+kementerian luar negeri,yes,kemlu,0.18538694083690643
+kementerian luar negeri,yes,kemlu ri,0.2500152289867401
+kementerian luar negeri,no,luar negeri,0.727538526058197
+kementerian luar negeri,no,kementrian dalam negeri,0.7941607236862183
+kementerian badan usaha milik negara,yes,kementrian bumn,0.5424715280532837
+kementerian badan usaha milik negara,yes,kemen bumn,0.3935628831386566
+kementerian badan usaha milik negara,no,bumn,0.4227575957775116
+kementerian badan usaha milik negara,no,badan usaha milik negara,0.8915055394172668
+kementerian pariwisata dan ekonomi kreatif,yes,kemenparekraf,0.5521280169487
+kementerian pariwisata dan ekonomi kreatif,yes,kemenparekraf ri,0.5762284398078918
+kementerian pariwisata dan ekonomi kreatif,no,dinas pariwisata dan kebudayaan kota bogor,0.5664927363395691
+kementerian pariwisata dan ekonomi kreatif,no,dinas kebudayaan dan pariwisata kota bandung,0.5948756337165833
+kementerian pemberdayaan perempuan dan perlindungan anak,yes,kemen pppa,0.3444423973560333
+kementerian pemberdayaan perempuan dan perlindungan anak,yes,kementrian pp & pa,0.265604168176651
+kementerian pemberdayaan perempuan dan perlindungan anak,no,pemberdayaan perempuan,0.6860275268554688
+kementerian pemberdayaan perempuan dan perlindungan anak,no,komisi perlindungan anak indonesia,0.6857602596282959
+kementerian pertahanan,yes,kemhan,0.33156827092170715
+kementerian pertahanan,yes,departemen pertahanan,0.6988124251365662
+kementerian pertahanan,no,badan pertahanan nasional,0.6163214445114136
+kementerian pertahanan,no,universitas pertahanan,0.6114768385887146
+badan pemeriksa keuangan (bpk),yes,bpk,0.48680657148361206
+badan pemeriksa keuangan (bpk),yes,badan pemeriksa keuangan,0.7900118827819824
+badan pemeriksa keuangan (bpk),no,bpkp,0.5094267725944519
+badan pemeriksa keuangan (bpk),no,kementerian keuangan,0.44945940375328064
+komisi yudisial,yes,ky,0.3120504915714264
+komisi yudisial,yes,komisi yudisial (ky),0.7387329936027527
+komisi yudisial,no,anggota dpr ri komisi ix,0.5102442502975464
+komisi yudisial,no,komisi penyiaran indonesia,0.6047002077102661
+badan koordinasi penanaman modal (bkpm),yes,kementrian investasi/bkpm,0.6458477973937988
+badan koordinasi penanaman modal (bkpm),yes,kementrian investasi,0.4748488664627075
+badan koordinasi penanaman modal (bkpm),no,bbkpm surakarta,0.22922782599925995
+badan koordinasi penanaman modal (bkpm),no,dinas penanaman modal dan pelayanan terpadu satu pintu,0.557923436164856
+badan pengkajian dan penerapan teknologi (bppt),yes,bppt,0.531184196472168
+badan pengkajian dan penerapan teknologi (bppt),yes,perwakilan bppt,0.40522271394729614
+badan pengkajian dan penerapan teknologi (bppt),no,"kementerian pendidikan, kebudayaan, riset, dan teknologi",0.5439339876174927
+badan pengkajian dan penerapan teknologi (bppt),no,"badan pengkajian kebijakan, iklim, dan mutu industri",0.6438291668891907
+badan pengusahaan kawasan perdagangan bebas dan pelabuhan bebas batam,yes,badan pengusahaan batam (bp batam),0.6870374083518982
+badan pengusahaan kawasan perdagangan bebas dan pelabuhan bebas batam,yes,bp batam,0.4290753901004791
+badan pengusahaan kawasan perdagangan bebas dan pelabuhan bebas batam,no,pemerintah kota batam,0.5181909799575806
+badan pengusahaan kawasan perdagangan bebas dan pelabuhan bebas batam,no,universitas batam,0.40684667229652405
+badan siber dan sandi negara (bssn),yes,bssn,0.40769603848457336
+badan siber dan sandi negara (bssn),yes,badan siber dan sandi negara,0.8135631084442139
+badan siber dan sandi negara (bssn),no,pt beritakota media siber (beritakota.id),0.5610310435295105
+badan siber dan sandi negara (bssn),no,universitas siber asia,0.5015411376953125
+komisi pemilihan umum (kpu),yes,kpu kabupaten memberamo raya,0.40215837955474854
+komisi pemilihan umum (kpu),yes,komisi pemilihan umum kabupaten fakfak,0.5946080088615417
+komisi pemilihan umum (kpu),no,kpu bc tipe c soekarno hatta,0.22529640793800354
+komisi pemilihan umum (kpu),no,kpu bc tipe b batam,0.19942069053649902
+lembaga ketahanan nasional (lemhanas),yes,lembaga ketahanan nasional,0.6675947308540344
+lembaga ketahanan nasional (lemhanas),yes,lemhannas ri,0.44655007123947144
+lembaga ketahanan nasional (lemhanas),no,dewan ketahanan nasional (wantannas),0.7619930505752563
+lembaga ketahanan nasional (lemhanas),no,lembaga penerbangan dan antariksa nasional (lapan),0.6580210328102112
+badan pengelola keuangan haji (bpkh),yes,badan pengelola keuangan haji,0.7309930324554443
+badan pengelola keuangan haji (bpkh),yes,bpkh,0.428230881690979
+badan pengelola keuangan haji (bpkh),no,badan pengelola keuangan,0.6394174695014954
+badan pengelola keuangan haji (bpkh),no,bpk,0.4254617393016815
+badan pengelola keuangan haji (bpkh),no,badan pengelola haji,0.6512895822525024
+badan penyelenggara jaminan sosial ketenagakerjaan (bpjamsostek),yes,badan penyelenggara jaminan sosial ketenagakerjaan,0.7725663781166077
+badan penyelenggara jaminan sosial ketenagakerjaan (bpjamsostek),yes,bpjamsostek,0.39168569445610046
+badan penyelenggara jaminan sosial ketenagakerjaan (bpjamsostek),yes,bpjs ketenagakerjaan,0.5044392943382263
+badan penyelenggara jaminan sosial ketenagakerjaan (bpjamsostek),no,bpjs,0.40401598811149597
+badan penyelenggara jaminan sosial ketenagakerjaan (bpjamsostek),no,badan penyelenggara jaminan sosial,0.7182536125183105
+bank indonesia (bi),yes,bank indonesia (bi),1.0
+bank indonesia (bi),yes,bi,0.49692535400390625
+bank indonesia (bi),no,bank internasional indonesia,0.6928455829620361
+pemerintah kabupaten gianyar,yes,pemerintahan gianyar,0.7925387620925903
+pemerintah kabupaten gianyar,no,pemerintah kabupaten,0.7782989740371704
+pemerintah kabupaten gianyar,no,gianyar,0.5947731137275696
+pemerintah kabupaten gianyar,yes,pemkab gianyar,0.8349473476409912
+pemerintah kabupaten gianyar,no,pemkab,0.6278637647628784
+pemerintah kabupaten tabanan,yes,pemerintahan tabanan,0.7859595417976379
+pemerintah kabupaten tabanan,no,pemerintah kabupaten,0.7761083245277405
+pemerintah kabupaten tabanan,no,tabanan,0.5821896195411682
+pemerintah kabupaten tabanan,yes,pemkab tabanan,0.8362261652946472
+pemerintah kabupaten tabanan,no,pemkab,0.6304425001144409
+pemerintah kota cilegon,yes,pemkab cilegon,0.7439695000648499
+pemerintah kota cilegon,no,cilegon,0.550753653049469
+pemerintah kota cilegon,yes,pemerintah cilegon,0.873441755771637
+pemerintah kota tangerang selatan,yes,pemkab tangerang selatan,0.8279223442077637
+pemerintah kota tangerang selatan,no,tangerang selatan,0.7134292125701904
+pemerintah kota tangerang selatan,no,pemkot tangerang,0.7059131264686584
+pemerintah kota tangerang selatan,yes,pemkab tangsel,0.6335140466690063
+pemerintah kota tangerang selatan,yes,pemerintah tangerang selatan,0.9323345422744751
+pemerintah kabupaten kaur,yes,pemkab kaur,0.7026718258857727
+pemerintah kabupaten kaur,no,kaur,0.4517347514629364
+pemerintah kabupaten kaur,yes,pemerintah kaur,0.7061029672622681
+pemerintah kabupaten kepahiang,yes,pemkab kepahiang,0.8464921712875366
+pemerintah kabupaten kepahiang,no,kepahiang,0.5898381471633911
+pemerintah kabupaten kepahiang,yes,pemerintah kepahiang,0.8530753254890442
+pemerintah kota bengkulu,yes,pemkot bengkulu,0.7555263042449951
+pemerintah kota bengkulu,no,bengkulu,0.5822399258613586
+pemerintah provinsi bengkulu,yes,pemprov bengkulu,0.7446982860565186
+pemerintah provinsi bengkulu,no,bengkulu,0.5965245366096497
+pemerintah provinsi bengkulu,yes,pemerintah bengkulu,0.8811353445053101
+pemerintah kota jakarta pusat,yes,pemkot jakarta pusat,0.8422083258628845
+pemerintah kota jakarta pusat,yes,pemerintah kota administrasi jakarta pusat,0.9324461817741394
+pemerintah kota jakarta pusat,no,pemerintah kota jakarta barat,0.8543634414672852
+pemerintah kota jakarta pusat,no,pemerintah kota jakarta timur,0.8594467639923096
+pemerintah kabupaten tebo,yes,pemkab tebo,0.8562257289886475
+pemerintah kabupaten tebo,no,tebo,0.5343296527862549
+pemerintah kabupaten tebo,yes,pemerintah tebo,0.8799851536750793
+pemerintah kabupaten bandung barat,yes,pemkab bandung barat,0.8108616471290588
+pemerintah kabupaten bandung barat,no,bandung barat,0.619143009185791
+pemerintah kabupaten bandung barat,yes,pemerintah bandung barat,0.8805340528488159
+pemerintah kabupaten bogor,yes,pemkab bogor,0.7656201720237732
+pemerintah kabupaten bogor,no,bogor,0.46622851490974426
+pemerintah kabupaten bogor,yes,pemerintah bogor,0.8594720959663391
+pemerintah kabupaten ciamis,yes,pemkab ciamis,0.7989065051078796
+pemerintah kabupaten ciamis,no,ciamis,0.5572739839553833
+pemerintah kabupaten ciamis,yes,pemerintah ciamis,0.9128196835517883
+pemerintah kabupaten cirebon,yes,pemkab cirebon,0.7576630711555481
+pemerintah kabupaten cirebon,no,cirebon,0.43616604804992676
+pemerintah kabupaten cirebon,yes,pemerintah cirebon,0.8733475208282471
+pemerintah kabupaten karawang,yes,pemkab karawang,0.8134011626243591
+pemerintah kabupaten karawang,no,karawang,0.5512160062789917
+pemerintah kabupaten karawang,yes,pemerintah karawang,0.903210461139679
+pemerintah kota bekasi,yes,pemkot bekasi,0.7277858257293701
+pemerintah kota bekasi,no,bekasi,0.4874652922153473
+pemerintah kota bogor,yes,pemkot bogor,0.7290675044059753
+pemerintah kota bogor,no,bogor,0.49002838134765625
+pemerintah provinsi jawa barat,yes,pemprov jawa barat,0.7472629547119141
+pemerintah provinsi jawa barat,no,jawa barat,0.6101234555244446
+pemerintah provinsi jawa barat,yes,pemerintah jawa barat,0.8728672862052917
+pemerintah provinsi jawa barat,yes,pemprov jabar,0.5116260051727295
+pemerintah kabupaten blora,yes,pemkab blora,0.835544764995575
+pemerintah kabupaten blora,no,blora,0.6164945960044861
+pemerintah kabupaten blora,yes,pemerintah blora,0.9309207201004028
+pemerintah kabupaten boyolali,yes,pemkab boyolali,0.7994669079780579
+pemerintah kabupaten boyolali,no,boyolali,0.5365546941757202
+pemerintah kabupaten boyolali,yes,pemerintah boyolali,0.8943290710449219
+pemerintah kabupaten brebes,yes,pemkab brebes,0.8339031338691711
+pemerintah kabupaten brebes,no,brebes,0.5396903157234192
+pemerintah kabupaten brebes,yes,pemerintah brebes,0.9163082838058472
+pemerintah kabupaten kebumen,yes,pemkab kebumen,0.8231257796287537
+pemerintah kabupaten kebumen,no,kebumen,0.579518735408783
+pemerintah kabupaten kebumen,yes,pemerintah kebumen,0.9143610596656799
+pemerintah kabupaten magelang,yes,pemkab magelang,0.7856466174125671
+pemerintah kabupaten magelang,no,magelang,0.5185441970825195
+pemerintah kabupaten magelang,yes,pemerintah magelang,0.8829190731048584
+pemerintah kabupaten pemalang,yes,pemkab pemalang,0.8255589008331299
+pemerintah kabupaten pemalang,no,pemalang,0.5558549761772156
+pemerintah kabupaten pemalang,yes,pemerintah pemalang,0.8977100253105164
+pemerintah kabupaten sragen,yes,pemkab sragen,0.8039791584014893
+pemerintah kabupaten sragen,no,sragen,0.5543683171272278
+pemerintah kabupaten sragen,yes,pemerintah sragen,0.9056999087333679
+pemerintah kabupaten sukoharjo,yes,pemkab sukoharjo,0.799686074256897
+pemerintah kabupaten sukoharjo,no,sukoharjo,0.5533546805381775
+pemerintah kabupaten sukoharjo,yes,pemerintah sukoharjo,0.9058839678764343
+pemerintah kabupaten temanggung,yes,pemkab temanggung,0.790851891040802
+pemerintah kabupaten temanggung,no,temanggung,0.5740304589271545
+pemerintah kabupaten temanggung,yes,pemerintah temanggung,0.9013538956642151
+pemerintah kota magelang,yes,pemkot magelang,0.7827644348144531
+pemerintah kota magelang,no,magelang,0.5353580713272095
+pemerintah kota pekalongan,yes,pemkot pekalongan,0.7242991924285889
+pemerintah kota pekalongan,no,pekalongan,0.5113834142684937
+pemerintah kabupaten jombang,yes,pemkab jombang,0.7832609415054321
+pemerintah kabupaten jombang,no,jombang,0.486508846282959
+pemerintah kabupaten jombang,yes,pemerintah jombang,0.8768558502197266
+pemerintah kabupaten lamongan,yes,pemkab lamongan,0.7887548208236694
+pemerintah kabupaten lamongan,no,lamongan,0.49284857511520386
+pemerintah kabupaten lamongan,yes,pemerintah lamongan,0.879516065120697
+pemerintah kabupaten malang,yes,pemkab malang,0.7450024485588074
+pemerintah kabupaten malang,no,malang,0.43184220790863037
+pemerintah kabupaten malang,yes,pemerintah malang,0.8470725417137146
+pemerintah kabupaten magetan,yes,pemkab magetan,0.7900165915489197
+pemerintah kabupaten magetan,no,magetan,0.5761346817016602
+pemerintah kabupaten magetan,yes,pemerintah magetan,0.8967699408531189
+pemerintah kabupaten pacitan,yes,pemkab pacitan,0.7972848415374756
+pemerintah kabupaten pacitan,no,pacitan,0.535163164138794
+pemerintah kabupaten pacitan,yes,pemerintah pacitan,0.8884271383285522
+pemerintah kabupaten tulungagung,yes,pemkab tulungagung,0.7643853425979614
+pemerintah kabupaten tulungagung,no,tulungagung,0.5133674740791321
+pemerintah kabupaten tulungagung,yes,pemerintah tulungagung,0.8928831815719604
+pemerintah kota surabaya,yes,pemkot surabaya,0.7799668908119202
+pemerintah kota surabaya,no,surabaya,0.4616238474845886
+pemerintah kota surabaya,yes,pemerintah surabaya,0.8665100336074829
+pemerintah kabupaten ketapang,yes,pemkab ketapang,0.8203582763671875
+pemerintah kabupaten ketapang,no,ketapang,0.6633673906326294
+pemerintah kabupaten ketapang,yes,pemerintah ketapang,0.9184996485710144
+pemerintah kabupaten kubu raya,yes,pemkab kubu raya,0.8531048893928528
+pemerintah kabupaten kubu raya,no,kubu raya,0.6323370337486267
+pemerintah kabupaten kubu raya,yes,pemerintah kubu raya,0.8905954957008362
+pemerintah kabupaten landak,yes,pemkab landak,0.8284049034118652
+pemerintah kabupaten landak,no,landak,0.5460612177848816
+pemerintah kabupaten landak,yes,pemerintah landak,0.9147031307220459
+pemerintah kabupaten sambas,yes,pemkab sambas,0.7835806012153625
+pemerintah kabupaten sambas,no,sambas,0.626895546913147
+pemerintah kabupaten sambas,yes,pemerintah sambas,0.8824353218078613
+pemerintah kota singkawang,yes,pemkot singkawang,0.7976144552230835
+pemerintah kota singkawang,no,singkawang,0.5867232084274292
+pemerintah kota singkawang,yes,pemerintah singkawang,0.9110370874404907
+pemerintah provinsi kalimantan barat,yes,pemprov kalimantan barat,0.7666361331939697
+pemerintah provinsi kalimantan barat,no,kalimantan barat,0.6392579078674316
+pemerintah provinsi kalimantan barat,yes,pemerintah kalimantan barat,0.9031401872634888
+pemerintah provinsi kalimantan barat,yes,pemprov kalbar,0.561032772064209
+pemerintah kabupaten barito kuala,yes,pemkab barito kuala,0.8412483334541321
+pemerintah kabupaten barito kuala,no,barito kuala,0.7437735795974731
+pemerintah kabupaten barito kuala,yes,pemerintah barito kuala,0.8897716403007507
+pemerintah kabupaten hulu sungai selatan,yes,pemkab hulu sungai selatan,0.8421564102172852
+pemerintah kabupaten hulu sungai selatan,no,hulu sungai selatan,0.7767680883407593
+pemerintah kabupaten hulu sungai selatan,yes,pemerintah hulu sungai selatan,0.9026315808296204
+pemerintah kabupaten aceh besar,no,pemkab aceh utara,0.7273013591766357
+pemerintah kabupaten aceh besar,no,pemprov nanggroe aceh darusalam,0.5830183029174805
+pemerintah kabupaten aceh besar,no,pemerintah provinsi nanggroe aceh darusalam,0.665951669216156
+pemerintah kabupaten aceh besar,no,pemkot banda aceh,0.5341743230819702
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh utara,0.9013904333114624
+pemerintah kabupaten aceh besar,no,pemkab aceh barat daya,0.7139602303504944
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh barat daya,0.8503758311271667
+pemerintah kabupaten aceh besar,no,pemkab aceh tengah,0.732290506362915
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh tengah,0.9097819924354553
+pemerintah kabupaten aceh besar,no,pemerintah kota banda aceh,0.7371156811714172
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh tenggara,0.8945298790931702
+pemerintah kabupaten aceh besar,yes,pemkab aceh besar,0.8269078135490417
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh tamiang,0.8682370185852051
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh timur,0.9138423800468445
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh barat,0.9083699584007263
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh singkil,0.8768715262413025
+pemerintah kabupaten aceh besar,no,pemkab aceh tenggara,0.7546154856681824
+pemerintah kabupaten aceh besar,no,pemkab aceh timur,0.758790910243988
+pemerintah kabupaten aceh besar,no,pemkab aceh selatan,0.7577970623970032
+pemerintah kabupaten aceh besar,no,pemkab aceh singkil,0.7232733368873596
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh jaya,0.8953242897987366
+pemerintah kabupaten aceh besar,no,pemkab aceh tamiang,0.7592689990997314
+pemerintah kabupaten aceh besar,no,pemerintah kabupaten aceh selatan,0.9080585837364197
+pemerintah kabupaten aceh besar,no,pemkab aceh barat,0.7782071828842163
+pemerintah kabupaten aceh besar,no,pemkab aceh jaya,0.7205241918563843
+pemerintah kabupaten aceh tamiang,no,pemkab aceh singkil,0.6858548521995544
+pemerintah kabupaten aceh tamiang,no,pemkab aceh utara,0.6957000494003296
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh singkil,0.8382521271705627
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh utara,0.8634650707244873
+pemerintah kabupaten aceh tamiang,no,pemprov nanggroe aceh darusalam,0.5662520527839661
+pemerintah kabupaten aceh tamiang,no,pemerintah provinsi nanggroe aceh darusalam,0.6605314612388611
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh besar,0.8682370185852051
+pemerintah kabupaten aceh tamiang,no,pemkab aceh besar,0.7039204835891724
+pemerintah kabupaten aceh tamiang,no,pemkab aceh tengah,0.6963783502578735
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh tengah,0.8544725775718689
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh tenggara,0.8480453491210938
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh barat,0.8563700318336487
+pemerintah kabupaten aceh tamiang,no,pemkab aceh barat,0.7295835614204407
+pemerintah kabupaten aceh tamiang,no,pemkab aceh timur,0.7112297415733337
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh timur,0.8529831767082214
+pemerintah kabupaten aceh tamiang,no,pemkab aceh barat daya,0.6814488768577576
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh barat daya,0.8044520616531372
+pemerintah kabupaten aceh tamiang,no,pemerintah kota banda aceh,0.6916813850402832
+pemerintah kabupaten aceh tamiang,no,pemkot banda aceh,0.5179358124732971
+pemerintah kabupaten aceh tamiang,no,pemkab aceh selatan,0.733554482460022
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh selatan,0.8787833452224731
+pemerintah kabupaten aceh tamiang,no,pemkab aceh jaya,0.6704888939857483
+pemerintah kabupaten aceh tamiang,yes,pemkab aceh tamiang,0.9057126641273499
+pemerintah kabupaten aceh tamiang,no,pemkab aceh tenggara,0.7228515148162842
+pemerintah kabupaten aceh tamiang,no,pemerintah kabupaten aceh jaya,0.8397910594940186
+pemerintah kabupaten aceh tenggara,no,pemkab aceh selatan,0.7981928586959839
+pemerintah kabupaten aceh tenggara,no,pemkab aceh barat daya,0.7746447324752808
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh tengah,0.9245486259460449
+pemerintah kabupaten aceh tenggara,no,pemkab aceh singkil,0.7309471368789673
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh singkil,0.8728066682815552
+pemerintah kabupaten aceh tenggara,no,pemkab aceh tengah,0.778869092464447
+pemerintah kabupaten aceh tenggara,no,pemkab aceh barat,0.8185766935348511
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh barat,0.9237213134765625
+pemerintah kabupaten aceh tenggara,no,pemkab aceh besar,0.7588534951210022
+pemerintah kabupaten aceh tenggara,no,pemkab aceh utara,0.7740557193756104
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh utara,0.9230245351791382
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh barat daya,0.9035143852233887
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh selatan,0.9234014749526978
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh besar,0.8945298790931702
+pemerintah kabupaten aceh tenggara,yes,pemkab aceh tenggara,0.8510281443595886
+pemerintah kabupaten aceh tenggara,no,pemerintah kota banda aceh,0.7518875002861023
+pemerintah kabupaten aceh tenggara,no,pemerintah provinsi nanggroe aceh darusalam,0.6524674296379089
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh tamiang,0.8480453491210938
+pemerintah kabupaten aceh tenggara,no,pemkab aceh tamiang,0.7645365595817566
+pemerintah kabupaten aceh tenggara,no,pemkot banda aceh,0.5474543571472168
+pemerintah kabupaten aceh tenggara,no,pemkab aceh jaya,0.7509221434593201
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh jaya,0.9068494439125061
+pemerintah kabupaten aceh tenggara,no,pemkab aceh timur,0.8015226721763611
+pemerintah kabupaten aceh tenggara,no,pemerintah kabupaten aceh timur,0.9357353448867798
+pemerintah kabupaten aceh tenggara,no,pemprov nanggroe aceh darusalam,0.5670517086982727
+pemerintah kabupaten barito timur,no,pemerintah kabupaten barito selatan,0.9618697762489319
+pemerintah kabupaten barito timur,no,pemkab barito utara,0.8110820651054382
+pemerintah kabupaten barito timur,no,pemerintah kabupaten barito utara,0.9604647755622864
+pemerintah kabupaten barito timur,yes,pemkab barito timur,0.8467507362365723
+pemerintah kabupaten barito timur,no,pemkab barito selatan,0.8243401646614075
+pemerintah kabupaten biak numfor,yes,pemkab biak numfor,0.8725828528404236
+pemerintah kabupaten biak numfor,no,pulau biak,0.6439840197563171
+pemerintah kabupaten bulungan,no,jalan bulungan,0.6137118935585022
+pemerintah kabupaten bulungan,no,jl. bulungan,0.5631882548332214
+pemerintah kabupaten bulungan,no,desa bulungan,0.6936224102973938
+pemerintah kabupaten bulungan,yes,pemkab bulungan,0.7900354266166687
+pemerintah kabupaten dompu,no,pa dompu,0.7134198546409607
+pemerintah kabupaten dompu,no,pengadilan agama dompu,0.7279062271118164
+pemerintah kabupaten dompu,yes,pemkab dompu,0.8635748624801636
+pemerintah kabupaten dompu,no,kementerian agama kabupaten dompu,0.83522629737854
+pemerintah kabupaten dompu,no,kemenag kabupaten dompu,0.9126653075218201
+pemerintah kabupaten ende,yes,pemkab ende,0.8017318844795227
+pemerintah kabupaten ende,no,keuskupan agung ende,0.5645595192909241
+pemerintah kabupaten kepulauan sula,yes,pemerintah kabupaten sula,0.9107155203819275
+pemerintah kabupaten kepulauan sula,yes,pemkab kepulauan sula,0.8725060224533081
+pemerintah kabupaten kepulauan sula,no,pemkab kepulauan anambas,0.6539511680603027
+pemerintah kabupaten kepulauan sula,no,pemerintah kabupaten kepulauan anambas,0.780974268913269
+pemerintah kabupaten kepulauan sula,no,pemkab kepulauan yapen,0.659948468208313
+pemerintah kabupaten kepulauan sula,no,pemkab kepulauan aru,0.7014588713645935
+pemerintah kabupaten kepulauan sula,no,pemerintah kabupaten kepulauan aru,0.808444082736969
+pemerintah kabupaten kepulauan sula,no,pemerintah kabupaten kepulauan yapen,0.7096357941627502
+pemerintah kabupaten kepulauan sula,yes,pemkab sula,0.6699168682098389
+pemerintah kabupaten kotawaringin barat,yes,pemkab kotawaringin barat,0.9437413811683655
+pemerintah kabupaten kotawaringin barat,no,pemerintah kabupaten kotawaringin timur,0.9853781461715698
+pemerintah kabupaten kotawaringin barat,no,pemkab kotawaringin timur,0.9267159104347229
+pemerintah kabupaten lampung barat,no,pemerintah kabupaten lampung timur,0.9586462378501892
+pemerintah kabupaten lampung barat,yes,pemkab lampung barat,0.8280302286148071
+pemerintah kabupaten lampung barat,no,pemkab lampung timur,0.7682559490203857
+pemerintah kabupaten lampung barat,no,pemerintah kota bandar lampung,0.8184566497802734
+pemerintah kabupaten lampung barat,no,pemkot bandar lampung,0.6072351932525635
+pemerintah kabupaten lampung barat,no,pemerintah kabupaten lampung selatan,0.9565210342407227
+pemerintah kabupaten lampung barat,no,pemkab lampung selatan,0.776735246181488
+pemerintah kabupaten lampung barat,no,pemprov lampung,0.5818116068840027
+pemerintah kabupaten lampung barat,no,pemerintah kabupaten lampung utara,0.950316309928894
+pemerintah kabupaten lampung barat,no,pemkab lampung utara,0.7492396831512451
+pemerintah kabupaten lampung barat,no,pemkab lampung tengah,0.7336371541023254
+pemerintah kabupaten lampung barat,no,pemerintah provinsi lampung,0.8417347073554993
+pemerintah kabupaten lampung barat,no,pemerintah kabupaten lampung tengah,0.9285633563995361
+pemerintah kabupaten lanny jaya,no,pemerintah kabupaten pidie jaya,0.7460335493087769
+pemerintah kabupaten lanny jaya,no,pemkab pidie jaya,0.637656569480896
+pemerintah kabupaten lanny jaya,yes,pemkab lanny jaya,0.7315845489501953
+pemerintah kabupaten lanny jaya,no,pemerintah kabupaten puncak jaya,0.6771126985549927
+pemerintah kabupaten lanny jaya,no,pemkab intan jaya,0.6042720079421997
+pemerintah kabupaten lanny jaya,no,pemerintah kabupaten intan jaya,0.7527849078178406
+pemerintah kabupaten lanny jaya,no,pemkab puncak jaya,0.5349972248077393
+pemerintah kabupaten lombok barat,no,pemerintah kabupaten lombok tengah,0.9327198266983032
+pemerintah kabupaten lombok barat,no,pemkab lombok tengah,0.7561460733413696
+pemerintah kabupaten lombok barat,yes,pemkab lombok barat,0.8438937067985535
+pemerintah kabupaten lombok barat,no,pemerintah kabupaten lombok utara,0.9565747380256653
+pemerintah kabupaten lombok barat,no,pemkab lombok utara,0.7770208120346069
+pemerintah kabupaten lombok barat,no,pemkab lombok timur,0.7888179421424866
+pemerintah kabupaten lombok barat,no,pemerintah kabupaten lombok timur,0.9623063206672668
+pemerintah kabupaten lombok utara,no,pemkab lombok tengah,0.7916036248207092
+pemerintah kabupaten lombok utara,no,pemerintah kabupaten lombok barat,0.9565747380256653
+pemerintah kabupaten lombok utara,no,pemkab lombok barat,0.8349800705909729
+pemerintah kabupaten lombok utara,no,pemerintah kabupaten lombok tengah,0.9374176859855652
+pemerintah kabupaten lombok utara,yes,pemkab lombok utara,0.8484439849853516
+pemerintah kabupaten lombok utara,no,pemerintah kabupaten lombok timur,0.9614100456237793
+pemerintah kabupaten lombok utara,no,pemkab lombok timur,0.8189240097999573
+pemerintah kabupaten nabire,no,partai ummat kabupaten nabire,0.7288376688957214
+pemerintah kabupaten nabire,yes,pemkab nabire,0.7940486669540405
+pemerintah kabupaten nabire,no,bps kabupaten nabire,0.8991342186927795
+pemerintah kabupaten nabire,no,badan pusat statistik kabupaten nabire,0.6708230376243591
+pemerintah kabupaten nagekeo,no,natgeo,0.39542922377586365
+pemerintah kabupaten nagekeo,yes,pemkab nagekeo,0.848159909248352
+pemerintah kabupaten natuna,no,laut natuna,0.7080240845680237
+pemerintah kabupaten natuna,yes,pemkab natuna,0.8253920078277588
+pemerintah kabupaten nunukan,no,pemerintah kabupaten pasuruan,0.7101724743843079
+pemerintah kabupaten nunukan,no,pemkab pasuruan,0.5705161094665527
+pemerintah kabupaten nunukan,yes,pemkab nunukan,0.8332812786102295
+pemerintah kabupaten sarmi,yes,pemkab sarmi,0.749603807926178
+pemerintah kabupaten sarmi,no,pemerintah kabupaten seram,0.642227053642273
+pemerintah kabupaten sarmi,no,pemkab seram,0.44380617141723633
+pemerintah kabupaten seram bagian barat,no,pemkab seram bagian timur,0.8214768171310425
+pemerintah kabupaten seram bagian barat,yes,pemkab seram bagian barat,0.8636556267738342
+pemerintah kabupaten seram bagian barat,yes,pemkab seram barat,0.8029537796974182
+pemerintah kabupaten seram bagian barat,yes,pemerintah kabupaten seram barat,0.9428991675376892
+pemerintah kabupaten seram bagian barat,no,pemerintah kabupaten seram bagian timur,0.9743545055389404
+pemerintah kabupaten seram bagian barat,no,pemerintah kabupaten seram timur,0.9141168594360352
+pemerintah kabupaten seram bagian barat,no,pemkab seram timur,0.7445604205131531
+pemerintah kabupaten sikka,no,kpu kabupaten sikka,0.8600448369979858
+pemerintah kabupaten sikka,yes,pemkab sikka,0.7802317142486572
+pemerintah kabupaten sikka,no,bps kabupaten sikka,0.8937081098556519
+pemerintah kabupaten sikka,no,komisi pemilihan umum kabupaten sikka,0.7076220512390137
+pemerintah kabupaten sikka,no,badan pusat statistuk kabupaten sikka,0.6814867854118347
+pemerintah kabupaten simeulue,no,bps kabupaten simeulue,0.9580106139183044
+pemerintah kabupaten simeulue,yes,pemkab simeulue,0.8942553400993347
+pemerintah kabupaten simeulue,no,pulau simeulue,0.8574095964431763
+pemerintah kabupaten simeulue,no,badan pusat statistik kabupaten simeulue,0.8349004983901978
+pemerintah kabupaten tana tidung,no,pemkab tanah bumbu,0.49566853046417236
+pemerintah kabupaten tana tidung,no,pemerintah kabupaten tanah laut,0.6660822033882141
+pemerintah kabupaten tana tidung,yes,pemkab tana tidung,0.8176295757293701
+pemerintah kabupaten tana tidung,no,pemkab tanah laut,0.4174739420413971
+pemerintah kabupaten tana tidung,no,pemerintah kabupaten tanah bumbu,0.6861010789871216
+pemerintah kabupaten tana tidung,yes,pemerintah ktt,0.4297567307949066
+pemerintah kabupaten tolikara,no,bps kabupaten tolikara,0.9347611665725708
+pemerintah kabupaten tolikara,yes,pemkab tolikara,0.8649492263793945
+pemerintah kabupaten tolikara,no,badan pusat statistik tolikara,0.695466160774231
+pemerintah kabupaten tolikara,no,bps tolikara,0.7743852734565735
+pemerintah kabupaten tolikara,no,badan pusat statistik kabupaten tolikara,0.7435263395309448
+pemerintah kabupaten yahukimo,yes,pemkab yahukimo,0.8378463983535767
+pemerintah kabupaten yahukimo,no,pemkab yalimo,0.5028642416000366
+pemerintah kabupaten yahukimo,no,pemerintah kabupaten yalimo,0.7171383500099182
+pemerintah kota banda aceh,no,pemkab aceh besar,0.7055484056472778
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh tengah,0.7372691035270691
+pemerintah kota banda aceh,yes,pemkot banda aceh,0.8075516223907471
+pemerintah kota banda aceh,no,pemerintah provinsi nanggroe aceh darusalam,0.6670708656311035
+pemerintah kota banda aceh,no,pemkab aceh tengah,0.6805096864700317
+pemerintah kota banda aceh,no,pemerintah kota bandar lampung,0.7474110722541809
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh jaya,0.745291531085968
+pemerintah kota banda aceh,no,pemkab aceh barat,0.6956486701965332
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh barat,0.7037079930305481
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh timur,0.7357208132743835
+pemerintah kota banda aceh,no,pemkab aceh jaya,0.672002375125885
+pemerintah kota banda aceh,no,pemkot bandar lampung,0.6006357669830322
+pemerintah kota banda aceh,no,pemkab aceh timur,0.6894968748092651
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh selatan,0.720535397529602
+pemerintah kota banda aceh,no,pemkab aceh tamiang,0.6448202133178711
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh tamiang,0.6916813850402832
+pemerintah kota banda aceh,no,pemkab aceh barat daya,0.6503636837005615
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh barat daya,0.682965099811554
+pemerintah kota banda aceh,no,pemkab aceh singkil,0.6218628883361816
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh singkil,0.7020888924598694
+pemerintah kota banda aceh,no,pemkab aceh selatan,0.6734557151794434
+pemerintah kota banda aceh,no,pemkab aceh tenggara,0.6964477300643921
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh tenggara,0.7518875002861023
+pemerintah kota banda aceh,no,pemkab aceh utara,0.6766940951347351
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh utara,0.7282270789146423
+pemerintah kota banda aceh,no,pemerintah kabupaten aceh besar,0.7371156811714172
+pemerintah kota banda aceh,no,pemprov nanggroe aceh darusalam,0.6001173257827759
+pemerintah kota batam,no,pemerintah kota mataram,0.7454173564910889
+pemerintah kota batam,no,batan,0.2098507136106491
+pemerintah kota batam,no,pemkot mataram,0.5209468603134155
+pemerintah kota batam,yes,pemkot batam,0.7865267395973206
+pemerintah kota ternate,yes,pemkot ternate,0.7542334198951721
+pemerintah kota ternate,no,kesultanan ternate,0.6839590072631836
+pemerintah provinsi kalimantan selatan,yes,pemprov kalimantan selatan,0.7568103671073914
+pemerintah provinsi kalimantan selatan,yes,pemerintah provinsi kalsel,0.8411036133766174
+pemerintah provinsi kalimantan selatan,yes,pemprov kalsel,0.5681003928184509
+pemerintah provinsi kalimantan selatan,no,pemerintah provinsi kalimantan tengah,0.9326162934303284
+pemerintah provinsi kalimantan selatan,no,pemprov kalimantan utara,0.7217816710472107
+pemerintah provinsi kalimantan selatan,no,pemerintah provinsi kalimantan timur,0.9490787982940674
+pemerintah provinsi kalimantan selatan,no,pemprov kalimantan timur,0.727266788482666
+pemerintah provinsi kalimantan selatan,no,pemprov kalimantan tengah,0.6934576630592346
+pemerintah provinsi kalimantan selatan,no,pemerintah provinsi kalimantan utara,0.9663770794868469
+pemerintah provinsi kepulauan bangka belitung,no,pemkab bangka,0.7028714418411255
+pemerintah provinsi kepulauan bangka belitung,yes,pemprov kepulauan babel,0.7024177312850952
+pemerintah provinsi kepulauan bangka belitung,yes,pemerintah provinsi kepulauan babel,0.886197030544281
+pemerintah provinsi kepulauan bangka belitung,yes,pemerintah provinsi babel,0.8137196898460388
+pemerintah provinsi kepulauan bangka belitung,yes,pemprov babel,0.5888978838920593
+pemerintah provinsi kepulauan bangka belitung,no,pemerintah kabupaten bangka,0.821375846862793
+pemerintah provinsi kepulauan bangka belitung,yes,pemprov bangka belitung,0.8070387244224548
+pemerintah provinsi kepulauan bangka belitung,yes,pemerintah provinsi bangka belitung,0.9709682464599609
+pemerintah provinsi kepulauan bangka belitung,yes,pemprov kepulauan bangka belitung,0.8678829073905945
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten kepulauan talaud,0.7531335949897766
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten banggai laut,0.9279894232749939
+pemerintah kabupaten banggai kepulauan,no,pemkab banggai laut,0.6934155225753784
+pemerintah kabupaten banggai kepulauan,no,pemkab banggai,0.7234846949577332
+pemerintah kabupaten banggai kepulauan,yes,pemkab banggai kepulauan,0.8697866797447205
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten banggai,0.9546441435813904
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten kepulauan sangihe,0.7800847291946411
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten kepulauan selayar,0.7275258302688599
+pemerintah kabupaten banggai kepulauan,no,pemkab kepulauan selayar,0.6231093406677246
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten konawe kepulauan,0.7367188930511475
+pemerintah kabupaten banggai kepulauan,no,pemkab konawe kepulauan,0.6336344480514526
+pemerintah kabupaten banggai kepulauan,no,pemkab kepulauan sangihe,0.6941555142402649
+pemerintah kabupaten banggai kepulauan,no,pemkab kepulauan siau tagulandang biaro,0.574394702911377
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten kepulauan mentawai,0.7543549537658691
+pemerintah kabupaten banggai kepulauan,no,pemkab kepulauan mentawai,0.6507461667060852
+pemerintah kabupaten banggai kepulauan,no,pemkab pangkajene kepulauan,0.5196828246116638
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten pangkajene kepulauan,0.6675182580947876
+pemerintah kabupaten banggai kepulauan,no,pemkab kepulauan meranti,0.6165608167648315
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten kepulauan meranti,0.7452780604362488
+pemerintah kabupaten banggai kepulauan,no,pemkab kepulauan talaud,0.5897324085235596
+pemerintah kabupaten banggai kepulauan,no,pemerintah kabupaten kepulauan siau tagulandang biaro,0.6940462589263916
+pemerintah kabupaten bolaang mongondow,no,pemerintah kabupaten bolaang mongondow timur,0.977300226688385
+pemerintah kabupaten bolaang mongondow,no,pemkab bolaang mongondow timur,0.8994178175926208
+pemerintah kabupaten bolaang mongondow,no,pemerintah kabupaten bolaang mongondow selatan,0.9761976003646851
+pemerintah kabupaten bolaang mongondow,yes,pemkab bolaang mongondow,0.9216645956039429
+pemerintah kabupaten bolaang mongondow,no,pemkab bolaang mongondow selatan,0.8950353860855103
+pemerintah kabupaten bolaang mongondow,no,pemerintah kabupaten bolaang mongondow utara,0.9738783240318298
+pemerintah kabupaten bolaang mongondow,no,pemkab bolaang mongondow utara,0.894662082195282
+pemerintah kabupaten buton tengah,no,pemerintah kabupaten buton,0.9141632318496704
+pemerintah kabupaten buton tengah,no,pemkab buton selatan,0.8016183972358704
+pemerintah kabupaten buton tengah,no,pemerintah kabupaten buton selatan,0.9326717257499695
+pemerintah kabupaten buton tengah,no,pemkab buton utara,0.783233642578125
+pemerintah kabupaten buton tengah,no,pemerintah kabupaten buton utara,0.9324141144752502
+pemerintah kabupaten buton tengah,no,pemkab buton,0.7438752055168152
+pemerintah kabupaten buton tengah,yes,pemkab buton tengah,0.8508581519126892
+pemerintah kabupaten dairi,yes,pemkab dairi,0.8082084059715271
+pemerintah kabupaten dairi,no,pemerintah kabupaten deiyai,0.6718246340751648
+pemerintah kabupaten enrekang,no,pemkab ketapang,0.38807642459869385
+pemerintah kabupaten enrekang,no,pemerintah kabupaten ketapang,0.5469588041305542
+pemerintah kabupaten enrekang,yes,pemkab enrekang,0.884687066078186
+pemerintah kabupaten humbang hasundutan,no,pemerintah kabupaten jombang,0.49270695447921753
+pemerintah kabupaten humbang hasundutan,no,pemkab jombang,0.38911667466163635
+pemerintah kabupaten humbang hasundutan,yes,pemkab humbang hasundutan,0.9116961359977722
+pemerintah kabupaten indragiri hilir,no,pemkab indragiri hulu,0.8808627724647522
+pemerintah kabupaten indragiri hilir,no,pemerintah kabupaten indragiri hulu,0.981103777885437
+pemerintah kabupaten indragiri hilir,yes,pemkab indragiri hilir,0.9008986949920654
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten kepulauan mentawai,0.7647197842597961
+pemerintah kabupaten konawe kepulauan,yes,pemkab konawe kepulauan,0.8838008642196655
+pemerintah kabupaten konawe kepulauan,no,pemkab banggai kepulauan,0.6187182068824768
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten kepulauan meranti,0.7617546916007996
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten kepulauan selayar,0.7289000749588013
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten konawe utara,0.9309824705123901
+pemerintah kabupaten konawe kepulauan,no,pemkab kepulauan meranti,0.6283423900604248
+pemerintah kabupaten konawe kepulauan,no,pemkab kepulauan siau tagulandang biaro,0.4752327501773834
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten kepulauan siau tagulandang biaro,0.5952538847923279
+pemerintah kabupaten konawe kepulauan,no,pemkab kepulauan mentawai,0.6513012051582336
+pemerintah kabupaten konawe kepulauan,no,pemkab kepulauan sangihe,0.6194957494735718
+pemerintah kabupaten konawe kepulauan,no,pemkab konawe,0.7959291934967041
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten konawe selatan,0.9317851066589355
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten kepulauan talaud,0.7220566272735596
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten konawe,0.956256628036499
+pemerintah kabupaten konawe kepulauan,no,pemkab kepulauan talaud,0.551204264163971
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten kepulauan sangihe,0.7232421636581421
+pemerintah kabupaten konawe kepulauan,no,pemkab konawe selatan,0.8059439063072205
+pemerintah kabupaten konawe kepulauan,no,pemkab kepulauan selayar,0.6292813420295715
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten banggai kepulauan,0.7367188930511475
+pemerintah kabupaten konawe kepulauan,no,pemkab konawe utara,0.7980956435203552
+pemerintah kabupaten konawe kepulauan,no,pemkab pangkajene kepulauan,0.5623247623443604
+pemerintah kabupaten konawe kepulauan,no,pemerintah kabupaten pangkajene kepulauan,0.6954168677330017
+pemerintah kabupaten labuhanbatu,no,pemerintah kabupaten labuhanbatu utara,0.9521881937980652
+pemerintah kabupaten labuhanbatu,no,pemkab labuhanbatu utara,0.8370522856712341
+pemerintah kabupaten labuhanbatu,yes,pemkab labuhanbatu,0.881094217300415
+pemerintah kabupaten labuhanbatu,no,pemerintah kabupaten labuhanbatu selatan,0.9461564421653748
+pemerintah kabupaten labuhanbatu,no,pemkab labuhanbatu selatan,0.8401919603347778
+pemerintah kabupaten labuhanbatu selatan,no,pemerintah kabupaten labuhanbatu,0.9461564421653748
+pemerintah kabupaten labuhanbatu selatan,no,pemkab labuhanbatu,0.8415848612785339
+pemerintah kabupaten labuhanbatu selatan,no,pemkab labuhanbatu utara,0.8756752610206604
+pemerintah kabupaten labuhanbatu selatan,no,pemerintah kabupaten labuhanbatu utara,0.9789239764213562
+pemerintah kabupaten labuhanbatu selatan,yes,pemkab labuhanbatu selatan,0.8965470790863037
+pemerintah kabupaten luwu,no,pemkab luwu utara,0.798337996006012
+pemerintah kabupaten luwu,no,pemerintah kabupaten luwu utara,0.9391596913337708
+pemerintah kabupaten luwu,no,pemerintah kabupaten luwu timur,0.9383261203765869
+pemerintah kabupaten luwu,no,pemkab luwu timur,0.7889465093612671
+pemerintah kabupaten luwu,yes,pemkab luwu,0.8048227429389954
+pemerintah kabupaten maros,yes,pemkab maros,0.8293634653091431
+pemerintah kabupaten maros,no,pemkab muaro,0.5480594635009766
+pemerintah kabupaten maros,no,pemerintah kabupaten muaro,0.6193678975105286
+pemerintah kabupaten maros,no,pemkab karo,0.5371273159980774
+pemerintah kabupaten maros,no,pemerintah kabupaten karo,0.7815390825271606
+pemerintah kabupaten maybrat,no,pemkab muna barat,0.3920465111732483
+pemerintah kabupaten maybrat,no,pemerintah kabupaten muna barat,0.5394353270530701
+pemerintah kabupaten maybrat,yes,pemkab maybrat,0.7608702778816223
+pemerintah kabupaten minahasa,no,pemerintah kabupaten minahasa utara,0.9407544732093811
+pemerintah kabupaten minahasa,no,pemerintah kabupaten minahasa selatan,0.9366310238838196
+pemerintah kabupaten minahasa,no,pemkab minahasa tenggara,0.816184937953949
+pemerintah kabupaten minahasa,no,pemerintah kabupaten minahasa tenggara,0.9245921969413757
+pemerintah kabupaten minahasa,no,pemkab minahasa utara,0.8095475435256958
+pemerintah kabupaten minahasa,yes,pemkab minahasa,0.819832444190979
+pemerintah kabupaten minahasa,no,pemkab minahasa selatan,0.809381365776062
+pemerintah kabupaten minahasa selatan,no,pemkab minahasa,0.7389629483222961
+pemerintah kabupaten minahasa selatan,no,pemerintah kabupaten minahasa utara,0.9766411781311035
+pemerintah kabupaten minahasa selatan,yes,pemkab minahasa selatan,0.8497704863548279
+pemerintah kabupaten minahasa selatan,no,pemerintah kabupaten minahasa tenggara,0.9458346962928772
+pemerintah kabupaten minahasa selatan,no,pemkab minahasa tenggara,0.8164933323860168
+pemerintah kabupaten minahasa selatan,no,pemerintah kabupaten minahasa,0.9366310238838196
+pemerintah kabupaten minahasa selatan,no,pemkab minahasa utara,0.8131493330001831
+pemerintah kabupaten minahasa tenggara,no,pemkab minahasa selatan,0.8022801876068115
+pemerintah kabupaten minahasa tenggara,no,pemkab minahasa,0.7263494729995728
+pemerintah kabupaten minahasa tenggara,no,pemerintah kabupaten minahasa,0.9245921969413757
+pemerintah kabupaten minahasa tenggara,no,pemkab minahasa utara,0.7909373641014099
+pemerintah kabupaten minahasa tenggara,no,pemerintah kabupaten minahasa utara,0.9464907050132751
+pemerintah kabupaten minahasa tenggara,no,pemerintah kabupaten minahasa selatan,0.9458346962928772
+pemerintah kabupaten minahasa tenggara,yes,pemkab minahasa tenggara,0.8604943752288818
+pemerintah kabupaten morowali,no,pemkab morowali utara,0.8647542595863342
+pemerintah kabupaten morowali,yes,pemkab morowali,0.9103159308433533
+pemerintah kabupaten morowali,no,pemerintah kabupaten morowali utara,0.9520341157913208
+pemerintah kabupaten muna,no,pemkab muna barat,0.6469324231147766
+pemerintah kabupaten muna,no,pemerintah kabupaten muna barat,0.866693913936615
+pemerintah kabupaten muna,no,pemerintah kabupaten musi,0.6721821427345276
+pemerintah kabupaten muna,yes,pemkab muna,0.7356738448143005
+pemerintah kabupaten muna barat,yes,pemkab muna barat,0.799509584903717
+pemerintah kabupaten muna barat,no,pemkab muna,0.627262532711029
+pemerintah kabupaten muna barat,no,pemerintah kabupaten muna,0.866693913936615
+pemerintah kabupaten musi rawas utara,no,pemerintah kabupaten musi banyuasin,0.8169082999229431
+pemerintah kabupaten musi rawas utara,no,pemkab musi rawas,0.8445738554000854
+pemerintah kabupaten musi rawas utara,no,pemerintah kabupaten musi rawas,0.9450339674949646
+pemerintah kabupaten musi rawas utara,no,pemkab musi banyuasin,0.6821951270103455
+pemerintah kabupaten musi rawas utara,no,pemerintah kabupaten muna,0.5728603601455688
+pemerintah kabupaten musi rawas utara,yes,pemkab musi rawas utara,0.9125958681106567
+pemerintah kabupaten nias utara,no,pemerintah kabupaten nias selatan,0.9730716943740845
+pemerintah kabupaten nias utara,no,pemkab nias selatan,0.8475943207740784
+pemerintah kabupaten nias utara,no,pemerintah kabupaten nias barat,0.950226902961731
+pemerintah kabupaten nias utara,no,pemkab nias barat,0.8487142324447632
+pemerintah kabupaten nias utara,no,pemerintah kabupaten nias,0.9332694411277771
+pemerintah kabupaten nias utara,yes,pemkab nias utara,0.855206310749054
+pemerintah kabupaten nias utara,no,pemkab nias,0.7703582644462585
+pemerintah kabupaten ogan komering ilir,no,pemerintah kabupaten ogan komering ulu,0.9785056710243225
+pemerintah kabupaten ogan komering ilir,no,pemkab ogan ilir,0.8173075318336487
+pemerintah kabupaten ogan komering ilir,no,pemerintah kabupaten ogan ilir,0.9146538972854614
+pemerintah kabupaten ogan komering ilir,no,pemkab ogan komering ulu,0.9189113974571228
+pemerintah kabupaten ogan komering ilir,no,pemerintah kabupaten ogan komering ulu timur,0.9651739001274109
+pemerintah kabupaten ogan komering ilir,no,pemkab ogan komering ulu timur,0.8989013433456421
+pemerintah kabupaten ogan komering ilir,yes,pemkab ogan komering ilir,0.9422503113746643
+pemerintah kabupaten ogan komering ilir,no,pemerintah kabupaten ogan komering ulu selatan,0.9680381417274475
+pemerintah kabupaten ogan komering ilir,no,pemkab ogan komering ulu selatan,0.908745527267456
+pemerintah kabupaten ogan komering ulu,yes,pemkab ogan komering ulu,0.9499505758285522
+pemerintah kabupaten ogan komering ulu,no,pemerintah kabupaten ogan komering ulu selatan,0.9823275804519653
+pemerintah kabupaten ogan komering ulu,no,pemkab ogan komering ilir,0.9267235994338989
+pemerintah kabupaten ogan komering ulu,no,pemerintah kabupaten ogan komering ilir,0.9785056710243225
+pemerintah kabupaten ogan komering ulu,no,pemkab ogan komering ulu timur,0.9262662529945374
+pemerintah kabupaten ogan komering ulu,no,pemerintah kabupaten ogan komering ulu timur,0.9823818206787109
+pemerintah kabupaten ogan komering ulu,no,pemkab ogan komering ulu selatan,0.9335371851921082
+pemerintah kabupaten ogan komering ulu,no,pemerintah kabupaten ogan ilir,0.8761130571365356
+pemerintah kabupaten ogan komering ulu,no,pemkab ogan ilir,0.7819948196411133
+pemerintah kabupaten polewali mandar,no,pemkab pekalongan,0.37902987003326416
+pemerintah kabupaten polewali mandar,no,pemerintah kabupaten pekalongan,0.5014030933380127
+pemerintah kabupaten polewali mandar,yes,pemkab polewali mandar,0.9181787371635437
+pemerintah kabupaten samosir,yes,pemkab samosir,0.8546677827835083
+pemerintah kabupaten samosir,no,pemerintah kabupaten toba samosir,0.9132621884346008
+pemerintah kabupaten samosir,no,pemkab toba samosir,0.7658740282058716
+pemerintah kabupaten sigi,no,pemerintah kabupaten siak,0.6416338682174683
+pemerintah kabupaten sigi,yes,pemkab sigi,0.7614122033119202
+pemerintah kabupaten solok selatan,yes,pemkab solok selatan,0.8708488345146179
+pemerintah kabupaten solok selatan,no,pemerintah kabupaten sorong,0.7539403438568115
+pemerintah kabupaten solok selatan,no,pemkab sorong,0.573566198348999
+pemerintah kabupaten solok selatan,no,pemerintah kabupaten sorong selatan,0.8433977365493774
+pemerintah kabupaten solok selatan,no,pemkab sorong selatan,0.6673129796981812
+pemerintah kabupaten solok selatan,no,pemkab solok,0.7778872847557068
+pemerintah kabupaten solok selatan,no,pemerintah kabupaten solok,0.9382951259613037
+pemerintah kabupaten takalar,no,pemerintah kabupaten tabanan,0.5277879238128662
+pemerintah kabupaten takalar,yes,pemkab takalar,0.8726199865341187
+pemerintah kabupaten tanah datar,no,pemerintah kabupaten tana toraja,0.7174782156944275
+pemerintah kabupaten tanah datar,yes,pemkab tanah datar,0.7327744364738464
+pemerintah kabupaten tanah datar,no,pemkab tana toraja,0.5390731692314148
+pemerintah kabupaten tapanuli tengah,yes,pemkab tapanuli tengah,0.8845587968826294
+pemerintah kabupaten tapanuli tengah,no,pemerintah kabupaten tapanuli utara,0.9510735869407654
+pemerintah kabupaten tapanuli tengah,no,pemkab tapanuli utara,0.8340102434158325
+pemerintah kabupaten tapanuli tengah,no,pemerintah kabupaten tapanuli selatan,0.9500786662101746
+pemerintah kabupaten tapanuli tengah,no,pemkab tapanuli selatan,0.8485533595085144
+pemerintah kabupaten teluk wondama,no,pemkab teluk bintuni,0.6048123240470886
+pemerintah kabupaten teluk wondama,no,pemerintah kabupaten teluk bintuni,0.6942616701126099
+pemerintah kabupaten teluk wondama,yes,pemkab teluk wondama,0.898751974105835
+pemerintah kota binjai,no,pemerintah kabupaten sinjai,0.588799774646759
+pemerintah kota binjai,no,pemkab sinjai,0.5107020139694214
+pemerintah kota binjai,yes,pemkot binjai,0.7902374267578125
+pemerintah kota makassar,no,pemerintah kota magelang,0.7404190301895142
+pemerintah kota makassar,no,pemerintah kota mataram,0.7892901301383972
+pemerintah kota makassar,yes,pemkot makassar,0.7731302976608276
+pemerintah kota makassar,no,pemerintah kota malang,0.7545782327651978
+pemerintah provinsi sulawesi barat,yes,pemprov sulawesi barat,0.7614128589630127
+pemerintah provinsi sulawesi barat,no,pemerintah provinsi sulawesi tengah,0.9247285723686218
+pemerintah provinsi sulawesi barat,no,pemprov sulawesi tengah,0.6578332185745239
+pemerintah provinsi sulawesi barat,no,pemerintah provinsi sulawesi tenggara,0.9263180494308472
+pemerintah provinsi sulawesi barat,no,pemprov sulawesi tenggara,0.6720923185348511
+pemerintah provinsi sulawesi barat,no,pemerintah provinsi sulawesi selatan,0.9545067548751831
+pemerintah provinsi sulawesi barat,no,pemprov sulawesi utara,0.6734850406646729
+pemerintah provinsi sulawesi barat,no,pemerintah provinsi sumbar,0.7553103566169739
+pemerintah provinsi sulawesi barat,no,pemerintah provinsi sulawesi utara,0.9420313835144043
+pemerintah provinsi sulawesi barat,yes,pemerintah provinsi sulbar,0.7435412406921387
+pemerintah provinsi sulawesi barat,no,pemprov sulawesi selatan,0.6806464791297913
+pemerintah provinsi sulawesi barat,no,pemprov sumbar,0.47758257389068604
+pemerintah provinsi sulawesi selatan,no,pemprov sulawesi tenggara,0.6847126483917236
+pemerintah provinsi sulawesi selatan,no,pemprov sulawesi utara,0.7024744153022766
+pemerintah provinsi sulawesi selatan,no,pemerintah provinsi sulawesi tenggara,0.9269683957099915
+pemerintah provinsi sulawesi selatan,yes,pemprov sulawesi selatan,0.7274425625801086
+pemerintah provinsi sulawesi selatan,no,pemerintah provinsi sulawesi utara,0.9676266312599182
+pemerintah provinsi sulawesi selatan,yes,pemerintah provinsi sulsel,0.8347192406654358
+pemerintah provinsi sulawesi selatan,no,pemerintah provinsi sumsel,0.7435906529426575
+pemerintah provinsi sulawesi selatan,no,pemprov sulawesi barat,0.7260257601737976
+pemerintah provinsi sulawesi selatan,no,pemerintah provinsi sulawesi tengah,0.9317582845687866
+pemerintah provinsi sulawesi selatan,no,pemprov sulawesi tengah,0.6740778684616089
+pemerintah provinsi sulawesi selatan,no,pemerintah provinsi sulawesi barat,0.9545067548751831
+pemerintah provinsi sulawesi selatan,no,pemprov sumsel,0.45776015520095825
+pemerintah provinsi sumatera barat,no,pemprov sumatera utara,0.7066860198974609
+pemerintah provinsi sumatera barat,no,pemerintah provinsi sumatera utara,0.9347544312477112
+pemerintah provinsi sumatera barat,no,pemerintah provinsi sulbar,0.7075942754745483
+pemerintah provinsi sumatera barat,no,pemerintah provinsi sumatera selatan,0.9524134397506714
+pemerintah provinsi sumatera barat,no,pemprov sulbar,0.4617680609226227
+pemerintah provinsi sumatera barat,yes,pemprov sumatera barat,0.7682298421859741
+pemerintah provinsi sumatera barat,no,pemprov sumatera selatan,0.7288261651992798
+pemerintah provinsi sumatera barat,yes,pemerintah provinsi sumbar,0.8441165089607239
+perum pengangkutan penumpang djakarta (ppd),yes,perum pengangkutan penumpang djakarta,0.7899821996688843
+perum pengangkutan penumpang djakarta (ppd),yes,ppd,0.4362610876560211
+perum pengangkutan penumpang djakarta (ppd),yes,pengangkutan penumpang djakarta,0.7046079635620117
+perum pengangkutan penumpang djakarta (ppd),no,pengangkutan penumpang,0.45069020986557007
+perum pengangkutan penumpang djakarta (ppd),no,pengangkutan,0.2711411416530609
+perum pengangkutan penumpang djakarta (ppd),no,penumpang djakarta,0.6816627383232117
+perum pengangkutan penumpang djakarta (ppd),no,penumpang,0.2808672785758972
+perum pengangkutan penumpang djakarta (ppd),yes,perum pengangkutan penumpang,0.5398285388946533
+"pt adhi karya (persero), tbk.",yes,pt adhi karya,0.67878657579422
+"pt adhi karya (persero), tbk.",yes,adhi karya,0.43742862343788147
+"pt adhi karya (persero), tbk.",yes,adhi,0.3567218482494354
+"pt adhi karya (persero), tbk.",no,karya,0.415902704000473
+"pt adhi karya (persero), tbk.",yes,pt adhi,0.6269884705543518
+"pt adhi karya (persero), tbk.",no,pt karya,0.5718989968299866
+pt asuransi jasa indonesia (persero),yes,asuransi jasa indonesia,0.5894951820373535
+pt asuransi jasa indonesia (persero),yes,pt asuransi jasa indonesia,0.8220019936561584
+pt asuransi jasa indonesia (persero),no,asuransi jasa,0.5665326118469238
+pt asuransi jasa indonesia (persero),no,asuransi indonesia,0.5877997875213623
+pt asuransi jasa indonesia (persero),no,pt asuransi indonesia,0.7464039921760559
+pt asuransi jasa indonesia (persero),no,pt asuransi,0.6410034894943237
+pt asuransi jasa indonesia (persero),no,pt asuransi jasa,0.6439077854156494
+pt asuransi kredit indonesia (persero),yes,pt asuransi kredit indonesia,0.7905569672584534
+pt asuransi kredit indonesia (persero),no,pt asuransi kredit,0.6731463074684143
+pt asuransi kredit indonesia (persero),yes,asuransi kredit indonesia,0.5877965092658997
+pt asuransi kredit indonesia (persero),no,kredit indonesia,0.506942629814148
+pt asuransi kredit indonesia (persero),no,asuransi kredit,0.5212320685386658
+pt asuransi kredit indonesia (persero),no,pt kredit indonesia,0.6535282731056213
+pt asuransi kredit indonesia (persero),no,pt asuransi indonesia,0.75765460729599
+pt asuransi kredit indonesia (persero),no,asuransi indonesia,0.6194692254066467
+"pt bank mandiri (persero), tbk.",yes,bank mandiri,0.5594473481178284
+"pt bank mandiri (persero), tbk.",yes,pt bank mandiri,0.6379684209823608
+"pt bank mandiri (persero), tbk.",yes,nasabah bank mandiri/pemilik toko parfum,0.4931739866733551
+"pt bank mandiri (persero), tbk.",yes,nasabah bank mandiri,0.6037736535072327
+"pt bank mandiri (persero), tbk.",no,nasabah bank,0.5220052599906921
+"pt bank mandiri (persero), tbk.",no,nasabah mandiri,0.4957874119281769
+"pt bank mandiri (persero), tbk.",no,mandiri,0.3201378881931305
+"pt bank mandiri (persero), tbk.",no,bank,0.4368850588798523
+"pt bank mandiri (persero), tbk.",yes,bank mandiri pematang siantar kcp sutomo,0.5041199922561646
+"pt bank mandiri (persero), tbk.",yes,bank mandiri kcp,0.516893744468689
+"pt bank mandiri (persero), tbk.",yes,bank mandiri taspen,0.43959248065948486
+"pt bank mandiri (persero), tbk.",no,taspen,0.18923135101795197
+"pt bank mandiri (persero), tbk.",no,bank taspen,0.330377459526062
+"pt bank mandiri (persero), tbk.",yes,pt bank mandiri cabang,0.6577642560005188
+"pt bank mandiri (persero), tbk.",no,bank cabang,0.514046847820282
+"pt bank mandiri (persero), tbk.",no,pt bank cabang,0.6088431477546692
+"pt bank mandiri (persero), tbk.",yes,pt bank mandiri cabang cikampek,0.6654811501502991
+"pt bank mandiri (persero), tbk.",yes,pt bank mandiri cikampek,0.6574857234954834
+"pt bank mandiri (persero), tbk.",yes,bank mandiri cabang samarinda,0.5554169416427612
+"pt bank mandiri (persero), tbk.",yes,pt bank mandiri cabang samarinda,0.6331896185874939
+"pt bank mandiri (persero), tbk.",yes,bank mandiri cabang gunungsari,0.5585864186286926
+pt bina karya (persero),yes,pt bina karya,0.7723060250282288
+pt bina karya (persero),yes,bina karya,0.5619543790817261
+pt bina karya (persero),no,bina,0.464519739151001
+pt bina karya (persero),no,karya,0.5204899907112122
+pt bina karya (persero),no,pt bina,0.6794742345809937
+pt bina karya (persero),yes,bina karya indonesia,0.5774317979812622
+pt bina karya (persero),yes,pt bina karya indonesia,0.751101553440094
+pt bina karya (persero),no,karya indonesia,0.4779999554157257
+pt bina karya (persero),no,bina indonesia,0.48789677023887634
+pt dirgantara indonesia (persero),yes,pt dirgantara indonesia,0.756094217300415
+pt dirgantara indonesia (persero),yes,pt di,0.2909284234046936
+pt dirgantara indonesia (persero),no,pt dirgantara,0.7192387580871582
+pt dirgantara indonesia (persero),no,dirgantara,0.5201311111450195
+pt garam (persero),yes,pt garam,0.5538598895072937
+pt garam (persero),no,garam,0.29868611693382263
+pt hotel indonesia natour (persero),yes,pt hotel indonesia natour,0.7557242512702942
+pt hotel indonesia natour (persero),yes,hotel natour,0.3743950426578522
+pt hotel indonesia natour (persero),no,pt hotel indonesia,0.641937792301178
+pt hotel indonesia natour (persero),yes,natour hotel,0.5046311616897583
+pt hotel indonesia natour (persero),yes,natour indonesia,0.5513442158699036
+pt hotel indonesia natour (persero),no,hotel indonesia,0.4825644791126251
+pt asuransi jasa raharja (persero),yes,pt asuransi jasa raharja,0.8411096334457397
+pt asuransi jasa raharja (persero),yes,pt jasa raharja,0.7742136716842651
+pt asuransi jasa raharja (persero),yes,asuransi jasa raharja,0.7477063536643982
+pt asuransi jasa raharja (persero),yes,jasa raharja,0.697441816329956
+pt asuransi jasa raharja (persero),no,pt jasa,0.6136724948883057
+pt asuransi jasa raharja (persero),no,pt raharja,0.7410757541656494
+pt penerbitan dan percetakan balai pustaka (persero),yes,pt penerbitan dan percetakan balai pustaka,0.8196579217910767
+pt penerbitan dan percetakan balai pustaka (persero),yes,pt balai pustaka,0.7016113996505737
+pt penerbitan dan percetakan balai pustaka (persero),yes,balai pustaka,0.561440110206604
+pt penerbitan dan percetakan balai pustaka (persero),no,penerbitan dan percetakan,0.5729092955589294
+pt penerbitan dan percetakan balai pustaka (persero),no,penerbitan,0.46147826313972473
+pt penerbitan dan percetakan balai pustaka (persero),no,percetakan,0.45927929878234863
+pt penerbitan dan percetakan balai pustaka (persero),yes,penerbitan balai pustaka,0.6610239744186401
+pt penerbitan dan percetakan balai pustaka (persero),yes,percetakan balai pustaka,0.6590821743011475
+pt penerbitan dan percetakan balai pustaka (persero),no,balai,0.32156243920326233
+pt penerbitan dan percetakan balai pustaka (persero),no,pustaka,0.40531328320503235
+pt perikanan nusantara (persero),yes,pt perikanan nusantara,0.7249101996421814
+pt perikanan nusantara (persero),yes,pt perinus,0.3558642864227295
+pt perikanan nusantara (persero),yes,perikanan nusantara,0.5666471123695374
+pt perikanan nusantara (persero),yes,perinus,0.16317525506019592
+pt perikanan nusantara (persero),no,perikanan indonesia,0.4713444113731384
+pt perikanan nusantara (persero),no,pt perikanan,0.6415997743606567
+pt perikanan nusantara (persero),no,perikanan,0.39417967200279236
+pt pindad (persero),yes,pt pindad,0.7411640286445618
+pt pindad (persero),yes,pindad,0.5266817808151245
+pt rajawali nusantara indonesia (persero),yes,pt rajawali nusantara indonesia,0.7893552780151367
+pt rajawali nusantara indonesia (persero),yes,rajawali nusantara indonesia,0.6470785140991211
+pt rajawali nusantara indonesia (persero),yes,pt rni,0.4121403098106384
+pt rajawali nusantara indonesia (persero),yes,rni,0.2016107738018036
+pt rajawali nusantara indonesia (persero),yes,id food,0.2890459895133972
+pt rajawali nusantara indonesia (persero),no,rajawali,0.5492507815361023
+pt rajawali nusantara indonesia (persero),yes,rajawali nusindo,0.5504499077796936
+pt rajawali nusantara indonesia (persero),yes,pt rajawali nusindo,0.6788423657417297
+pt rajawali nusantara indonesia (persero),no,pt rajawali citra televisi indonesia,0.67098069190979
+pt rajawali nusantara indonesia (persero),no,pt rajawali indonesia,0.7676849365234375
+pt sang hyang seri (persero),yes,pt sang hyang seri,0.7932942509651184
+pt sang hyang seri (persero),yes,sang hyang seri,0.6951717138290405
+pt sang hyang seri (persero),yes,pt shs,0.4171474575996399
+pt sang hyang seri (persero),yes,shs,0.26242271065711975
+pt sang hyang seri (persero),no,pt sang,0.5776692032814026
+pt sang hyang seri (persero),no,pt seri,0.4595533311367035
+pt sucofindo,yes,sucofindo,0.8933958411216736
+pt sucofindo,yes,pt sucofindo,1.0
+pt sucofindo,yes,pt superintending company of indonesia,0.4208827614784241
+pt sucofindo,yes,superintending company of indonesia,0.31405627727508545
+pt surveyor indonesia (persero),yes,pt surveyor indonesia,0.7598437070846558
+pt surveyor indonesia (persero),yes,surveyor indonesia,0.6636572480201721
+pt surveyor indonesia (persero),no,surveyor,0.556978166103363
+pt surveyor indonesia (persero),yes,ptsi,0.18511025607585907
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",yes,"pt taman wisata candi borobudur, prambanan, dan ratu boko",0.9370617270469666
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",yes,"taman wisata candi borobudur, prambanan, dan ratu boko",0.8768725395202637
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",yes,pt twc,0.2460346519947052
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",yes,pt taman wisata candi,0.6484476923942566
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",yes,taman wisata candi,0.5710273385047913
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,candi borobudur,0.5410687923431396
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,candi prambanan,0.5485237836837769
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,ratu boko,0.4696688950061798
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,borobudur,0.37248098850250244
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,prambanan,0.3870260715484619
+pt kereta api indonesia (persero) (kai),yes,pt kereta api indonesia,0.6845147013664246
+pt kereta api indonesia (persero) (kai),yes,kereta api indonesia,0.5989335179328918
+pt kereta api indonesia (persero) (kai),yes,pt kai,0.5987567901611328
+pt kereta api indonesia (persero) (kai),yes,kai,0.3315247595310211
+pt kereta api indonesia (persero) (kai),yes,pt kereta api,0.6488199830055237
+pt kereta api indonesia (persero) (kai),no,api indonesia,0.43344956636428833
+"pt telekomunikasi indonesia (persero), tbk.",yes,pt telkom pcc,0.533236563205719
+"pt telekomunikasi indonesia (persero), tbk.",yes,pt telekomunikasi indonesia,0.6710022687911987
+"pt telekomunikasi indonesia (persero), tbk.",yes,"pt telkom indonesia, tbk",0.7932817339897156
+"pt telekomunikasi indonesia (persero), tbk.",yes,pt telkom,0.5740019679069519
+"pt telekomunikasi indonesia (persero), tbk.",no,telkomsel,0.30948761105537415
+"pt telekomunikasi indonesia (persero), tbk.",no,pt telkomsel,0.5398456454277039
+"pt telekomunikasi indonesia (persero), tbk.",yes,telkom,0.4235602021217346
+"pt telekomunikasi indonesia (persero), tbk.",yes,telkom indonesia,0.5100017189979553
+pt dok dan perkapalan surabaya (persero),yes,pt dok dan perkapalan surabaya (dps),0.9023661017417908
+pt dok dan perkapalan surabaya (persero),yes,pt dok dan perkapalan surabaya,0.8263176679611206
+pt dok dan perkapalan surabaya (persero),yes,dok dan perkapalan surabaya,0.7544963955879211
+pt dok dan perkapalan surabaya (persero),yes,pt dps,0.3764088451862335
+pt dok dan perkapalan surabaya (persero),no,perkapalan,0.3916763961315155
+pt dok dan perkapalan surabaya (persero),no,dok dan perkapalan,0.6511352062225342
+pt dok dan perkapalan surabaya (persero),no,perkapalan surabaya,0.5359247922897339
+pt dok dan perkapalan surabaya (persero),no,dok surabaya,0.3862133026123047
+perum lembaga kantor berita nasional antara (lkbn antara),yes,lembaga kantor berita nasional antara biro jawa barat,0.6924267411231995
+perum lembaga kantor berita nasional antara (lkbn antara),yes,perum lkbn antara,0.7599297761917114
+perum lembaga kantor berita nasional antara (lkbn antara),no,perum pembangunan perumahan nasional (perumnas),0.5490493178367615
+perum lembaga kantor berita nasional antara (lkbn antara),no,kantor perum damri,0.4381250739097595
+perum pengangkutan penumpang djakarta (ppd),yes,perum ppd,0.5213062763214111
+perum pengangkutan penumpang djakarta (ppd),yes,perusahaan umum pengangkutan penumpang djakarta,0.7131503224372864
+perum pengangkutan penumpang djakarta (ppd),no,dinas perumahan rakyat dan permukiman provinsi dki jakarta,0.36093926429748535
+"pt adhi karya (persero), tbk.",no,pt amarta karya (persero),0.8121335506439209
+"pt adhi karya (persero), tbk.",no,pt karya solusi prima sejahtera,0.5352728366851807
+pt asuransi jasa indonesia (persero),yes,asuransi jasindo,0.5771626830101013
+pt asuransi jasa indonesia (persero),no,pt asuransi jasa raharja (persero),0.8779511451721191
+pt asuransi jasa indonesia (persero),no,pt asuransi jiwasraya (persero),0.8463585376739502
+pt asuransi kredit indonesia (persero),yes,askrindo,0.12154307216405869
+pt asuransi kredit indonesia (persero),yes,pt askrindo,0.3020402789115906
+pt asuransi kredit indonesia (persero),no,pt asuransi jasa indonesia (persero),0.952862560749054
+pt asuransi kredit indonesia (persero),no,pt asuransi jiwasraya (persero),0.851428747177124
+"pt bank mandiri (persero), tbk.",yes,bank mandiri cihampelas,0.4370496869087219
+"pt bank mandiri (persero), tbk.",no,pt sentral utama teknikal mandiri,0.49797752499580383
+"pt bank mandiri (persero), tbk.",no,pt bank central asia tbk,0.6148462891578674
+pt bank tabungan negara (persero) (btn),yes,bank btn jayapura,0.5272582173347473
+pt bank tabungan negara (persero) (btn),yes,btn pluit,0.38574397563934326
+pt bank tabungan negara (persero) (btn),no,bank negara indonesia,0.48389220237731934
+pt bank tabungan negara (persero) (btn),no,pt bank tabungan pensiunan nasional,0.6087720990180969
+pt bina karya (persero),yes,bina karya persero,0.7234557271003723
+pt bina karya (persero),no,smk s swa bina karya,0.550414502620697
+pt bina karya (persero),no,pt bina karya prima,0.732313871383667
+pt dirgantara indonesia (persero),yes,ptdi,0.515330970287323
+pt dirgantara indonesia (persero),no,pt dirgantara yudha artha,0.5823214650154114
+pt dirgantara indonesia (persero),no,pt garuda indonesia,0.6212948560714722
+pt garam,yes,garam,0.6124966144561768
+pt garam,yes,pt garam (persero),0.5538598895072937
+pt garam,no,pt gudang garam tbk,0.6328158378601074
+pt garam,no,pt garam nusantara lestari,0.681427538394928
+pt hotel indonesia natour (persero),yes,pt hin,0.3273908793926239
+pt hotel indonesia natour (persero),yes,inna hotels and resorts,0.3997449576854706
+pt hotel indonesia natour (persero),no,hotel indonesia kempinski jakarta,0.488156259059906
+pt indonesia asahan alumunium (inalum),yes,pt inalum,0.6537064909934998
+pt indonesia asahan alumunium (inalum),yes,pt indonesia asahan aluminium (persero),0.8606136441230774
+pt indonesia asahan alumunium (inalum),no,pt daiki aluminium industry indonesia,0.6395210027694702
+pt indonesia asahan alumunium (inalum),no,pt aluminium karya abadi,0.48360249400138855
+pt pelabuhan indonesia ii (persero),yes,pelindo ii,0.5515120029449463
+pt pelabuhan indonesia ii (persero),yes,pelabuhan indonesia ii,0.682278573513031
+pt pelabuhan indonesia ii (persero),no,pelabuhan indonesia,0.5932358503341675
+pt pelabuhan indonesia ii (persero),no,pelindo,0.38058120012283325
+pt penerbitan dan percetakan balai pustaka (persero),no,penerbit dan percetakan mediatama,0.6248040795326233
+pt penerbitan dan percetakan balai pustaka (persero),no,pt percetakan gramedia cikarang,0.5653936862945557
+pt perusahaan perdagangan indonesia,yes,pt ppi,0.4641975164413452
+pt perusahaan perdagangan indonesia,yes,perusahaan perdagangan indonesia,0.8535802364349365
+pt perusahaan perdagangan indonesia,no,kementerian perdagangan republik indonesia,0.5494635105133057
+pt perusahaan perdagangan indonesia,no,pt perdagangan mistico indonesia,0.672527551651001
+pt pindad (persero),no,pt pal,0.5374903678894043
+pt pindad (persero),no,pt pinus merah abadi,0.42339271306991577
+pt rajawali nusantara indonesia,yes,pt rajawali nusindo,0.8022913932800293
+pt rajawali nusantara indonesia,yes,id food,0.32113897800445557
+pt rajawali nusantara indonesia,no,pt rajawali citra televisi indonesia,0.8241150379180908
+pt rajawali nusantara indonesia,no,pt nusantara laju bersama,0.5592902898788452
+pt sucofindo,no,pt sucorinvest asset management,0.5643412470817566
+pt sucofindo,no,pt sucor sekuritas,0.5515713691711426
+pt surveyor indonesia (persero),no,pt semen indonesia (persero),0.8918817043304443
+pt surveyor indonesia (persero),no,pt frasta survey indonesia,0.5067840814590454
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,taman wisata bougenville,0.2762611210346222
+"pt taman wisata candi borobudur, prambanan, dan ratu boko (persero)",no,taman wisata alam sevillage,0.40727856755256653
+pt indofarma,yes,indofarma tbk,0.8343201875686646
+pt indofarma,yes,indofarma global medika,0.7232200503349304
+pt indofarma,yes,indofarma global medika cabang,0.6567957997322083
+pt indofarma,yes,pt igm,0.3015917241573334
+pt indofarma,yes,indofarma,0.8042482137680054
+pt indofarma,no,igm,0.09301402419805527
+pt kereta api indonesia (persero) (kai),no,kereta api,0.49451979994773865
+pt dok dan perkapalan surabaya (persero),no,pt perkapalan,0.6334906816482544
+pt dok dan perkapalan surabaya (persero),no,pt dok,0.35252872109413147
