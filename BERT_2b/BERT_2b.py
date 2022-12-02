@@ -80,10 +80,10 @@ def get_reference_ffnn(instansi):
 
 # testing
 
-instansi = 'polres kapuas hulu'
+instansi = input("Enter your value: ")
 
 reference_cosine = get_reference_cosine(instansi)
-reference_ffnn = get_reference_ffnn(instansi)
+# reference_ffnn = get_reference_ffnn(instansi)
 
 print(reference_cosine)
-print(reference_ffnn)
+# print(reference_ffnn)
