@@ -35,8 +35,8 @@ def sentence_to_vec(sentence):
   sentence_embedding = torch.mean(token_vecs, dim=0)
   return sentence_embedding
 
-def get_reference_cosine(instansi):
-  references = search(instansi,reference_version='v2')
+def get_reference_cosine(instansi, reference_version='v2'):
+  references = search(instansi,reference_version)
   score = 0
   temp_candidate = ""
   instansi_vec = sentence_to_vec(instansi)
@@ -55,8 +55,8 @@ def get_reference_cosine(instansi):
   return temp_candidate
 
 
-def get_reference_ffnn(instansi):
-  references = search(instansi,reference_version='v2')
+def get_reference_ffnn(instansi, reference_version='v2'):
+  references = search(instansi,reference_version)
   # print(references)
   score = 0
   temp_candidate = ""
