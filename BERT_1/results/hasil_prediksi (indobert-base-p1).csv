@@ -1,0 +1,2159 @@
+index,instansi,sinonim,pred,prob
+55,kementerian perencanaan pembangunan nasional ppn badan perencanaan pembangunan nasional bappenas,kementerian kominfo,1,0.9409804940223694
+64,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak tahu,1,0.7756361365318298
+91,pt bgr,pt maybank indonesia tbk,1,0.793502151966095
+661,"Bukan instansi BUMN, Kementerian, Pemerintah",rekanan,0,0.8555499315261841
+662,"Bukan instansi BUMN, Kementerian, Pemerintah",kemko marves,1,0.9211776852607728
+668,kementerian luar negeri,smk negeri 1 jogonalan,0,0.9938528537750244
+767,pemerintah kabupaten muna barat,kantor pelayanan pajak pratama medan barat,0,0.9977072477340698
+771,"Bukan instansi BUMN, Kementerian, Pemerintah",grab,1,0.657802939414978
+1176,pt perusahaan gas negara persero tbk,pt sawit sumbermas sarana tbk,0,0.996275782585144
+1209,pt bgr,pt nusa niaga perkasa,1,0.5872498154640198
+2448,pemerintah kota kotamobagu,pemerintah kota kotamobagu,1,0.9991672039031982
+2454,pemkot kota gorontalo,lanal gorontalo,1,0.955328643321991
+3658,pemerintah kabupaten ciamis,pemerintah kabupaten ciamis,1,0.998963475227356
+4199,pemerintah kabupaten sumba tengah,pemerintah kabupaten sumba tengah ntt,1,0.9566231369972228
+4924,pt dana tabungan dan asuransi pegawai negeri   taspen persero,asuransi jiwa sinarmas,0,0.9904416799545288
+4926,pemkab cilegon,lapas kelas iia cilegon,1,0.9137048125267028
+4929,"Bukan instansi BUMN, Kementerian, Pemerintah",masyarakat,0,0.94659024477005
+4956,pt bgr,pt yaza pratama,1,0.91428542137146
+5355,bgr indonesia,yayasan reef check indonesia,1,0.9702745079994202
+5505,"Bukan instansi BUMN, Kementerian, Pemerintah",kencana sakti,0,0.7667346000671387
+5510,pemkab kubu raya,sma raudlatul ulum 2 kubu raya,1,0.5004522800445557
+5719,pt telkom indonesia,pt indofood fortuna makmur,0,0.9958099126815796
+6117,lembaga pembiayaan ekspor indonesia,lembaga pembiayaan ekspor indonesia,1,0.9987974166870116
+6191,pt bank bni,bank bni cabang perguruan tinggi bandung,1,0.9971165657043456
+6511,pt telkom,pt citra riantara sejahtera,0,0.99695885181427
+6668,pemprov kalimantan tengah,kanwil kemenag jawa tengah,1,0.992048442363739
+6836,pt smf,pt intercons,1,0.9873501658439636
+7080,pt perusahaan listrik negara persero pln,kontraktor listrik,0,0.9935469031333924
+7102,atr bpn,kantor atr bpn kota salatiga,1,0.9958298802375792
+7545,pemerintah kabupaten kudus,pemerintah kabupaten kudus,1,0.9988258481025696
+8427,pt pupuk indonesia,distributor pupuk bersubsidi,0,0.9904146194458008
+8432,kementerian hukum,advokat kuasa hukum,0,0.9850731492042542
+8436,primissima batik,universitas islam batik,0,0.9902133345603944
+8452,pt bank mandiri persero tbk,direktur cv edlin lestari mandiri,0,0.9585453271865844
+8566,pemerintah kabupaten lebong,dinas koperasi dan ukm kabupaten sleman,0,0.9992235898971558
+8962,"Bukan instansi BUMN, Kementerian, Pemerintah",perhimpunan pedagang surat utang,0,0.9234851002693176
+8964,mahkamah konstitusi,mahkamah,0,0.9956071972846984
+9386,pt asuransi jasa indonesia persero,pt asuransi jasa indonesia persero,1,0.998798370361328
+9761,kementerian pendayagunaan aparatur negara dan reformasi birokrasi kem panrb,hotel vasa dan hotel bumi,0,0.997706174850464
+9783,kementerian pendidikan kebudayaan riset dan teknologi,dinas pendidikan sekolah smp sd,0,0.996425211429596
+10023,pemkot malang,bank syariah indonesia malang,1,0.9850258231163024
+10032,kementerian pembangunan manusia,kementerian kesehatan,0,0.998166799545288
+10120,pemerintah kabupaten intan jaya,perusahaan renis jaya,0,0.9986252784729004
+10173,pt indra karya,pt candi arta,0,0.9957635402679444
+10511,pt asuransi pegawai negeri,founder astronacci pegawai swasta,0,0.96538645029068
+10513,"Bukan instansi BUMN, Kementerian, Pemerintah",roseana widyanti sh mkn,1,0.8667650818824768
+10514,"Bukan instansi BUMN, Kementerian, Pemerintah",think artha,0,0.7358212471008301
+10515,"Bukan instansi BUMN, Kementerian, Pemerintah",laboratorium valid,1,0.6592226028442383
+10566,badan meteorologi klimatologi dan geofisika bmkg,ksp kospinjasa dan ksp pangestu,1,0.9546340703964232
+10684,badan narkotika nasional bnn,badan narkotika nasional,1,0.995578110218048
+10705,pemkab kampar,man 2 kampar,1,0.938216507434845
+10738,nasabah bank mandiri pemilik toko parfum,nasabah bank mandiri pemilik toko parfum,1,0.9978602528572084
+10793,pt bri cabang bojonegoro dan pt bri cabang nganjuk,babk bjb cabang karawang,1,0.9957574009895324
+10835,pt bgr,pt rianda usaha mandiri,1,0.6769561171531677
+11231,pt boma bisma indra persero cabang jakarta,direktur jakarta convention center,1,0.7657345533370972
+11244,pt bni,tidak diketahui namun diduga nasabah bni,1,0.987117350101471
+11620,pt nindya karya persero,pt kordon putra sinerga,0,0.992294430732727
+11647,pt garuda indonesia,garuda food,0,0.985863983631134
+11651,"Bukan instansi BUMN, Kementerian, Pemerintah",cv hotma sinar surya,0,0.7747016549110413
+12083,pt garuda indonesia,pt garuda indonesia,1,0.9980437755584716
+12235,komisi pemilihan umum kabupaten fakfak,umum,0,0.9983739852905272
+12684,pemkab malinau,ketua dprd kabupaten malinau,1,0.8997366428375244
+13071,perum bulog,pt bulog cabang surakarta,1,0.9975918531417848
+13110,pemkab rejang lebong,loka pom di loka rejang lebong dan bpom di bengkulu,1,0.9710152745246888
+13269,badan pengelola keuangan haji bpkh,kementerian keuangan bangladesh,1,0.5744460225105286
+13682,pemerintah kota jakarta selatan,pt semen jakarta,0,0.9986318945884703
+13937,bnsp republik indonesia,bank indonesia bank sentral republik indonesia,1,0.9215927124023438
+13952,pemerintah kabupaten lombok barat,universitas hamzanwadi lombok ntb,0,0.9971722960472108
+14014,pemerintah grobogan,pemerintah kabupaten grobogan,1,0.9989365935325624
+15159,nasabah bank mandiri pemilik toko parfum,toko muhanah,0,0.7242622375488281
+15160,"Bukan instansi BUMN, Kementerian, Pemerintah",rs banyumanik,0,0.912861943244934
+15226,kementerian pekerjaan umum dan perumahan rakyat pupr,kementerian pupr,1,0.9981570839881896
+15227,"Bukan instansi BUMN, Kementerian, Pemerintah",kgi sekuritas,1,0.9825196266174316
+15254,pt bgr,pt hidup tujuh lautan,1,0.9536058306694032
+15613,hotel natour,hotel horison,0,0.989190936088562
+15876,pt telkom,pt nusa biru abadi,0,0.9969786405563354
+16059,pt bank mandiri cabang samarinda,bank mandiri medan,1,0.9425366520881652
+16931,pemerintah kabupaten pemalang,pemerintah kabupaten pemalang,1,0.9990022778511048
+17391,pt vtp,pt lisna syifa prima padang,1,0.8419325351715088
+17660,ptpn iii,ptpn xii,0,0.9574662446975708
+17720,pemerintah kabupaten tapanuli selatan,polres kabtapanuli selatan,0,0.9990352392196656
+17723,pemkot bima,uptd kab bima,1,0.9967761635780334
+17732,pemerintah kabupaten tuban,fave hotel tuban,0,0.9965419173240662
+17793,pemerintah kabupaten bolaang mongondow timur,dinas kesehatan sumba timur,0,0.9992290735244752
+17795,pt hotel indonesia natour,el royal hotel,0,0.9894885420799256
+17799,"Bukan instansi BUMN, Kementerian, Pemerintah",camat kecamatan mulak sebingkai,0,0.9709166288375854
+17800,kacab bri samarinda 1,smk pasundan 1,0,0.7720465660095215
+17801,"Bukan instansi BUMN, Kementerian, Pemerintah",wajib pajak individu,0,0.9207178950309752
+17866,badan pelindungan pekerja migran indonesia,badan pelindungan pekerja migran indonesia,1,0.9989961981773376
+18062,anggota dewan perwakilan rakyat,anggota dprd fraksi ppp,0,0.9901360869407654
+18074,pemkot bitung,kkp kelas iii bitung,1,0.9835574626922609
+18076,"Bukan instansi BUMN, Kementerian, Pemerintah",terlampir,0,0.7625112533569336
+18078,kementerian desa pdtt,desa mekarharja,0,0.9981219172477722
+18152,pt kiw,pt artha teknik abadi,1,0.9531158208847046
+18462,"Bukan instansi BUMN, Kementerian, Pemerintah",rincian terlampir,0,0.5605345964431763
+18535,pt kiw,pt pelayaran bina benua samudera banjarmasin,1,0.9600265026092528
+18856,"Bukan instansi BUMN, Kementerian, Pemerintah",cv sabeena rizky perkasa,0,0.5323050618171692
+19239,pemkot cirebon,pt cirebon energi prasarana cepr,1,0.9844957590103148
+19265,pt bank bni,tidak diketahui namun diduga debitur bni,1,0.9870306849479676
+19288,pemprov jambi,bpom di jambi,1,0.9917154908180236
+19294,asuransi sosial angkatan bersenjata republik indonesia,panitia proyek sosial pk lpdp,1,0.9495266079902648
+19386,pt pegadaian sentra layanan ultra mikro loa,pegawai pt oigo infrastruktur,1,0.88615882396698
+274,pt pos indonesia kc cirebon,pt pos indonesia kc cirebon,1,0.9989162683486938
+386,pt pertani,pt victory chingluh,0,0.9954908490180968
+666,"Bukan instansi BUMN, Kementerian, Pemerintah",cv jangkar pacific,1,0.546626091003418
+704,pt bank mandiri cabang samarinda,bank mandiri cabang samarinda,1,0.998571515083313
+766,pemkot yogyakarta,madrasah muallimaat muhammadiyah yogyakarta,1,0.7097949981689453
+804,bri kcp bkkbn,bri kcp bkkbn,1,0.9981122016906738
+2014,pemkab penajam paser utara,pemerintah kabupaten penajam paser utara,1,0.9992509484291076
+2087,"Bukan instansi BUMN, Kementerian, Pemerintah",panitia lokakarya,0,0.5998795032501221
+2199,pt pos indonesia kc cirebon,pt pos,1,0.8311144709587097
+2494,pt bni persero tbk,pt skp,1,0.9987974166870116
+2999,pt sarana multigriya,pt kahayan berseri,0,0.9975467324256896
+3302,kementerian investasi,kementerian investasi bkpm,1,0.9987266659736632
+3384,pemerintah kabupaten seram bagian timur,kantor gubernur kalimantan timur,0,0.9982426166534424
+3399,pemerintah kabupaten sidoarjo,pengadilan agama sidoarjo,0,0.9982041120529176
+3400,"Bukan instansi BUMN, Kementerian, Pemerintah",cls france,1,0.5865809321403503
+3409,pemerintah kabupaten intan jaya,jaya seluler indonesia,0,0.9984979629516602
+3611,pemerintah provinsi bali,koperasi taxi bali,0,0.9960313439369202
+3622,pln batubara,pln batubara,1,0.998357117176056
+3686,pemerintah kabupaten mamuju tengah,dinas tenaga kerja prov jawa tengah,0,0.9986287355422974
+4888,pemerintah kabupaten lamandau,pemerintah kabupaten lamandau,1,0.998679220676422
+4894,pemerintah kabupaten deli serdang,dinas pppa deli serdang,0,0.9991349577903748
+5279,pt jamkrindo,pt jamkrindo,1,0.9991242289543152
+5308,pt bgr,pt rizky bumi persada indah,1,0.692747950553894
+5925,pt kereta api indonesia,pt itdc,1,0.9989535808563232
+6448,pt pegadaian kanwil iv balikpapan,pt pegadaian kanwil iv balikpapan,1,0.9982263445854188
+6570,bank bri cabang blitar,bank bri cabang blitar,1,0.9986082911491394
+6573,"Bukan instansi BUMN, Kementerian, Pemerintah",sasimi,1,0.927014708518982
+6574,"Bukan instansi BUMN, Kementerian, Pemerintah",dapur rindang,0,0.861395537853241
+6575,pemkot surakarta,universitas muhammadiyah surakarta,1,0.6342946887016296
+6578,kementerian pertanian,menteri pertanian,0,0.9974864721298218
+6973,pt bank rakyat indonesia bri,pt bank bri,1,0.9985260367393494
+7040,pemerintahan badung,instansi pemerintahan,0,0.9979045391082764
+7055,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris hendrik kusalam,0,0.723730742931366
+7057,pemerintah gresik,kecamatan gresik,0,0.9989413619041444
+7059,pemkot mataram,alazhar islamic university mataram,1,0.9961125254631042
+7201,pt smf,pt passokorang,1,0.9629809856414796
+7826,pt askrindo,pt askrindo,1,0.9983432292938232
+7967,pt smf,pt,1,0.995744287967682
+8212,pemerintah kabupaten tanah bumbu,pengusaha galian tanah urug,0,0.9974186420440674
+8989,pemerintah provinsi sumsel,pemerintah provinsi sumsel,1,0.9991711378097534
+10232,pemkab merangin,pemerintah kabupaten merangin,1,0.9980465173721312
+10250,pt bank bri persero cabang ujung batu,bank bahtermas,1,0.6559709310531616
+10483,pt bri cabang bojonegoro dan pt bri cabang nganjuk,pt kafila pelita sukses,1,0.648780345916748
+11105,pemkab lamongan,lpse kabupaten lamongan,1,0.9556057453155518
+11418,pt jakarta industrial estate pulogadung,pt absy h hasanuddin,1,0.9957112073898317
+11516,pt bgr,pt asuransi jasa indonesia cab samarinda,1,0.996459662914276
+12187,pemprov lampung,asn kabid pajak bapenda provinsi lampung,1,0.6542302370071411
+12196,"Bukan instansi BUMN, Kementerian, Pemerintah",korporasi,0,0.921589493751526
+12198,kementerian desa pdtt,desa,0,0.9976876974105836
+12205,badan meteorologi klimatologi dan geofisika,direktorat barang kebutuhan pokok dan barang penting,0,0.993730902671814
+12263,"Bukan instansi BUMN, Kementerian, Pemerintah",hendrianto lijaya ien nio,1,0.7963376641273499
+12318,pemprov nusa tenggara timur,koordinator bazis baznas jakarta timur,1,0.9970857501029968
+12503,pt dkb,pt indonesia comnets plus,1,0.9885286688804626
+14137,pemkab kutai timur,pemerintah kabupaten kutai timur,1,0.9987071752548218
+14174,"Bukan instansi BUMN, Kementerian, Pemerintah",instituto para a qualidade de timorleste iqtlip,0,0.5415710210800171
+14298,pt vtp,pt askrindo kanwil v denpasar,1,0.9941439032554626
+15360,pemerintah kota cimahi,pemerintah kota cimahi,1,0.9990257024765016
+15442,pemkab sumenep,bupati sumenep,1,0.9989168643951416
+15445,"Bukan instansi BUMN, Kementerian, Pemerintah",cv putra pandawa,0,0.94135844707489
+15553,pemerintah kabupaten bangka selatan,dinas kesehatan provinsi sumatera selatan,0,0.999250829219818
+15591,otoritas jasa keuangan,otoritas jasa keuangan,1,0.997934103012085
+15615,pemkab jombang,mdb jombang,1,0.9986112117767334
+15966,pemerintah kabupaten kediri,pemerintah kota kediri,1,0.9992654919624328
+16497,pemkot palembang,bdk palembang,1,0.9977664947509766
+17696,pemkab tanah laut,pemerintah kabupaten tanah laut,1,0.9986202716827391
+17827,pemkot surakarta,dpc apsi kota surakarta,1,0.996434450149536
+17830,"Bukan instansi BUMN, Kementerian, Pemerintah",optik beta,1,0.8236639499664307
+17832,badan pemeriksa keuangan bpk,bpk,1,0.9981404542922974
+17897,kementerian energi dan sumber daya mineral esdm,kementerian esdm,1,0.9984045624732972
+18790,pemerintah provinsi sumatera utara,pemerintah provinsi sumatera utara,1,0.99922776222229
+19051,pt telkom,pt jatiwangi property group,0,0.9935951828956604
+19192,pemkot surabaya,pelaku usaha di surabaya,1,0.9827072024345398
+19200,"Bukan instansi BUMN, Kementerian, Pemerintah",rs pelengkap,0,0.6646341681480408
+19220,pln batubara pln bb,perusahaan batubara,1,0.9919580221176147
+19232,badan pusat statistik provinsi bali,kepala badan konservasi borobudur,0,0.9971895813941956
+19291,pt virama karya persero,virama karya,1,0.9980672001838684
+19349,pt pnm,pnm investment management,1,0.9945507645606996
+19357,perum bulog kanwil kaltim  kaltara,kemenkumham kanwil prov riau,1,0.9115421772003174
+19365,"Bukan instansi BUMN, Kementerian, Pemerintah",developer rekanan,0,0.7996399998664856
+19595,pt bank mandiri cikampek,pt bank mandiri cikampek,1,0.9991318583488464
+19820,penataran angkatan laut,kepala staf angkatan laut,1,0.9856700301170348
+19936,pt pupuk indonesia,pt pulau rempah indonesia,0,0.9991121888160706
+406,"Bukan instansi BUMN, Kementerian, Pemerintah",rsu mitra sehat,0,0.9764885902404784
+407,"Bukan instansi BUMN, Kementerian, Pemerintah",royal woodpark residences,0,0.510901689529419
+740,pt pertamina persero,pt airmas perkasa,0,0.9957270622253418
+791,kementerian desa pdtt,salah satu perangkat desa,0,0.9954394698143004
+1668,pemerintah kota singkawang,pemerintah kota singkawang,1,0.9979543685913086
+1694,komisi pemilihan umum kabupaten fakfak,kpu kabupaten fakfak,1,0.9963979721069336
+2118,pemerintah kabupaten aceh besar,kedutaan besar china jabatan science counselor,0,0.9905056357383728
+2191,pt kiw,pt bahana sekuritas,1,0.7164655923843384
+2505,pt dana tabungan dan asuransi pegawai negeri   taspen,sd negeri 2 kedung menjangan,0,0.9893998503684998
+2514,"Bukan instansi BUMN, Kementerian, Pemerintah",instalasi farmasi klinik erha skin,0,0.8294928669929504
+2516,pemkab halmahera selatan,bupati halmahera selatan,1,0.9985066056251526
+2744,kementerian perencanaan pembangunan nasional ppn badan perencanaan pembangunan nasional bappenas,kementerian pariwisata dan ekonomi kreatif badan pariwisata dan ekonomi kreatif,1,0.9409753680229188
+2802,pt bgr,pt pelayaran bunga nusa mahakam group,1,0.5126206874847412
+3326,pt dkb,pt bank central asia tbk,1,0.9707223773002625
+3777,pemerintah cilegon,pemerintah kota cilegon,1,0.9986948370933532
+4539,pt bank tabungan negara persero btn,bank bsi,1,0.9955655932426452
+4543,inspektorat jenderal tni,inspektorat jenderal tni,1,0.9987661838531494
+4936,pemerintah kota pontianak,pemerintah kota pontianak,1,0.9989761114120485
+5474,pemprov sulawesi barat,kapolda kalimantan barat,1,0.9966009259223938
+5915,pemerintah kabupaten kebumen,dinas pekerjaan umum dan perumahan rakyat pemerintah kota pontianak,0,0.9993194341659546
+6871,pemerintah kabupaten sumba barat daya,pt bumi daya plaza,0,0.9983826875686646
+7197,pt penerbitan dan percetakan balai pustaka persero,pt sun chang indonesia,1,0.9872784614562988
+7456,pemerintah kabupaten aceh jaya,cv indah jaya,0,0.998376488685608
+7486,bnpb provinsi jawa barat,jalan rawa buaya no8 cengkareng jakarta barat,1,0.914592146873474
+8757,pemerintah kabupaten wonogiri,pemerintah kabupaten wonogiri,1,0.9984696507453918
+8758,pemerintah kab kepulauan seribu,kades penandingan kec pseksu kab lahat,0,0.9965028762817384
+8797,kementerian pendayagunaan aparatur negara dan reformasi birokrasi kem panrb,induk koperasi kepolisian negara inkopol,0,0.9953676462173462
+8806,kemenkumham,kemenkumham,1,0.9981356859207152
+9067,pt telkom,pt hardaya widya graha,0,0.9964683055877686
+9190,pemerintah sidoarjo,rsud sidoarjo,0,0.9959319233894348
+9531,pt pos indonesia persero,pt pos indonesia,1,0.9978932738304138
+10071,pt energi management indonesia persero,pt indracipta purisatria,0,0.9971302151679992
+10155,"Bukan instansi BUMN, Kementerian, Pemerintah",samsul hidayat,1,0.8925928473472595
+10156,kementerian desa,kecamatan pameungpeuk desa,0,0.9971861243247986
+10164,pemerintah gresik,dinas kesehatan gresik,0,0.9984729886054992
+10238,pt kiw,pt syabangun bumitirta,1,0.7462981343269348
+10656,pemerintah kota gorontalo,disdik pemkot gorontalo,1,0.9971300959587096
+10678,komisi pemilihan umum kpu,komisi pemilihan umum,1,0.9748129844665528
+11026,pt perusahaan perdagangan indonesia persero,pt bnd,1,0.9987837672233582
+11076,pemerintah kota medan,dinas pppa medan,0,0.9976438879966736
+11200,pt vtp,pt roatex indonesia toll system,1,0.9167790412902832
+11653,"Bukan instansi BUMN, Kementerian, Pemerintah",mediatron,0,0.937315821647644
+11654,"Bukan instansi BUMN, Kementerian, Pemerintah",surapita unitrans,0,0.6689608097076416
+11655,kantor staf presiden,staf,0,0.9909409880638124
+11824,pemerintah kabupaten kepulauan mentawai,dinas pemberdayaan masyarakat dan desa kependudukan dan pencatatan sipil provinsi kepulauan riau,0,0.9991531372070312
+12641,pemerintah kota probolinggo,pemerintah kota probolinggo,1,0.9989081621170044
+12816,kementerian kelautan dan perikanan,kementerian pendidikan kebudayaan riset dan teknologi,0,0.9984757304191588
+13241,pt jakarta industrial estate pulogadung,pt jakarta propertindo perseroda,1,0.9217193126678468
+13250,kementerian pendidikan kebudayaan riset dan teknologi,satuan pendidikan,0,0.9950149655342102
+13612,pemerintah kabupaten probolinggo,pemerintah kabupaten probolinggo,1,0.998991072177887
+14848,pemprov dki jakarta,pt sasa inti jakarta,1,0.9961745738983154
+14865,kemen bumn,rumah bumn wonogiri,1,0.8864474892616272
+14933,kementerian energi dan sumber daya mineral esdm,ppbmn kementerian esdm,1,0.998081922531128
+14934,"Bukan instansi BUMN, Kementerian, Pemerintah",dsme,1,0.9410873651504515
+14939,badan nasional pencarian dan pertolongan bnpp,ex advisor organisasi dan sdm,1,0.9394854307174684
+15833,pemerintah kabupaten kuningan,pemerintah kabupaten kuningan,1,0.9993226528167723
+16196,"Bukan instansi BUMN, Kementerian, Pemerintah",one care solution,1,0.922258198261261
+16591,pemerintah kabupaten puncak jaya,pt tata griya jaya,0,0.9984742999076844
+16592,indonesia financial group ifg,ceo asri group,1,0.95222669839859
+16657,pemerintah provinsi sulut,smk negeri 1 palasah cabang dinas pendidikan wilayah ix provinsi jawa barat,0,0.9969921112060548
+16789,"Bukan instansi BUMN, Kementerian, Pemerintah",laboratorium klinik budi sehat,0,0.9726532697677612
+16790,"Bukan instansi BUMN, Kementerian, Pemerintah",ksp,1,0.9957547187805176
+16869,kominfo,balai besar pengujian perangkat telekomunikasi kementerian kominfo,1,0.7622277736663818
+16883,pemerintah kota surabaya,politeknik pelayaran surabaya,0,0.9980042576789856
+17505,pemerintah kabupaten maros,pemerintah kabupaten maros,1,0.998529314994812
+18087,pemerintah provinsi nusa tenggara barat,universitas nusa putra,0,0.997618854045868
+18089,"Bukan instansi BUMN, Kementerian, Pemerintah",cv karuniacipta buana,0,0.9702765345573424
+18102,bank mandiri cabang gunungsari,cv mitra mandiri,1,0.6505025029182434
+18485,pt telkom indonesia persero tbk,pt panca konstruksi,0,0.9970927238464355
+18629,pt smf,pt hwi,1,0.9929494857788086
+18872,badan siber dan sandi negara bssn,bssn,1,0.997448980808258
+19072,pemerintah kabupaten lombok barat,dinas perindustrian dan perdagangan provinsi sumatera barat,0,0.9986721277236938
+19156,bank mandiri pematang siantar kcp sutomo,bank mandiri pematang siantar kcp sutomo,1,0.998337984085083
+19544,pemerintah kota pagar alam,pt bumi alam persada waterboom pesona modern,0,0.9963268637657166
+357,pemerintah kabupaten kepulauan seribu,pemerintah kabupaten indragiri hilir,0,0.9995107650756836
+752,"Bukan instansi BUMN, Kementerian, Pemerintah",rs mmc,1,0.9724233150482178
+760,pemkot surabaya,hotel jw marriot surabaya,1,0.8844127655029297
+1112,pt sarana multi infrastruktur persero pt smi,pt smi,1,0.9988886713981628
+1437,bank rakyat indonesia cabang sintang,bank rakyat indonesia cabang sintang,1,0.9986866116523744
+1439,"Bukan instansi BUMN, Kementerian, Pemerintah",kolektif,0,0.9315873980522156
+1568,pt perkebunan nusantara iii,bapenda uppd kota semarang iii,1,0.9553630352020264
+1666,pemerintah kabupaten aceh tenggara,bpma badan pengelola migas aceh,0,0.9982695579528807
+1671,"Bukan instansi BUMN, Kementerian, Pemerintah",mahasiswa s3,0,0.8354218602180481
+1718,pemkab sumedang,bank sumedang,1,0.8714596033096313
+1848,kementerian pemberdayaan perempuan dan perlindungan anak,kementerian pemberdayaan perempuan dan perlindungan anak,1,0.9962448477745056
+2466,pemerintah kabupaten gowa,pemerintah kabupaten gowa,1,0.9988980293273926
+3050,"Bukan instansi BUMN, Kementerian, Pemerintah",ptpama kpc,1,0.972594916820526
+3051,kementerian desa,kepala desa kertonegoro,0,0.9983032941818236
+3064,pemerintah kabupaten tanjung jabung timur,desa suban kecamatan tanjung sakti pumu,0,0.9977651834487916
+3132,pemerintah kota yogyakarta,politeknik kesehatan karya husuda yogyakarta,0,0.9965938925743104
+3151,pt jakarta industrial estate pulogadung,kpknl jakarta v,1,0.9540935754776
+3196,lembaga kebijakan pengadaan barang jasa pemerintah lkpp,perusahaan pengurusan jasa kepabeanan,0,0.9855560660362244
+3213,arsip nasional ri,arsip nasional republik indonesia,1,0.9963885545730592
+3617,pt smf,pt bank pembangunan daerah jawa barat dan banten tbk,1,0.9477365612983704
+4121,pemerintah kabupaten gresik,rs semen gresik,0,0.9977134466171264
+4246,kementerian desa,badan koordinasi nasional desa indonesia,0,0.9979968667030334
+4680,pemerintah kabupaten muko muko,pemerintah bangladesh,1,0.8674394488334656
+5201,pemkab aceh jaya,hotel bahtera jaya abadi,0,0.9978838562965392
+5595,pemkot pematang siantar,staf exim pt siantar top tbk,1,0.6389811038970947
+5709,bgr indonesia,bank indonesia pematangsiantar,1,0.8673742413520813
+7056,pemkab sumedang,pemerintah kabupaten sumedang,1,0.9990543723106384
+7061,lembaga administrasi negara,lembaga administrasi negara,1,0.9979695677757264
+7131,"Bukan instansi BUMN, Kementerian, Pemerintah",rina fransisca tjong wajib pajak,0,0.6969431042671204
+7574,pemkab tabalong,pemda kabupaten tabalong,1,0.9989859461784364
+7578,pt bri,bri,1,0.9970001578330994
+7621,pemkab lebak,kejaksaan negeri lebak,1,0.7906395196914673
+8826,pemkab tanah datar,pemerintah kabupaten tanah datar,1,0.9990648627281188
+8968,pt smf,komisaris pt blue bird,1,0.9876920580863952
+9210,pemkab serang,bpr serang,1,0.9967689514160156
+9216,pemerintah lamongan,universitas muhammadiyah lamongan,0,0.9978346228599548
+9722,bank negara indonesia,pt bank negara indonesia persero tbk,1,0.9964466691017152
+10412,pemprov ntt,pt ntt emerio,1,0.9931967258453368
+10413,"Bukan instansi BUMN, Kementerian, Pemerintah",sesuai data lampiraan,1,0.6173616051673889
+10806,pt bank rakyat indonesia,pt bank rakyat indonesia persero tbk,1,0.9966765642166138
+11203,pemerintah kabupaten ogan komering ulu,ketua forum kades kec mulak ulu kades karang lebak,0,0.9983204007148744
+11288,indonesia financial group ifg,bank syariah indonesia bsi kc soekarno hatta malang,1,0.956598460674286
+12657,pemerintah kabupaten tegal,pemerintah kabupaten tegal,1,0.9988909363746644
+12659,"Bukan instansi BUMN, Kementerian, Pemerintah",ketua dpp rei,1,0.966374933719635
+12704,pt bank tabungan negara persero tbk btn,bank bjb,1,0.9853366017341614
+13591,pemerintah kabupaten malang,pemerintah kabupaten malang,1,0.998582124710083
+13953,pt bank tabungan negara persero btn,bank bjb bank bukopin bank btpn bank bsi,1,0.9852749109268188
+13955,pemkab karanganyar,bumd kab karanganyar,1,0.9956858158111572
+13958,"Bukan instansi BUMN, Kementerian, Pemerintah",panitia ok oce,1,0.7177528142929077
+14025,badan penyelenggara jaminan sosial kesehatan bpjs kesehatan,badan penyelenggara jaminan sosial kesehatan,1,0.9622910022735596
+14048,pemkot mataram,universitas islam negri uin mataram panitia the 3rd geotourism festival international conference,1,0.8310596346855164
+14050,"Bukan instansi BUMN, Kementerian, Pemerintah",instansi terlampir,0,0.8662349581718445
+14459,pemerintah kabupaten jeneponto,dinas kelautan perikanan dan peternakan kabupaten cianjur,0,0.99933260679245
+14565,kemendikbudristek,kemendikbudristek,1,0.9979713559150696
+14566,"Bukan instansi BUMN, Kementerian, Pemerintah",ptpama indominco,0,0.8304857015609741
+14707,pt smf,pt kahatex,1,0.9811480641365052
+14949,"Bukan instansi BUMN, Kementerian, Pemerintah",notarisppat,1,0.9255939722061156
+14993,bgr indonesia,yayasan plan international indonesia,1,0.5279260873794556
+15485,pt reasuransi indonesia utama persero,pt iwip,1,0.9975329637527466
+15528,pemerintah kabupaten malang,rs aisyiah malang rumah sakit,0,0.996057391166687
+15611,pemerintah kab kepulauan seribu,badan pengelola pendapatan daerah uppd kab purworejo,0,0.9979965090751648
+15641,pt bgr,pt elo karsa utama,1,0.691725492477417
+16296,pt dirgantara indonesia persero,pt pico tba,1,0.9865461587905884
+16410,pt bgr,pt indonesia comnets plus icon,1,0.8848119378089905
+16959,pt superintending company of indonesia,house of trusmi,0,0.8882410526275635
+16961,"Bukan instansi BUMN, Kementerian, Pemerintah",pemdes blimbingreko,0,0.5465933680534363
+16963,hotel natour,aston hotel,0,0.9842073917388916
+16967,badan penyelenggara jaminan sosial kesehatan,pcc pratama cendekia consultant sebagai penyelenggara workshop,0,0.9426277875900269
+16973,"Bukan instansi BUMN, Kementerian, Pemerintah",rs pelengkap medical center,0,0.8577313423156738
+17357,pt askrindo,pt askrindo kc banjarmasin,1,0.9952194094657898
+17747,pemkot yogyakarta,pt madu baru pabrik gula pabrik spiritus madukismo yogyakarta,1,0.8810359835624695
+17752,"Bukan instansi BUMN, Kementerian, Pemerintah",rumah sakit fatma,0,0.8664091229438782
+17753,"Bukan instansi BUMN, Kementerian, Pemerintah",emc,1,0.997359573841095
+17826,pt kiw,pt susi air,1,0.9508458971977234
+18137,pemkab temanggung,pd bkk temanggung,1,0.9960891008377076
+18382,pt pindad,pt pindad persero,1,0.9993207454681396
+18686,pt bgr,direktur utama pt indosat oorodeo hutchison,1,0.8032866716384888
+19043,indonesia financial group,group musik,0,0.9737446904182434
+19070,pt bgr,pt karoseri anak bangsa,1,0.9699244499206544
+19662,pt boma bisma indra persero cabang jakarta,hrd perusahaan pt sumber alfaria trijaya,1,0.8466283679008484
+19834,kanreg vi bkn medan,kanreg vi bkn medan,1,0.996235191822052
+19933,pt perkebunan nusantara,pt perkebunan nusantara holding persero,1,0.9962486624717712
+401,pt bgr,pt kayreach system,1,0.943198263645172
+1182,bgr indonesia,pt huawei tech investment huawei indonesia corporate affairs,1,0.958266258239746
+1332,kementerian desa,ketua pokmas desa putak,0,0.9776855111122132
+1475,pt smf,pt kuarta,1,0.9751830101013184
+1735,perum lembaga kantor berita nasional antara,kantor notaris hengky budi,0,0.9657261967658995
+2180,pemkab nias barat,bkpsdm kabupaten nias barat,1,0.9987195730209352
+2260,pemprov ntb,dinas dispora ntb,1,0.959169328212738
+2697,pt virama karya persero,pt anggoro karya,0,0.9960026144981384
+2842,pt smf,pt usu hydra power,1,0.9295287132263184
+3105,pemerintah kota malang,politeknik pembangunan pertanian malang,0,0.998144030570984
+3106,pemkab jombang,klinik mata jombang,1,0.7685990929603577
+3109,"Bukan instansi BUMN, Kementerian, Pemerintah",lab kalibrasi,0,0.7721129655838013
+3113,pt jasa marga,vendor penyedia jasa billboard,0,0.9847880601882936
+3161,pt bgr,pt kredit pintar indonesia,1,0.7982898950576782
+3716,bri cabang temanggung,pd bpr bkk temanggung,1,0.9944342970848083
+3877,pt dkb,pt bank danamon indonesia tbk,1,0.9263188242912292
+4363,komisi pemberantasan korupsi,komisi pemberantasan korupsi,1,0.9975507855415344
+4383,nasabah bank mandiri pemilik toko parfum,pemilik,0,0.9562963843345642
+4412,kantor pos mamuju,kantor pos mamuju,1,0.9977542757987976
+4418,pemkot medan,upt bp2mi medan,1,0.9952090382575988
+4465,bgr indonesia,iia indonesia,1,0.96987646818161
+5821,pemerintah bandung barat,pemerintah kabupaten bandung barat,1,0.999112069606781
+5900,pupuk indonesia,pupuk indonesia,1,0.9983820915222168
+6807,pemerintah kabupaten ogan komering ilir,pemerintah kabupaten ogan komering ilir,1,0.9981064796447754
+7317,indofarma global medika,klinik parakita medika,0,0.9660404920578004
+7323,kemensos ri,sekretariat ditjen linjamsos kemensos,1,0.9905726313591005
+7400,pemkot cirebon,bank bjb cabang cirebon,1,0.9966071844100952
+8604,pemkab jepara,pemerintah kabupaten jepara,1,0.9989295601844788
+8714,badan narkotika nasional bnn,badan narkotika nasional palangkaraya,1,0.6174759864807129
+8733,bni life insurance,maximus insurance,1,0.8922017812728882
+8737,kementerian desa pembangunan daerah tertinggal dan transmigrasi,desa songgodadi kec petungkriyono,0,0.9953723549842834
+8753,pemkab banggai laut,asn kepala bidang dikdas kab banggai laut,1,0.8320177793502808
+8758,"Bukan instansi BUMN, Kementerian, Pemerintah",sekolah,0,0.9174566268920898
+8776,bni divisi pengelolaan jaringan,bni,1,0.995297372341156
+8850,badan pengawas obat dan makanan bpom,badan pengawas obat dan makanan,1,0.9129233360290528
+8913,"Bukan instansi BUMN, Kementerian, Pemerintah",warga,0,0.9712082147598268
+9174,pt telkom,pt aqua golden mississippi,0,0.9959677457809448
+9346,bank bri unit prambanan,bank bri unit prambanan,1,0.9989491105079652
+9460,pemerintah mojokerto,pemerintah kabupaten jombang,1,0.999182403087616
+10628,pt hutama karya,pt kordon putra sinergi,0,0.99443382024765
+10988,pt bgr,pt organic hans jaya,1,0.9342164397239684
+11381,pt bgr,pt audie building industry,1,0.9211952090263368
+11935,pt bank rakyat indonesia,pt bank rakyat indonesia,1,0.9987271428108216
+12377,pemkab hulu sungai selatan,direktorat sungai danau dan penyeberangan ditjen hub darat kementerian perhubungan,0,0.9952409267425536
+12508,"Bukan instansi BUMN, Kementerian, Pemerintah",bpr marunting sejahtera,0,0.8284984230995178
+12516,kementerian koperasi dan ukm,kementerian koperasi dan ukm,1,0.997168242931366
+12636,"Bukan instansi BUMN, Kementerian, Pemerintah",ceo panbil nature,1,0.9556276798248292
+12644,kemenhub ri,wakil presiden ri,1,0.990204930305481
+12726,badan nasional pencarian dan pertolongan bnpp,kantor perwakilan skk migas jawa bali madura dan nusa tenggara jabanusa,1,0.5314356684684753
+12951,pemerintah banten,pemerintah provinsi banten,1,0.9990457892417908
+13696,pt kiw,pt aster jaya perkasa,1,0.5705524682998657
+14017,"Bukan instansi BUMN, Kementerian, Pemerintah",wajib pajak umkm harlen crochet,1,0.6425883173942566
+15254,pemkab bolaang mongondow timur,pemerintah kabupaten bolaang mongondow timur,1,0.9986711740493774
+15724,pemkab jayapura,inspektorat kabupaten jayapura,1,0.998257339000702
+15734,pemkab gresik,koperasi karyawan keluarga besar petrokimia gresik k3pg,1,0.9939886331558228
+15910,pemerintah boyolali,pemerintah kabupaten boyolali,1,0.998985469341278
+16937,"Bukan instansi BUMN, Kementerian, Pemerintah",swasta,0,0.9582238793373108
+17760,pemerintah kabupaten muaro jambi,pemerintah kabupaten muaro jambi,1,0.9988654851913452
+18197,badan nasional pencarian dan pertolongan bnpp,kantor skk migas jawa bali madura dan nusa tenggara,1,0.564335286617279
+18662,pemerintah kabupaten intan jaya,pt sinar jaya,0,0.9991745352745056
+18665,kementerian pariwisata dan ekonomi kreatif,pelaku kreatif,0,0.98995041847229
+18666,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris rindiana larasati shmkn,0,0.8049641847610474
+18688,lpsk ri,staf ahli bapak sarmudji dpr ri komisi vi,1,0.9452606439590454
+19534,pemprov sumatera barat,pemerintah provinsi sumatera barat,1,0.9986327290534972
+19721,pt pos indonesia,pt bangun inti sukses indonesia,0,0.9982648491859436
+189,pt indah karya,cv sinar pelangi indah,0,0.9940294027328492
+242,bri cabang temanggung,bri cabang temanggung,1,0.9981529116630554
+302,bgr indonesia,indonesia power,1,0.9899423122406006
+637,pemkot singkawang,dinas pendidikan dan kebudayaan kota singkawang,1,0.9677175283432008
+1445,pemerintah kabupaten muko muko,pemerintah kabupaten bombana,1,0.9988598823547364
+1839,"Bukan instansi BUMN, Kementerian, Pemerintah",aqua golden mississippi,0,0.954783022403717
+1840,"Bukan instansi BUMN, Kementerian, Pemerintah",pramita laboratorium klinik,0,0.8939258456230164
+1936,pupuk indonesia,universitas islam indonesia,0,0.9976032376289368
+2131,pt pertamina,pt mutiara bahagia abadi,0,0.997351884841919
+2790,pemerintah kabupaten konawe,tim kabupaten kota kreatif pacitan dan umkm,0,0.999036192893982
+3428,pln persero,pt pln batubara,1,0.998706579208374
+3763,pt penjaminan infrastruktur indonesia persero,pt penjaminan infrastruktur indonesia,1,0.9988681077957152
+4021,pemkab pulau morotai,kecamatan pulau pinang,0,0.9978579878807068
+4056,pt bgr,pt galuh citarum,1,0.9806216359138488
+4880,reasuransi indonesia utama,pt reasuransi indonesia utama,1,0.9987953901290894
+5380,pt geo dipa energi persero,pt geo dipa energi persero,1,0.9984622001647948
+5602,pusat pelaporan dan analisis transaksi keuangan,pusat pelaporan dan analisis transaksi keuangan,1,0.9958257675170898
+6438,pemerintah kota metro,pemerintah kota metro,1,0.998794436454773
+6871,pemkot magelang,pt nasmoco magelang,1,0.9908348321914672
+6919,pt bgr,direktur pengawas umum pt kartika cipta indonesia,1,0.510944128036499
+7469,kementerian pendidikan kebudayaan riset dan teknologi,direktorat jenderal pendidikan tinggi riset dan teknologi,0,0.995779275894165
+7537,"Bukan instansi BUMN, Kementerian, Pemerintah",dtcc,1,0.9753625988960266
+7842,pt indah karya persero,pt mega rosadela propertindo,0,0.9945344924926758
+7920,kementerian koperasi dan ukm,koperasi nusantara,0,0.9966712594032288
+7945,pemerintah kabupaten bener meriah,desa sendangsari kecamatan bener,0,0.995944321155548
+7972,pt bgr,pt semen gresik persero tbk,1,0.9868017435073853
+8490,"Bukan instansi BUMN, Kementerian, Pemerintah",instalatir,0,0.8251463174819946
+8494,pt hotel indonesia natour persero,hotel harris,0,0.993893027305603
+8711,pemerintah kabupaten bangka,pemerintah desa bolobungkang,0,0.9994475245475768
+9253,"Bukan instansi BUMN, Kementerian, Pemerintah",rs siloam sriwijaya,0,0.7751542329788208
+9637,pemerintah kabupaten empat lawang,pt lawang agung sakti,0,0.997991681098938
+10459,pemprov nusa tenggara barat,pemerintah provinsi nusa tenggara barat,1,0.9986202716827391
+10550,pt superintending company of indonesia,chairman of tosyali holding,1,0.5099714994430542
+10554,"Bukan instansi BUMN, Kementerian, Pemerintah",kemenaker,0,0.7275484204292297
+10621,bkkbn provinsi sulawesi utara,bps provinsi sulawesi utara,1,0.9989590644836426
+10705,badan pengelola keuangan haji,unit pengelola kegiatan dana amanah pemberdayaan masyarakat kec gebang,0,0.9958666563034058
+10715,"Bukan instansi BUMN, Kementerian, Pemerintah",bethsaida hospital,1,0.8624906539916992
+10720,pt survai udara penas persero,pusbang sdm udara,0,0.97567218542099
+10724,pt perusahaan listrik negara,mitra perusahaan,0,0.9945337772369384
+11184,pemkab mahakam ulu,bkd kabupaten mahakam ulu,1,0.9982568621635436
+11190,"Bukan instansi BUMN, Kementerian, Pemerintah",md truttys,1,0.9699631333351136
+11984,pemerintah kota bogor,pemerintah kota bogor,1,0.9987568855285645
+12146,badan pengusahaan batam bp batam,badan pengusahaan batam bp batam,1,0.99850594997406
+12154,"Bukan instansi BUMN, Kementerian, Pemerintah",perorangan,0,0.8991976976394653
+12273,pemkot palembang,bappeda kota palembang,1,0.9986575841903688
+12479,pt bio farma indonesia,pt pembangkitan jawabali pt pjb,1,0.9883997440338136
+12657,bpjs kesehatan,bpjs kesehatan,1,0.9983454942703248
+13089,bgr indonesia,pt microsoft indonesia,1,0.5868169665336609
+13499,pt telkom,pt aneka jasa grhadika,0,0.9941483736038208
+13646,energi management indonesia,panin asset management,0,0.9945818781852722
+13699,pt indra karya,pt karunia bersama sejahtera,0,0.9978004097938538
+14031,pemkab kapuas hulu,polres kapuas hulu,1,0.9938149452209472
+14108,kementerian perdagangan,kementerian perdagangan,0,0.997511386871338
+14134,bri kantor pusat,bri kantor pusat,1,0.9977387189865112
+14251,kementerian sekretariat negara,kementerian sekretariat negara,1,0.9982748031616212
+14297,pemerintah kabupaten seram bagian barat,subbagian tata laksana bagian oki djkn,0,0.9737535119056702
+14299,pt superintending company of indonesia,head of partnership siloam group,0,0.74459308385849
+14311,kementerian desa,kementerian sosial,0,0.99915874004364
+14920,pt pal indonesia persero,pt pal indonesia persero,1,0.9987918734550476
+15109,pt bgr,pt timah persero tbk,1,0.8252604007720947
+15618,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi skk migas,bumi sindang panon,0,0.997855007648468
+15619,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan lebakwangi,0,0.9829140305519104
+15725,pemprov jawa barat,dekranasda provinsi kalimantan barat,1,0.9749488234519958
+16083,pt kimia farma persero tbk,pt kimia farma persero tbk,1,0.9985180497169496
+16364,pemerintah temanggung,bank surya yudha temanggung,0,0.9967212080955504
+16385,pt bank tabungan negara,pt bank tabungan negara persero tbk,1,0.9975402355194092
+17238,pemerintah kota yogyakarta,pemerintah kota yogyakarta,1,0.998985469341278
+17871,mahkamah konstitusi,mahkamah konstitusi,1,0.9983664155006408
+17876,"Bukan instansi BUMN, Kementerian, Pemerintah",ukiran kayu subraman ud bravisga,0,0.9639906287193298
+17949,pt kiw,pt arthatel,1,0.918448567390442
+18259,pemkot banjar,smkn banjar komite sekolah,1,0.6368009448051453
+18264,"Bukan instansi BUMN, Kementerian, Pemerintah",cv berkah solo,0,0.8458421230316162
+18268,pt perusahaan listrik negara,perusahaan swasta,0,0.9954860806465148
+18635,pt wijaya karya persero tbk,pt pelita mekar semesta,0,0.9978777170181274
+18668,pln batubara pln bb,pln batubara pln bb,1,0.9985839128494264
+19483,pemerintah kabupaten muko muko,pemerintah kabupaten,1,0.9962562322616576
+19901,pt bgr,pt griya persada pangestu,1,0.6930831670761108
+517,pt telkom,pt sentral utama teknikal mandiri,0,0.9961883425712584
+659,"Bukan instansi BUMN, Kementerian, Pemerintah",ptt,0,0.7783553004264832
+660,"Bukan instansi BUMN, Kementerian, Pemerintah",perkumpulan,0,0.6265233755111694
+791,pemerintah kabupaten mamuju tengah,pengelola global fund tv dinas kesehatan provinsi jawa tengah,0,0.9974144697189332
+821,pt bgr,pt elbana abadi jaya,1,0.6309990286827087
+1188,"Bukan instansi BUMN, Kementerian, Pemerintah",pengusaha wiraswasta,0,0.9015170335769652
+1239,bank rakyat indonesia,bank rakyat indonesia,1,0.998101770877838
+1441,kemen pupr,pupr,1,0.9986903071403505
+1477,bp2mi jawa barat,pengadilan negeri jakarta barat,1,0.8020938634872437
+1557,pt pertamina patra niaga,pertamina patra niaga,1,0.9987842440605164
+1720,pt dkb,pt bank pembangunan daerah jawa timur tbk,1,0.9669288992881776
+2249,pt sarana multigriya,pt swadharma sarana informatika,0,0.9968444108963012
+2502,pemerintah kabupaten karanganyar,gp farmasi karanganyar,0,0.9944580793380736
+2575,pt kiw,pt rizky bumi balangan,1,0.980819284915924
+3336,pemkab malinau,dprd kabupaten malinau,1,0.8620101809501648
+3338,"Bukan instansi BUMN, Kementerian, Pemerintah",developer grand pesona,0,0.908647358417511
+3462,pt vtp,pt palawi risorsis,1,0.6788323521614075
+4920,pemerintah kabupaten pamekasan,pemerintah kabupaten pamekasan,1,0.998774230480194
+4953,bank mandiri taspen,bank jago,0,0.9972233772277832
+4974,pemerintah kabupaten pidie jaya,cv jaya setya plastik,0,0.9969831109046936
+4979,indofarma global medika cabang,tim bahasa global,0,0.9687369465827942
+5006,pt bgr,pt edco putra jaya,1,0.6262016892433167
+5373,"Bukan instansi BUMN, Kementerian, Pemerintah",lurah,0,0.5656141638755798
+5400,pemprov kalimantan tengah,stah dharma sentana sulawesi tengah,1,0.969614803791046
+5428,"Bukan instansi BUMN, Kementerian, Pemerintah",cv mega digital,1,0.7230409979820251
+5455,pt bgr,pt kereta commuter indonesia,1,0.7927616238594055
+6012,indah karya,rs pondok indah,0,0.9889777302742004
+7211,pemkab sidoarjo,pemerintah kabupaten sidoarjo,1,0.9989235997200012
+7325,pemerintah provinsi maluku,dinas koperasi dan umkm provinsi sulawesi utara,0,0.9987615346908568
+7754,pt pertamina persero,pt pertamina,1,0.9980074763298036
+7819,pemerintah kabupaten penukal abab lematang ilir,mantan kades gemidar ilir,0,0.996547281742096
+7960,pt smf,pt asuransi central asia cabang banjarmasin,1,0.9971156120300292
+8812,pemkab dairi,badan keuangan dan aset daerah pemkab dairi,1,0.9812715649604796
+10040,pemkab pesisir selatan,pemerintah kabupaten pesisir selatan,1,0.9988221526145936
+10114,bni life,bni life,1,0.9983060359954834
+10125,"Bukan instansi BUMN, Kementerian, Pemerintah",ppk kemayoran,1,0.9181638956069946
+10367,pt wijaya karya industri konstruksi,nestle dan pt beton,0,0.991902768611908
+10655,pemprov jawa tengah,balai keselamatan kerja provinsi jawa tengah,1,0.9240199327468872
+10704,kacab bri samarinda 1,sdn sambeng 1,0,0.5651993155479431
+10735,pemkot palembang,bca cabang palembang,1,0.9979369640350342
+10739,pemprov sumatera barat,wakil gubernur sumatera barat,1,0.980355143547058
+12015,pemkab karawang,pemerintah kabupaten karawang,1,0.9985554814338684
+12018,"Bukan instansi BUMN, Kementerian, Pemerintah",x digital dokumen,0,0.5522269606590271
+12020,badan tenaga nuklir nasional batan,batan brin,1,0.9786869883537292
+12021,"Bukan instansi BUMN, Kementerian, Pemerintah",kppbc tmp merak,1,0.6458870768547058
+12125,pemerintah kabupaten mojokerto,pemkot mojokerto,1,0.9993269443511964
+12128,pemkab ngawi,rsat kab ngawi,1,0.9948719143867492
+12131,"Bukan instansi BUMN, Kementerian, Pemerintah",advokat,0,0.917206645011902
+12132,pemkab tegal,universitas pancasakti tegal program pascasarjana,0,0.9944072961807252
+12394,pt telkom pcc,pt gudang garam pt tri sakti purwosari,0,0.9951057434082032
+12602,badan penyelenggara jaminan sosial ketenagakerjaan,badan penyelenggara jaminan sosial ketenagakerjaan,1,0.9962921142578124
+12731,pemkot bandung,dukcapil kota bandung,1,0.9927905797958374
+12742,"Bukan instansi BUMN, Kementerian, Pemerintah",wiraswasta,0,0.9267576336860656
+12743,"Bukan instansi BUMN, Kementerian, Pemerintah",ibu rumah tangga,0,0.7737837433815002
+12744,"Bukan instansi BUMN, Kementerian, Pemerintah",kppbc tmp belawan,0,0.7164535522460938
+12745,"Bukan instansi BUMN, Kementerian, Pemerintah",sucor sekuritas,1,0.7447386384010315
+12746,ombudsman republik indonesia,ombudsman republik indonesia,1,0.9967982172966005
+12969,pt biro klasifikasi indonesia persero cabang cirebon,bsi cabang parepare,1,0.9964422583580016
+13083,pemerintah kabupaten lampung timur,bank pembangunan daerah bpd lampung,0,0.9984581470489502
+13479,pemerintah kabupaten puncak jaya,pt sinar berlian jaya utama andoko abdi,0,0.9972317814826964
+13490,kementerian luar negeri,sekolah dasar negeri 33 talang ubi,0,0.991747498512268
+13491,"Bukan instansi BUMN, Kementerian, Pemerintah",ksp credit union keling kumang,1,0.9016841053962708
+13946,penjaminan infrastruktur indonesia,pt twink indonesia,1,0.997003734111786
+14339,pt angkasa pura i persero,pt angkasa pura i persero,1,0.9988656044006348
+15059,kejaksaan negeri kota kediri,bkd kabupaten probolinggo bkpsdm kota kediri,1,0.9955897331237792
+15187,pemerintah kabupaten tegal,smk nu 1 islamiyah kramat tegal,0,0.9968940019607544
+15193,kementerian dalam negeri,sma negeri jumapolo,0,0.9937259554862976
+15335,pt smf,pt swa medika,1,0.9772650003433228
+15585,pemerintah provinsi di yogyakarta,objek pemeriksaan desa di kecamatan tasikmadu,0,0.9966040849685668
+16057,pemkot sukabumi,pt semen jawa dan pt tambang semen sukabumi,1,0.9843268990516664
+17324,pemerintah kabupaten hulu sungai selatan,pemerintah kabupaten hulu sungai selatan,1,0.9989303946495056
+17348,pemprov bali,itp markandeya bali,1,0.9869381189346312
+17782,pemkot banjarmasin,pt asuransi ramayana cabang banjarmasin,1,0.99555641412735
+18222,pemerintah kota tarakan,pemerintah desa kalangan kecamatan gemolong kabupaten sragen,0,0.9992730021476746
+19283,pt garuda indonesia persero tbk,pt garuda ukn,1,0.9975048899650574
+19754,jamkrindo,pt jamkrindo kanwil vii banjarmasin,1,0.9887394905090332
+561,pemerintah kabupaten serang,pemerintah kabupaten serang,1,0.9986295700073242
+1057,bank mandiri cabang gunungsari,bank mandiri cabang gunungsari,1,0.9980620741844176
+1814,pemerintah kabupaten malinau,pemerintah kabupatan malinau,1,0.9987137317657472
+1858,bgr indonesia,asosiasi blockchain indonesia,1,0.6560354828834534
+2008,pt pegadaian,pegadaian,1,0.9948463439941406
+2284,pt indonesia asahan aluminium persero,pt tkdn,1,0.99841570854187
+2421,bri cabang maros,bri cabang maros,1,0.9981693029403688
+2848,pemkot balikpapan,pt ssi balikpapan,1,0.9976575374603271
+3041,bank indonesia bi,kantor perwakilan bank indonesia perwakilan kalimantan selatan,1,0.6427212953567505
+3989,pemerintah kabupaten morowali,panitia dari badan perencanaan pembangunan penelitian dan pengembangan daerah pemerintah provinsi jawa tengah untuk fgd pemulihan ekonomi akibat dampak covid19 dan perubahan geopolitik di bidang ketahanan energi,0,0.9840781688690186
+4253,perseta asabri pensiunan polri,peserta asabri pensiunan polri,1,0.9944406151771544
+4293,pt taspen,pt taspen,1,0.998387575149536
+4719,pt kiw,pt takaya,1,0.9206199645996094
+5041,bank bni kantor cabang karawang,pegawai bank,1,0.589443027973175
+5078,pemprov jateng,bpd jateng capem ngadirejo,1,0.8543461561203003
+5219,pt smf,pt hariff,1,0.9861193895339966
+5856,pt perusahaan gas negara persero tbk,pt perusahaan gas negara persero tbk,1,0.9987908005714417
+6059,pt btn,btn,1,0.9962990880012512
+6069,pemkab cianjur,dprd cianjur,1,0.9825482368469238
+6507,pt hutama karya persero,pt hutama karya persero,1,0.998641073703766
+6645,"Bukan instansi BUMN, Kementerian, Pemerintah",ok oce,1,0.914795994758606
+6646,"Bukan instansi BUMN, Kementerian, Pemerintah",upk pnpm mpd kec loano,0,0.8240193724632263
+6647,"Bukan instansi BUMN, Kementerian, Pemerintah",kpj medica,1,0.98150634765625
+6648,"Bukan instansi BUMN, Kementerian, Pemerintah",buruh harian,0,0.9233074188232422
+7366,pt garuda indonesia persero tbk,pt garuda indonesia persero tbk,1,0.9986043572425842
+7403,pt bgr,pt golden compas indonesia,1,0.8002310991287231
+8423,pemkab nias barat,bkd kabupaten nias barat,1,0.9981802701950072
+8481,pemkot mojokerto,kepala man 2 mojokerto,1,0.9971153736114502
+8486,pemkot blitar,walikota blitar,1,0.9989663362503052
+8513,pt berdikari,pt sapta sarana sejahtera,0,0.9985583424568176
+9339,pemkab gorontalo utara,kadis pppa kabupaten gorontalo utara,1,0.9242400527000428
+10598,pemkab tanggamus,pemerintah kabupaten tanggamus,1,0.998974084854126
+10603,balai pustaka,balai penyuluhan pertanian kecamatan pakuniran,0,0.9946699738502502
+11806,pemkab malinau,pemerintah kabupaten malinau,1,0.9987375140190125
+12266,pemerintah kabupaten tanggamus,pemerintah desa kedawong diwek,0,0.9990733861923218
+13441,pemkot mojokerto,pemerintah kota mojokerto,1,0.9992881417274476
+13516,pt kiw,pt kebon agung,1,0.919600248336792
+13828,"Bukan instansi BUMN, Kementerian, Pemerintah",yayasan nur saadah dimyati,0,0.7700256109237671
+13830,pemerintah kabupaten aceh besar,duta besar qatar,0,0.9980806112289428
+13831,kacab bri samarinda 1,smk 1 pinrang,1,0.7556819319725037
+14276,pemkab tanggamus,bappeda kabupaten tanggamus,1,0.9937819838523864
+14279,anggota dpr,anggota dpr ri,1,0.9972587823867798
+14321,asuransi jasindo,asuransi sinarmas,0,0.9890632033348083
+14329,badan keamanan laut,badan pengawasan,0,0.9962170720100404
+14391,pemkot lhokseumawe,danlanal lhokseumawe,1,0.9966225624084472
+14395,pemkab maros,kajari maros,1,0.8598159551620483
+15595,pemkab musi rawas,pemerintah kabupaten musi rawas,1,0.9989781379699708
+15630,pt bgr,pt hexing technology,1,0.9247040152549744
+15986,"Bukan instansi BUMN, Kementerian, Pemerintah",cv nuansa kreasindo,0,0.9209725856781006
+15989,dewan ketahanan nasional,dewan perwakilan rakyat,0,0.997728168964386
+16409,pt bank tabungan negara,pt bank tabungan negara,1,0.9987460374832152
+16883,pt taman wisata candi borobudur prambanan dan ratu boko,pt taman wisata candi borobudur prambanan dan ratu boko persero,1,0.99826580286026
+17100,pemkot palangkaraya,bahalap hotel palangkaraya,1,0.9802727699279784
+17111,pemkot padang,pegawai bbpom di padang,1,0.9474815130233764
+17631,pemerintah kabupaten manggarai barat,dispar kabupaten manggarai barat,1,0.9885100722312928
+18059,pt jakarta industrial estate pulogadung,pt jakarta industrial estate pulogadung,1,0.9989000558853148
+18066,pemerintah kota surakarta,universitas slamet riyadi surakarta,0,0.9962448477745056
+18070,bank negara indonesia,pegawai bank negara indonesia,1,0.9937788844108582
+18456,pemerintah kota bau bau,pemerintahan kota,1,0.997873067855835
+18676,pt telkom indonesia,pt pesona purnama,0,0.9976354837417604
+19114,pt surveyor indonesia,pt surveyor indonesia,1,0.9988069534301758
+19454,perum perhutani divisi regional jawa barat dan banten,rustini hartati sh mkn dan staf,1,0.6715604066848755
+19516,pt jiwasraya,pt impala akbarindo penyedia jasa outsourcing cleaning services,0,0.989532232284546
+298,pt indra karya,pt cipta karya millenia kalsel,0,0.9967721104621888
+620,pemerintah kabupaten lampung selatan,dinas penanaman modal dan pelayanan terpadu satu pintu kabupaten pelalawan,0,0.9992017149925232
+881,lembaga kebijakan pengadaan barang jasa pemerintah lkpp,lembaga penyelenggara pelatihan dan seminar,0,0.9925395846366882
+956,primissima batik,sila butik batik,0,0.8024219870567322
+1261,pt indah karya persero,pt global mandiri ekapratama,0,0.997409164905548
+1514,pemerintah kabupaten boyolali,dinas koperasi dan ukm kabupaten subang,0,0.9992708563804626
+3104,pemerintah kabupaten sumba tengah,pemerintah kabupaten sumba tengah,1,0.9991014003753662
+3112,"Bukan instansi BUMN, Kementerian, Pemerintah",itb,0,0.7046687006950378
+3113,pemprov kaltim,tribun kaltim,1,0.9637203216552734
+3133,pemkot jakarta selatan,dpd himperra kalimantan selatan,1,0.8595112562179565
+3570,jamkrindo,pt jamkrindo cabang samarinda,1,0.9970646500587464
+3620,lembaga kebijakan pengadaan barang jasa pemerintah,penyedia jasa instalatir listrik,0,0.9883204698562622
+3638,"Bukan instansi BUMN, Kementerian, Pemerintah",postobello,1,0.8121175169944763
+3655,bni divisi solusi ritel,bni divisi solusi ritel,1,0.998655080795288
+4105,pt angkasa pura ii persero,pt angkasa pura ii persero,1,0.998766541481018
+4210,pemkot ambon,hotel santika ambon,1,0.8910823464393616
+4212,"Bukan instansi BUMN, Kementerian, Pemerintah",wajib pajak,0,0.927818775177002
+4213,"Bukan instansi BUMN, Kementerian, Pemerintah",uptd puskesmas padurenan,0,0.975587785243988
+4214,"Bukan instansi BUMN, Kementerian, Pemerintah",pihak swasta,0,0.6320316791534424
+4215,"Bukan instansi BUMN, Kementerian, Pemerintah",jamsostek,0,0.891197144985199
+4468,pt twc,pt medika maesindo global,1,0.5817140340805054
+4742,pt smf,pt arkiatama dan arbasel,1,0.6506378650665283
+5097,badan nasional pencarian dan pertolongan bnpp,kantor skk migas jawa bali madura dan nusa tenggara jabanusa,1,0.708560585975647
+5353,pt wijaya karya bitumen,pt busana remaja agracipta,0,0.9947026371955872
+5554,"Bukan instansi BUMN, Kementerian, Pemerintah",perumda,0,0.5776386857032776
+5555,pemkot banjarmasin,rs ciputra banjarmasin,1,0.8887952566146851
+5557,perpustakaan nasional ri,dinas perpustakaan,0,0.9949626922607422
+5583,bri custody,bri custody,1,0.9975696206092834
+5703,pemerintah kota padang,perumahan villa kota intan,0,0.9986920952796936
+5823,bnsp republik indonesia,oy indonesia,1,0.9951038360595704
+6013,indonesia re,ikatan kosultan pajak indonesia ikpi cabang jakarta barat,1,0.9078118205070496
+6619,pemkab temanggung,pt cjwi temanggung,1,0.9959743618965148
+6705,pemerintah pamekasan,pemerintah kabupaten sumenep,1,0.9989474415779114
+7826,kejaksaan negeri kota kediri,kepala seksi intelejen kejaksaan negeri kota kediri,1,0.9949786067008972
+8785,pemerintah jawa tengah,pemerintah provinsi jawa tengah,1,0.9989460110664368
+10033,pemerintah kabupaten bojonegoro,pemerintah kabupaten bojonegoro,1,0.9988719820976256
+10034,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris,0,0.8455537557601929
+11237,pemerintah kabupaten luwu utara,pemerintah kabupaten luwu utara,1,0.999143362045288
+11306,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan pulomerak,0,0.9821866750717164
+11309,pemerintah serang,disnaker kab serang,1,0.9960830211639404
+11339,pt bgr,pt rekamitra cipta tambang,1,0.6506891846656799
+11704,pemerintah kabupaten pidie jaya,lima jaya lestari,0,0.9989076852798462
+11708,"Bukan instansi BUMN, Kementerian, Pemerintah",penerbit gramedia,0,0.8980528116226196
+11709,pemkab jombang,rsud jombang,1,0.8855761885643005
+11753,pt danareksa,pt zurich topas life,0,0.9959422945976256
+12096,jasa tirta ii,pejabat lelang kelas ii,0,0.9461140632629396
+12548,pemkab garut,sekda kabupaten garut pns,1,0.6341693997383118
+12614,pemerintah gorontalo utara,badan penyelesaian sengketa konsumen gorontalo,0,0.9989878535270692
+12623,"Bukan instansi BUMN, Kementerian, Pemerintah",bloomberg,1,0.8736908435821533
+12624,inspektorat jenderal tni,waki konsultan jenderal cina,0,0.9598538279533386
+13061,pemerintah kabupaten kolaka,dinas pemberdayaan masayrakat dan desa kabupaten semarang,0,0.9989282488822936
+13294,pt dkb,pt finnet indonesia,1,0.903228759765625
+13713,kementerian koperasi dan usaha kecil dan menengah,koperasi,0,0.9948766827583312
+14140,adhi karya,pt adhi karya,1,0.9804865717887878
+14159,pemerintah sidoarjo,kodim sidoarjo,1,0.998630166053772
+14161,nasabah bank mandiri pemilik toko parfum,toko central cctv,0,0.9012017250061036
+14178,pt asuransi kredit indonesia persero,bosowa asuransi,0,0.9965921640396118
+14635,pemkab banggai laut,bagian organisasi setda kabupaten banggai laut,1,0.9844722151756288
+14663,kepolisian daerah provinsi di yogyakarta,kepolisian daerah provinsi di yogyakarta,1,0.9986467957496644
+14730,"Bukan instansi BUMN, Kementerian, Pemerintah",bankaltimtara,1,0.8805118203163147
+14803,pt kiw,pt keska lestari,1,0.8592948317527771
+15113,pt krakatau steel,the indonesian iron steel industry association iisia,1,0.8645167350769043
+15116,kementerian desa,mantan pj kepala desa kalidandan,0,0.9969580173492432
+15131,perum perhutani divisi regional jawa barat dan banten,penulis dan konsultan,1,0.8525425791740417
+16378,pemerintah kabupaten siak,pemerintah kabupaten siak,1,0.9989258646965028
+16476,pt pertamina,laboratorium kalibrasi pt indofood,0,0.9900640845298768
+16761,"Bukan instansi BUMN, Kementerian, Pemerintah",puskesmas kedu,0,0.9178777933120728
+16762,pemkot cimahi,kodim 0609 cimahi,1,0.993124544620514
+16765,"Bukan instansi BUMN, Kementerian, Pemerintah",pemdes kejuden,1,0.5136995911598206
+16897,pemprov jawa timur,badan amil zakat nasonal provinsi jawa timur,1,0.8748584389686584
+17211,pt twc,pt langkat laut timur,1,0.9555855989456176
+17400,"Bukan instansi BUMN, Kementerian, Pemerintah",bkad kecamatan susukan,1,0.7644108533859253
+18284,pemerintah kabupaten lamongan,pemerintah kabupaten lamongan,1,0.9985542893409728
+18623,bank bri cab fakfak,bank bri cab fakfak,1,0.998536229133606
+19558,pemkot tebing tinggi,pemerintah kota tebing tinggi,1,0.9988242983818054
+19764,pt bank bri persero cabang ujung batu,pt msinfokom,1,0.9912882447242736
+66,pemerintah kabupaten wonogiri,dinas kesehatan kabupaten gresik,0,0.9993482232093812
+420,pt bgr,pt tri dharma proteksi,1,0.9313795566558838
+776,"Bukan instansi BUMN, Kementerian, Pemerintah",peserta,0,0.9364439845085144
+777,"Bukan instansi BUMN, Kementerian, Pemerintah",pratindo canggih mulia,0,0.8566620945930481
+1162,pt reasuransi indonesia utama,pt persona prima utama ppu,1,0.9963244795799256
+1214,perum bulog kanwil kaltim  kaltara,perum bulog kanwil kaltim kaltara,1,0.9987130165100098
+1343,pt semen baturaja,pt sri rejeki fertilizer,0,0.9958826303482056
+2093,bgr indonesia,adkasi asosiasi dprd kabupaten seluruh indonesia,1,0.5382941961288452
+2252,pemerintah kabupaten lampung barat,sekolah kecamatan kebun tebu lampung barat,0,0.9985581040382384
+2332,"Bukan instansi BUMN, Kementerian, Pemerintah",exxonmobil,0,0.9615668058395386
+2333,"Bukan instansi BUMN, Kementerian, Pemerintah",eksportir ikan wajib pajak,0,0.9690491557121276
+2350,komisi penyiaran indonesia kpi,komisi,1,0.79022216796875
+2351,"Bukan instansi BUMN, Kementerian, Pemerintah",mahasiswa unjani,1,0.7568814158439636
+2352,"Bukan instansi BUMN, Kementerian, Pemerintah",universitas airlangga,0,0.9770568013191224
+2353,"Bukan instansi BUMN, Kementerian, Pemerintah",mentari intercultural school bintaro,0,0.6093072295188904
+2354,"Bukan instansi BUMN, Kementerian, Pemerintah",aji suryana jj sh,1,0.6863428950309753
+2355,"Bukan instansi BUMN, Kementerian, Pemerintah",cv layar era,0,0.5826332569122314
+2552,pt pengembangan pariwisata indonesia persero,mantan direktur lembaga pengembangan perbankan indonesia lppi,0,0.9871488213539124
+2740,pt dkb,pt huawei tech investment public relation manager,1,0.9139317870140076
+2965,"Bukan instansi BUMN, Kementerian, Pemerintah",rahasia,1,0.6547797322273254
+2993,pt bank mandiri,bank woori saudara,0,0.9967945218086244
+3141,pt yodya karya,pt caterindo citra rasa,0,0.9959558844566344
+3409,dewan perwakilan rakyat daerah,dewan perwakilan rakyat daerah,1,0.9923271536827089
+3484,bgr indonesia,fujitsu indonesia,1,0.9679535627365112
+3634,"Bukan instansi BUMN, Kementerian, Pemerintah",ketua forum kades kec suka merindu,0,0.9644413590431212
+3643,pemerintah kota bandar lampung,unit penyelenggara bandar udara ilaga,0,0.9964744448661804
+4040,pt pegadaian area samarinda,pt pegadaian area samarinda,1,0.9988683462142944
+4205,pt dkb,pt transportasi gas indonesia transgasindo,1,0.8916487097740173
+4964,pt pertamina persero,pt pgn,1,0.9982106685638428
+5147,kejaksaan negeri kota kediri,kepala seksi intelijen kejaksaan negeri kota kediri,1,0.9959463477134703
+5211,pemerintah kabupaten maluku tenggara barat,kades lubuk seketi kec kikim barat,0,0.9978339076042176
+5239,pemerintah kabupaten asahan,dinas kesehatan asahan,0,0.9979977011680604
+5240,"Bukan instansi BUMN, Kementerian, Pemerintah",warung makan ayam geprek keprabon,0,0.6108530759811401
+5242,kementerian desa pdtt,desa pasir reungit,0,0.9961131811141968
+5305,pemerintah kabupaten gorontalo utara,notaris ppat kabupaten hulu sungai tengai,0,0.999232292175293
+6924,pemkab bolaang mongondow,pemerintah kabupaten bolaang mongondow,1,0.9990378618240356
+6971,kementerian komunikasi,deputi bidang investasi kementerian pariwisata dan ekonomi kreatif,0,0.9962599277496338
+7251,pemkab tulang bawang barat,kepala badan pengelolaan pendapatan daerah provinsi nusa tenggara barat,0,0.9991451501846312
+7462,pt dkb,pt samuel sekuritas indonesia,1,0.9899752736091614
+7890,pemprov kepulauan bangka belitung,cv anugerah semesta bangka otakotak ase,1,0.9272000789642334
+7897,pt askrindo,askrindo insurance,1,0.9978117346763612
+7900,kemenkopukm,kemenkopukm,1,0.9980890154838562
+7902,perusahaan pengelola aset,pengelola apartemen aspen,0,0.9713206887245178
+8064,pt dkb,pt erze bumi harmoni,1,0.9260977506637572
+8767,pt dana tabungan dan asuransi pegawai negeri   taspen persero,pt dana tabungan dan asuransi pegawai negeri taspen persero,1,0.9987143278121948
+9163,pt twc,pt annisa rizqi pratama,1,0.5537911057472229
+9319,kemenhub ri,anggota komisi v dpr ri,1,0.9927843809127808
+9340,"Bukan instansi BUMN, Kementerian, Pemerintah",kedubes prc,1,0.9629411697387696
+9395,bank bri,bank bri,1,0.9993171691894532
+9661,pt perikanan nusantara,pt mustika eka unggul,0,0.9954553842544556
+9802,"Bukan instansi BUMN, Kementerian, Pemerintah",djbc,1,0.9877244234085084
+10188,asdp indonesia ferry,pt asdp indonesia ferry persero,1,0.9989187717437744
+10894,pt indonesia asahan alumunium inalum,pt inalum,1,0.9985769987106324
+11787,pemkot batam,pemerintah kota batam,1,0.9987804293632508
+11800,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi skk migas,pelaku usaha umkm pangan,0,0.9922542572021484
+11801,"Bukan instansi BUMN, Kementerian, Pemerintah",h sudarmadi sh mkn,1,0.8770965337753296
+11805,kemenkeu,pegawai pppk kemenkeu,1,0.994644284248352
+11806,"Bukan instansi BUMN, Kementerian, Pemerintah",cv owen mart,1,0.7531619668006897
+11986,pemerintah kabupaten belitung timur,badan pendapatan daerah provinsi kalimantan timur,0,0.9990383386611938
+12145,pemerintah kota tangerang,pemerintahan kota tangerang,1,0.9985471367836
+12630,pemkab bandung barat,bapenda kabupaten bandung barat,1,0.9956324696540833
+12682,kementerian koperasi dan ukm,kementerian koperasi dan ukm ri,1,0.99843829870224
+14025,pemerintah subang,pemerintah kabupaten subang,1,0.998330295085907
+14083,pemerintah kabupaten kotawaringin barat,kpp pratama medan barat,0,0.9980261921882628
+14263,pt dkb,pt fresh galang mandiri consultant,1,0.7304705381393433
+14520,pemerintah kota padang,balai latihan kerja padang,0,0.997480809688568
+14524,"Bukan instansi BUMN, Kementerian, Pemerintah",rektor universitas madura,0,0.7613757252693176
+14547,pemkab halmahera barat,dispar halmahera barat,1,0.9987309575080872
+14995,pt bio farma persero,pt bio farma persero,1,0.9981318116188048
+15137,kemendagri,dharma wanita persatuan kemendagri,1,0.8448150753974915
+15279,pt smf,pt buran nusa respati group,1,0.8434940576553345
+15999,bank bni kantor cabang karawang,pt bank bni kantor cabang karawang,1,0.9989162683486938
+16031,"Bukan instansi BUMN, Kementerian, Pemerintah",cv berkah eina,1,0.8183950185775757
+17229,pemkab demak,pemerintah kabupaten demak,1,0.998636782169342
+17237,kementerian luar negeri,smp satu atap negeri talun,0,0.9959062337875366
+17238,"Bukan instansi BUMN, Kementerian, Pemerintah",rsud prof dr margono soekarjo,0,0.8770206570625305
+17240,kemen bumn,bumn,1,0.9375401735305786
+17241,"Bukan instansi BUMN, Kementerian, Pemerintah",owner ninoas edutainment,1,0.8910382390022278
+17268,pt bgr,pt setia thenoch,1,0.8249379396438599
+18006,pemkab wonogiri,pt deltomed wonogiri,1,0.9965521097183228
+18009,"Bukan instansi BUMN, Kementerian, Pemerintah",formula e,1,0.7619503736495972
+18010,kemenkeu,djkn kemenkeu,1,0.993286430835724
+18890,pemerintah kota cirebon,pemerintah kota cirebon,1,0.998877227306366
+19024,pemerintah provinsi papua barat,dinas komunikasi dan informatika provinsi papua,0,0.9987952709197998
+19025,kementerian koperasi dan ukm,taraskop koperasi pegawai,0,0.992046356201172
+19030,"Bukan instansi BUMN, Kementerian, Pemerintah",rsui madinah kesembon,0,0.5237442255020142
+19041,kementerian badan usaha milik negara,cv inti citra usaha,0,0.9911296367645264
+19145,pemerintah sintang,pemerintah kabupaten sintang,1,0.998785674571991
+1443,pemerintah gresik,pemerintah kabupaten gresik,1,0.9985528588294984
+1906,pemerintah kabupaten way kanan,pemerintah daerah tingkat ii,0,0.9991564750671388
+2225,pemkot sukabumi,smkn 4 sukabumi,1,0.9822989106178284
+2368,pt smf,pt keong nusantara abadi,1,0.9784578680992126
+2629,"Bukan instansi BUMN, Kementerian, Pemerintah",pelita travel,0,0.9705439209938048
+2702,pt kiw,pt nusantara jaya raya mujur,1,0.9183996319770812
+3726,pemerintah kabupaten kepulauan siau tagulandang biaro,pemerintah desa wonorejo kec jatiyoso,0,0.9989125728607178
+3812,"Bukan instansi BUMN, Kementerian, Pemerintah",kpn baji artha,1,0.6062828898429871
+3813,"Bukan instansi BUMN, Kementerian, Pemerintah",apindo,0,0.830750048160553
+3892,pt bank rakyat indonesia persero tbk bri,bank bukopin bri dan bsi,1,0.995804488658905
+4002,pemerintah kabupaten sorong selatan,kecamatan lahat selatan,0,0.9992904663085938
+4158,bank nasional indonesia bni 46,bank nasional indonesia bni 46 cabang pangkalan bun,1,0.9939247965812684
+4371,kementerian dalam negeri,smk negeri jatipuro,0,0.9841514825820924
+4373,"Bukan instansi BUMN, Kementerian, Pemerintah",pramesty catering,0,0.7330003380775452
+4392,pemerintah kota jakarta barat,kpp pratama jakarta kebayoran baru dua,0,0.9865543842315674
+4398,"Bukan instansi BUMN, Kementerian, Pemerintah",distributor granit niro,0,0.8104845285415649
+4695,pemerintah kota bekasi,pemerintah kota bekasi,1,0.9988275170326232
+5666,pemkot tarakan,pt askrindo kc tarakan,1,0.9942996501922609
+5692,kemenhub ri,komisi vi dpr ri,1,0.989083468914032
+5730,pemkab timteng selatan,kanwil kemenag provsumatera selatan,1,0.965551495552063
+5777,"Bukan instansi BUMN, Kementerian, Pemerintah",jpe,1,0.9582893252372742
+5906,pt wijaya karya,pt wijaya mandiri tintex,0,0.9957284331321716
+6211,pt bgr,pt panca perkasa indoprima,1,0.8121033906936646
+6709,pemerintah kabupaten kepulauan seribu,dewan kerajinan nasional daerah kabupaten kapuas hulu,0,0.9994074106216432
+7143,pt bgr,pt dunia media dinamika informasi,1,0.8171234130859375
+7658,pt dkb,pt distriversa buana mas semarang,1,0.94856196641922
+7890,"Bukan instansi BUMN, Kementerian, Pemerintah",lucy indriani sh mkn,1,0.9242783784866332
+8284,pemerintah provinsi kalimantan barat,pemerintah provinsi kalimantan barat,1,0.9989883303642272
+8934,pt smf,pt cinere serpong jaya,1,0.6481876969337463
+9213,pt bgr,pt daikin,1,0.7202735543251038
+9964,pt angkasa pura i,pt angkasa pura i,1,0.9989532232284546
+10233,pt twc,pt aneka nusantara internasional,1,0.9052727818489076
+10410,pt bgr,pt bank dki jakarta,1,0.9887292385101318
+10864,pt bgr,pt eria makmur,1,0.8145409822463989
+11220,"Bukan instansi BUMN, Kementerian, Pemerintah",alibabacloud,0,0.863101065158844
+11998,pemerintah kota serang,pemerintah kota serang,1,0.9983633160591124
+12099,"Bukan instansi BUMN, Kementerian, Pemerintah",pelaku umkm,0,0.9067264795303344
+12100,"Bukan instansi BUMN, Kementerian, Pemerintah",partai demokrat,0,0.9585360288619996
+12103,kemenko pembangunan manusia,kemenko marves,1,0.990133821964264
+12502,pt perusahaan listrik negara persero pln,pt pln,1,0.997718095779419
+12503,kementerian desa,desa jatisuko,0,0.9966773986816406
+12584,pt pann pembiayaan maritim,pt wanasalam samudra maju makmur,0,0.9941925406455994
+12888,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan sukodono,0,0.9958285689353944
+12889,nasabah bank mandiri pemilik toko parfum,pemilik dqta aja resto,1,0.5689148902893066
+13333,pemkab sumenep,inspektorat kabupaten sumenep,1,0.9965705871582032
+14496,pemerintah kabupaten empat lawang,pemerintah kabupaten empat lawang,1,0.9986441731452942
+14694,pt dkb,pt bank centra asia tbk corporate banking group,1,0.9550166130065918
+14988,"Bukan instansi BUMN, Kementerian, Pemerintah",bangladesh,0,0.7541788816452026
+15284,pemerintah kota banjar,pemerintah kota banjar,1,0.9988906979560852
+16309,pemkab bengkalis,setda kabupaten bengkalis,1,0.9881161451339722
+16329,pemkab sumba tengah,wakil bupati sumba tengah,1,0.9313861131668092
+16360,"Bukan instansi BUMN, Kementerian, Pemerintah",rspal dr ramelan,0,0.6162089109420776
+16745,pt jasa marga,pt jasa marga,1,0.9983356595039368
+16797,pt bgr,pt oxy gemilang jaya,1,0.7793458104133606
+17548,pemerintah provinsi nusa tenggara barat,pt prasasti nusa lestari,0,0.9983371496200562
+17553,pemprov kalsel,dpd apersi kalsel,1,0.9899458289146424
+17605,bank bni cabang maros,bank bni cabang maros,1,0.9986761212348938
+17658,pemkot bekasi,kppbc tipe madya pabean a bekasi,1,0.707700788974762
+18043,jamkrindo,pt jamkrindo kanwil viii banjarmasin kc tarakan,1,0.9833609461784364
+18086,pt bgr,pt timah tbk,1,0.688189685344696
+18563,cfo pt pertamina,pt surya bersama propertindo,0,0.9944566488265992
+18942,pt pertamina,pt bangun askrida syariah,0,0.9916797280311584
+19393,kementerian pemberdayaan perempuan dan perlindungan anak,deputi bidang industri dan investasi kementerian pariwisata dan ekonomi kreatif,0,0.9961866736412048
+19795,pt pertamina lubricants,pt pertamina lubricants,1,0.9983939528465272
+19876,pt kiw,pt dagu komunika,1,0.803488552570343
+186,"Bukan instansi BUMN, Kementerian, Pemerintah",suhartini,1,0.5094162225723267
+576,pt telkom pcc,pt telkom pcc,1,0.9986110925674438
+600,pt berdikari,pt binayasa putra batara,0,0.9973852038383484
+961,dok dan perkapalan kodja bahari,bprs harta insan karimah bahari,0,0.9713672399520874
+1010,perum kehutanan negara perhutani,perum kehutanan negara perhutani,1,0.998467743396759
+1121,pemprov kalimantan tengah,lembaga layanan pendidikan tinggi wilayah vi jawa tengah,1,0.9632949233055116
+1372,pt adhi,pt cahaya samtraco utama,0,0.9947260022163392
+1536,"Bukan instansi BUMN, Kementerian, Pemerintah",pengusaha wajib pajak,0,0.9082741737365724
+2415,pemkot kota gorontalo,pemerintah kota gorontalo,1,0.9993683695793152
+2450,kementerian informatika,inspektorat jenderal kementerian pertanian,0,0.9982299208641052
+2488,pemkot semarang,mahasiswa universitas diponegoro semarang,1,0.954599380493164
+2631,pt smf,pt hema medhajaya,1,0.9225556254386902
+3213,pt pupuk indonesia holding company,pt kertas padalarang,0,0.9961799383163452
+3382,pt virama karya,pt asuransi tri pakarta,0,0.9959633350372314
+4120,pemerintah kabupaten tanjung jabung timur,badan usaha jalan tol pt cibitung tanjung priok port tollways,0,0.992198407649994
+4513,pemerintah kabupaten intan jaya,pt bunaken jaya,0,0.9989680051803588
+4516,pemkab jember,istri wakil bupati jember,1,0.8797584176063538
+4519,"Bukan instansi BUMN, Kementerian, Pemerintah",jatrista digital printing,1,0.6480503678321838
+5388,pemerintah kabupaten sragen,pemerintah kabupaten sragen,1,0.9991661310195924
+5977,pt telkom pcc,pt telkom,1,0.9829692840576172
+6174,pelabuhan indonesia,standard chartered indonesia,0,0.996785044670105
+6686,pt taspen,direktur operasional pt taspen,1,0.9972420930862428
+6700,pemprov lampung,stah lampung,1,0.9707626700401306
+6709,peruri,peruri,1,0.9966159462928772
+6712,"Bukan instansi BUMN, Kementerian, Pemerintah",ikanas stan charity golf,1,0.5592457056045532
+6735,pemerintah kota jakarta utara,mandarin oriental jakarta,0,0.9975571632385254
+6737,pt pegadaian sentra layanan ultra mikro loa,layanan rental mobil,0,0.8875015377998352
+7614,pemerintah provinsi kalimantan utara,pemerintah provinsi kalimantan utara,1,0.9992585778236388
+7708,pt kiw,pt graha karya raya bersama,1,0.5463683605194092
+8091,pemerintah provinsi bali,pihak pasar nanggelan bali yang dinilai,0,0.9496530294418336
+8145,pt indah karya,pt milenium kreasi,0,0.9957257509231568
+8652,pemerintah kabupaten kapuas,kepala desa karangkamulyan kecamatan cijeungjing kabupaten ciamis,0,0.9992347955703736
+8931,pemerintah kabupaten maluku tenggara barat,gubernur maluku,0,0.9989688396453856
+8936,kementerian pekerjaan umum dan perumahan rakyat pupr,dinas pupr,1,0.9971898198127748
+8937,indonesia financial group ifg,smec group,1,0.984643816947937
+8944,pemkot bima,bsi kc bima soetta 1,1,0.9390006065368652
+8951,kemendikbudristek,pegawai kemendikbudristek,1,0.9947252869606018
+9026,pln uip nusra,pln uiw ntb dan pln uip nusra,1,0.9986949563026428
+9028,"Bukan instansi BUMN, Kementerian, Pemerintah",data terlampir,0,0.6386271715164185
+9418,pemerintah kabupaten pidie jaya,pt saddam jaya perkasa,0,0.9978175163269044
+9464,bni kantor wilayah 12,bni kantor wilayah 12,1,0.9979165196418762
+9468,jasa tirta 2,unit uppd samsat 2 kayutangi,0,0.9669890999794006
+9472,pt kim,kim pamekasan hebat,1,0.9947861433029176
+9477,"Bukan instansi BUMN, Kementerian, Pemerintah",konsultan pajak,0,0.9750419855117798
+9483,pemerintah kabupaten tanah laut,cv hasil laut nusantara,0,0.9982774257659912
+9505,pemkab magetan,kab magetan,1,0.9978129863739014
+9580,pt kiw,pt dongjin,1,0.9477540254592896
+9975,pt pelabuhan indonesia,pt pelindo,1,0.9441774487495422
+11473,pemkab sleman,pemerintah kabupaten sleman,1,0.9989699125289916
+11480,pemkot pekanbaru,kepala bbpom di pekanbaru,1,0.9911420345306396
+11569,bank mandiri cabang samarinda,bank mandiri cabang maros,1,0.996222734451294
+11592,pt bank bri persero cabang ujung batu,bank bca,1,0.902686893939972
+11637,pt bio farma,bio farma,1,0.9971707463264464
+11736,pt permodalan nasional madani,pt mayasari bakti,0,0.99378764629364
+12023,indonesia eximbank,malaysia eximbank,1,0.9967470169067384
+12024,pemkot pekanbaru,kepala bbpom pekanbaru,1,0.9960922598838806
+12027,kementerian desa pdtt,desa patobong,0,0.996800661087036
+12055,pt bgr,pt kelola agro makmur,1,0.7742944955825806
+12411,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak diketahui,0,0.6641565561294556
+12552,pt smf,pt mnc pictures,1,0.9935010075569152
+12794,"Bukan instansi BUMN, Kementerian, Pemerintah",rspp,1,0.9862263798713684
+13178,pemerintah kabupaten gunung mas,pt naga mas mulia,0,0.9976270794868468
+13251,pt kiw,pt cj feed and care indonesia,1,0.99293714761734
+13812,perum lembaga penyelenggara pelayanan navigasi penerbangan indonesia airnav,perum lembaga penyelenggara pelayanan navigasi penerbangan indonesia airnav,1,0.9988144636154176
+14064,pt bgr,pt global selaras medika,1,0.9244637489318848
+14767,pemerintah kabupaten jeneponto,dinas kesehatan kabupaten kampar,0,0.9993529915809632
+14872,kementerian koperasi dan ukm,ukm,0,0.9943013191223145
+14873,"Bukan instansi BUMN, Kementerian, Pemerintah",kades pelajaran ketua forum kec jarai,0,0.9184479117393494
+14893,bri kacap banjarnegara,bri kacap banjarnegara,1,0.99848735332489
+15030,pemerintah kabupaten barito selatan,dinas kesehatan provinsi kalimantan selatan,0,0.99934321641922
+15054,pemerintah provinsi di yogyakarta,pns staf di kelurahan pemaluan,0,0.9840111136436462
+15083,pemerintah kabupaten mesuji,unit penyelenggara pelabuhan kelas iii mesuji,0,0.9978777170181274
+15086,pemerintah kabupaten bangli,rs bangli midika canti,0,0.9927374720573424
+15087,"Bukan instansi BUMN, Kementerian, Pemerintah",rsup dr sardjito,0,0.6550310254096985
+15480,pt bank rakyat indonesia,pt bank dbs indonesia,1,0.9979671835899352
+15709,inspektorat jenderal tni,direktorat jenderal tanaman pangan,0,0.9913273453712464
+15710,"Bukan instansi BUMN, Kementerian, Pemerintah",sarasa,1,0.8520548939704895
+15811,bnsp republik indonesia,esri indonesia,1,0.997529923915863
+16183,pt bank mandiri persero tbk,pt akar bumi,0,0.9980807304382324
+16293,badan meteorologi klimatologi dan geofisika,badan meteorologi klimatologi dan geofisika,1,0.9977497458457948
+16590,bank rakyat indonesia cabang sintang,bank rakyat indonesia samarinda 1,1,0.9243713617324828
+16722,bgr indonesia,data science indonesia,1,0.7864776849746704
+16872,"Bukan instansi BUMN, Kementerian, Pemerintah",developer,0,0.8484690189361572
+17281,pemerintah kabupaten musi banyuasin,sma pulokulon kabupaten grobogan,0,0.9992209672927856
+17458,pt smf,pt asuransi tri pakarta cabang banjarmasin,1,0.9955731630325316
+17904,pt biro klasifikasi indonesia persero cabang cirebon,pt monex investindo futures,1,0.9813008308410645
+18133,"Bukan instansi BUMN, Kementerian, Pemerintah",djp,1,0.9946086406707764
+18134,pemkab sleman,umkm sleman,1,0.7274094223976135
+18165,lembaga penjamin simpanan,lembaga penjamin simpanan,1,0.9936484694480896
+18336,pemerintah cirebon,pemerintah kabupaten cirebon,1,0.9994884729385376
+19533,pemerintah kabupaten manggarai barat,sekretariat perwakilan kementerian keuangan sulawesi barat,0,0.9987040758132936
+19546,pemkot palangkaraya,fovere hotel palangkaraya,1,0.9972967505455016
+19574,pt bgr,pt naku freight indonesia,1,0.9797980785369872
+123,nasabah bank mandiri pemilik toko parfum,toko alat tulis hikmah,0,0.9691835045814514
+971,pemerintah kota bau bau,pemerintah kota,1,0.9977758526802064
+997,"Bukan instansi BUMN, Kementerian, Pemerintah",perseorangan,0,0.9552063941955566
+998,"Bukan instansi BUMN, Kementerian, Pemerintah",tamu pernikahan,0,0.695328414440155
+1043,perum perumnas,perum perumnas proyek lampung,1,0.9848867058753968
+1085,lembaga kantor berita nasional antara biro jawa barat,mandiri club prudential life assurance visionet internasional pefindo biro kredit,0,0.9712059497833252
+1093,kementerian desa,kepala desa dondo soboli,0,0.997680127620697
+1582,pemkab bandung barat,bapenda wilayah kabupaten bandung barat,1,0.9291010499000548
+1653,pt bgr,pt mnc guna usaha indonesia,1,0.8812188506126404
+2212,"Bukan instansi BUMN, Kementerian, Pemerintah",triklin rekatama,0,0.5970428586006165
+2217,cfo pt pertamina,universita pertamina,1,0.9906811118125916
+2507,pt berdikari persero,pt maulidya mandiri propertindo,0,0.992171049118042
+2680,badan pengusahaan kawasan perdagangan bebas dan pelabuhan bebas batam,dosen pasca sarjana fakultas hukum ui menteri agraria dan tata ruang indonesia ke13,0,0.984601616859436
+2984,bnsp republik indonesia,refinitiv services indonesia,1,0.802386999130249
+3077,pemkot malang,yayasan islam thursina malang,1,0.8361201882362366
+3083,bpjs ketenagakerjaan,bpjs ketenagakerjaan cabang sidoarjo,1,0.9950075149536132
+3122,"Bukan instansi BUMN, Kementerian, Pemerintah",revinitif,1,0.8147504329681396
+3141,kementerian badan pertanahan nasional,kementerian kelautan dan perikanan,0,0.9981482028961182
+3255,asuransi jasindo,jasindo,1,0.9750280380249025
+3428,pemerintah kabupaten tapin,uptd pasar lematang kabupaten lahat,0,0.9990065693855286
+3702,pt superintending company of indonesia,embassy of bangladesh,1,0.8908309936523438
+3704,"Bukan instansi BUMN, Kementerian, Pemerintah",ruddyantho tantry sh,1,0.844539225101471
+3907,pt bri cabang bojonegoro dan pt bri cabang nganjuk,pbf pt united dico citas,1,0.9890592098236084
+4470,pt reasuransi internasional indonesia,pt mars internasional indonesia mii,1,0.9921990036964417
+4664,"Bukan instansi BUMN, Kementerian, Pemerintah",dokter,0,0.8758950233459473
+4675,pemkot sorong,kanwil djbc papua kanwil sulbagsel djbc sorong,1,0.5944843888282776
+4680,pemkot singkawang,hallo mart singkawang,1,0.9815054535865784
+4698,pt kimia farma persero tbk,apotik kimia farma ub jember,1,0.6524479389190674
+4702,"Bukan instansi BUMN, Kementerian, Pemerintah",gerindra,1,0.6427211761474609
+4703,"Bukan instansi BUMN, Kementerian, Pemerintah",universitas prasetiya mulya,0,0.9900758862495422
+5130,pemerintah kabupaten langkat,bumdes delta mulia kabupaten pamekasan,0,0.9989526271820068
+5149,"Bukan instansi BUMN, Kementerian, Pemerintah",dr solecha skin care,1,0.5824980139732361
+5150,"Bukan instansi BUMN, Kementerian, Pemerintah",pawon catering,0,0.5457010865211487
+5159,kemenperin ri,pelaksana bppk kemenkeu ri pns,1,0.9603917598724364
+5187,pemprov dki jakarta,jakarta international container terminal jict,1,0.9202492833137512
+5207,pemerintah provinsi bali,universitas ngurah rai bali,0,0.99619460105896
+5305,pemprov banten,balai teknik perkeretaapian wilayah jakarta dan banten,1,0.8826421499252319
+5693,pemerintah kabupaten semarang,pt jasamarga semarang batang,0,0.9981526732444764
+5719,bank bri cabang dago,bank bpd jateng,1,0.9951391220092772
+5771,pt bgr,pt defas lineko bersama,1,0.9210283160209656
+6199,pt kiw,pt nusantara infrastruktur,1,0.7695339322090149
+7103,pemerintah kabupaten sarmi,pemerintah desa kejuden,0,0.9994373917579652
+7293,perseta asabri pensiunan polri,pensiunan,0,0.9056882858276368
+8063,pemerintah mojokerto,pemerintah daerah mojokerto,1,0.9990097284317015
+9264,pemkab paser,pemerintah kabupaten paser,1,0.99868506193161
+9291,kementerian energi dan sumber daya mineral,operator desa kalidandan dan desa blimbing,0,0.9982567429542542
+9339,pemprov jawa timur,wakil gubernur jawa timur,1,0.9579156041145324
+10199,pemerintah kota tasikmalaya,pemerintah kota tasikmalaya,1,0.9988490343093872
+10395,pt sarana multi infrastruktur,pt karya mitra budi sentosa,0,0.9977914094924928
+11591,pemkot banjarbaru,pemerintah kota banjarbaru,1,0.9987115859985352
+11619,pt bgr,pt bungasari flour mills indonesia,1,0.7993794679641724
+12168,isn industri sandang nusantara  vendor garment,rekanan vendor,0,0.939514458179474
+12199,pt industri sandang nusantara persero,industri makanan,0,0.9960032105445862
+12209,pt hotel indonesia natour,the trans luxury hotel,0,0.9813453555107116
+12213,kementerian sumber daya mineral,cv sumber nelayan,0,0.9933273792266846
+12659,pemkab gianyar,kabupaten gianyar,1,0.9861335158348083
+12696,bri kc dmpu,bri kc dmpu,1,0.997933030128479
+12702,pengusahaan daerah industri pulau batam,bp batam,1,0.99882310628891
+12713,"Bukan instansi BUMN, Kementerian, Pemerintah",pribadi,0,0.8757196664810181
+12714,"Bukan instansi BUMN, Kementerian, Pemerintah",opticmarine,0,0.9356094598770142
+12715,"Bukan instansi BUMN, Kementerian, Pemerintah",kel cipinang ranti,0,0.9416273832321168
+12716,"Bukan instansi BUMN, Kementerian, Pemerintah",opd,0,0.9355610609054564
+12729,pt jiwasraya,pt timah industri,0,0.9955198764801024
+13159,pemkot bengkulu,balai pom di bengkulu,1,0.955997884273529
+13167,"Bukan instansi BUMN, Kementerian, Pemerintah",sttif,1,0.953196108341217
+13240,pt kiw,pt dua kelinci,1,0.9323250651359558
+13550,"Bukan instansi BUMN, Kementerian, Pemerintah",wirausaha,0,0.9028465151786804
+13705,pemerintah purworejo,pemerintah kabupaten purworejo,1,0.9990103244781494
+14908,pt dkb,pt conch south kalimantan cement,1,0.9775599241256714
+15275,pemerintah kabupaten manokwari selatan,bagian perekonomian dan sda kab bengkulu selatan,0,0.9990044236183168
+15289,"Bukan instansi BUMN, Kementerian, Pemerintah",rumah makan,0,0.9150023460388184
+15418,kejaksaan negeri kota kediri,kejaksaan negeri kota kediri,1,0.9984323382377625
+15445,bank bri cabang dago,bank bjb serang,1,0.990919589996338
+15506,pt pengembangan pariwisata indonesia persero,lembaga pengembangan perbankan indonesia lppi,0,0.9886804819107056
+15701,bnn kota bengkulu,bnn kota bengkulu,1,0.998904824256897
+16663,pemprov lampung,pemerintah provinsi lampung,1,0.9676858186721802
+16672,"Bukan instansi BUMN, Kementerian, Pemerintah",tanpa konfirmasi,1,0.6015933752059937
+16678,pemkot yogyakarta,dekan fakultas ulmu kesehatan universitas aisyiyah yogyakarta,1,0.7114008069038391
+16840,pt dkb,pt blue bird tbk,1,0.9878014922142028
+17086,kementerian desa,desa tohudan,0,0.9978278279304504
+17724,pemerintah kabupaten banggai,pemerintah kabupaten banggai,1,0.9987837672233582
+18674,pt yodya karya,pt yodya karya,1,0.9989521503448486
+18810,pt kiw,pt athaya abbas mandiri,1,0.5095931887626648
+19144,bri masamba,bri masamba,1,0.9981807470321656
+19188,perum lembaga kantor berita nasional antara lkbn antara,kantor notaris ibnu andalusi,0,0.983107566833496
+19189,"Bukan instansi BUMN, Kementerian, Pemerintah",identitas pemberi tidak diketahui,0,0.7682340741157532
+19608,pt yodya karya kupang,pt prima karya propertindo,0,0.9968366622924804
+19629,"Bukan instansi BUMN, Kementerian, Pemerintah",kca,1,0.9560521245002748
+19673,kementerian koordinator bidang perekonomian,kementerian koordinator perekonomian,1,0.998120367527008
+19845,pt smf,pt medisain dadi sempurna,1,0.9908168315887452
+91,kementerian keuangan,politeknik keuangan stan,0,0.9905248284339904
+169,pt kiw,komisaris pt phapros,1,0.9698688387870787
+483,pemerintah provinsi bali,marketing manager padma legian bali,0,0.9895496368408204
+496,perum perhutani divisi regional jawa barat dan banten,sp scbi dan awan elektrik,1,0.9900859594345092
+545,anggota dpr,dpr ri,1,0.9957081079483032
+572,"Bukan instansi BUMN, Kementerian, Pemerintah",askrida syariah,1,0.7414153218269348
+575,badan pengatur hilir minyak dan gas bumi bph migas,cv bumi indo,0,0.9860911965370178
+703,pt waskita karya,pt waskita karya,1,0.997923731803894
+1025,"Bukan instansi BUMN, Kementerian, Pemerintah",manajer eopegawai swasta,0,0.9064476490020752
+1026,kementerian hukum,hukum universitas nusa cendana,0,0.9941936135292052
+1035,arsip nasional republik indonesia anri,anri,1,0.9975082874298096
+1426,pt wijaya karya serang panimbang,pt wijaya triutama plywood indsutri banjarmasin,0,0.9884331822395324
+1434,badan pengatur hilir minyak dan gas bumi,hotel bumi senyiur,0,0.9887890219688416
+1465,pt bank mandiri,bank danamon,0,0.9972065091133118
+1876,pt pertamina patra niaga,pt pertamina patra niaga,1,0.997730314731598
+1882,kacab bri samarinda 1,smpn 1 mandiraja,0,0.803638219833374
+1911,lembaga kebijakan pengadaan barang jasa pemerintah,lembaga kebijakan pengadaan barang jasa pemerintah,1,0.9981354475021362
+2699,komisi pemilihan umum kabupaten fakfak,rumah sakit umum dinda,0,0.9965644478797911
+2711,badan pom,badan diklat kejaksaan,0,0.9962217807769777
+2775,kementerian keuangan,direktorat jenderal perimbangan keuangan,0,0.9941791296005248
+2899,bgr indonesia,kantor perwakilan bank indonesia malang,1,0.834981381893158
+3121,bisma indra,tamu undangan pernikahan zara salsabila zainal dan iptu indra darmawan stk sik,1,0.9120550155639648
+3147,pemkot surabaya,asuransi alamin surabaya,1,0.5057917237281799
+3155,"Bukan instansi BUMN, Kementerian, Pemerintah",pertamins,0,0.8825079798698425
+3174,bank bri cabang blitar,mufg bank,1,0.9798073768615724
+4075,pemkab madiun,pemerintah kota madiun,1,0.9990978240966796
+4080,kementerian desa,desa mojogedang,0,0.9966046810150146
+4085,pemkot probolinggo,kapolres probolinggo kota,1,0.8645110130310059
+4208,"Bukan instansi BUMN, Kementerian, Pemerintah",rumah sakit rsg,0,0.6811041235923767
+4209,"Bukan instansi BUMN, Kementerian, Pemerintah",many,0,0.5264447331428528
+4210,"Bukan instansi BUMN, Kementerian, Pemerintah",bapenda,1,0.8152572512626648
+4439,pt bank mandiri cabang cikampek,pt bank mandiri cabang cikampek,1,0.9988968372344972
+4765,pt pembiayaan maritim,pt triguna medika pratama,0,0.9966731071472168
+5070,pemkab sidoarjo,ide kita cemerlang sidoarjo,1,0.9972589015960692
+5073,pemkab sumedang,bjb sumedang,1,0.9969275593757628
+5076,"Bukan instansi BUMN, Kementerian, Pemerintah",mastercard,0,0.554228663444519
+5078,pemerintah kabupaten kaimana,puskesmas kaimana,0,0.9986335635185242
+5082,pemkab subang,dprd kab subang,1,0.9817279577255248
+5098,pt jiwasraya,pt gitajaya makmur manajemen tempat wisata lembah tumpang,0,0.9954178333282472
+5486,pemerintah kabupaten nagan raya,bpr dana raya jatim penyedia jasa keuangan,0,0.9961976408958436
+5618,pt permodalan nasional madani,pt graha multisarana,0,0.9955562949180604
+5972,bank mandiri taspen,bank mandiri taspen,1,0.9990108013153076
+6054,kementerian koordinator bidang perekonomian,kementerian koordinator bidang perekonomian,1,0.9986695051193236
+6055,"Bukan instansi BUMN, Kementerian, Pemerintah",perorangan kelompok,0,0.8396736979484558
+6056,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi,pelaksana kontraktor cv canayya construction,0,0.9435482025146484
+6065,pemkot surabaya,bbpom di surabaya,1,0.9973581433296204
+6180,pt pln,pt pln persero,1,0.9987947940826416
+6599,pt pelabuhan indonesia persero,pelabuhan,1,0.8007237911224365
+7468,pemerintah kabupaten pekalongan,pemerintah kabupaten pekalongan,1,0.9988932013511658
+7831,kementerian hukum dan ham,kementerian pemuda dan olahraga,0,0.998276948928833
+7934,"Bukan instansi BUMN, Kementerian, Pemerintah",asia paza,1,0.7532495856285095
+7935,pt asabri persero,peserta asabri,1,0.9971714615821838
+8059,pemkot pasuruan,smk pgri 1 kota pasuruan,1,0.9821175932884216
+8062,"Bukan instansi BUMN, Kementerian, Pemerintah",algoritma data science,0,0.8964822888374329
+8072,bank bni kantor cabang karawang,bank bukopin,1,0.7200177311897278
+8176,badan pembinaan ideologi pancasila,badan pembinaan ideologi pancasila,1,0.9986612796783448
+8180,pt inti,inti data telematika,0,0.9536283612251282
+8184,pemerintah kabupaten raja ampat,raja united emirates arab,0,0.997620403766632
+8185,pemkot surakarta,rsjd surakarta,1,0.9884161949157716
+8438,bri cabang luwuk,bank syariah indonesia cabang luwuk,1,0.9888573884963988
+8472,perum perhutani divisi regional jawa barat dan banten,direktorat jenderal pengelolaan sampah limbah dan bahan berbahaya dan beracun klhk,1,0.75180983543396
+8729,pt krakatau steel,pt pelayaran bunga nusa perdana samarinda,0,0.9936675429344176
+8917,nasabah bank mandiri pemilik toko parfum,owner toko cahaya baru,0,0.7882318496704102
+8918,kementerian koperasi dan ukm,koperasi wahana kalpika,0,0.9978112578392028
+8979,kementerian pertanian,kementerian keuangan,0,0.9980757236480712
+9307,pt kawasan industri wijayakusuma persero,pt fortuna anekamulti gemilang authorized distributor schaefler,0,0.988590657711029
+9401,pt bgr,pt relasi laksana wisata,1,0.8034861087799072
+9796,bri insurance,bri insurance,1,0.9981935620307922
+9797,"Bukan instansi BUMN, Kementerian, Pemerintah",pwc,1,0.99395751953125
+9846,pt hutama karya,pt krida upaya tunggal,0,0.9925920963287354
+10190,pemerintah kabupaten bandung,pondok selera sunda setiabudi bandung,0,0.9972620010375975
+10596,pt asuransi kredit indonesia,pt asuransi kredit indonesia,1,0.9988172054290771
+10793,"Bukan instansi BUMN, Kementerian, Pemerintah",satker vertikal,1,0.8549052476882935
+10826,badan nasional pencarian dan pertolongan bnpp,skk migas jawa bali madura dan nusa tenggara jabanusa,1,0.6537107825279236
+10902,pemkab purworejo,pemilik kta taylor purworejo,1,0.9921674132347108
+10905,"Bukan instansi BUMN, Kementerian, Pemerintah",kemenpupr,1,0.9907960891723632
+11709,pemerintah provinsi maluku,pemerintah provinsi maluku,1,0.9985514283180236
+11763,pt bgr,pt indosat,1,0.6828718185424805
+12142,pemkab timteng selatan,dispora kalimantan selatan,1,0.9980961680412292
+12189,"Bukan instansi BUMN, Kementerian, Pemerintah",bsi,1,0.9798575043678284
+12190,pemprov jatim,jatim sembako,1,0.9951499104499816
+12537,pemerintah kabupaten jember,pemerintah kabupaten jember,1,0.9988099336624146
+13412,kementerian badan pertanahan nasional,badan restorasi gambut dan mangrove,0,0.9925678968429564
+13515,direktur utama pt bni,cv tujuh saudara utama tsu,1,0.8366807699203491
+13533,pemkot jayapura,balai besar mkg wilayah v jayapura,1,0.9958842396736144
+13569,kck bri,kck bri,1,0.9978621602058412
+13614,bgr indonesia,advisory indonesia sustainability productivity leader,1,0.8448529243469238
+13896,pemerintah gorontalo utara,dinas kebudayaan kepemudaan dan olahraga provinsi gorontalo,0,0.9992995262145996
+13907,kementerian pendidikan kebudayaan riset dan teknologi,kepala satuan pendidikan,0,0.9967687129974364
+13908,"Bukan instansi BUMN, Kementerian, Pemerintah",bengkel mobil,0,0.908774435520172
+13912,pt perusahaan listrik negara,perusahaan penjualan motor,0,0.9954747557640076
+13927,"Bukan instansi BUMN, Kementerian, Pemerintah",bkad kecamatan getasan,0,0.955446481704712
+13928,pemkot banjarmasin,bbppks banjarmasin,1,0.9942284822463988
+15127,pemkab kutai barat,pemerintah kabupaten kutai barat,1,0.998727023601532
+15249,bri samarinda 2,bri samarinda 2,1,0.9985395669937134
+15255,kemen pppa,kemen pppa,1,0.9982122182846068
+16138,pemerintah kabupaten kediri,pemerintah kabupaten kediri,1,0.9992380142211914
+16459,"Bukan instansi BUMN, Kementerian, Pemerintah",detikcom,1,0.8282231092453003
+16992,pt bni persero tbk,pt bni persero tbk,1,0.9983524084091188
+17020,pemprov lampung,apersi lampung,1,0.9433740973472596
+17029,"Bukan instansi BUMN, Kementerian, Pemerintah",peserta klaim,0,0.6206501722335815
+17649,pemerintah kabupaten luwu timur,pemerintah kabupaten luwu timur,1,0.9988025426864624
+18283,"Bukan instansi BUMN, Kementerian, Pemerintah",bpr nbp 9,1,0.9858636260032654
+18284,"Bukan instansi BUMN, Kementerian, Pemerintah",andmesh kamaleng,1,0.6793954968452454
+18465,pemerintah temanggung,pemerintah kabupaten temanggung,1,0.9987025260925292
+19487,pt askrindo,askrindo,1,0.9977195858955384
+19488,rcm51 btn makassar,bosowa school makassar,1,0.6979668140411377
+19494,pemerintah kab kepulauan seribu,rsud kab karawang,0,0.9975464940071106
+19526,pt bgr,pt cen kurir indonesia,1,0.9365320205688475
+142,pemprov gorontalo,inspektorat provinsi gorontalo,1,0.9980027079582214
+150,pt perusahaan perdagangan indonesia,perdagangan,0,0.9939513206481934
+199,pt bank rakyat indonesia persero tbk bri,bank rakyat indonesia bri,1,0.9989575147628784
+441,"Bukan instansi BUMN, Kementerian, Pemerintah",rumah sakit sakinah,0,0.9053549766540528
+582,pemkot singkawang,kantor pertanahan kota singkawang,1,0.9777380228042604
+588,kementerian perdagangan,direktorat pengamanan perdagangan,0,0.9900044798851012
+955,pt telekomunikasi indonesia persero tbk,pt pp persero tbk,1,0.999016523361206
+1126,"Bukan instansi BUMN, Kementerian, Pemerintah",korean customs atrache,1,0.7715912461280823
+1138,bank rakyat indonesia,bank nagari,0,0.998325526714325
+1175,pemkot blitar,polres blitar,1,0.9902600646018982
+1179,"Bukan instansi BUMN, Kementerian, Pemerintah",shinta catering service,0,0.7402685880661011
+1206,pt bgr,pt global elektrik nasional,1,0.6938018202781677
+1624,"Bukan instansi BUMN, Kementerian, Pemerintah",perbankan,0,0.953025996685028
+1625,"Bukan instansi BUMN, Kementerian, Pemerintah",j power,1,0.9833609461784364
+1927,pemerintah kota sukabumi,pemerintah kota sukabumi,1,0.9987447261810304
+2509,pemerintah kabupaten tanah datar,kpp tanah abang dua,0,0.9971713423728944
+2511,pt askrindo,askrindo insurance cabang samarinda,1,0.99759703874588
+2945,pt kereta api indonesia persero kai,pt kereta api indonesia persero kai,1,0.9982455968856812
+3426,pemerintah purworejo,pemerintah kabupaten purbalingga,1,0.999118983745575
+4474,pln uiw ntb,universitas hamzarwadi ntb,1,0.7981184720993042
+4475,"Bukan instansi BUMN, Kementerian, Pemerintah",tenable,1,0.5943396091461182
+4866,pt taspen kc bengkulu,pt taspen kc bengkulu,1,0.9989573955535888
+4886,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan lumbok seminung,0,0.9917019009590148
+5010,pt vtp,pt cikarang inland port,1,0.5028976202011108
+6472,pemerintah bone bolango,pemerintah kabupaten bone bolango,1,0.998885214328766
+6780,pemerintah kabupaten kaimana,rsud kabupaten sidoarjo,0,0.9989804625511168
+6945,pt bgr,pt jawa berkat,1,0.8318718075752258
+7325,pemerintah kabupaten tanjung jabung timur,pokdarwis tanjung samudra,0,0.997378945350647
+7335,pt bank mandiri cabang,mandiri,0,0.9968511462211608
+7343,"Bukan instansi BUMN, Kementerian, Pemerintah",orang pribadi,0,0.6939927935600281
+7344,isn industri sandang nusantara  vendor garment,vendor hampers banana cake,0,0.9769083261489868
+7345,pt pp,pp urban,1,0.9870895743370056
+7402,pt industri nuklir indonesia,pt amstel indonesia,1,0.9960454106330872
+7923,"Bukan instansi BUMN, Kementerian, Pemerintah",umkm,0,0.9768228530883788
+8373,pemerintah kabupaten lampung barat,pemerintah kabupaten lampung barat,1,0.998666286468506
+9350,pt smf,pt tradition,1,0.9717186689376832
+9595,pemerintah kabupaten tana tidung,sman terpadu unggulan 1 tana tidung,0,0.9981493949890136
+9599,"Bukan instansi BUMN, Kementerian, Pemerintah",pengusaha,0,0.9560050964355468
+9600,"Bukan instansi BUMN, Kementerian, Pemerintah",pihak swasta arsitek,0,0.6678375601768494
+9601,"Bukan instansi BUMN, Kementerian, Pemerintah",mediacomm,0,0.77402263879776
+9628,bank mandiri,bank mantap,0,0.9962623715400696
+9648,pemkab kebumen,bkk kebumen,1,0.9959295392036438
+9800,badan siber dan sandi negara,badan siber dan sandi negara,1,0.9979694485664368
+9822,pemerintah kota medan,universitas medan area,0,0.998185932636261
+9850,pt bgr,pt anindya wiraputra konsult,1,0.8963516354560852
+10288,bank negara indonesia,bank dbs indonesia,1,0.99830424785614
+10515,badan pengawas tenaga nuklir,badan pengawas tenaga nuklir,1,0.9980973601341248
+10601,pt kiw,pt rizky bumi tanjung,1,0.9355769157409668
+10925,kominfo,kominfo,1,0.9919626116752625
+10926,indonesia financial group ifg,amanah group,1,0.7781146168708801
+10928,"Bukan instansi BUMN, Kementerian, Pemerintah",ass manager marketing hansa pratama,1,0.681734025478363
+11392,pemkab gowa,koordinator penggerak muda pasar rakyat pmpr kabupaten gowa,1,0.6145090460777283
+11394,"Bukan instansi BUMN, Kementerian, Pemerintah",wira toyota,0,0.9172818064689636
+11395,indonesia tourism development coporation itdc,learning solution section head binus corporate learning development,1,0.903580367565155
+12563,pemerintah kabupaten ogan ilir,pemerintah kabupaten ogan ilir,1,0.9987778067588806
+12629,kementerian pembangunan daerah tertinggal,satker direktorat bandar udara proyek earr mutiara sis al jufri palu kementerian perhubungan,0,0.9902545809745787
+13883,pemerintah kabupaten way kanan,pemerintah kabupaten way kanan,1,0.998432457447052
+13910,pt bgr,pt sarana sumber abadi,1,0.8495728373527527
+14304,bni kantor wilayah 07,bni kantor wilayah 07,1,0.9986434578895568
+14322,"Bukan instansi BUMN, Kementerian, Pemerintah",umkm azka barokah,1,0.5512268543243408
+14337,pt perikanan nusantara,gumelar bumi nusantara,0,0.9952273368835448
+14528,pemerintah kabupaten gunung mas,dinas tenaga kerja kabupaten sidoarjo,0,0.999173939228058
+14799,"Bukan instansi BUMN, Kementerian, Pemerintah",arini amalia sh mkn,1,0.8647382855415344
+14800,"Bukan instansi BUMN, Kementerian, Pemerintah",kubik leadership,1,0.5794582962989807
+14804,pt asuransi jiwasraya,asuransi astra,0,0.9955663084983826
+14820,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris ppat endang sri wukiryatun,1,0.6694391965866089
+14874,pt bank bni,bank bni,1,0.9983536005020142
+16086,pemkot solok,pemerintah kabupaten solok,1,0.99865460395813
+16105,pemerintah kota jambi,bendahara pengeluaran balai pelatihan pertanian jambi,0,0.997069537639618
+16107,"Bukan instansi BUMN, Kementerian, Pemerintah",wakil wajib pajak atas nama dirk johanes,0,0.8433418273925781
+16108,"Bukan instansi BUMN, Kementerian, Pemerintah",bupati 50kota,0,0.9865084886550904
+16109,rcm51 btn makassar,rcm51 btn makassar,1,0.9981968998908995
+16124,"Bukan instansi BUMN, Kementerian, Pemerintah",cloudera,0,0.5625764727592468
+16172,pemkot banjarmasin,bank bjb cab banjarmasin,1,0.9909453392028807
+16183,pemerintah kabupaten banggai laut,bendahara desa laut dendang kec percut sei tuan,0,0.9975637197494508
+16210,pt bgr,pt tirta investama dc yogyakarta,1,0.9928788542747498
+16582,"Bukan instansi BUMN, Kementerian, Pemerintah",rsud margono soekarjo,0,0.6903607249259949
+16586,pt sarana multigriya finansial,pemilik sarana apotek hikmah,0,0.9950148463249208
+16593,kemendag ri,internal kemendag,1,0.9958863854408264
+16617,bp2mi jawa barat,kantor jawa berkat,1,0.6526739001274109
+16681,bri kanwil jakarta 2,bri kanwil jakarta 2,1,0.9979301691055298
+16696,"Bukan instansi BUMN, Kementerian, Pemerintah",kuasa wajib pajak,0,0.9137903451919556
+16718,lpsk ri,mantan presiden ri,1,0.9931477904319764
+16725,"Bukan instansi BUMN, Kementerian, Pemerintah",rsud dr loekmonohadi,0,0.9418229460716248
+17600,pemerintah kota bitung,pemerintah kota bitung,1,0.9990960359573364
+17603,kementerian lingkungan hidup,dinas lingkungan hidup,0,0.9943771958351136
+17605,"Bukan instansi BUMN, Kementerian, Pemerintah",mkks sma,1,0.9564632177352904
+17606,pemkab kuningan,kodim 0615 kuningan jawa barat,1,0.9746925830841064
+17907,pt krakatau steel,pt sinar dika abadi,0,0.99529629945755
+18466,pemkot palangka raya,pt ima meukat raya,1,0.990955412387848
+18543,badan kependudukan dan keluarga berencana nasional bkkbn,dinas pemberdayaan perempuan perlindungan anak pengendalian penduduk dan keluarga berencana kab sleman,0,0.9969736337661744
+18574,pt bgr,pt haji muhammad taher,1,0.965993344783783
+18932,kemen pppa,dinas pppa provinsi sulawesi tengah,1,0.9765751957893372
+19054,pemkot surabaya,fakultas vokasi its surabaya,1,0.9887840747833252
+19062,"Bukan instansi BUMN, Kementerian, Pemerintah",seken living,1,0.540751039981842
+19591,kereta api indonesia,pt kereta api indonesia,1,0.9985321760177612
+19660,bank btn,bank btn,1,0.998646914958954
+19706,"Bukan instansi BUMN, Kementerian, Pemerintah",karyawan swasta,0,0.9179952144622804
+0,pt danareksa persero,pt sinar griya utama,0,0.9957262277603148
+1293,pemkab bone,pemerintah kabupaten bone,1,0.9993483424186708
+1305,pt bank tabungan negara persero tbk btn,kodim 0317 tbk,1,0.980708658695221
+1389,pt kiw,pt wing surya,1,0.6959025859832764
+1751,pemerintah kabupaten seram barat,universitas sulawesi barat,0,0.99893981218338
+1785,"Bukan instansi BUMN, Kementerian, Pemerintah",kepala sekolah tk teruna bhakti,0,0.9626404643058776
+1786,"Bukan instansi BUMN, Kementerian, Pemerintah",cv jadi bangun,1,0.5320229530334473
+1836,nasabah bank mandiri,bank mandiri,1,0.9929965138435364
+1852,badan pengusahaan kawasan perdagangan bebas dan pelabuhan bebas batam,dinas perdagangan,0,0.9937453269958496
+1988,pemkab banjarnegara,bank jawa tengah cabang banjarnegara,1,0.973706066608429
+2057,kementerian hukum dan hak asasi manusia,kementerian hukum dan hak asasi manusia,1,0.998253047466278
+2797,pt pelabuhan indonesia persero,pt pelabuhan indonesia persero,1,0.9988126754760742
+2899,kementerian pendayagunaan aparatur negara dan reformasi birokrasi kem panrb,pusdatin kementerian perindustrian,0,0.997105062007904
+2915,"Bukan instansi BUMN, Kementerian, Pemerintah",nestle,0,0.9344563484191896
+3069,kementerian pekerjaan umum dan perumahan rakyat pupr,kementerian pekerjaan umum dan perumahan rakyat,1,0.9966546297073364
+3074,badan pengawas obat dan makanan bpom,toko obat inafut 1,0,0.9488769173622132
+3076,"Bukan instansi BUMN, Kementerian, Pemerintah",ptbni,1,0.994211494922638
+4312,pemkab kotawaringin barat,pemerintah kabupaten kotawaringin barat,1,0.998484194278717
+4527,pemerintah kabupaten barito utara,desa cukangkawung kabupaten tasikmalaya,0,0.999173104763031
+4801,"Bukan instansi BUMN, Kementerian, Pemerintah",ud cahaya dewata,0,0.7804450988769531
+4828,pt bgr,pt bank pembangunan daerah nusa tenggara barat syariah,1,0.947942852973938
+5350,"Bukan instansi BUMN, Kementerian, Pemerintah",perumda purwa aksara,0,0.9030185341835022
+5352,pemerintah gresik,pic plant1 lpg enp gresik,1,0.9903494119644164
+5380,pt bgr,pt ever age valves metals,1,0.9428755044937134
+5759,pt berdikari,pt jayamanunggal satu,0,0.9975938200950624
+6128,otoritas jasa keuangan,jasa pendidikan,0,0.995919942855835
+6145,pemkot malang,mahasiswa poltekkes kemenkes malang,1,0.9923120141029358
+6176,pt bgr,pt indofood sukses makmur tbk,1,0.8872586488723755
+6608,kementerian pembangunan daerah tertinggal,bank pembangunan daerah,0,0.9974746108055116
+6628,"Bukan instansi BUMN, Kementerian, Pemerintah",anonim,1,0.586283802986145
+6631,pemkab sumenep,guru pns dibawah dinas pendidikan kab sumenep,1,0.976225733757019
+6640,pemkot jakarta pusat,pusat,1,0.6142038702964783
+6671,pt bgr,pt bank syariah indonesia tbk,1,0.9610906839370728
+8138,pemprov kalimantan timur,pemerintah provinsi kalimantan timur,1,0.9990097284317015
+8169,pt di,tim periset di pusat penelitian kelapa sawit medan,1,0.5340518951416016
+8343,badan pertanahan nasional,badan riset dan inovasi nasional,0,0.9978933930397034
+9641,pemerintah kabupaten muna barat,pemerintah kabupaten muna barat,1,0.9990027546882628
+9847,pemkab kotawaringin timur,pemprov pemkab pemkot dan adki,1,0.9984096884727478
+10303,pemerintah kota makassar,hotel claro makassar,0,0.997238039970398
+10611,pt industri nuklir indonesia persero,pt synapsis,1,0.9979008436203004
+10713,pt bgr,pt hanmi hair international,1,0.944834053516388
+11069,"Bukan instansi BUMN, Kementerian, Pemerintah",mall,0,0.690893292427063
+11070,"Bukan instansi BUMN, Kementerian, Pemerintah",universitas lambung mangkurat,0,0.9811763167381288
+11403,pt pertamina persero,pt anugerah sawit andalan,0,0.9974046349525452
+11671,pt boma bisma indra persero cabang jakarta,pt bsi group,1,0.9967832565307616
+12141,pemerintah kabupaten banjarnegara,pemerintah kabupaten banjarnegara,1,0.999213695526123
+13039,pemkot sorong,polres sorong,1,0.9385390877723694
+13065,bri kramat,bri kramat,1,0.9977996945381165
+13104,kementerian kelautan,kantor wilayah kementerian hukum dan ham bengkulu,0,0.9984551668167114
+13257,pemerintah kabupaten boalemo,kepolisian resor boalemo,0,0.9988855719566344
+13284,pt bgr,pt hamasa steel center,1,0.8970714807510376
+13643,"Bukan instansi BUMN, Kementerian, Pemerintah",ketua rw,0,0.6999279260635376
+13656,pt jiwasraya,pt toya indo manunggal,0,0.994473397731781
+14102,pt pos indonesia,innovative financing lab undp indonesia,1,0.9973978996276855
+14661,pemkab malinau,bupati kabupaten malinau,1,0.9987756609916688
+14663,"Bukan instansi BUMN, Kementerian, Pemerintah",hdi,1,0.9925965070724488
+14718,pt industri nuklir indonesia,staff pt tbn,1,0.9974324107170104
+15463,pemerintah kabupaten bantaeng,kantor kementerian agama kabupaten lombok barat,0,0.999206244945526
+15662,kementerian desa pdtt,kementerian perindustrian,0,0.9976195693016052
+15863,bnsp republik indonesia,bank syariah indonesia,1,0.9563129544258118
+16041,bank bri kc pandeglang,bank bri kc pandeglang,1,0.9984105825424194
+16046,pt hotel indonesia natour persero,hotel gajahmada avara,0,0.9863042235374452
+17167,pemerintah kabupaten toli toli,pemerintah kabupaten batang hari,1,0.7640689611434937
+17247,"Bukan instansi BUMN, Kementerian, Pemerintah",lion air,0,0.7739084959030151
+17751,lembaga perlindungan saksi dan korban lpsk,bpkad kabupaten natuna dan kejaksaan negeri natuna,1,0.98994117975235
+18148,pt industri sandang nusantara,pt multi sandang tamajaya,0,0.9973741769790648
+18263,bank bri cabang dago,bank bri cabang dago,1,0.9978548884391784
+18290,pt bgr,pt transportasi jakarta,1,0.9547418355941772
+18670,"Bukan instansi BUMN, Kementerian, Pemerintah",nalagenetics,1,0.9208033680915833
+18710,pt asuransi pegawai negeri,pt asuransi tripakarta,0,0.9970076680183412
+19072,kantor staf presiden,staf dealer pasar uang,0,0.992048680782318
+19270,pt telkom indonesia,pt asuransi wahana tata,0,0.9974194765090942
+19487,pemerintah provinsi bali,hotel padma legian bali,0,0.9953895807266236
+19488,"Bukan instansi BUMN, Kementerian, Pemerintah",mitrasindo jayatama,0,0.9927778840065002
+19646,pt dkb,pt imp coal,1,0.9653782248497008
+19921,bgr indonesia,cv lima pilar utama indonesia,1,0.967881679534912
+160,bgr indonesia,bank indonesia,1,0.978657066822052
+310,"Bukan instansi BUMN, Kementerian, Pemerintah",puskesmas dharmarini,0,0.9847556948661804
+311,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan ciwidey,0,0.9738344550132751
+314,kementerian desa pembangunan daerah tertinggal dan transmigrasi,desa panundaan kecamatan ciwidey,0,0.996758997440338
+1513,pemerintah semarang,pemerintah kabupaten semarang,1,0.998904824256897
+1517,"Bukan instansi BUMN, Kementerian, Pemerintah",rsud siti fatimah,0,0.9806832671165466
+1519,indonesia financial group,developer garden group,0,0.9730133414268494
+1520,pt industri kapal indonesia,agency kapal,0,0.978686273097992
+1581,kementerian koordinator bidang pembangunan manusia dan kebudayaan,koordinator wilayah bidang pendidikan dan kebudayaan kecamatan,0,0.9985058307647704
+2053,pemerintah indramayu,pemerinta desa cipancuh kecamatan haurgeulis kabupaten indramayu,1,0.525928795337677
+2198,bgr indonesia,kamar dagang dan industri indonesia,1,0.921043872833252
+2624,pt asuransi jiwasraya persero,pt asuransi jiwasraya persero,1,0.9983795881271362
+2884,indonesia financial group,sinarmas group,0,0.8670017719268799
+2888,pemkot kupang,kkp kupang,1,0.9980875849723816
+2895,"Bukan instansi BUMN, Kementerian, Pemerintah",penerbit erlangga,0,0.5065661668777466
+3098,pt bri cabang bojonegoro dan pt bri cabang nganjuk,pt aflah azaria,1,0.9884722828865052
+3305,kementerian komunikasi,kementerian pemuda dan olah raga,0,0.9984211921691896
+3404,kantor staf presiden,kantor camat pajar bulan,0,0.9795308113098145
+3449,pt bgr,pt deho canning company,1,0.8708184361457825
+3813,pt waskita karya cabang bali,bali ocean magic,1,0.6551254391670227
+4193,kepolisian negara republik indonesia resor kota pontianak,kepolisian negara republik indonesia resor kota pontianak,1,0.9977362155914308
+4338,pt smf,direktur pt ramaputra demak,1,0.9854360222816468
+4616,pemkot bandung,infomedia solusi humanika ish cabang bandung,1,0.832744300365448
+4627,"Bukan instansi BUMN, Kementerian, Pemerintah",seni adams craft,0,0.539342999458313
+4972,pt sarana multi infrastruktur persero pt smi,pt bpi,1,0.9986485838890076
+5010,"Bukan instansi BUMN, Kementerian, Pemerintah",rs bunda aliyah hospitals,0,0.9463921189308168
+5213,pt bri cabang bojonegoro dan pt bri cabang nganjuk,pt bpr bank jombang perseroda,1,0.9878143072128296
+5668,pemerintah kabupaten tangerang,pemerintah kota tangerang,1,0.9987642765045166
+6323,hotel natour,hotel aston,0,0.986248791217804
+6326,"Bukan instansi BUMN, Kementerian, Pemerintah",bappebti,1,0.9757458567619324
+6368,kementerian koordinator bidang kemaritiman dan investasi,kementerian koordinator bidang kemaritiman dan investasi,1,0.9920321702957152
+6481,superintending company of indonesia,ministry of finance of bangladesh finance division,1,0.9502375721931458
+6590,pemerintah kabupaten kudus,dinas kesehatan kabupaten aceh selatan,0,0.9992691874504088
+7016,debitur bni,debitur bni,1,0.9975727200508118
+7038,"Bukan instansi BUMN, Kementerian, Pemerintah",fakultas kedokteran universitas kristen duta wacana,0,0.9867119789123536
+7047,pemerintah kota sungai penuh,sungai budi,0,0.9988369345664978
+7051,"Bukan instansi BUMN, Kementerian, Pemerintah",rs ems omni pulomas,1,0.8214715719223022
+7054,isn industri sandang nusantara  vendor garment,isn industri sandang nusantara vendor garment,1,0.9984939098358154
+7123,"Bukan instansi BUMN, Kementerian, Pemerintah",wp op,1,0.8716581463813782
+7462,pt pindad persero,pt mile,1,0.9962282180786132
+7532,pt bgr,pt usu hydro power,1,0.8609177470207214
+7934,pt emi,pt pei,1,0.9980378746986388
+8270,"Bukan instansi BUMN, Kementerian, Pemerintah",sekjen,1,0.6028674244880676
+8523,pt twc,pt lifelong learning multimatics,1,0.9796462655067444
+8681,lpsk ri,biro perencanaan dpr ri,1,0.9876137971878052
+9101,pt taspen kantor pusat,pt taspen kantor pusat,1,0.99802565574646
+9109,"Bukan instansi BUMN, Kementerian, Pemerintah",marketing hs corp,1,0.9344857931137084
+9113,pt kimia farma persero tbk,apotek kimia farma halmahera,1,0.6896631717681885
+9151,pemkab lombok timur,ketua forum kades kec kikim timur,1,0.6922779679298401
+9202,bri cabang purwodadi,bri cabang purwodadi,1,0.998399555683136
+9250,"Bukan instansi BUMN, Kementerian, Pemerintah",universitas baiturrahmah,0,0.9866397976875304
+9252,indonesia financial group,ursb sinar bulan group,0,0.8105666637420654
+9253,kementerian pendidikan kebudayaan riset dan teknologi,ketua yayasan pendidikan,0,0.9959115982055664
+9394,pt smf,a n pt indo,1,0.9658478498458862
+9662,pt bgr,pt anadi sarana tatahusada rs puri cinere,1,0.6084542870521545
+10098,pt kiw,pt puri darma sejati,1,0.9179198741912842
+10565,pt dkb,pt prisa,1,0.960720717906952
+10810,komisi pengawas persaingan usaha ri,komisi pengawas persaingan usaha ri,1,0.9988405108451844
+10852,kemenkeu,kemenkeu,1,0.9961484670639038
+10859,kemenhub ri,dpd ri provinsi bali,1,0.9933848977088928
+10975,pt bgr,pt paguntaka cahaya nusantara,1,0.7616598010063171
+11350,kementerian pertanian,bppsdm pertanian,0,0.9896866679191588
+11351,bkkbn,bkkbn,1,0.9981535077095032
+11382,pt bgr,pt naga sukses tractors,1,0.8477264642715454
+12540,pemerintah kota semarang,pemerintah kota semarang,1,0.9991664886474608
+12756,pt smf,pt thorcon,1,0.9751042127609252
+12998,"Bukan instansi BUMN, Kementerian, Pemerintah",unknown,1,0.8600801229476929
+13767,pemerintah provinsi malut,pemerintah provinsi,1,0.9762063026428224
+14206,pt pegadaian sentra layanan ultra mikro loa,pt pegadaian sentra layanan ultra mikro loa,1,0.9981604218482972
+14214,"Bukan instansi BUMN, Kementerian, Pemerintah",rs awal bros,1,0.7007627487182617
+14610,pemerintah kabupaten intan jaya,pt borneo prima utama jaya,0,0.9984663724899292
+14613,"Bukan instansi BUMN, Kementerian, Pemerintah",marketing,0,0.8664522171020508
+14614,kementerian desa,desa biji nangka,0,0.9976994395256042
+14664,kementerian pemuda dan olahraga,wuhuan engineering dan jsc apatit rusia,1,0.9522875547409058
+14678,pemerintah provinsi sulteng,bpd sulteng,1,0.9989113807678224
+14688,pemerintah kota palangka raya,citra raya medika,0,0.998609185218811
+14711,pt bri cabang bojonegoro dan pt bri cabang nganjuk,teman keluarga dan kolega,1,0.6260558366775513
+14761,pt industri sandang,iisia asosiasi industri besi baja,0,0.994844913482666
+14794,"Bukan instansi BUMN, Kementerian, Pemerintah",klinik kecantikan werisa,0,0.9571579694747924
+15170,pt jasa raharja persero,pt jasa raharja persero,1,0.999117076396942
+15339,kementerian desa pembangunan daerah tertinggal dan transmigrasi,desa wonokeling,0,0.9978559613227844
+15403,kementerian perencanaan pembangunan nasional ppn badan perencanaan pembangunan nasional bappenas,kementerian perencanaan pembangunan nasional badan perencanaan pembangunan nasional,1,0.9957701563835144
+15542,bri masamba,rs hikmah masamba,0,0.7999278903007507
+15547,cfo pt pertamina,pertamina,1,0.9948658347129822
+15553,"Bukan instansi BUMN, Kementerian, Pemerintah",itb swadarma,1,0.8659092783927917
+15587,badan kepegawaian negara bkn,badan kepegawaian negara,1,0.992254376411438
+16048,pt brantas abipraya persero,pt brantas abipraya,1,0.9984835982322692
+16121,pt kiw,pt bank sumut,1,0.9462695121765136
+16479,perumahan nasional,developer perumahan,0,0.9915153980255128
+16495,pemkot malang,marketing lembah metro batu malang,1,0.942643702030182
+16500,id food,phoenix food wiraswasta,0,0.8541696667671204
+16527,pt bgr,pt asuransi cakrawala proteksi indonesia,1,0.898622989654541
+17115,bpkh,dewan pengawas bpkh,1,0.997870922088623
+17117,pt telkom indonesia,telkom university,0,0.996121108531952
+17213,bgr indonesia,bank indonesia asisten manajer,1,0.9524510502815248
+17376,kementerian koordinator perekonomian,deputi bidang kebijakan strategis kementerian pariwisata ekonomi kreatif,0,0.997365653514862
+17440,"Bukan instansi BUMN, Kementerian, Pemerintah",partai gelora,0,0.8727623820304871
+17441,"Bukan instansi BUMN, Kementerian, Pemerintah",importir,0,0.8822205066680908
+17443,badan search and rescue nasional basarnas,science and technology innovative center for circular economy and green innovative resources sticcegir,0,0.8335815668106079
+17444,pemkot banda aceh,kepala bbpom banda aceh,1,0.9977746605873108
+17495,bank bri cabang palopo,bank bjb cimahi,1,0.990704357624054
+17524,"Bukan instansi BUMN, Kementerian, Pemerintah",kafila consulting,1,0.9443385004997252
+17652,kementerian komunikasi dan informatika,kementerian komunikasi dan informatika,1,0.9930391907691956
+17653,"Bukan instansi BUMN, Kementerian, Pemerintah",novalin mussy sh mkn,1,0.9183643460273744
+17654,pemkab kuningan,kodim 0615 kuningan,1,0.9650749564170836
+18028,pt asabri,pt asaba,1,0.9654661417007446
+18059,bank bri cabang palopo,bank jabar banten,1,0.7785483002662659
+18434,pt sarana multi infrastruktur persero pt smi,pt duta pangan nusantara,0,0.9975568056106568
+18874,kai,pt kai,1,0.998237371444702
+19313,pt bank mandiri cikampek,pt bank mandiri,1,0.992174506187439
+19336,pt bri cabang bojonegoro dan pt bri cabang nganjuk,bayt alquran dan museum istiqal,1,0.8725879788398743
+19826,pemkot bogor,lpse kabupaten bogor,1,0.9798851013183594
+19830,pemerintah kab kepulauan seribu,dinas pendidikan kab sumenep,0,0.9987878203392028
+441,pemerintah kabupaten pasangkayu,pemerintah daerah kabupaten pasangkayu,1,0.9981050491333008
+1046,"Bukan instansi BUMN, Kementerian, Pemerintah",ptbtn,1,0.9920978546142578
+1150,bgr indonesia,gabungan importir nasional seluruh indonesia,1,0.9763169288635254
+1742,pemkab natuna,bpkad kabupaten natuna,1,0.9979109168052672
+1747,pt hotel indonesia natour persero,blue sky hotel,0,0.97309011220932
+1748,"Bukan instansi BUMN, Kementerian, Pemerintah",nancy nirwana somalinggi sh mh,1,0.7470195889472961
+1751,tentara nasional indonesia tni,tni,1,0.9951968789100648
+2275,pt telkom indonesia tbk,pt telkom indonesia tbk,1,0.9980664849281312
+2512,pt dkb,pt st sahabudin,1,0.98818039894104
+2737,"Bukan instansi BUMN, Kementerian, Pemerintah",adi nugroho tantry sh mkn llm,1,0.9165061116218568
+2738,"Bukan instansi BUMN, Kementerian, Pemerintah",kpsp nongkojajar,1,0.9921131134033204
+2739,"Bukan instansi BUMN, Kementerian, Pemerintah",jabatan kastam diraja malaysia,1,0.7578862905502319
+2743,pemkab wonogiri,rumah bumn kab wonogiri,1,0.812246561050415
+2746,"Bukan instansi BUMN, Kementerian, Pemerintah",umkm sahira,1,0.6213143467903137
+2749,pt garuda indonesia persero tbk,korem 044 garuda dempo,1,0.8271850943565369
+2827,pemerintah kabupaten padang lawas utara,dekan universitas islam negeri sumatera utara medan fakultas ekonomi dan bisnis islam,0,0.9979227185249328
+2898,kantor staf presiden,kantor lurah penatih,0,0.98461252450943
+3307,pemerintah kabupaten intan jaya,pt mitra mandala jaya,0,0.9982501864433287
+3467,pt dkb,pt hadir mengharumkan nusantara,1,0.9892375469207764
+3711,"Bukan instansi BUMN, Kementerian, Pemerintah",ppjk,1,0.9688011407852172
+3712,"Bukan instansi BUMN, Kementerian, Pemerintah",distributor alat lab laboratorium klinik,0,0.9433769583702089
+3713,"Bukan instansi BUMN, Kementerian, Pemerintah",puskesmas baebunta,0,0.9482334852218628
+3718,pemkot singkawang,hotel mahkota singkawang,1,0.9297063946723938
+3721,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris ppat irina rahmadiyanti sh mkn,1,0.8459392786026001
+3722,"Bukan instansi BUMN, Kementerian, Pemerintah",tim ahli dari cv indera cipta konsultan,0,0.6734528541564941
+3749,pt bgr,pt samuel asset management,1,0.9654844999313354
+4109,kacab bri samarinda 1,sman 1 kraksaan,1,0.5488926768302917
+4114,pupuk indonesia holding company,siam yamato steel company limited,0,0.965710997581482
+4125,perusahaan umum pembangunan perumahan nasional,perusahaan,0,0.9946348667144777
+4137,pt jasa marga,jasa catering,0,0.9934129118919371
+4555,pt perusahaan gas negara persero tbk,pt malindo feedmili tbk,0,0.9965510368347168
+4574,kantor pegadaian kanwil viii jakarta,smpn 113 jakarta,1,0.8363832831382751
+4586,ptpn iii,ptpn vii,0,0.929354965686798
+4588,pt pegadaian sentra layanan ultra mikro loa,director director sarel sentra inspira,1,0.5588744878768921
+4589,"Bukan instansi BUMN, Kementerian, Pemerintah",stikes maboro,0,0.9523005485534668
+4721,pemerintah provinsi sulawesi tengah,dinas cipta karya provinsi sulawesi tenggara,0,0.9989294409751892
+4738,"Bukan instansi BUMN, Kementerian, Pemerintah",kredivo,1,0.7535156011581421
+4739,perseta asabri pensiunan polri,polri,1,0.9689813256263732
+4920,perpustakaan nasional republik indonesia perpusnas,ssek indonesia legal consultant,1,0.9945805668830872
+4933,"Bukan instansi BUMN, Kementerian, Pemerintah",tim gekraf,1,0.949756681919098
+4939,pemkab aceh timur,yayasan generasi emas aceh,0,0.9986178874969482
+4995,pemkab buton utara,kepolisian resort luwu utara,1,0.5599783062934875
+5156,pemprov nusa tenggara timur,perwakilan bpkp provinsi nusa tenggara timur,1,0.9978100657463074
+5334,pt amka,pt bukaka,1,0.9890924692153932
+5574,pemkot kota gorontalo,bptd wilayah xxi prov gorontalo,1,0.995027244091034
+5579,jamkrindo,jamkrindo,1,0.9988499879837036
+5692,pt ppi,chief executive officer pt audie building,1,0.9827483296394348
+6258,pt danareksa persero,pt anugrah cahaya alam,0,0.9967491626739502
+6351,pemerintah kabupaten kudus,universitas muhammadiyyah kudus,0,0.9970736503601074
+6416,kementerian koperasi dan usaha kecil dan menengah,kementerian koperasi dan usaha kecil dan menengah,1,0.9965189695358276
+6526,pemerintah jawa tengah,kantor skk migas jawa bali madura dan nusa jabanusa,0,0.9931307435035706
+6644,pemerintah kabupaten lombok timur,camat merapi timur,0,0.9989245533943176
+6657,pemkab gresik,magang di k3 up gresik,1,0.9931121468544006
+6672,nasabah bni,nasabah bni,1,0.9981712102890016
+6688,kementerian pembangunan manusia,kementerian agama,0,0.9984259605407716
+6749,angkasa pura 2,konsultan cmcs 2,1,0.9793490171432496
+6909,pt dkb,pt astrazeneca indonesia,1,0.8931195139884949
+8526,pemerintah kabupaten klaten,pemerintah kabupaten klaten,1,0.998543620109558
+8529,pemkot semarang,manajemen novotel semarang,1,0.994632124900818
+8657,pt virama,pt anugerah sawit inti harapan,0,0.997495412826538
+8917,pemkot banda aceh,idi banda aceh,1,0.9723596572875975
+8948,pt dana tabungan dan asuransi pegawai negeri   taspen,pegawai instalasi farmasi,0,0.988548755645752
+8951,"Bukan instansi BUMN, Kementerian, Pemerintah",hermawan juniarto partners deloitte,0,0.5812487602233887
+9339,sarana multigriya,pt sarana sukses logistik,0,0.9981209635734558
+9357,lembaga kantor berita nasional antara biro jawa barat,lembaga layanan pendidikan tinggi wilayah vi,0,0.995707392692566
+9404,bri samarinda 2,bri samarinda 1,1,0.997244119644165
+9436,pemkot pekanbaru,balai besar pom di pekanbaru,1,0.996682345867157
+9637,pt bri,pt bri,1,0.99890398979187
+9993,pt smf,pt scheneider electric system indonesia pt sesi,1,0.9663890600204468
+10428,lembaga kebijakan pengadaan barang jasa pemerintah,pengurus barang impor,0,0.990151345729828
+10456,pt bgr,pt novell pharmaceutical,1,0.7406656742095947
+10812,"Bukan instansi BUMN, Kementerian, Pemerintah",kec ngraho,0,0.7823736071586609
+10931,pemkot ambon,pns sekretaris bkpsdm kota ambon,1,0.992533564567566
+10933,"Bukan instansi BUMN, Kementerian, Pemerintah",b,0,0.5733923316001892
+11003,badan standardisasi nasional,badan standardisasi nasional,1,0.9978914856910706
+11084,pt bgr,pt setiabudi persada,1,0.6757137179374695
+11441,bp2mi jawa barat,bp2mi,1,0.9978384375572203
+11442,pemkot banjarmasin,ciputra mitra hospital banjarmasin,1,0.5465444326400757
+11800,pemerintah kabupaten kepulauan selayar,sekretariat daerah kabupaten klaten,0,0.9992557168006896
+12045,pt smf,pt inti sumber bajasakti,1,0.9594066143035888
+12346,pemerintah kota madiun,kepala bkpsdm kota mojokerto,1,0.9975714087486268
+12423,pemkot tarakan,sma negeri 1 tarakan,1,0.99037766456604
+12525,cfo pt pertamina,pt graha tirta manunggal,0,0.9958836436271667
+13201,pt krakatau steel persero tbk,pt krakatau steel persero tbk,1,0.9983799457550048
+13399,pt bank tabungan negara persero tbk btn,bank ocbc nisp,1,0.9946563243865968
+13401,"Bukan instansi BUMN, Kementerian, Pemerintah",klaimen,1,0.7606405019760132
+13537,airnav indonesia,bank syariah indonesia kc soekarno hatta malang,1,0.9634290933609008
+13909,pt telkom indonesia tbk,pt sinar mulia makmur,0,0.996019184589386
+14048,pemprov kalimantan tengah,kepolisian daerah kalimantan tengah,1,0.9848662614822388
+14166,pemprov bali,bpsdm provinsi bali,1,0.9855073690414428
+14551,pt pupuk indonesia,pt pupuk indonesia persero,1,0.9984695315361024
+14950,pt kiw,pt bumi steel indonesia,1,0.8744378089904785
+15474,kemenko kemaritiman dan investasi,direktorat jenderal bea dan cukai,1,0.6249924302101135
+15571,pemerintah kabupaten banjarnegara,bank surya yudha banjarnegara,0,0.9961949586868286
+15572,"Bukan instansi BUMN, Kementerian, Pemerintah",waka ypi,1,0.9234291911125184
+15574,kemen bumn,wakil menteri bumn,1,0.9240438938140868
+15575,pt superintending company of indonesia,singapore institute of technology,0,0.9729438424110411
+16053,pt pertamina persero,pt pertamina persero,1,0.998999297618866
+16136,pemkot tebing tinggi,bpjs ketenagakerjaan cabang bukit tinggi,1,0.7681757807731628
+16139,pemprov ntt,jaserindo ntt,1,0.977088451385498
+16158,pt boma bisma indra persero cabang jakarta,marketing hotel ciputra jakarta,1,0.7573801875114441
+16168,"Bukan instansi BUMN, Kementerian, Pemerintah",lawyer,1,0.637202799320221
+17367,pemerintah kabupaten penukal abab lematang ilir,pemerintah kabupaten penukal abab lematang ilir,1,0.9991199374198914
+18238,pemerintah kota solok,pemerintah kota solok,1,0.999195158481598
+18258,ptpn 3,ptpn x,1,0.9279857873916626
+18261,kementerian desa pembangunan daerah tertinggal dan transmigrasi,desa songgodadi kecamatan petungkriyono,0,0.9968180656433104
+18262,jasa tirta 2,smpn 2 lemahabang,0,0.9886249303817748
+18652,pemerintah kota medan,pt medan tropical canning,0,0.993950366973877
+18697,bri cabang luwuk,bri cabang luwuk,1,0.9989135265350342
+18717,badan kependudukan dan keluarga berencana nasional bkkbn,teman relasi keluarga tetangga,0,0.9381081461906432
+18721,badan pemeriksa keuangan,gedung keuangan negara,0,0.9963619112968444
+18769,pemkot malang,menarmed kostrad malang,1,0.9960106611251832
+18774,"Bukan instansi BUMN, Kementerian, Pemerintah",panitia ircg,1,0.9739058017730712
+19975,pemkab aceh selatan,pemerintah kabupaten aceh selatan,1,0.9986529350280762
+61,pemkot pekanbaru,rubasan kelas 1 pekanbaru,1,0.9089722037315368
+81,bni cabang jakarta kramat,bni cabang jakarta kramat,1,0.9990546107292176
+162,pemerintah kota jakarta utara,smk cempaka jakarta,0,0.994400441646576
+165,superintending company of indonesia,ministry of finance finance division bangladesh,1,0.8851894736289978
+166,pemkab sumenep,pengurus ponpres annuqayah sumenep,1,0.9050765633583068
+586,pt industri kereta api persero inka,pt industri kereta api persero inka,1,0.9991475343704224
+736,"Bukan instansi BUMN, Kementerian, Pemerintah",universitas hasanudin,0,0.9877866506576538
+763,pt bgr,pt inconis nusa jaya,1,0.9345394372940063
+1134,"Bukan instansi BUMN, Kementerian, Pemerintah",shopee,1,0.8702368140220642
+1135,"Bukan instansi BUMN, Kementerian, Pemerintah",bme centre,1,0.9426618218421936
+1161,pemerintah gorontalo utara,pemerintah desa cijeungjing,0,0.99929940700531
+1961,perum bulog kabupaten probolinggo,perum bulog kabupaten probolinggo,1,0.9986302852630616
+2390,pemkab jepara,swalayan saudara jepara,1,0.955796480178833
+2775,ojk,pt eigerindo mpi stakeholders ojk,1,0.993133008480072
+2852,pemprov jawa tengah,bank kalimantan tengah bank kalteng,1,0.9985925555229188
+3285,pt telkom indonesia,pt graha sarana duta anak perusahaan telkom,0,0.9948423504829408
+3297,komisi pemilihan umum kabupaten fakfak,masyarakat umum,0,0.998101532459259
+3330,pemprov papua barat,polda papua barat,1,0.9970868229866028
+3893,pemkab sumedang,dinas tenaga kerja dan transmigrasi kabupaten sumedang kepala uptd blk,1,0.7008965015411377
+3896,"Bukan instansi BUMN, Kementerian, Pemerintah",wajib pajak konsultan pajak,0,0.9736392498016356
+3904,kemenhub ri,presiden ri,1,0.994052231311798
+3926,pemerintah kudus,universitas muhammadiyah kudus,0,0.9977182149887084
+4311,pemerintah kabupaten gunung mas,pt menara alfa semesta mas,0,0.9967967867851256
+4321,bp batam,lpse bp batam,1,0.9945307374000548
+4763,pt industri kereta api persero inka,pt industri kereta api inka,1,0.999128520488739
+4764,"Bukan instansi BUMN, Kementerian, Pemerintah",pihak ketiga,1,0.5249481797218323
+4765,"Bukan instansi BUMN, Kementerian, Pemerintah",pdam,0,0.9584681391716005
+4766,"Bukan instansi BUMN, Kementerian, Pemerintah",konsultan,0,0.9566109776496888
+4793,pt bgr,pt bumi jasa utama,1,0.5349753499031067
+5624,pemkab muna,dp3a kabupaten muna,1,0.9976650476455688
+6024,pemerintah kabupaten mamberamo raya,pt multi lintas buana raya,0,0.9980564713478088
+6898,pemkot kendari,pemerintah kota kendari,1,0.9983659386634828
+7174,pt asdp indonesia ferry persero,pt asdp ferry indonesia,1,0.9985051155090332
+7488,"Bukan instansi BUMN, Kementerian, Pemerintah",bpr tiur ganda,0,0.5850437879562378
+7499,pertamina geothermal,pertamina geothermal,1,0.9974653720855712
+7562,badan pengawas pemilu,ittama badan pengawas pemilu,1,0.9920969009399414
+7571,"Bukan instansi BUMN, Kementerian, Pemerintah",chocolicious,1,0.5395711064338684
+7598,pt bgr,pt cakra buana gas indonesia,1,0.8932443857192993
+8156,"Bukan instansi BUMN, Kementerian, Pemerintah",grabfood,1,0.5835981369018555
+8158,kementerian energi dan sumber daya mineral esdm,dinas esdm provinsi jawa tengah,1,0.9851362109184264
+8287,pemkot bandar lampung,walikota bandar lampung,1,0.9975156784057616
+8551,pt twc,pt citra lampia mandiri clm,1,0.992625892162323
+8696,"Bukan instansi BUMN, Kementerian, Pemerintah",kjpp anas karim rivai rekan,1,0.9587292671203612
+8697,pemkab kudus,cv media internet kudus,1,0.6536680459976196
+8720,bank bri cabang palopo,bank bri cabang palopo,1,0.9984941482543944
+8812,"Bukan instansi BUMN, Kementerian, Pemerintah",konsultan executive advisor,0,0.8371930122375488
+8857,bgr indonesia,isei ikatan sarjana ekonomi indonesia cabang jakarta,1,0.9921781420707704
+9061,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak ada,0,0.5951667428016663
+9247,pt wijaya karya serang panimbang,pt adijaya mitra perkasa,0,0.9969944953918456
+9483,kementerian agraria dan tata ruang badan pertahanan nasional bpn,kementrian kelautan dan perikanan,0,0.997495174407959
+9882,pemerintah kabupaten sigi,dinas pendidikan kabupaten sd 18 bukit sundi,0,0.998622179031372
+9961,"Bukan instansi BUMN, Kementerian, Pemerintah",lampiran,0,0.5387126207351685
+9962,"Bukan instansi BUMN, Kementerian, Pemerintah",developer griya srikandi residence,0,0.9125673174858092
+9963,"Bukan instansi BUMN, Kementerian, Pemerintah",yayasan,0,0.969011127948761
+9966,pemerintah kabupaten lebak,rs mayapada lebak bulus,0,0.9944197535514832
+9969,pemkab muara enim,wakil ketua dprd muara enim,1,0.9911391139030457
+9999,pt bgr,pt astra zeneca indonesia,1,0.5542486906051636
+10579,lembaga penjamin simpanan lps,lembaga penjaminan simpanan lps,1,0.9976789355278016
+10670,pemerintah kota banda aceh,dewan transportasi kota jakarta,0,0.99888676404953
+10748,dewan ketahanan nasional,dewan ketahanan nasional,1,0.9961321353912354
+11081,pemkot cirebon,bank indonesia cabang cirebon,1,0.996215283870697
+11104,pemerintah kabupaten aceh barat,dinas syariat islam aceh,0,0.9990838766098022
+11118,indonesia financial group,andalas group,0,0.9782015085220336
+11562,pemkab lamongan,inspektorat kabupaten lamongan,1,0.994403839111328
+11754,pemerintah kabupaten tapanuli tengah,dinas pemberdayaan masyarakat desa kependudukan dan pencatatan sipil provinsi jawa tengah,0,0.9985101819038392
+11755,"Bukan instansi BUMN, Kementerian, Pemerintah",inoveam,1,0.6100079417228699
+11758,kementerian perencanaan pembangunan nasional ppn badan perencanaan pembangunan nasional bappenas,bappenas,1,0.933431088924408
+11920,pt dkb,pengajar di pt service quality centre indonesia,1,0.9721563458442688
+12338,"Bukan instansi BUMN, Kementerian, Pemerintah",cv sabena rizky prakasa,0,0.5232977867126465
+12403,pemprov kalimantan tengah,provinsi kalimantan tengah,1,0.9983459711074828
+12481,pt bgr,grup marketing head pt finusolprima farma,1,0.9011509418487548
+12857,pemerintah kabupaten intan jaya,cv elatindo kharisma jaya,0,0.9979356527328492
+13716,pemerintah kabupaten kebumen,pemerintah kabupaten kebumen,1,0.9992663264274596
+14455,asuransi jasindo,pt asuransi jasindo cabang banjarmasin,1,0.9974005222320556
+14746,pt twc,pt bara jaya utama,1,0.6492581367492676
+14894,kementerian pendidikan kebudayaan riset dan teknologi,dinas pendidikan wamena,0,0.9967406392097472
+15541,pemkot tegal,forum guru honorer negeri lolos passing grade seluruh indonesia fghnlpsi ppk guru 2021 wilayah kabupaten tegal,1,0.9718510508537292
+15570,pt bgr,pt langgeng jaya makmur,1,0.6285951137542725
+15960,lpsk ri,anggota dpr ri komisi ix,1,0.9386247992515564
+15985,pemkot yogyakarta,pta yogyakarta,1,0.9987818598747252
+16114,pemkot probolinggo,hotel bromo park kota probolinggo,1,0.9841457009315492
+16145,badan pengelola keuangan haji,badan pengelola keuangan haji,1,0.9989620447158812
+16199,"Bukan instansi BUMN, Kementerian, Pemerintah",silvia anggraeni sh mkn,1,0.820354163646698
+16202,pemkot semarang,klinik pip semarang,1,0.9829950928688048
+16205,"Bukan instansi BUMN, Kementerian, Pemerintah",pihak swasta seniman patung,0,0.7637293338775635
+16211,pemerintah kabupaten gunung kidul,mantan penanggungjawab kepala desa gunggungan kidul staf kecamatan pakuniran,0,0.996736228466034
+16338,pemkot depok,smk negeri 3 kota depok,1,0.9433926939964294
+16341,"Bukan instansi BUMN, Kementerian, Pemerintah",lidiwanto sh mkn,1,0.8776374459266663
+16792,pemkab bandung barat,kabupaten bandung barat,1,0.9982855916023254
+16980,pemerintah kabupaten bandung barat,sekretariat dewan perwakilan rakyat kabupaten kukar,0,0.9991875290870668
+17349,"Bukan instansi BUMN, Kementerian, Pemerintah",rs ksh,1,0.8009034991264343
+17372,bni life insurance,bni life insurance,1,0.99871027469635
+17767,pt bank rakyat indonesia,corporate banking director pt bank dbs indonesia,1,0.9954429864883424
+18068,pt kiw,pt dwi putri sulung,1,0.756165087223053
+18378,pemprov ntb,universitas hamzanwadi ntb,1,0.5957667231559753
+18383,pemkab lebak,bappelitbangda kab lebak,1,0.9972975850105286
+18385,"Bukan instansi BUMN, Kementerian, Pemerintah",warga ketua rw,0,0.6197494864463806
+18386,pt hotel indonesia natour,hotel swiss bell inn,0,0.985647201538086
+18390,"Bukan instansi BUMN, Kementerian, Pemerintah",perbankan bsi,0,0.6360918283462524
+19552,pemerintah kabupaten lahat,pemerintah kabupaten lahat,1,0.998394787311554
+19594,pt kimia farma,kimia farma apotek cabang malang,1,0.9933242201805116
+19641,"Bukan instansi BUMN, Kementerian, Pemerintah",swalayan,0,0.5107002854347229
+19642,kacab bri samarinda 1,sma n 1 jogonalan,0,0.8581085205078125
+19669,pt bgr,pt blessindo anugrah sentosa,1,0.5884088277816772
+51,bank mandiri,bank sulutgo,0,0.996961772441864
+71,"Bukan instansi BUMN, Kementerian, Pemerintah",ipdn jatinangor,0,0.7397716045379639
+98,pt bgr,pt tirta investama,1,0.9668261408805848
+464,kementerian desa,kepala desa kembang kuning,0,0.9981406927108764
+693,pt bank mandiri,pt artha gusti utama,0,0.9958872199058532
+917,bri cabang brebes,bri cabang brebes,1,0.9984651803970336
+921,"Bukan instansi BUMN, Kementerian, Pemerintah",usahawan,0,0.9849973917007446
+1124,pt bri cabang bojonegoro dan pt bri cabang nganjuk,exim pt marinecipta agung,1,0.8246120810508728
+1312,pemkot padang,bbpom di padang,1,0.994404911994934
+1346,pt bgr,pt trimegah sekuritas indonesia tbk,1,0.9782966375350952
+1926,industri sandang nusantara,koperasi wahana agri nusantara,0,0.9955814480781556
+1957,bank bri cabang palopo,bank jateng,1,0.8449838757514954
+1984,pemprov sumatera selatan,bakrie sumatera plantation,0,0.9963552951812744
+1992,pemerintah kabupaten sragen,pon pes al hikmah tanon sragen,0,0.9936182498931884
+2354,pt sarana multigriya finansial persero,pt bumi jatikalang,0,0.997836410999298
+2457,badan pengatur hilir minyak dan gas bumi bph migas,kantor kesyahbandaran dan otoritas pelabuhan kelas ii benoa,0,0.9886447191238404
+2485,"Bukan instansi BUMN, Kementerian, Pemerintah",yasmina foundation,1,0.5294070243835449
+2486,pemkot palembang,rsup dr rivai abdullah palembang,1,0.9324502944946288
+2937,pemerintah kabupaten rokan hulu,badan narkotika nasional kabupaten gresik,0,0.9991152882575988
+3119,badan informasi geospasial,badan informasi geospasial,1,0.9981626868247986
+3146,pemkab cianjur,kantor pertanahan kab cianjur,1,0.6165408492088318
+3290,pt bni persero tbk,bank mandiri bank bri bank kb bukopin bank bsi bank btn bank bni pt mandiri manajemen investasi,1,0.8380438089370728
+3764,pt kilang pertamina internasional,pt kilang pertamina internasional,1,0.998415470123291
+5256,pemerintah karanganyar,pemerintah kabupaten karanganyar,1,0.9990930557250975
+5522,pt askrindo,pt askrindo cabang balikpapan,1,0.9974195957183838
+5747,pt kiw,pt padma citra amahi,1,0.5825453996658325
+6161,pt pertamina gas negara,pt sumber inti pangan,0,0.9981890320777892
+6445,"Bukan instansi BUMN, Kementerian, Pemerintah",cv bangun karsa,0,0.9567923545837402
+6492,pt emi,pt clariant,1,0.9937397241592408
+7414,pt indonesia asahan aluminium persero,pt indonesia asahan aluminium persero,1,0.9987687468528748
+7544,pemkab jombang,yayasan kepuhdoko jombang,1,0.8445890545845032
+8426,pemkot bandar lampung,pemerintah kota bandar lampung,1,0.9986316561698914
+8440,pemerintah kabupaten jombang,rumah sakit pelengkap jombang,0,0.9978325963020324
+8441,"Bukan instansi BUMN, Kementerian, Pemerintah",perbarindo,1,0.5962525606155396
+8442,"Bukan instansi BUMN, Kementerian, Pemerintah",kontraktor,0,0.9560956358909608
+8478,pt bank mandiri cikampek,bank jago allo bank bank ganesha,0,0.9955765008926392
+8503,pemerintah kabupaten bandung,hotel mercure bandung,0,0.9987167119979858
+8506,kejaksaan negeri kota kediri,kejaksaan,1,0.9699313044548036
+8548,pt bgr,group usaha pt isa indonesia,1,0.933104932308197
+9097,"Bukan instansi BUMN, Kementerian, Pemerintah",politeknik el bajo commodus,0,0.9880051016807556
+9380,pt bank tabungan negara persero tbk btn,pt salsabila hydro energi,0,0.9971025586128236
+10273,pemerintah kabupaten bangli,pemerintah kabupaten bangli,1,0.9981583952903748
+10691,"Bukan instansi BUMN, Kementerian, Pemerintah",png icac,1,0.9494523406028748
+10692,"Bukan instansi BUMN, Kementerian, Pemerintah",farida sulistyani partners,1,0.657842755317688
+10719,pt bgr,pt arman jaya sukses,1,0.8447661399841309
+11220,pemprov sulawesi barat,dinas perpustakaan dan kearsipan provinsi sulawesi selatan,0,0.9988746047019958
+11286,"Bukan instansi BUMN, Kementerian, Pemerintah",chiko family,1,0.954667627811432
+11287,"Bukan instansi BUMN, Kementerian, Pemerintah",hippindo,1,0.9914862513542176
+11391,pt jaminan kredit indonesia,undp indonesia,1,0.9983660578727722
+11481,"Bukan instansi BUMN, Kementerian, Pemerintah",para tamu undangan,1,0.5273729562759399
+11554,pt kiw,pt ballast graha,1,0.7829594016075134
+12213,pt taman wisata candi borobudur prambanan dan ratu boko persero,pt amtek perkasa internasional,1,0.9111542105674744
+12320,pt kiw,pt tripakarta,1,0.6679109930992126
+12681,bank btn jayapura,bank btn jayapura,1,0.9986425042152404
+12715,pt bgr,pt budi starch sweetener tbk,1,0.804024875164032
+13094,pemerintah kabupaten sragen,danramil 0725 sragen,0,0.996720850467682
+13101,pemerintah kabupaten aceh jaya,komika jaya,0,0.9983376264572144
+13108,bank bri cab fakfak,polres fakfak,1,0.976756989955902
+13114,mahkamah agung,mahkamah agung,1,0.9965676069259644
+13117,anggota dpr,anggota partai nasdem,0,0.9871091842651368
+13192,pemprov bengkulu,bkd provinsi bengkulu,1,0.9983808994293212
+13271,pt kiw,pt samari bone raya,1,0.5362201929092407
+13624,pt bgr,pt astra daihatsu motor,1,0.9593937397003174
+14233,pt twc,pt new hope,1,0.9868965744972228
+14367,pemprov jabar,dinas perkebunan jabar,0,0.9921115636825562
+14525,pt dkb,pt indofood sukses makmur tbkbogasari flour mills,1,0.9567267894744872
+14776,pt bgr,pt rajawali citra televisi indonesia,1,0.955995798110962
+15330,"Bukan instansi BUMN, Kementerian, Pemerintah",individual,0,0.6669323444366455
+15333,pemerintah kabupaten barito kuala,dosen universitas syiah kuala tim periset yang menyampaikan pemberian paket dari lppm unsyiah,0,0.9181004166603088
+15716,pemkab lingga,pt lingga suci,1,0.7583959102630615
+15718,bin,bin,1,0.9795803427696228
+15724,kementerian dalam negeri,smk negeri 1 sedan,0,0.9894199371337892
+15727,"Bukan instansi BUMN, Kementerian, Pemerintah",tamu undangan syukuran pernikahan,0,0.7146098017692566
+15768,bank mandiri cabang samarinda,kepala cabang mandiri kcketapang,1,0.8975436687469482
+15774,pt pengembangan armada niaga nasional,cimb niaga,0,0.9781697988510132
+15781,bank bni cabang maros,bank bukopin cabang maros,1,0.9913311004638672
+15884,pt bgr,pt kis kantin insan sejahtera,1,0.8557197451591492
+16625,geo dipa energi,pt geo dipa energi,1,0.9989570379257202
+16841,pt bri cabang bojonegoro dan pt bri cabang nganjuk,pt beritakota media siber beritakotaid,1,0.9907107949256896
+17025,pt energi management indonesia persero,sucor asset management,0,0.9836134910583496
+17840,pemerintah kota surabaya,pemerintah kota surabaya,1,0.9989632368087769
+17912,pemkab malang,wakil bupati malang,1,0.9324836730957032
+17916,"Bukan instansi BUMN, Kementerian, Pemerintah",rans,1,0.6071640253067017
+17917,indonesia tourism development coporation itdc,business development manager,1,0.8801143169403076
+17919,"Bukan instansi BUMN, Kementerian, Pemerintah",cv arya putra,0,0.8555395603179932
+17923,pemprov sulawesi tenggara,bpd sulawesi tenggara,1,0.9970111846923828
+17951,kemen bumn,pegawai bumn,1,0.946224570274353
+17990,bank mandiri cabang gunungsari,bank bjb bandar lampung,1,0.9837014079093932
+18042,pt bgr,pt golden palem,1,0.9248210787773132
+18499,cfo pt pertamina,cfo pt pertamina,1,0.9988691210746764
+18791,pt perusahaan listrik negara,kontraktor listrik tidak diketahui nama perusahaannya,1,0.8175768852233887
+18794,"Bukan instansi BUMN, Kementerian, Pemerintah",emados shawarma tempat makan,0,0.6841540932655334
+18795,"Bukan instansi BUMN, Kementerian, Pemerintah",instansi pemberi tidak diketahui,0,0.7971035242080688
+18796,"Bukan instansi BUMN, Kementerian, Pemerintah",rekanan notaris,0,0.8932757377624512
+19090,pt danareksa persero,pt danareksa persero,1,0.9987671375274658
+19563,pt twc,pt kustodian sentral efek indonesia ksei,1,0.9910902976989746
+19912,pt bgr,pt energizer indonesia,1,0.9115781188011168
+468,perum jasa tirta ii,peserta pelatihan pkn ii angk v,1,0.9083728790283204
+471,"Bukan instansi BUMN, Kementerian, Pemerintah",cv anugrah pratama,0,0.9485878348350524
+1299,pemerintah kabupaten bandung,pemerintah kabupaten bandung,1,0.9990542531013488
+1683,kementerian desa pdtt,kepala desa,0,0.99616676568985
+1738,pemerintah kabupaten konawe utara,bank bahteramas konawe,0,0.9989054203033448
+1796,kementerian perhubungan,inspektorat investigasi kementerian perhubungan,1,0.5310665369033813
+1804,"Bukan instansi BUMN, Kementerian, Pemerintah",takmir masjid asy syuro karet setiabudi,0,0.538825511932373
+1810,pt perusahaan perdagangan indonesia,perusahaan swasta perhotelan,0,0.9945911169052124
+1823,indah karya,puri rafika indah sejahtera,0,0.9934012293815612
+1829,pemerintah provinsi daerah khusus ibukota jakarta,rs jiwa daerah atma husada mahakam,0,0.9953882694244384
+1866,pt bgr,pt integra,1,0.9645739197731018
+2222,pemkab sleman,bupati sleman,1,0.9981719255447388
+2251,pt bgr,pt neurosensum technology international,1,0.7359948754310608
+2607,"Bukan instansi BUMN, Kementerian, Pemerintah",delegasi dari bangladesh,0,0.6890338659286499
+2641,kantor pegadaian kanwil viii jakarta,kantor pegadaian kanwil viii jakarta,1,0.9972368478775024
+2677,kementerian transmigrasi,kementerian perhubungan,0,0.9979230761528016
+3065,pemerintah kota salatiga,pemerintah kota salatiga,1,0.9988792538642884
+3606,"Bukan instansi BUMN, Kementerian, Pemerintah",wp,0,0.5471567511558533
+3612,pemkot samarinda,marketing mercure hotel samarinda,1,0.8718647956848145
+3619,inspektorat jenderal tni,inspektorat jenderal mabes tni,1,0.9980828762054444
+3623,"Bukan instansi BUMN, Kementerian, Pemerintah",ketua kadin solo sekaligus dirut indria grup,1,0.6689494848251343
+3624,"Bukan instansi BUMN, Kementerian, Pemerintah",sanggar agro,0,0.9511339664459229
+3631,pt industri sandang,kamar dagang industri,0,0.993324100971222
+3690,pt bgr,pt bank syariah indonesia tbk kcp tangerang graha raya,1,0.9887789487838744
+4393,pemerintah kabupaten muaro jambi,bank mandiri jambi gatot subroto,0,0.9936327338218688
+4786,pemerintah kabupaten intan jaya,pt panggung jaya indah,0,0.9976992011070251
+4805,pemkot semarang,balai besar pom semarang,1,0.949737310409546
+4808,pemkab banyuwangi,kejari banyuwangi,1,0.9978454113006592
+4811,"Bukan instansi BUMN, Kementerian, Pemerintah",szenou auzore forestry,1,0.7551030516624451
+4812,"Bukan instansi BUMN, Kementerian, Pemerintah",spbu transporti,0,0.915483295917511
+5648,pemerintah kabupaten indramayu,pemerintah kabupaten indramayu,1,0.9986298084259032
+6013,kementerian desa,gampong desa,0,0.9963713884353638
+6156,pt smf,pt intiland,1,0.9880401492118835
+6771,pt energy management indonesia,pt pjb,1,0.9984725117683412
+6780,"Bukan instansi BUMN, Kementerian, Pemerintah",cv alpha romeo bangkit,1,0.8583629131317139
+6782,bni kantor wilayah 12,ll dikti wilayah vii,1,0.7661113142967224
+6990,pemerintah kabupaten badung,pemerintah desa margajaya,0,0.9994812607765198
+7682,pt smf,pt astra sedaya finance cabang bandung,1,0.9952734112739564
+7967,pemkot banjarmasin,radar banjarmasin,1,0.92367422580719
+8094,pemerintah kabupaten minahasa selatan,dinas pemuda dan olahraga kalimantan selatan,0,0.9992146492004396
+8679,pt reasuransi indonesia utama,pt mess indonesia utama,1,0.9759450554847716
+8682,pemkab lamongan,uvinersitas muhammadiyah lamongan,1,0.9573962092399596
+9558,pemkot palangka raya,pemerintah kota palangka raya,1,0.9986716508865356
+9598,pt bgr,pt petrosea,1,0.6893225312232971
+10377,pemerintah kabupaten berau,pemerintah kabupaten berau,1,0.9990750551223756
+11304,lpsk ri,kementerian hukum dan ham ri kantor wilayah riau,1,0.899454653263092
+11338,"Bukan instansi BUMN, Kementerian, Pemerintah",planet biru advertising,0,0.7640761137008667
+11345,pemerintah kabupaten merangin,kepolisian resor merangin,0,0.997310996055603
+11945,pt rni,pt rajawali nusantara indonesia rni,1,0.9984976053237916
+11952,kementerian luar negeri,sma negeri 1 sragi,0,0.9946314096450806
+11958,pemkab sumenep,smpn 2 sumenep,1,0.978665053844452
+12104,pemerintah kabupaten blitar,biro pemerintahan kabupaten karanganyar,0,0.999319314956665
+12454,pt bgr,pt mnc sekuritas,1,0.9883880019187928
+12835,rcm51 btn makassar,kantor kesyahbandaran utama makassar,1,0.5387414693832397
+13505,bank nasional indonesia bni 46,pt bank negara indonesia bni 46 cabang pangkalan bun,1,0.9920722842216492
+13695,pt smf,pt dedy jaya lambang perkasa,1,0.5886492133140564
+14159,pemerintah kabupaten karangasem,pemerintah desa morosunggingan,0,0.9992477893829346
+14709,skk migas,skk migas perwakilan jawa timur,1,0.9625325798988342
+14924,pemkot bandung,sekretariat daerah setda kota bandung,1,0.9901947379112244
+14935,"Bukan instansi BUMN, Kementerian, Pemerintah",cv agro mega arwana,0,0.8379290103912354
+15320,pemerintah kota balikpapan,pt jasamarga balikpapan samarinda,0,0.9974573254585266
+15328,"Bukan instansi BUMN, Kementerian, Pemerintah",sasha collection,1,0.9092408418655396
+16217,pemerintah kabupaten mojokerto,pemerintah kabupaten mojokerto,1,0.999025583267212
+16531,indonesia financial group ifg,jatiwangi property group,0,0.96484375
+16559,pt bgr,pt bank central asia tbk corporate banking group,1,0.9492125511169434
+17010,pt bgr,pt ume sembada,1,0.9910728335380554
+17366,nasabah bni,nasabah,1,0.5354545712471008
+17372,komisi aparatur sipil negara ri,komisi aparatur sipil negara,1,0.998155415058136
+17433,pt reasuransi indonesia utama,snepac multindo utama,1,0.6930612325668335
+17531,pupuk indonesia,universitas indonesia,0,0.997123658657074
+17650,kementerian energi dan sumber daya mineral,kementerian energi dan sumber daya mineral,1,0.9980735778808594
+18584,pemerintah kota batu,pemerintah kota batu,1,0.9984630346298218
+18665,kemenhub ri,staf ahli dpr ri,1,0.9961167573928832
+18745,perum percetakan uang republik indonesia peruri,perum percetakan uang republik indonesia peruri,1,0.9983776807785034
+18980,pemerintah kabupaten sidoarjo,balai desa ganggang panjang tanggulangin sidoarjo,0,0.9972846508026124
+19378,pt bank bri persero cabang ujung batu,pt bank bri persero cabang ujung batu,1,0.9983944296836852
+19612,bpjs ketenagakerjaan,bpjs ketenagakerjaan,1,0.9982689619064332
+19755,pt smf,pt corteva agriscience indonesia,1,0.7934046387672424
+190,"Bukan instansi BUMN, Kementerian, Pemerintah",polsek tembelang,0,0.976732075214386
+191,indonesia financial group ifg,mnc group,1,0.9925218224525452
+311,pemkot tebing tinggi,bkd kota tebing tinggi,1,0.9969417452812196
+320,angkasa ii,puskesmas keling ii,0,0.9940969944000244
+573,pt shs,pt universal gear vishing solutions,1,0.9777291417121888
+758,pt indra karya,pt meranti karya mandiri,0,0.9977194666862488
+1172,btn pluit,btn pluit,1,0.9988848567008972
+1181,perusahaan perdagangan indonesia,perusahaan asuransi,0,0.9949166774749756
+1601,pt pegadaian persero,pt pegadaian,1,0.9983891248703004
+1643,pt danareksa,pt quantum analytics teknikatama,0,0.994530975818634
+2010,pt bgr,pt bahana cipta internusa,1,0.6197832822799683
+2785,pt kawasan industri makassar,pt kawasan industri makassar kima persero,1,0.9722660183906556
+2946,pemerintah kabupaten tulang bawang,kelompok petani bawang samili,0,0.9959657192230223
+3049,pemkab muaro jambi,pemkot jambi,1,0.9985882639884948
+3057,pemerintah kabupaten klaten,lab prodia klaten,0,0.997484803199768
+3086,pemkab pesisir selatan,dinas pp kab pesisir selatan,1,0.9738008975982666
+3151,pt bgr,pt tampan family corp,1,0.9854534268379213
+3507,"Bukan instansi BUMN, Kementerian, Pemerintah",tamu undangan pernikahan,0,0.6584321856498718
+3508,"Bukan instansi BUMN, Kementerian, Pemerintah",direktorat rehsos lanjut usia,0,0.8988127708435059
+3509,"Bukan instansi BUMN, Kementerian, Pemerintah",universitas tarumanegara,0,0.9897418022155762
+3579,kementerian desa,bea dan cukai kementerian keuangan,0,0.9969707727432252
+3904,pt telkom,pt petrokopindo cipta selaras,0,0.9973601698875428
+4026,"Bukan instansi BUMN, Kementerian, Pemerintah",gramedia,1,0.5673227310180664
+4414,rajawali nusindo,pt rajawali nusindo,1,0.9990856647491456
+4420,kejaksaaan tinggi provinsi jawa tengah,kejaksaan tinggi provinsi jawa tengah,1,0.9897087216377258
+4551,pemerintah kota pematang siantar,desa pematang jaya,0,0.9987601041793824
+4720,pt dkb,pt swamedika,1,0.9585453271865844
+4971,pt bgr,pt graha sativa indonesia,1,0.7810131907463074
+5520,"Bukan instansi BUMN, Kementerian, Pemerintah",tamu undangan,0,0.6221142411231995
+5522,pt bank mandiri,cv mandiri sejahtera,0,0.9953022003173828
+5538,pemerintah kabupaten jombang,klinik mata rs nu jombang dan rs pelengkap,0,0.9914392232894896
+5740,pt smf,pt omron manufacturing of indonesia bekasi,1,0.954425811767578
+6191,kemenko perekonomian,biro perekonomian provinsi jawa barat,1,0.9811578392982484
+6351,pemkot padang panjang,pelaku ekraf desa pasir panjang,1,0.5444090962409973
+6353,"Bukan instansi BUMN, Kementerian, Pemerintah",gramedia gajah mada,1,0.8496807217597961
+6354,"Bukan instansi BUMN, Kementerian, Pemerintah",candigolf,1,0.6154191493988037
+7553,pemerintah sampang,pemerintah kabupaten sampang,1,0.9987063407897948
+7650,pt permodalan nasional madani,pt ame,1,0.9986681938171388
+7937,"Bukan instansi BUMN, Kementerian, Pemerintah",hasta mitra baruna,0,0.6204362511634827
+7938,dpd,dpd rei kalimantan selatan,1,0.9058462977409364
+8036,pt bgr,pt softwareone indonesia,1,0.9086138010025024
+8585,"Bukan instansi BUMN, Kementerian, Pemerintah",kedubes rrt,1,0.968880832195282
+8594,pemerintah kabupaten penajam paser,kecamatan bareng kabupaten jombang,0,0.9992700219154358
+9031,"Bukan instansi BUMN, Kementerian, Pemerintah",tamu undangan terlampir,0,0.5481778383255005
+9334,pt indra karya persero,sales pt mahkota nusantara,0,0.9975111484527588
+9547,kementerian pekerjaan umum dan perumahan rakyat pupr,kepala bppw jambi ditjen cipta karya kementerian pupr,1,0.991588294506073
+10760,pemkab banyumas,pemerintah kabupaten banyumas,1,0.9986829161643982
+11145,pt sarana multi infrastruktur,pt sarana multi infrastruktur persero pt smi,1,0.9985617995262146
+11307,pemkab ogan komering ilir,dpppa ogan komering ilir,1,0.9027027487754822
+11319,"Bukan instansi BUMN, Kementerian, Pemerintah",walikota,0,0.9229171276092528
+11460,pt smf,pt cheong song,1,0.9794379472732544
+11702,"Bukan instansi BUMN, Kementerian, Pemerintah",informa,0,0.5852892398834229
+11703,"Bukan instansi BUMN, Kementerian, Pemerintah",ekspedisi sinar aji cepat bhayangkara,0,0.5974371433258057
+11838,pemerintah kabupaten sumba barat daya,dinas pengendalian penduduk dan keluarga berencana kab muna barat,0,0.998403012752533
+12155,pt jakarta industrial estate pulogadung,pt hanim setia cemerlang,1,0.9150681495666504
+12253,pt bgr,pt formulatrix,1,0.9811299443244934
+12609,inspektorat jenderal tni,direktorat jenderal pajak,0,0.991657555103302
+12612,tentara nasional indonesia tni,danyon tni,1,0.9259783029556274
+12613,nasabah bank mandiri pemilik toko parfum,toko mutiara herbal,0,0.9683167934417723
+12617,bank bni cabang maros,bank jabar sumedang,1,0.941669464111328
+12786,pemkot tegal,dprd kota tegal,1,0.9903692603111268
+12815,pt bgr,pt intermedia,1,0.9505228996276855
+13174,pt energy management indonesia,building management nifarro,1,0.7838079929351807
+13213,kementerian ketenagakerjaan,kementerian ketenagakerjaan,1,0.9835224151611328
+14109,pemerintah jawa barat,pemerintah provinsi jawa barat,1,0.999020218849182
+15350,pemerintah kabupaten rembang,pemerintah kabupaten rembang,1,0.9987326264381408
+15607,pemerintah provinsi dki jakarta,pemerintah provinsi dki jakarta,1,0.9989765882492064
+16196,"Bukan instansi BUMN, Kementerian, Pemerintah",laboratorium prodia,0,0.7066301107406616
+16197,"Bukan instansi BUMN, Kementerian, Pemerintah",umot herbal sinar bambu kuning,1,0.7905659079551697
+16198,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan ngraho,0,0.9887499809265136
+16221,pt barata,pt tanjungraya intiwira,0,0.997119665145874
+17779,pemerintah bangkalan,pemerintah kabupaten bangkalan,1,0.9990192651748656
+17781,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak tau,1,0.7675106525421143
+17809,pt bgr,direktur pt bukit asam tbk,1,0.6218926310539246
+18285,pemerintah kabupaten grobogan,dinas pendidikan kabupaten serdang bedagai,0,0.9993485808372498
+18661,pt bgr,pt bhumi phala perkasa,1,0.8060685396194458
+19017,"Bukan instansi BUMN, Kementerian, Pemerintah",ganesha operation,0,0.6509508490562439
+19452,pt bri cabang bojonegoro dan pt bri cabang nganjuk,pt bri cabang bojonegoro dan pt bri cabang nganjuk,1,0.9974600672721864
+19971,nasabah bank mandiri,pt taspen pt bank mandiri banggar dpr pt bank syariah indonesia,1,0.7297804355621338
+208,kementerian perencanaan pembangunan nasional ppn badan perencanaan pembangunan nasional bappenas,badan,1,0.7981403470039368
+397,pt dkb,pt aneka tambang persero tbk,1,0.8393862843513489
+772,bpkp,bpkp,1,0.9958743453025818
+801,pt bgr,pt dinamika sejahtera mandiri,1,0.85752272605896
+1172,"Bukan instansi BUMN, Kementerian, Pemerintah",pns,0,0.8565492033958435
+1173,"Bukan instansi BUMN, Kementerian, Pemerintah",polda,0,0.8372529149055481
+1617,pemkab pringsewu,inspektorat kabupaten pringsewu,1,0.9936884045600892
+2001,pemkab aceh barat daya,kuasa wajib pajak atas nama pt tri daya kreasi,0,0.9945631623268129
+2010,kacab bri samarinda 1,asn kepala smpn 1 biau,0,0.7256959676742554
+2011,kementerian desa,bendahara desa,0,0.9966524243354796
+2017,pemerintah provinsi di yogyakarta,rumah sakit swasta di solo,0,0.9863344430923462
+2158,pt smf,pt computa,1,0.9052808880805968
+2501,bnsp republik indonesia,isei ikatan sarjana ekonomi indonesia caban jakarta,1,0.987500548362732
+2618,pt pp,pp perbasi,1,0.9897404909133912
+2647,pt bgr,pt bank pembangunan daerah kalimantan selatan,1,0.9022827744483948
+3156,pemerintah kabupaten intan jaya,cv dini jaya,0,0.9984582662582396
+3159,pemkab bondowoso,universitas bondowoso,1,0.8194037079811096
+3188,pt bgr,pt muhibah abadi,1,0.991440773010254
+3860,pt kliring berjangka indonesia persero,pt anugerah lautan perkasa pt anugerah djam sawit,0,0.9983843564987184
+3926,"Bukan instansi BUMN, Kementerian, Pemerintah",yayasan putra putri cemeralng,0,0.9812777638435364
+3951,bank rakyat indonesia cabang sintang,bank woori saudara cabang surapati core,0,0.97472882270813
+4143,pt smf,pt bpr kerta raharja gemilang,1,0.901835322380066
+4464,pt kiw,pt mrt jakarta,1,0.951252281665802
+5187,pemerintah kabupaten tanjung jabung timur,pt tanjung krida perkasa,0,0.9973142743110656
+5190,debitur bni,debitur,0,0.532099187374115
+5191,lembaga kebijakan pengadaan barang jasa pemerintah,mitra pengandaan barang,0,0.9876115918159484
+5193,"Bukan instansi BUMN, Kementerian, Pemerintah",pakis hasanah smart living,0,0.7829099297523499
+5194,kementerian desa,desa karangkamulyan,0,0.9971283078193665
+5208,pemerintah kota batam,catering resto semeru batam,0,0.9972800016403198
+5212,nasabah bank mandiri pemilik toko parfum,nasabah pemilik toko,1,0.9474881291389464
+5286,pt kiw,pt sembilan bintang,1,0.859135627746582
+5598,pt hotel indonesia natour,hotel griya persada bandungan,0,0.9655178189277648
+5607,bkkbn provinsi sulawesi utara,bkkbn provinsi sulawesi utara,1,0.9984301924705504
+5762,pemerintah kabupaten lampung selatan,bpsdm lampung,0,0.9975962042808532
+5768,"Bukan instansi BUMN, Kementerian, Pemerintah",tim catering,0,0.7477257251739502
+5771,kepolisian negara republik indonesia,kepolisian,1,0.7714359164237976
+5790,pemkot surabaya,balai besar pom di surabaya,1,0.9914472103118896
+5870,pt kiw,pt nusantara compnet integrator,1,0.7529845237731934
+6393,pt telkom indonesia,pt griya mapan alami,0,0.9964150190353394
+6624,bgr indonesia,huawei innovation center indonesia,1,0.9532764554023744
+7971,pemkab deli serdang,pemerintah kabupaten deli serdang,1,0.9992398023605348
+8063,badan pertanahan nasional,kantor wilayah badan pertanahan nasional provinsi jawa tengah,1,0.816023588180542
+8263,bank bri pematang siantar,bank bri pematang siantar,1,0.9987963438034058
+8333,"Bukan instansi BUMN, Kementerian, Pemerintah",japfa,1,0.9163727164268494
+8627,pt danareksa persero,tax function department staff pt bga,1,0.9953691363334656
+8865,badan pengawasan keuangan dan pembangunan bpkp,badan pengawasan keuangan dan pembangunan bpkp,1,0.9980915188789368
+8870,mahkamah agung ma,kades guru agung kec suka merindu,0,0.9852633476257324
+8885,pt boma bisma indra persero cabang jakarta,smk rpi jakarta,1,0.7696505784988403
+8895,kementerian tenaga kerja,mitra kerja,0,0.9942264556884766
+8917,pemprov jawa tengah,biro logistik polda jawa tengah,1,0.9906617999076844
+9021,indonesia asahan aluminium,persatuan ahli farmasi indonesia,0,0.9972609281539916
+9201,pemerintah kabupaten halmahera timur,pjs kepala desa kepala siring kec kikim timur,0,0.9975892305374146
+9289,pt pelayaran nasional indonesia,pengurus pusat perkumpulan filatelis indonesia,0,0.9914970993995668
+9546,pemerintah kabupaten maluku tenggara barat,kantor perwakilan skk migas jawa bali madura dan nusa tenggara,0,0.994449257850647
+9552,"Bukan instansi BUMN, Kementerian, Pemerintah",cv lebok 023734849805000,1,0.9418913722038268
+9553,pemkab pati,luwes pati,1,0.8862976431846619
+9582,pt bgr,staff operasional pt berkah berjaya energi indonesia,1,0.8800176382064819
+10525,pemerintah kabupaten indragiri hulu,dinas kearsipan dan perpustakaan kabupaten pelalawan,0,0.9993129968643188
+10676,pt bgr,pt hasil melimpah,1,0.8324320316314697
+11189,pt dkb,komisaris pt cassadna rudi atip,1,0.955306887626648
+11432,pemerintah kabupaten puncak jaya,sarana jaya properindo,0,0.9983410835266112
+12252,pemerintah kota balikpapan,pemerintah kota balikpapan,1,0.9989787340164183
+12309,"Bukan instansi BUMN, Kementerian, Pemerintah",bkpsdm,1,0.9914053678512572
+12310,"Bukan instansi BUMN, Kementerian, Pemerintah",kecamatan rubaru,0,0.9892287254333496
+12353,dewan perwakilan rakyat daerah,industri karak bolon daerah colomadu,0,0.992103397846222
+12363,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris peni inggriani sm,1,0.5906150341033936
+12769,pt bio farma bandung,pt bio farma bandung,1,0.9986585378646852
+13975,pemerintah kabupaten pringsewu,pemerintah kabupaten pringsewu,1,0.9990069270133972
+13979,kantor berita nasional,kantor notaris,0,0.9931656718254088
+14068,pt kiw,pt ligno,1,0.9773247241973876
+14394,pt industri sandang,ptkrakatau tirta industri,0,0.993347704410553
+14429,pemkot pagar alam,walikota pagar alam,1,0.9991162419319152
+14434,komisi penyiaran indonesia daerah,inspektorat daerah,1,0.6907889246940613
+14840,asuransi jasindo,pt asuransi jasindo,1,0.9985311031341552
+14849,perusahaan gas negara,perusahaan sawit,0,0.9956161975860596
+14864,pemkab muara enim,camat muara payang an forum kades muara payang,1,0.9568973183631896
+14938,bp2mi jawa barat,anggota dprd provinsi jawa barat,1,0.9664783477783204
+15026,kementerian sekretariat negara,sekretariat inspektorat,0,0.9968518614768982
+15029,"Bukan instansi BUMN, Kementerian, Pemerintah",wali murid,0,0.9617213606834412
+15030,bank mandiri,mandiri investama sejati,0,0.9916180968284608
+15438,pt sarana multigriya finansial persero,pt marga sarana jabar,0,0.9969475865364076
+15784,pt sarana multi infrastruktur persero pt smi,pt js corp,1,0.996328055858612
+15834,perum perhutani divisi regional jawa barat dan banten,ketua gekraf dan umkm,1,0.9236692190170288
+15955,pt kiw,pt bank pembangunan daerah sumatera utara,1,0.8780407309532166
+16414,"Bukan instansi BUMN, Kementerian, Pemerintah",apotek varia,0,0.8838550448417664
+16436,lpsk ri,mantan wakil presiden ri,1,0.9926543235778807
+16443,"Bukan instansi BUMN, Kementerian, Pemerintah",holland bakery,0,0.8657544255256653
+16444,"Bukan instansi BUMN, Kementerian, Pemerintah",muamlat institute,1,0.935474157333374
+16445,"Bukan instansi BUMN, Kementerian, Pemerintah",poongsan,1,0.8400000929832458
+16448,kementerian desa pembangunan daerah tertinggal dan transmigrasi,mantan penanggungjawab kepala desa ranon,0,0.9801677465438844
+16450,kemenpora ri,kemenpora,1,0.9989983439445496
+17648,pemerintahan belitung,pemerintah kabupaten belitung,1,0.9986162185668944
+17659,"Bukan instansi BUMN, Kementerian, Pemerintah",huawei,0,0.7610721588134766
+17968,pemerintah kabupaten fak fak,desa lakawali pantai kecamatan malili kabupaten luwu timur,0,0.9992793202400208
+18161,pemprov kalteng,reskrim kalteng,1,0.9957054257392884
+18163,isn industri sandang nusantara  vendor garment,purchasing officer vendor,0,0.8416240215301514
+19363,pemkot magelang,pemerintah kabupaten magelang,1,0.9984101057052612
+19371,perum produksi film negara pfn,tim fsm film sunday movie,1,0.9925312399864196
+19766,pt pegadaian probolinggo,pt pegadaian probolinggo,1,0.998551070690155
+62,pt dana tabungan dan asuransi pegawai negeri   taspen persero,pt usda seroja jaya,1,0.6689141392707825
+303,pt smf,pt qualis indonesia,1,0.9750837087631226
+738,tni angkatan udara,tni angkatan udara,1,0.9984003901481628
+1212,pemerintah kabupaten way kanan,pemerintah desa karangkamulyan,0,0.9993740916252136
+1509,"Bukan instansi BUMN, Kementerian, Pemerintah",dpp perbarindo,1,0.9810160994529724
+1510,"Bukan instansi BUMN, Kementerian, Pemerintah",erha fashion,1,0.928816258907318
+1511,pemkab grobogan,pkk grobogan,1,0.9982271790504456
+1515,pemkot lhokseumawe,kpp pratama lhokseumawe,1,0.7530725002288818
+1961,pemkot semarang,dispermasdes kabupaten semarang,1,0.9839322566986084
+1973,pemerintah kota tanjung pinang,direktur tanjung harapan sentra nusa,0,0.9977853298187256
+2044,kementerian lingkungan hidup dan kehutanan,kementerian lingkungan hidup dan kehutanan,1,0.9971286654472352
+2140,pt bgr,pt anargya aset management,1,0.7506314516067505
+2503,"Bukan instansi BUMN, Kementerian, Pemerintah",awadee lpdp,1,0.9239388704299928
+2928,pt bgr logistik indonesia,pt zte indonesia,1,0.878497838973999
+3215,indonesia re,grup mining industri indonesia mind id,1,0.78753662109375
+3754,pemkab tanggamus,bkpsdm kabupaten tanggamus,1,0.9972842931747437
+3759,pembinaan usaha indonesia,pelaku usaha umkm teh senduru,0,0.9748036861419678
+3846,pt pegadaian,pt pegadaian persero,1,0.9986016154289246
+4287,pemerintah kabupaten aceh besar,kedutaan besar australia,0,0.9981800317764282
+4406,pemkot salatiga,bumd pdam kota salatiga,1,0.6268196702003479
+4427,pemerintah kota denpasar,universitas hindu negeri i gusti bagus sugriwa denpasar,0,0.985561192035675
+4443,pt bank bri persero cabang ujung batu,bank bpd diy,1,0.9887661337852478
+4501,pt bgr,pt combina costraco,1,0.9421446323394777
+4864,pemerintah kab kepulauan seribu,warga di desa malasari kecamatan cimaung kab bandung,0,0.99686461687088
+4881,pt bina karya indonesia,rs bina sehat,0,0.9950903654098512
+4890,pemerintah gunung kidul,pjs kepala desa penantian kecamatan pagar gunung,0,0.9982910752296448
+5051,pt dkb,pt thorcon power indonesia,1,0.993381142616272
+5698,pt bank mandiri cikampek,pt bank mandiri persero tbk,1,0.996295154094696
+6134,pt kiw,pt berkah serayu dinata,1,0.8158286809921265
+6826,jamkrindo,pt jamkrindo kanwil viii banjarmasin,1,0.990960419178009
+6909,pt kiw,pt berkah integra gemilang sejati,1,0.9437180757522584
+7661,pemkab demak,uppd kabupaten demak,1,0.9355730414390564
+8025,pemerintah kabupaten jeneponto,kantor pertanahan kabupaten temanggung,0,0.9989182949066162
+8153,pemerintah kota jakarta timur,universitas muhamadiyah jakarta,0,0.9969653487205504
+8274,pemkot palembang,bappeda litbang kota palembang,1,0.9935626983642578
+8730,pemerintah kabupaten lanny jaya,pt haji muhammad taher dan pt sinar jaya bersaudara,0,0.997323215007782
+8732,"Bukan instansi BUMN, Kementerian, Pemerintah",busana apparel,1,0.7496560215950012
+8735,pt reasuransi indonesia utama,cv aspira utama,1,0.5359916687011719
+8878,pt smf,pt chikal prima rasa,1,0.651354968547821
+9146,pt bgr,pt indocev,1,0.988011598587036
+9827,pt penerbitan dan percetakan balai pustaka persero,pt saba transindo,1,0.9964120984077454
+10048,pemerintah kabupaten demak,dinas komunikasi informatika dan statistik kabupaten bandung,0,0.9992116689682008
+10432,pt bgr,tim kurator pt langgam inti hibrindo dalam pailit,1,0.7947056889533997
+10792,isn industri sandang nusantara  vendor garment,vendor namun tidak mengetahui namanya,0,0.8828477263450623
+10811,bank bri cabang blitar,bank neo commerce,1,0.7316709756851196
+10856,pemkot bengkulu,balai pom bengkulu,1,0.9339566230773926
+10884,bank bri cabang palopo,bank sumsel babel,1,0.5275323390960693
+10915,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak diketrahui,1,0.7204184532165527
+11016,bnsp republik indonesia,gereja kristen indonesia,1,0.960871696472168
+11202,pemerintah jawa timur,pemerintah provinsi jawa timur,1,0.9990659356117249
+11995,"Bukan instansi BUMN, Kementerian, Pemerintah",unpad,0,0.5633533000946045
+12004,indonesia financial group ifg,pura group kudus,1,0.7486046552658081
+12269,pt telkom,pt anomali lumbung artha,0,0.9970409274101256
+12391,"Bukan instansi BUMN, Kementerian, Pemerintah",notaris muhammad rusdy,0,0.6504151225090027
+12392,pt dana tabungan dan asuransi pegawai negeri   taspen,pegawai kpp badora,0,0.9785153865814208
+13592,pemkab sinjai,pemerintah kabupaten sinjai,1,0.998890459537506
+13640,pt emi,pt teknonologi merlin sejahtera uku,1,0.5287455320358276
+14116,pt smf,pt cort,1,0.99442458152771
+14360,pemkot jakarta selatan,panitera pn jakarta selatan,1,0.9953345656394958
+14441,"Bukan instansi BUMN, Kementerian, Pemerintah",atase polisi filifina,0,0.7674590349197388
+14452,dewan perwakilan rakyat daerah dprd,sekretaris dewan pengawas bpjstk,0,0.9907512068748474
+14479,pemerintah provinsi nusa tenggara timur,cv global angkasa nusa,0,0.9880335927009584
+14564,perum jasa tirta i,perum jasa tirta i,1,0.9928722381591796
+14707,pt smf,pt prosehat,1,0.9495358467102052
+14951,tentara nasional indonesia tni,tni polri,1,0.9973069429397584
+15044,pt biro klasifikasi indonesia persero cabang cirebon,indonesia shipping agencies associated isaa,1,0.942460596561432
+15146,kepolisian daerah provinsi di yogyakarta,tidak di ketahui,1,0.7189926505088806
+15597,pt permodalan nasional madani,pt permodalan nasional madani persero,1,0.9991212487220764
+15731,pemkab lingga,bpkad kab lingga,1,0.997757613658905
+15733,indonesia tourism development coporation itdc,infocomm media development authority singapore,1,0.542369544506073
+16056,pt twc,dir pengawas dan operasional pt kci,1,0.9952432513237
+16186,"Bukan instansi BUMN, Kementerian, Pemerintah",duta putra land,0,0.9780150055885316
+16187,pemkot banjarmasin,universitas terbuka banjarmasin,1,0.613664984703064
+16581,pt bank rakyat indonesia,pt bank lampung,0,0.9980363249778748
+16659,kantor regional xiv bkn manokwari,kantor regional xiv bkn manokwari,1,0.9977960586547852
+16896,pt bina karya indonesia,pt birama binakom,0,0.9965975880622864
+17443,pemkab aceh jaya,pt mandiri sukses lancar jaya gemilang,0,0.9982049465179444
+17488,pemerintah kabupaten kotawaringin timur,wk ketua forum kades kec kikim timur kades purwarejo,0,0.9957101345062256
+17509,kemen pupr,kementrian pupr,1,0.99790358543396
+17537,bank indonesia bi,bank bpd bali cabang gianyar,1,0.8745736479759216
+17596,pemerintah provinsi sulsel,bpsdm sulsel,0,0.96835595369339
+17597,"Bukan instansi BUMN, Kementerian, Pemerintah",erha clinic,1,0.910759449005127
+17738,pt smf,pt unicer indoasia,1,0.9797120690345764
+18120,pt smf,pt sanofi,1,0.976416826248169
+18614,pt twc,pt bapamco inti pradana,1,0.8649043440818787
+18831,pemerintah kota kupang,dinas perhubungan kota semarang,0,0.999049723148346
+19629,pemkab bangka selatan,pemerintah bangka selatan,1,0.9986938834190368
+19701,pemkab batang,polres batang,1,0.7625554800033569
+19709,kementerian luar negeri,camat negeri agung,0,0.995131015777588
+19712,"Bukan instansi BUMN, Kementerian, Pemerintah",sma swasta,0,0.8685199618339539
+19772,kementerian pertanian,kementerian,0,0.9982609152793884
+19780,pemerintah kota mojokerto,laboratorium fortuna mojokerto,0,0.997840166091919
+1071,pemerintah kabupaten pangkajene kepulauan,pemerintah kabupaten pangkajene dan kepulauan,1,0.9983372688293456
+1078,pemkot balikpapan,jamsyar balikpapan,1,0.9963217973709106
+2279,pemerintah pati,pemerintah kabupaten pati,1,0.9986196756362916
+2307,pt bgr,pt bakrie brother tbk,1,0.7998441457748413
+2704,kementerian desa,kantor desa,0,0.9959744811058044
+2707,"Bukan instansi BUMN, Kementerian, Pemerintah",dkpp,1,0.9972105622291564
+2780,pt kiw,pt sinergi transmedia,1,0.94829261302948
+3091,kantor staf presiden,kantor notaris liana maria,0,0.9896398782730104
+3110,badan pelindungan pekerja migran indonesia,eks pekerja,0,0.9918920993804932
+3416,pt industri kapal indonesia persero,pt rapp,1,0.9991446733474731
+3588,btn,bri dan btn,1,0.985759139060974
+3661,pemerintah provinsi lampung,pemprov lampung,1,0.9968051910400392
+3711,badan pusat statistik bps,badan pusat statistik,1,0.8573135137557983
+3737,"Bukan instansi BUMN, Kementerian, Pemerintah",ypia,1,0.9747183918952942
+3907,kementerian pendayagunaan aparatur negara dan reformasi birokrasi kem panrb,kementerian pendayagunaan aparatur negara dan reformasi birokrasi,1,0.9150641560554504
+4328,pt perusahaan listrik negara,pt perusahaan listrik negara persero,1,0.9974768757820128
+4613,pemerintah provinsi sulawesi utara,staf dinas cipta karya provinsi sulawesi tenggara,0,0.9983920454978944
+4848,pt sang hyang seri cabang sidrap,pt dbs vickers sekuritas indonesia,1,0.995613694190979
+5647,pemerintah kabupaten garut,dpmd kabupaten garut,1,0.9986348748207092
+5706,bank mandiri cabang gunungsari,bank mandiri kcp jakarta departemen keuangan,1,0.941798746585846
+5875,pemprov sumatera barat,badan musyawarah perbankan daerah bmpd kalimantan barat,1,0.9554611444473268
+5906,"Bukan instansi BUMN, Kementerian, Pemerintah",freelance,0,0.6031610369682312
+5907,isn industri sandang nusantara  vendor garment,vendor,0,0.9714916348457336
+5908,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak mengetahui,0,0.5604115128517151
+5909,"Bukan instansi BUMN, Kementerian, Pemerintah",mahasiswa,0,0.9409425258636476
+5922,bri cabang luwuk,bpd sulteng cabang luwuk,1,0.9982024431228638
+5942,"Bukan instansi BUMN, Kementerian, Pemerintah",dua creative production,0,0.8630119562149048
+5944,kementerian desa pdtt,desa kembang kuning,0,0.9952133893966676
+6328,pemkot salatiga,pt foirmulatrx salatiga,1,0.9959511756896972
+6332,pemkot yogyakarta,universitas aisyiyah yogyakarta,1,0.9289044141769408
+6383,kementerian luar negeri,kementerian luar negeri,1,0.9885544180870056
+6522,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi,satuan kerja khusus pelaksana kegiatan usaha hulu minyak dan gas bumi,1,0.996155083179474
+6869,pt sarana multi infrastruktur persero pt smi,pt kmi,1,0.99846750497818
+6907,"Bukan instansi BUMN, Kementerian, Pemerintah",ace hardware,0,0.87738436460495
+7015,pt pln,pt asuransi aswata,0,0.9943305253982544
+7528,pt iki persero,pt artha boga,0,0.9962887763977052
+7691,"Bukan instansi BUMN, Kementerian, Pemerintah",pltu,0,0.913566529750824
+7697,esdm,bpsdm kemen esdm,1,0.9937123656272888
+7765,pemerintah provinsi di yogyakarta,politeknik kesehatan karya husada yogyakarta,0,0.9975287318229676
+7774,pemprov jambi,kemenkumham kanwil jambi,1,0.9947539567947388
+8171,pemerintah kabupaten pasangkayu,kepala desa cikareo selatan kabupaten sumedang,0,0.9991255402565002
+8291,pemkot semarang,pengadilan tinggi agama semarang,1,0.893937349319458
+8294,"Bukan instansi BUMN, Kementerian, Pemerintah",lilian amarilia ramadhani sh mkn,1,0.8742254972457886
+8629,pemerintah kota pekalongan,pemerintah kota pekalongan,1,0.9988759160041808
+9173,badan pelindungan pekerja migran indonesia,purna pekerja migran indonesia,0,0.9929212927818298
+9536,badan kependudukan dan keluarga berencana nasional bkkbn,badan kependudukan dan keluarga berencana nasional,1,0.9913229942321776
+10377,pemerintah provinsi bali,pemerintah provinsi bali,1,0.9989635944366456
+10518,pt smf,pt yobel utama seafood indonesia,1,0.6841053366661072
+11089,bank bri kantor cabang bkkbn,bank bri kantor cabang bkkbn,1,0.998172163963318
+11092,"Bukan instansi BUMN, Kementerian, Pemerintah",cv haliza,1,0.553892195224762
+11093,"Bukan instansi BUMN, Kementerian, Pemerintah",hernawan wangdana sh mkn,1,0.6689000129699707
+12292,pemerintah kabupaten pakpak bharat,pemerintah kabupaten pakpak bharat,1,0.99879252910614
+12366,komisi penyiaran indonesia daerah,komite olahraga nasional indonesia,0,0.9985565543174744
+12585,kacab bri samarinda 1,kacab bri samarinda 1,1,0.9977967739105223
+12591,"Bukan instansi BUMN, Kementerian, Pemerintah",mandai prima,0,0.7323273420333862
+12974,pt asabri persero,pt asabri persero,1,0.9988301396369934
+13131,bni divisi pengelolaan jaringan,bni divisi pengelolaan jaringan,1,0.9989759922027588
+13132,"Bukan instansi BUMN, Kementerian, Pemerintah",blibli,0,0.5282300710678101
+13133,"Bukan instansi BUMN, Kementerian, Pemerintah",kpsp setia kawan,1,0.9870253205299376
+13234,bnsp republik indonesia,am huawei indonesia,1,0.9927220940589904
+13330,pemprov kalimantan barat,gubernur kalimantan barat,1,0.995571494102478
+13437,pt bgr,pt cahaya maha pertiwi,1,0.8196816444396973
+13890,pemkab sintang,pemkab sintang,1,0.9985882639884948
+14236,kementerian desa pdtt,desa ginuk,0,0.9968047142028807
+14240,direktur utama pt bni,direktur utama pt bni,1,0.999016046524048
+14647,"Bukan instansi BUMN, Kementerian, Pemerintah",tidak diketahui pelapor,1,0.5615471601486206
