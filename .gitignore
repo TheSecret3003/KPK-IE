@@ -1,0 +1,5 @@
+api/__pycache__
+BERT_1/__pycache__
+BERT_2b/__pycache__
+indexing/__pycache__
+string_distance_levenshtein/__pycache__
