@@ -52,7 +52,8 @@ def get_reference_ffnn(model_new, instansi, reference_version='v2'):
   for word, candidates in references.items():
     for candidate in candidates:
       reference_vec = sentence_to_vec(candidate)
-      merge = torch.cat((instansi_vec,reference_vec))
+      diff_vec = torch.abs(torch.sub(instansi_vec, reference_vec))
+      merge = torch.cat((instansi_vec,reference_vec,diff_vec))
       probs = model_new(merge)
       temp_score = probs[1].item()
       if temp_score >= score:

@@ -23,8 +23,8 @@ model = torch.load(PATH_B1)
 """
 BERT 2b
 """
-PATH_B2B = '../BERT_2b/Model/ffnn_model_dict.pt'
-input_dim = 1536
+PATH_B2B = '../BERT_2b/Model/ffnn_best_model_v1.pt'
+input_dim = 2304
 hidden_dim = 500
 output_dim = 2
 
