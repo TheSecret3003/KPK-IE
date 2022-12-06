@@ -1,20 +1,19 @@
-import sys 
+import sys
 sys.path.append('../')
-from search_utils import search
+from string_distance_levenshtein.search_utils import search
 import numpy as np
 import pandas as pd
 import torch
 from transformers import BertTokenizer
 import torch.nn.functional as F
-from BERT_1.model import BertClassifier
-import torch
+from model import BertClassifier
 
 #Model path
-PATH = './Models/indobert-base-p1'
+PATH = 'Models/Best_Model/indobert-base-p1'
 
 #tokenizer and load fine-tuned model from path
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
-# model = torch.load(PATH)
+model = torch.load(PATH)
 
 #Create Dataset
 class Dataset(torch.utils.data.Dataset):
@@ -40,9 +39,9 @@ class Dataset(torch.utils.data.Dataset):
 
 
 #find a list of candidates
-def search_candidates(instansi, reference_version='v2') :  
+def search_candidates(instansi) :  
 
-    phrase_candidates = search(instansi,reference_version)
+    phrase_candidates = search(instansi,reference_version='v2')
     list_candidates = list(phrase_candidates.values())
     list_candidates= [x for y in list_candidates for x in y]
 
@@ -102,39 +101,29 @@ def predict(model, test_data):
     pred_result['prob'] = list_prob
 
 
-    #get one candidate with highest score
-    lst_sinonim = pred_result['candidate'].unique().tolist()
-
-    idx_to_take = []
-    for sinonim in lst_sinonim:
-        df_sn = pred_result[pred_result['candidate']==sinonim]
-        df_sn = df_sn.drop_duplicates()
-        if 1 in df_sn['pred'].values:
-            df_sn_new = df_sn[df_sn['pred']==1]
-            idx = df_sn_new[df_sn_new['prob']==df_sn_new['prob'].max()].index.tolist()
-            for id in idx :
-                idx_to_take.append(id)
-        elif 1 not in df_sn['pred'].values:
-            df_sn_new = df_sn[df_sn['pred']==0]
-            idx = df_sn_new[df_sn_new['prob']==df_sn_new['prob'].max()].index.tolist()
-            if len(idx) > 1:
-                print(len(idx))
-            for id in idx :
-                idx_to_take.append(id)
-
-    new_result_df = pred_result.loc[idx_to_take,:]
-    pred_candidate = new_result_df['candidate']
-
+    #ambil nilai candidate dengan probabilitas tertinggi
+    if 1 in pred_result['pred'].values:
+        new_result_df= pred_result[pred_result['pred']==1]
+        # new_result_df.to_csv('tes.csv')
+        for idx in new_result_df.index:
+            if  str(new_result_df['instance'][idx]).lower() == str(new_result_df['candidate'][idx]).lower():
+                pred_candidate = new_result_df['candidate'][idx]
+                break
+            else:
+                new_result_df = new_result_df.sort_values(by='prob', ascending=False)
+                pred_candidate = new_result_df['candidate'].values[0]
+    elif 1 not in pred_result['pred'].values:
+            pred_candidate = "Bukan instansi BUMN, Kementerian, Pemerintah"
+    
     return pred_candidate
 
 
-def get_predicted_candidate(model, instansi, reference_version='v2') :
+def get_predicted_candidate(instansi) :
 
-    candidates_df = search_candidates(instansi=instansi, reference_version=reference_version)
+    candidates_df = search_candidates(instansi=instansi)
     pred_result = predict(model, candidates_df)
 
     return pred_result
-
 
 #testing
 # instansi = "Anggota DPRD Jawa Barat"
