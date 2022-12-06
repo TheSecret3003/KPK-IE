@@ -15,7 +15,7 @@ import pandas as pd
 BERT 1
 """
 #Model path
-PATH_B1 = '../BERT_1/Models/indobert-base-p1'
+PATH_B1 = '../BERT_1/Models/Best_Model/indobert-base-p1'
 
 #Load fine-tuned model from path
 model = torch.load(PATH_B1)
