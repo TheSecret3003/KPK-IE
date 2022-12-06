@@ -9,7 +9,7 @@ import torch.nn.functional as F
 from model import BertClassifier
 
 #Model path
-PATH = 'Models/indobert-base-p1'
+PATH = 'Models/Best_Model/indobert-base-p1'
 
 #tokenizer and load fine-tuned model from path
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
@@ -100,11 +100,10 @@ def predict(model, test_data):
     pred_result['pred'] = list_pred
     pred_result['prob'] = list_prob
 
-    pred_result.to_csv("tes2.csv")
     #ambil nilai candidate dengan probabilitas tertinggi
     if 1 in pred_result['pred'].values:
         new_result_df= pred_result[pred_result['pred']==1]
-        new_result_df.to_csv('tes.csv')
+        # new_result_df.to_csv('tes.csv')
         for idx in new_result_df.index:
             if  str(new_result_df['instance'][idx]).lower() == str(new_result_df['candidate'][idx]).lower():
                 pred_candidate = new_result_df['candidate'][idx]
@@ -127,7 +126,7 @@ def get_predicted_candidate(instansi) :
 
 
 #testing
-instansi = "Kementerian Agama"
+instansi = "DPRD Jawa Barat"
 pred_candidate = get_predicted_candidate(instansi)
 
 print(pred_candidate)
