@@ -39,9 +39,9 @@ class Dataset(torch.utils.data.Dataset):
 
 
 #find a list of candidates
-def search_candidates(instansi) :  
+def search_candidates(instansi, reference_version='v2') :  
 
-    phrase_candidates = search(instansi,reference_version='v2')
+    phrase_candidates = search(instansi,reference_version)
     list_candidates = list(phrase_candidates.values())
     list_candidates= [x for y in list_candidates for x in y]
 
@@ -100,7 +100,6 @@ def predict(model, test_data):
     pred_result['pred'] = list_pred
     pred_result['prob'] = list_prob
 
-
     #ambil nilai candidate dengan probabilitas tertinggi
     if 1 in pred_result['pred'].values:
         new_result_df= pred_result[pred_result['pred']==1]
@@ -118,15 +117,15 @@ def predict(model, test_data):
     return pred_candidate
 
 
-def get_predicted_candidate(instansi) :
+def get_predicted_candidate(model, instansi, reference_version='v2') :
 
-    candidates_df = search_candidates(instansi=instansi)
+    candidates_df = search_candidates(instansi=instansi, reference_version=reference_version)
     pred_result = predict(model, candidates_df)
 
     return pred_result
 
-#testing
-# instansi = "Anggota DPRD Jawa Barat"
-# pred_candidate = get_predicted_candidate(instansi)
 
-# print(pred_candidate)
+##testing
+#instansi = "DPRD Jawa Barat"
+#pred_candidate = get_predicted_candidate(model,instansi,'v2')
+#print(pred_candidate)
