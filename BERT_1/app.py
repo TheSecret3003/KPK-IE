@@ -4,7 +4,7 @@ from model import BertClassifier
 import torch
 
 #Model path
-PATH = './Models/indobert-base-p1'
+PATH = './Models/Best_Model/indobert-base-p1'
 
 #Load fine-tuned model from path
 model = torch.load(PATH)
