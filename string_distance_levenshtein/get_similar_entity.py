@@ -8,6 +8,7 @@ def get_similar_entity(nama_instansi, reference_version='v2'):
     respect to nama_instansi
     Args:
     - nama_instansi: str -> name of the instansi to be looked up
+    - reference_version: str -> reference version (reference data and index table)
     Returns:
     - candidate with lowest edit distance
     """
@@ -41,6 +42,7 @@ def get_similar_entity_norm(nama_instansi, reference_version='v2'):
     respect to nama_instansi
     Args:
     - nama_instansi: str -> name of the instansi to be looked up
+    - reference_version: str -> reference version (reference data and index table)
     Returns:
     - candidate with lowest edit distance
     """
@@ -74,6 +76,7 @@ def get_similar_entity_th(nama_instansi, reference_version='v2'):
     respect to nama_instansi
     Args:
     - nama_instansi: str -> name of the instansi to be looked up
+    - reference_version: str -> reference version (reference data and index table)
     Returns:
     - candidate with lowest edit distance
     """
