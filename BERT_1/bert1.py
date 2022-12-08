@@ -1,4 +1,4 @@
-import sys 
+import sys
 sys.path.append('../')
 from string_distance_levenshtein.search_utils import search
 import numpy as np
@@ -6,15 +6,26 @@ import pandas as pd
 import torch
 from transformers import BertTokenizer
 import torch.nn.functional as F
-from model import BertClassifier
-import torch
+from transformers import BertModel
+from torch import nn
+from bert1_model import BertClassifier
 
-#Model path
-PATH = './Models/indobert-base-p1'
-
-#tokenizer and load fine-tuned model from path
+#load tokenizer
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
-# model = torch.load(PATH)
+
+#load fine-tuned model from path
+PATH = 'Models/Best_Model/indobert-base-p1.pth'
+
+#use cuda/GPU if available
+use_cuda = torch.cuda.is_available()
+device = torch.device("cuda" if use_cuda else "cpu")
+
+#Model
+model = BertClassifier()
+model.load_state_dict(torch.load(PATH))
+model.to(device)
+model.eval()
+
 
 #Create Dataset
 class Dataset(torch.utils.data.Dataset):
@@ -57,16 +68,10 @@ def search_candidates(instansi, reference_version='v2') :
 
 
 #Predict function
-def predict(model, test_data):
+def predict(test_data):
 
     test = Dataset(test_data)
     test_dataloader = torch.utils.data.DataLoader(test, batch_size=2)
-
-    use_cuda = torch.cuda.is_available()
-    device = torch.device("cuda" if use_cuda else "cpu")
-
-    if use_cuda:
-        model = model.cuda()
 
     preds = []
     probs = []
@@ -101,43 +106,34 @@ def predict(model, test_data):
     pred_result['pred'] = list_pred
     pred_result['prob'] = list_prob
 
-
-    #get one candidate with highest score
-    lst_sinonim = pred_result['candidate'].unique().tolist()
-
-    idx_to_take = []
-    for sinonim in lst_sinonim:
-        df_sn = pred_result[pred_result['candidate']==sinonim]
-        df_sn = df_sn.drop_duplicates()
-        if 1 in df_sn['pred'].values:
-            df_sn_new = df_sn[df_sn['pred']==1]
-            idx = df_sn_new[df_sn_new['prob']==df_sn_new['prob'].max()].index.tolist()
-            for id in idx :
-                idx_to_take.append(id)
-        elif 1 not in df_sn['pred'].values:
-            df_sn_new = df_sn[df_sn['pred']==0]
-            idx = df_sn_new[df_sn_new['prob']==df_sn_new['prob'].max()].index.tolist()
-            if len(idx) > 1:
-                print(len(idx))
-            for id in idx :
-                idx_to_take.append(id)
-
-    new_result_df = pred_result.loc[idx_to_take,:]
-    pred_candidate = new_result_df['candidate']
-
+    #take the candidate value with the highest probability if pred == 1
+    if 1 in pred_result['pred'].values:
+        new_result_df= pred_result[pred_result['pred']==1]
+        new_result_df = new_result_df.sort_values(by='prob', ascending=False)
+        pred_candidate = new_result_df['candidate'].values[0]
+    elif 1 not in pred_result['pred'].values:
+        TRESHOLD = 0.6
+        new_result_df= pred_result[pred_result['pred']==0]
+        new_result_df = new_result_df.sort_values(by='prob', ascending=True)
+        # If all predicted candidate values ​​= 0, then if the probability is smaller than the threshold --> the candidate will be taken
+        if new_result_df['prob'][0] <= TRESHOLD :
+            pred_candidate = new_result_df['candidate'].values[0]
+        else :
+            #If there is no prob value <= Treshold
+            pred_candidate = "Bukan instansi BUMN, Kementerian, Pemerintah"
+    
     return pred_candidate
 
 
-def get_predicted_candidate(model, instansi, reference_version='v2') :
+def get_predicted_candidate(instansi, reference_version='v2') :
 
     candidates_df = search_candidates(instansi=instansi, reference_version=reference_version)
-    pred_result = predict(model, candidates_df)
+    pred_result = predict(candidates_df)
 
     return pred_result
 
-
 #testing
-# instansi = "Anggota DPRD Jawa Barat"
-# pred_candidate = get_predicted_candidate(instansi)
+instansi = "Kementerian Kelautan Perikanan"
+pred_candidate = get_predicted_candidate(instansi,'v2')
 
-# print(pred_candidate)
+print(pred_candidate)

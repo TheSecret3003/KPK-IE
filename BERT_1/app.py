@@ -1,13 +1,5 @@
 from flask import Flask, request
 from bert1 import get_predicted_candidate
-from model import BertClassifier
-import torch
-
-#Model path
-PATH = './Models/indobert-base-p1'
-
-#Load fine-tuned model from path
-model = torch.load(PATH)
 
 app = Flask(__name__)
 
@@ -15,9 +7,10 @@ app = Flask(__name__)
 def get_similar_entity_bert1(version):
     args = request.args
     nama_instansi = args.get('nama_instansi')
-    similar_entity = get_predicted_candidate(model, nama_instansi, reference_version=version)
+    nama_instansi = str(nama_instansi).lower()
+    similar_entity = get_predicted_candidate(nama_instansi, reference_version=version)
     
-    return list(similar_entity)[0]
+    return similar_entity
 
 if __name__ == '__main__':
     app.run(debug=True)

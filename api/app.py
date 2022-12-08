@@ -3,7 +3,7 @@ sys.path.append('../')
 from flask import Flask, request
 import torch
 from bert1 import get_predicted_candidate
-from BERT_1.model import BertClassifier
+from BERT_1.bert1_model import BertClassifier
 from bert2 import get_reference_cosine, get_reference_ffnn
 from BERT_2b.ffnn import FeedforwardNeuralNetModel
 from levenstein_model import get_similar_entity
@@ -11,14 +11,6 @@ from indexing.search import Search
 import pandas as pd
 
 
-"""
-BERT 1
-"""
-#Model path
-PATH_B1 = '../BERT_1/Models/indobert-base-p1'
-
-#Load fine-tuned model from path
-model = torch.load(PATH_B1)
 
 """
 BERT 2b
@@ -59,9 +51,10 @@ def get_references(version):
 def get_similar_entity_bert1(version):
     args = request.args
     nama_instansi = args.get('nama_instansi')
-    similar_entity = get_predicted_candidate(model, nama_instansi, reference_version=version)
+    nama_instansi = str(nama_instansi).lower()
+    similar_entity = get_predicted_candidate(nama_instansi, reference_version=version)
     
-    return list(similar_entity)[0]
+    return similar_entity
 
 @app.route('/get-similar-entity-bert2-cos/<version>', methods=['GET'])
 def get_similar_entity_bert2_cos(version):
