@@ -5,7 +5,7 @@ from search_utils import search
 from transformers import BertTokenizer, BertModel
 from scipy.spatial.distance import cosine
 import torch
-from BERT_2b.ffnn import FeedforwardNeuralNetModel
+from BERT_2.ffnn import FeedforwardNeuralNetModel
 
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
 model = BertModel.from_pretrained('indobenchmark/indobert-base-p1',output_hidden_states = True)

@@ -5,7 +5,7 @@ import torch
 from bert1 import get_predicted_candidate
 from BERT_1.bert1_model import BertClassifier
 from bert2 import get_reference_cosine, get_reference_ffnn
-from BERT_2b.ffnn import FeedforwardNeuralNetModel
+from BERT_2.ffnn import FeedforwardNeuralNetModel
 from levenstein_model import get_similar_entity
 from indexing.search import Search
 import pandas as pd
@@ -15,7 +15,7 @@ import pandas as pd
 """
 BERT 2b
 """
-PATH_B2B = '../BERT_2b/Model/ffnn_best_model_v1.pt'
+PATH_B2B = '../BERT_2/Model/ffnn_best_model_v1.pt'
 input_dim = 2304
 hidden_dim = 500
 output_dim = 2

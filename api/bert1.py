@@ -22,7 +22,7 @@ device = torch.device("cuda" if use_cuda else "cpu")
 
 #Model
 model = BertClassifier()
-model.load_state_dict(torch.load(PATH))
+model.load_state_dict(torch.load(PATH, map_location=device))
 model.to(device)
 model.eval()
 
