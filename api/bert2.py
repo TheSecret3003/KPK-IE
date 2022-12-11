@@ -6,6 +6,10 @@ from transformers import BertTokenizer, BertModel
 from scipy.spatial.distance import cosine
 import torch
 from BERT_2b.ffnn import FeedforwardNeuralNetModel
+from get_official_instansi import combine_splitted_data, get_official_instansi
+
+# true pairs (pasangan nama resmi instansi dan sinonim)
+true_pairs = combine_splitted_data('v2')
 
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
 model = BertModel.from_pretrained('indobenchmark/indobert-base-p1',output_hidden_states = True)
@@ -24,6 +28,7 @@ def sentence_to_vec(sentence):
   return sentence_embedding
 
 def get_reference_cosine(instansi, reference_version='v2'):
+  instansi = instansi.lower()
   references = search(instansi,reference_version)
   score = 0
   temp_candidate = ""
@@ -35,6 +40,7 @@ def get_reference_cosine(instansi, reference_version='v2'):
       if same >= score:
         score = same
         temp_candidate = candidate
+        temp_candidate = get_official_instansi(true_pairs, temp_candidate)
     
   if temp_candidate == "":
     temp_candidate = 'Bukan instansi BUMN, Kementerian, Pemerintah'
@@ -44,6 +50,7 @@ def get_reference_cosine(instansi, reference_version='v2'):
 
 
 def get_reference_ffnn(model_new, instansi, reference_version='v2'):
+  instansi = instansi.lower()
   references = search(instansi,reference_version)
   # print(references)
   score = 0
@@ -59,6 +66,7 @@ def get_reference_ffnn(model_new, instansi, reference_version='v2'):
       if temp_score >= score:
         score = temp_score
         temp_candidate = candidate
+        temp_candidate = get_official_instansi(true_pairs, temp_candidate)
     
   if temp_candidate == "":
     temp_candidate = 'Bukan instansi BUMN, Kementerian, Pemerintah'
