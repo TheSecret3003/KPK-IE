@@ -9,6 +9,10 @@ import torch.nn.functional as F
 from transformers import BertModel
 from torch import nn
 from  BERT_1.bert1_model import BertClassifier
+from get_official_instansi import combine_splitted_data, get_official_instansi
+
+# true pairs (pasangan nama resmi instansi dan sinonim)
+true_pairs = combine_splitted_data('v2')
 
 #load tokenizer
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
@@ -111,6 +115,7 @@ def predict(test_data):
         new_result_df= pred_result[pred_result['pred']==1]
         new_result_df = new_result_df.sort_values(by='prob', ascending=False)
         pred_candidate = new_result_df['candidate'].values[0]
+        pred_candidate = get_official_instansi(true_pairs, pred_candidate)
     elif 1 not in pred_result['pred'].values:
         TRESHOLD = 0.6
         new_result_df= pred_result[pred_result['pred']==0]
@@ -118,6 +123,7 @@ def predict(test_data):
         # If all predicted candidate values ​​= 0, then if the probability is smaller than the threshold --> the candidate will be taken
         if new_result_df['prob'][0] <= TRESHOLD :
             pred_candidate = new_result_df['candidate'].values[0]
+            pred_candidate = get_official_instansi(true_pairs, pred_candidate)
         else :
             #If there is no prob value <= Treshold
             pred_candidate = "Bukan instansi BUMN, Kementerian, Pemerintah"
