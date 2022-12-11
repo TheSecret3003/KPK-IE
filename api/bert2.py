@@ -28,6 +28,7 @@ def sentence_to_vec(sentence):
   return sentence_embedding
 
 def get_reference_cosine(instansi, reference_version='v2'):
+  instansi = instansi.lower()
   references = search(instansi,reference_version)
   score = 0
   temp_candidate = ""
@@ -49,6 +50,7 @@ def get_reference_cosine(instansi, reference_version='v2'):
 
 
 def get_reference_ffnn(model_new, instansi, reference_version='v2'):
+  instansi = instansi.lower()
   references = search(instansi,reference_version)
   # print(references)
   score = 0

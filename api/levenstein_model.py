@@ -17,6 +17,7 @@ def get_similar_entity(nama_instansi, reference_version='v2'):
     Returns:
     - candidate with lowest edit distance
     """
+    nama_instansi = nama_instansi.lower()
     phrase_candidates = search(nama_instansi, reference_version)
     similar_phrases_dict = {}
 

@@ -132,7 +132,7 @@ def predict(test_data):
 
 
 def get_predicted_candidate(instansi, reference_version='v2') :
-
+    instansi = instansi.lower()
     candidates_df = search_candidates(instansi=instansi, reference_version=reference_version)
     pred_result = predict(candidates_df)
 
